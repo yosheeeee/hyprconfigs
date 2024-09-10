@@ -1,0 +1,8 @@
+[Default Applications]
+application/zip=userapp-tar-OASQT2.desktop
+application/x-zerosize=nvim.desktop
+x-scheme-handler/gitkraken=GitKraken.desktop
+
+[Added Associations]
+application/zip=kitty.desktop;userapp-7zip-7PGET2.desktop;userapp-tar-OASQT2.desktop;
+application/x-zerosize=nvim.desktop;

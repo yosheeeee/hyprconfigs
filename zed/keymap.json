@@ -1,0 +1,32 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-shift-l": "pane::ActivateNextItem",
+      "ctrl-shift-h": "pane::ActivatePrevItem",
+      "ctrl-alt-l": "pane::SplitRight",
+      "ctrl-alt-h": "pane::SplitLeft",
+      "ctrl-alt-j": "pane::SplitDown",
+      "ctrl-alt-k": "pane::SplitUp",
+      "ctrl-shift-enter": "editor::NewlineAbove",
+      "ctrl-enter": "editor::NewlineBelow",
+      "ctrl-shift-.": "editor::GoToDefinition",
+      "ctrl-w": "pane::CloseActiveItem",
+      "ctrl-l": "workspace::ActivateNextPane",
+      "ctrl-h": "workspace::ActivatePreviousPane",
+      "ctrl-shift-p": "outline_panel::Open"
+    }
+  },
+  {
+    "context": "ProjectPanel",
+    "bindings": {
+      // "l": "project_panel::Open"
+    }
+  },
+  {
+    "context": "OutlinePanel",
+    "bindings": {
+      "ctrl-l": "outline_panel::ToggleFocus"
+    }
+  }
+]
