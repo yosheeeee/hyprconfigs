@@ -63,7 +63,8 @@ window#waybar {
 #custom-randwall,
 #custom-launcher,
 #language,
-#temperature {
+#temperature,
+#custom-wireguard-manager {
   background: #282828;
   padding: 5px 10px;
   margin: 5px 5px 5px 5px;

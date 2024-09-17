@@ -16,6 +16,7 @@
   "modules-right": [
     "tray",
     "network",
+    "custom/wireguard-manager",
     "pulseaudio",
     "hyprland/language",
     "temperature",
@@ -179,5 +180,16 @@
     "on-click": "~/.config/rofi/bin/powermenu &",
     "on-click-right": "~/.config/rofi/bin/powermenu &",
     "tooltip": false,
+  },
+  "custom/wireguard-manager": {
+    "interval": 3,
+    "return-type": "json",
+    "format-icons": {
+      "connected": "VPN:  ",
+      "disconnected": "VPN:  ",
+    },
+    "on-click": "exec ~/.config/waybar/scripts/wireguard-manager.sh -t",
+    "exec": "exec ~/.config/waybar/scripts/wireguard-manager.sh -s",
+    "format": "{icon}",
   },
 }
