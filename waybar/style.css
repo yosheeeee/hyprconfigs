@@ -22,8 +22,8 @@ tooltip {
 }
 
 window#waybar {
-  background: rgba(30, 30, 46, 0.5);
-  border-bottom: 1px solid #282828;
+  background: rgba(30, 30, 46, 0);
+  /* border-bottom: 1px solid #282828; */
   color: #f4d9e1;
 }
 
@@ -64,10 +64,10 @@ window#waybar {
 #custom-launcher,
 #language,
 #temperature {
-  background: transparent;
-  padding: 5px 5px 5px 5px;
+  background: #282828;
+  padding: 5px 10px;
   margin: 5px 5px 5px 5px;
-  border-radius: 8px;
+  border-radius: 16px;
   border: solid 0px #f4d9e1;
   font-weight: 600;
 }
@@ -106,7 +106,7 @@ window#waybar {
 #clock {
   color: #e6b9c6;
   background-color: #282828;
-  border-radius: 0px 0px 0px 24px;
+  border-radius: 24px 0px 0px 24px;
   padding-left: 13px;
   padding-right: 15px;
   margin-right: 0px;
@@ -118,6 +118,8 @@ window#waybar {
 }
 
 #battery {
+  background-color: #282828;
+  padding: 5px 10px;
   color: #9ece6a;
 }
 
@@ -143,20 +145,18 @@ window#waybar {
 
 #network {
   color: #f4d9e1;
-  border-radius: 8px;
   margin-right: 5px;
 }
 
 #pulseaudio {
   color: #f4d9e1;
-  border-radius: 8px;
   margin-left: 0px;
+  background-color: #282828;
 }
 
 #pulseaudio.muted {
-  background: transparent;
+  background-color: #282828;
   color: #928374;
-  border-radius: 8px;
   margin-left: 0px;
 }
 
@@ -169,7 +169,7 @@ window#waybar {
 #custom-launcher {
   color: #e5809e;
   background-color: #282828;
-  border-radius: 0px 24px 0px 0px;
+  border-radius: 0px 24px 24px 0px;
   margin: 0px 0px 0px 0px;
   padding: 0 20px 0 13px;
   /*border-right: solid 1px #282738;*/

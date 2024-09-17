@@ -25,7 +25,7 @@
   ],
   // Modules configuration
   "clock": {
-    "format": " {:%H:%M}",
+    "format": "  {:%H:%M}",
     "tooltip": "true",
     "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
     "format-alt": " {:%d/%m}",
@@ -58,14 +58,9 @@
     "format": "{icon}",
     "on-click": "activate",
     "format-icons": {
-      //			"1": "一",
-      //			"2": "二",
-      //			"3": "三",
-      //			"4": "四",
-      //			"5": "五",
-      "urgent": "",
-      "active": "",
-      "default": "",
+      "urgent": " ",
+      "active": " ",
+      "default": " ",
       "sort-by-number": true,
     },
   },
@@ -125,7 +120,7 @@
     "interval": 5,
   },
   "network": {
-    "format-wifi": "󰤨",
+    "format-wifi": "󰤨 ",
     "format-ethernet": " {ifname}: Aesthetic",
     "format-linked": " {ifname} (No IP)",
     "format-disconnected": "󰤭",
