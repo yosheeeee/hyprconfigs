@@ -3,9 +3,8 @@
   border-radius: 0px;
   /*font-family: VictorMono, Iosevka Nerd Font, Noto Sans CJK;*/
   font-family:
-    JetBrains Mono,
     Roboto,
-    "Font Awesome 5 free",
+    JetBrains Mono,
     FontAwesome,
     Iosevka,
     Noto Sans CJK;
@@ -29,30 +28,34 @@ window#waybar {
 
 #workspaces {
   background: #282828;
-  margin: 5px 5px 5px 5px;
-  padding: 0px 5px 0px 5px;
-  border-radius: 16px;
-  border: solid 0px #f4d9e1;
-  font-weight: normal;
-  font-style: normal;
+  padding: 10px 10px;
+  margin: 5px 5px 0px 5px;
+  border-radius: 100px;
+  font-weight: 500;
+  transition: all 0.3s ease-out;
 }
 
 #workspaces button {
-  padding: 0px 5px;
-  border-radius: 16px;
+  margin: 0 3px;
+  padding: 0;
   color: #928374;
+  background: none;
+  border: none;
+  transition: all 0.3s ease-out;
 }
 
 #workspaces button.active {
-  color: #f4d9e1;
-  background-color: transparent;
-  border-radius: 16px;
+  color: #fabd2d;
+}
+
+#workspaces button.urgent * {
+  color: #d3869b;
 }
 
 #workspaces button:hover {
-  background-color: #e6b9c6;
-  color: black;
-  border-radius: 16px;
+  color: whitesmoke;
+  background: transparent;
+  border-radius: 50%;
 }
 
 #custom-date,
@@ -64,13 +67,29 @@ window#waybar {
 #custom-launcher,
 #language,
 #temperature,
-#custom-wireguard-manager {
+#custom-wireguard-manager,
+#custom-hyprpicker,
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#backlight {
   background: #282828;
-  padding: 5px 10px;
-  margin: 5px 5px 5px 5px;
-  border-radius: 16px;
+  padding: 10px 24px;
+  margin: 5px 5px 0px 5px;
+  border-radius: 100px;
   border: solid 0px #f4d9e1;
   font-weight: 600;
+  color: #f4d9e1;
+}
+
+#language {
+  font-size: 18px;
+}
+
+#battery {
+  color: #9ece6a;
 }
 
 #custom-date {
@@ -83,45 +102,31 @@ window#waybar {
   border-radius: 5px;
   margin-right: 10px;
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   margin-left: 0px;
   padding: 5px 10px;
 }
 
 #tray {
   background: #282828;
+  padding: 10px 24px;
   margin: 5px 5px 5px 5px;
-  border-radius: 16px;
-  padding: 0px 5px;
+  border-radius: 100px;
   /*border-right: solid 1px #282738;*/
 }
 
-#language,
-#temperature {
-  background: #282828;
-  margin: 5px 5px 5px 5px;
-  border-radius: 16px;
-  padding: 5px 10px;
-}
-
 #clock {
-  color: #e6b9c6;
-  background-color: #282828;
-  border-radius: 24px 0px 0px 24px;
-  padding-left: 13px;
-  padding-right: 15px;
-  margin-right: 0px;
-  margin-left: 10px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  font-weight: bold;
+  /* color: #e6b9c6; */
+  /* background-color: #282828; */
+  /* border-radius: 24px 0px 0px 24px; */
+  /* padding-left: 13px; */
+  /* padding-right: 15px; */
+  /* margin-right: 0px; */
+  /* margin-left: 10px; */
+  /* margin-top: 0px; */
+  /* margin-bottom: 0px; */
+  /* font-weight: bold; */
   /*border-left: solid 1px #282738;*/
-}
-
-#battery {
-  background-color: #282828;
-  padding: 5px 10px;
-  color: #9ece6a;
 }
 
 #battery.charging {
@@ -131,17 +136,6 @@ window#waybar {
 #battery.warning:not(.charging) {
   background-color: #f7768e;
   color: #24283b;
-  border-radius: 5px 5px 5px 5px;
-}
-
-#backlight {
-  background-color: #24283b;
-  color: #db4b4b;
-  border-radius: 0px 0px 0px 0px;
-  margin: 5px;
-  margin-left: 0px;
-  margin-right: 0px;
-  padding: 0px 0px;
 }
 
 #network {
@@ -170,11 +164,9 @@ window#waybar {
 #custom-launcher {
   color: #e5809e;
   background-color: #282828;
-  border-radius: 0px 24px 24px 0px;
-  margin: 0px 0px 0px 0px;
-  padding: 0 20px 0 13px;
-  /*border-right: solid 1px #282738;*/
-  font-size: 20px;
+  margin: 5px 5px 0px 5px;
+  border-radius: 100px;
+  padding: 10px 24px;
 }
 
 #custom-launcher button:hover {
@@ -191,7 +183,7 @@ window#waybar {
   padding-right: 14px;
   border-radius: 16px;
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   margin-left: 0px;
   font-weight: normal;
   font-style: normal;
@@ -206,7 +198,7 @@ window#waybar {
   /*border-left: solid 1px #282738;*/
   /*border-right: solid 1px #282738;*/
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   font-weight: bold;
   font-style: normal;
 }
@@ -219,7 +211,7 @@ window#waybar {
   /*border-left: solid 1px #282738;*/
   /*border-right: solid 1px #282738;*/
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
   font-weight: normal;
   font-style: normal;
 }
@@ -231,45 +223,24 @@ window#waybar {
 }
 
 #cpu {
-  background-color: #282828;
   color: #fabd2d;
-  border-radius: 16px;
-  margin: 5px;
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 0px 10px 0px 10px;
-  font-weight: bold;
 }
 
 #memory {
-  background-color: #282828;
   color: #83a598;
-  border-radius: 16px;
-  margin: 5px;
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 0px 10px 0px 10px;
-  font-weight: bold;
 }
 
 #disk {
-  background-color: #282828;
   color: #8ec07c;
-  border-radius: 16px;
-  margin: 5px;
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 0px 10px 0px 10px;
-  font-weight: bold;
 }
 
 #custom-hyprpicker {
-  background-color: #282828;
-  /*color: #8EC07C;*/
-  border-radius: 16px;
-  margin: 5px;
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 0px 11px 0px 9px;
-  font-weight: bold;
+  /*  background-color: #282828;  */
+  /*  */
+  /*  border-radius: 16px;  */
+  /*  margin: 5px;  */
+  /*  margin-left: 5px;  */
+  /*  margin-right: 5px;  */
+  /*  padding: 0px 11px 0px 9px;  */
+  /*  font-weight: bold;  */
 }
