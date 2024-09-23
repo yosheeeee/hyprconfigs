@@ -109,8 +109,8 @@ window#waybar {
 
 #tray {
   background: #282828;
-  padding: 10px 24px;
-  margin: 5px 5px 5px 5px;
+  padding: 10px 14px;
+  margin: 5px 5px 0px 5px;
   border-radius: 100px;
   /*border-right: solid 1px #282738;*/
 }
@@ -141,6 +141,7 @@ window#waybar {
 #network {
   color: #f4d9e1;
   margin-right: 5px;
+  padding: 10px 20px;
 }
 
 #pulseaudio {
@@ -235,6 +236,7 @@ window#waybar {
 }
 
 #custom-hyprpicker {
+  padding: 10px 20px;
   /*  background-color: #282828;  */
   /*  */
   /*  border-radius: 16px;  */

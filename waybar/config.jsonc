@@ -184,12 +184,12 @@
     "signal": 8,
   },
   "custom/hyprpicker": {
-    "format": "",
+    "format": "  ",
     "on-click": "hyprpicker -a -f hex",
     "on-click-right": "hyprpicker -a -f rgb",
   },
   "custom/powermenu": {
-    "format": "",
+    "format": "  ",
     "on-click": "~/.config/rofi/bin/powermenu &",
     "on-click-right": "~/.config/rofi/bin/powermenu &",
     "tooltip": false,
