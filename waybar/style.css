@@ -28,7 +28,7 @@ window#waybar {
 
 #workspaces {
   background: #282828;
-  padding: 10px 10px;
+  padding: 7px 10px;
   margin: 5px 5px 0px 5px;
   border-radius: 100px;
   font-weight: 500;
@@ -52,10 +52,11 @@ window#waybar {
   color: #d3869b;
 }
 
-#workspaces button:hover {
+#workspaces button:hover,
+#workspaces button.visible:hover {
   color: whitesmoke;
-  background: transparent;
-  border-radius: 50%;
+  background: #282828;
+  border-radius: 100%;
 }
 
 #custom-date,
@@ -76,12 +77,16 @@ window#waybar {
 #disk,
 #backlight {
   background: #282828;
-  padding: 10px 24px;
+  padding: 7px 15px;
   margin: 5px 5px 0px 5px;
   border-radius: 100px;
   border: solid 0px #f4d9e1;
   font-weight: 600;
   color: #f4d9e1;
+}
+
+#backlight {
+  font-size: 16px;
 }
 
 #language {
@@ -109,7 +114,7 @@ window#waybar {
 
 #tray {
   background: #282828;
-  padding: 10px 14px;
+  padding: 7px 14px;
   margin: 5px 5px 0px 5px;
   border-radius: 100px;
   /*border-right: solid 1px #282738;*/
@@ -141,19 +146,19 @@ window#waybar {
 #network {
   color: #f4d9e1;
   margin-right: 5px;
-  padding: 10px 20px;
+  padding: 7px 15px;
 }
 
 #pulseaudio {
   color: #f4d9e1;
-  margin-left: 0px;
+  margin-left: 5px;
   background-color: #282828;
 }
 
 #pulseaudio.muted {
   background-color: #282828;
   color: #928374;
-  margin-left: 0px;
+  margin-left: 5px;
 }
 
 #custom-randwall {
@@ -167,7 +172,7 @@ window#waybar {
   background-color: #282828;
   margin: 5px 5px 0px 5px;
   border-radius: 100px;
-  padding: 10px 24px;
+  padding: 7px 24px;
 }
 
 #custom-launcher button:hover {
@@ -180,9 +185,8 @@ window#waybar {
 
 #custom-playerctl {
   background: #282828;
-  padding-left: 15px;
-  padding-right: 14px;
-  border-radius: 16px;
+  padding: 7px 20px;
+  border-radius: 100px;
   margin-top: 5px;
   margin-bottom: 0px;
   margin-left: 0px;
@@ -192,10 +196,10 @@ window#waybar {
 }
 
 #custom-playerlabel {
-  background: transparent;
-  padding-left: 10px;
-  padding-right: 15px;
-  border-radius: 16px;
+  background: #282828;
+  padding: 7px 20px;
+  border-radius: 100px;
+  margin-left: 5px;
   /*border-left: solid 1px #282738;*/
   /*border-right: solid 1px #282738;*/
   margin-top: 5px;
@@ -225,18 +229,21 @@ window#waybar {
 
 #cpu {
   color: #fabd2d;
+  font-size: 16px;
 }
 
 #memory {
   color: #83a598;
+  font-size: 16px;
 }
 
 #disk {
   color: #8ec07c;
+  font-size: 16px;
 }
 
 #custom-hyprpicker {
-  padding: 10px 20px;
+  padding: 7px 12px;
   /*  background-color: #282828;  */
   /*  */
   /*  border-radius: 16px;  */
