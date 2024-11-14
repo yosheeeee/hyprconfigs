@@ -1,8 +1,16 @@
 [Default Applications]
-application/zip=userapp-tar-OASQT2.desktop
+application/zip=org.gnome.FileRoller.desktop
 application/x-zerosize=nvim.desktop
 x-scheme-handler/gitkraken=GitKraken.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
 
 [Added Associations]
-application/zip=kitty.desktop;userapp-7zip-7PGET2.desktop;userapp-tar-OASQT2.desktop;
+application/zip=kitty.desktop;userapp-7zip-7PGET2.desktop;userapp-tar-OASQT2.desktop;org.gnome.FileRoller.desktop;
 application/x-zerosize=nvim.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;

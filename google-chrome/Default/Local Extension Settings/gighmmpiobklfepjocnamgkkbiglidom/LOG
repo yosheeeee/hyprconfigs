@@ -1,5 +1,10 @@
-2024/11/14-14:01:03.824 1bb7 Creating DB /home/yoshee/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom since it was missing.
-2024/11/14-14:01:03.832 1bb7 Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2024/11/14-14:01:09.094 1bb9 Level-0 table #5: started
-2024/11/14-14:01:09.111 1bb9 Level-0 table #5: 2317027 bytes OK
-2024/11/14-14:01:09.112 1bb9 Delete type=0 #3
+2024/11/14-23:35:09.404 1e7a Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2024/11/14-23:35:09.404 1e7a Recovering log #7
+2024/11/14-23:35:09.405 1e7a Reusing old log /home/yoshee/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000007.log 
+2024/11/14-23:37:21.804 1e7b Compacting 1@1 + 1@2 files
+2024/11/14-23:37:21.820 1e7b Generated table #10@1: 3 keys, 2232024 bytes
+2024/11/14-23:37:21.821 1e7b Generated table #11@1: 21 keys, 966 bytes
+2024/11/14-23:37:21.821 1e7b Compacted 1@1 + 1@2 files => 2232990 bytes
+2024/11/14-23:37:21.823 1e7b compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/11/14-23:37:21.823 1e7b Delete type=2 #8
+2024/11/14-23:37:21.823 1e7b Delete type=2 #5

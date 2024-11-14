@@ -1,0 +1,296 @@
+{
+   "cj_i18n_00000": {
+      "message": "El acceso más fácil al universo de Google."
+   },
+   "cj_i18n_00086": {
+      "message": "Buscar en una nueva pestaña"
+   },
+   "cj_i18n_00089": {
+      "message": "Antes de usar esta página, necesitas autorizar a la extensión acceso a Google Drive"
+   },
+   "cj_i18n_00105": {
+      "message": "Sitios"
+   },
+   "cj_i18n_00110": {
+      "message": "Filtrar"
+   },
+   "cj_i18n_00114": {
+      "message": "Para añadir un nuevo sitio, cliquea en el botón añadir"
+   },
+   "cj_i18n_00116": {
+      "message": "Prueba con un sinónimo o mas palabras generales"
+   },
+   "cj_i18n_00225": {
+      "message": "Durante el dia"
+   },
+   "cj_i18n_00227": {
+      "message": "Comparado con el mismo dia del mes pasado"
+   },
+   "cj_i18n_00228": {
+      "message": "Durante el mes"
+   },
+   "cj_i18n_00259": {
+      "message": "Antes de poder usar esta página, tenés que dar acceso para cargar tus blogs de Blogger"
+   },
+   "cj_i18n_00263": {
+      "message": "Por favor verifica que exista conexión a internet"
+   },
+   "cj_i18n_00393": {
+      "message": "Hojas"
+   },
+   "cj_i18n_00477": {
+      "message": "Herramientas de entrada"
+   },
+   "cj_i18n_00485": {
+      "message": "Temas interesantes"
+   },
+   "cj_i18n_00500": {
+      "message": "Buscar en configuración"
+   },
+   "cj_i18n_00512": {
+      "message": "Año en la búsqueda"
+   },
+   "cj_i18n_00525": {
+      "message": "Linea de tiempo de mapas"
+   },
+   "cj_i18n_00851": {
+      "message": "Código abierto Android"
+   },
+   "cj_i18n_00872": {
+      "message": "Android para Empresas"
+   },
+   "cj_i18n_00992": {
+      "message": "Sitio Web"
+   },
+   "cj_i18n_01015": {
+      "message": "Portal de Socios Android"
+   },
+   "cj_i18n_01179": {
+      "message": "Comparado con el mismo periodo del año pasado"
+   },
+   "cj_i18n_01180": {
+      "message": "Comparado con los ultimos 28 dias"
+   },
+   "cj_i18n_01181": {
+      "message": "Ultimos 28 dias"
+   },
+   "cj_i18n_01182": {
+      "message": "Actualizar reportes"
+   },
+   "cj_i18n_01305": {
+      "message": "Nuevas caracteristicas"
+   },
+   "cj_i18n_01417": {
+      "message": "Mediación"
+   },
+   "cj_i18n_01429": {
+      "message": "Catalogo de apuestas estrategicas"
+   },
+   "cj_i18n_01507": {
+      "message": "Salir"
+   },
+   "cj_i18n_01510": {
+      "message": "Antes de que puedas usar esta página, necesitas dar acceso para listas las aplicaciones de Chrome"
+   },
+   "cj_i18n_01543": {
+      "message": "Cambiar de cuenta"
+   },
+   "cj_i18n_01544": {
+      "message": "Acceder"
+   },
+   "cj_i18n_01563": {
+      "message": "Eliminar"
+   },
+   "cj_i18n_01585": {
+      "message": "Menú personalizar"
+   },
+   "cj_i18n_01590": {
+      "message": "Restablecer ajustes predeterminados"
+   },
+   "cj_i18n_01655": {
+      "message": "Importar configuraciones"
+   },
+   "cj_i18n_01684": {
+      "message": "Libros para vos"
+   },
+   "cj_i18n_01711": {
+      "message": "Primeros pasos"
+   },
+   "cj_i18n_01715": {
+      "message": "Finalizar"
+   },
+   "cj_i18n_01716": {
+      "message": "Movies & Shows"
+   },
+   "cj_i18n_01732": {
+      "message": "Verifica que eres tú"
+   },
+   "cj_i18n_01797": {
+      "message": "Conseguir duo en tu teléfono o tableta"
+   },
+   "cj_i18n_01798": {
+      "message": "Conseguilo en Google Play"
+   },
+   "cj_i18n_01915": {
+      "message": "Acceder con Google"
+   },
+   "cj_i18n_01935": {
+      "message": "Nueva carpeta"
+   },
+   "cj_i18n_01936": {
+      "message": "Crear nueva carpeta"
+   },
+   "cj_i18n_01937": {
+      "message": "Nombre de carpeta"
+   },
+   "cj_i18n_01939": {
+      "message": "Carpeta sin título"
+   },
+   "cj_i18n_02176": {
+      "message": "Antes de que pueda usar esta pagina, necesita conceder acceso para cargar los datos de su {PRODUCT_NAME}"
+   },
+   "cj_i18n_02717": {
+      "message": "No has accedido"
+   },
+   "cj_i18n_06216": {
+      "message": "Desde la plantilla"
+   },
+   "cj_i18n_06250": {
+      "message": "Mie."
+   },
+   "cj_i18n_06296": {
+      "message": "Monetization"
+   },
+   "cj_i18n_06358": {
+      "message": "Chequeo de Privacidad"
+   },
+   "cj_i18n_06418": {
+      "message": "Aplicación para celular"
+   },
+   "cj_i18n_06492": {
+      "message": "Descripción General"
+   },
+   "cj_i18n_06577": {
+      "message": "Enseñanza"
+   },
+   "cj_i18n_06600": {
+      "message": "Activar sonido de notificaciones"
+   },
+   "cj_i18n_06601": {
+      "message": "Actualización de extensiones"
+   },
+   "cj_i18n_06624": {
+      "message": "Configuraciones de la cuenta"
+   },
+   "cj_i18n_06628": {
+      "message": "Cosas que hacer"
+   },
+   "cj_i18n_06630": {
+      "message": "Vacation rentals"
+   },
+   "cj_i18n_06640": {
+      "message": "Teléfono"
+   },
+   "cj_i18n_06653": {
+      "message": "url actual"
+   },
+   "cj_i18n_06871": {
+      "message": "Asistente Google"
+   },
+   "cj_i18n_06900": {
+      "message": "Pro Sessions"
+   },
+   "cj_i18n_06906": {
+      "message": "Cambiar a tema oscuro"
+   },
+   "cj_i18n_06932": {
+      "message": "Customization"
+   },
+   "cj_i18n_07015": {
+      "message": "Visualizations"
+   },
+   "cj_i18n_07155": {
+      "message": "Analytics Opt-out Browser Add-on"
+   },
+   "cj_i18n_07180": {
+      "message": "Ads Creative Partners Directory"
+   },
+   "cj_i18n_07187": {
+      "message": "Transactions via Search, Maps & Assistant"
+   },
+   "cj_i18n_07226": {
+      "message": "My Ad Center"
+   },
+   "cj_i18n_07257": {
+      "message": "Premium Benefits"
+   },
+   "cj_i18n_07258": {
+      "message": "My Managed Apps"
+   },
+   "cj_i18n_07267": {
+      "message": "Control de caché"
+   },
+   "cj_i18n_07334": {
+      "message": "Publisher Center"
+   },
+   "cj_i18n_07374": {
+      "message": "Partners Help"
+   },
+   "cj_i18n_07382": {
+      "message": "Portal de Servicio al Cliente"
+   },
+   "cj_i18n_07405": {
+      "message": "{PRODUCT_NAME} todavía no está disponible en tú país."
+   },
+   "cj_i18n_07426": {
+      "message": "Locked Folder"
+   },
+   "cj_i18n_07478": {
+      "message": "Transparency Center"
+   },
+   "cj_i18n_07507": {
+      "message": "Brand Safety"
+   },
+   "cj_i18n_07520": {
+      "message": "Data Centers"
+   },
+   "cj_i18n_07529": {
+      "message": "Flood Hub"
+   },
+   "cj_i18n_07530": {
+      "message": "Tone Transfer"
+   },
+   "cj_i18n_07531": {
+      "message": "Verse by Verse"
+   },
+   "cj_i18n_07561": {
+      "message": "Third-party apps & services"
+   },
+   "cj_i18n_07562": {
+      "message": "Play Campaigns"
+   },
+   "cj_i18n_07589": {
+      "message": "Chromium Issue Tracker"
+   },
+   "cj_i18n_07590": {
+      "message": "Structured Data"
+   },
+   "cj_i18n_07619": {
+      "message": "Generated Images"
+   },
+   "cj_i18n_07631": {
+      "message": "App & Mobile"
+   },
+   "cj_i18n_07675": {
+      "message": "Merch Shop"
+   },
+   "cj_i18n_07676": {
+      "message": "Merch Shop - U.S."
+   },
+   "cj_i18n_07677": {
+      "message": "Merch Shop - International"
+   },
+   "cj_i18n_07678": {
+      "message": "Merch Shop - Canada"
+   }
+}

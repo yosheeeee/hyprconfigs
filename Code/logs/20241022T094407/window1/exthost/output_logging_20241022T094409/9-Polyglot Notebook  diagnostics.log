@@ -1,0 +1,5 @@
+Unable to determine the version of the .NET SDK.
+STDOUT:
+
+STDERR:
+Error: spawn dotnet ENOENT

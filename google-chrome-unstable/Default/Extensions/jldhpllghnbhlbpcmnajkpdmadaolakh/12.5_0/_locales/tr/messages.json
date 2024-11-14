@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Todoist’e Ekle"
+   },
+   "appDesc": {
+      "message": "Chrome için Todoist ile İşlerini ve Hayatını Düzenle"
+   },
+   "appName": {
+      "message": "Chrome için Todoist"
+   },
+   "firefoxPrivateMode": {
+      "message": "Eklenti gizli modda çalışmaz"
+   },
+   "optionsAddDueTitle": {
+      "message": "Chrome uzantısı ile eklenen görevler için:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Varsayılan tarihi ‘Bugün’ olarak belirle"
+   },
+   "optionsSaved": {
+      "message": "Kaydedildi"
+   }
+}

@@ -1,10 +1,11 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1725948433910": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/yoshee/Downloads": "__default__profile__",
+            "file:///home/yoshee/hse/machine_learning": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -12,25 +13,23 @@
     "telemetry.devDeviceId": "d75578b7-7e87-4677-ac1b-8b223ee4c281",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1725948433910"
-            },
-            {
-                "backupFolder": "1725948460503"
+                "folderUri": "file:///home/yoshee/hse/machine_learning"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/yoshee/.config/Code/Backups/1725948433910",
+            "folder": "file:///home/yoshee/hse/machine_learning",
+            "backupPath": "/home/yoshee/.config/Code/Backups/824cdd3339a942664fc6eb80b56de1b8",
             "uiState": {
                 "mode": 1,
-                "x": 12,
-                "y": 52,
-                "width": 1896,
-                "height": 1016
+                "x": 1933,
+                "y": 73,
+                "width": 1259,
+                "height": 1354
             }
         },
         "openedWindows": []
@@ -156,7 +155,8 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "A&&uto Save"
+                        "label": "A&&uto Save",
+                        "checked": true
                     },
                     {
                         "id": "submenuitem.MenubarPreferencesMenu",
@@ -424,8 +424,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Menu &&Bar",
-                                    "checked": true
+                                    "label": "Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -443,10 +442,6 @@
                                 {
                                     "id": "workbench.action.togglePanel",
                                     "label": "&&Panel"
-                                },
-                                {
-                                    "id": "toggle.toggleCustomTitleBar",
-                                    "label": "Custom Title Bar"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -577,8 +572,7 @@
                                 },
                                 {
                                     "id": "editor.action.toggleMinimap",
-                                    "label": "&&Minimap",
-                                    "checked": true
+                                    "label": "&&Minimap"
                                 },
                                 {
                                     "id": "breadcrumbs.toggle",
@@ -592,8 +586,7 @@
                                 },
                                 {
                                     "id": "editor.action.toggleRenderWhitespace",
-                                    "label": "&&Render Whitespace",
-                                    "checked": true
+                                    "label": "&&Render Whitespace"
                                 },
                                 {
                                     "id": "editor.action.toggleRenderControlCharacter",
@@ -1221,16 +1214,12 @@
         },
         "keybindings": {
             "workbench.action.files.newUntitledFile": {
-                "label": "Ctrl+N",
-                "userSettingsLabel": "ctrl+n"
+                "label": "Ctrl+Alt+N",
+                "userSettingsLabel": "ctrl+alt+n"
             },
             "welcome.showNewFileEntries": {
-                "label": "Ctrl+Alt+Super+N",
-                "userSettingsLabel": "ctrl+alt+meta+n"
-            },
-            "workbench.action.newWindow": {
-                "label": "Ctrl+Shift+N",
-                "userSettingsLabel": "ctrl+shift+n"
+                "label": "Ctrl+Shift+Super+N",
+                "userSettingsLabel": "ctrl+shift+meta+n"
             },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
@@ -1311,17 +1300,9 @@
                 "label": "Ctrl+F",
                 "userSettingsLabel": "ctrl+f"
             },
-            "editor.action.startFindReplaceAction": {
-                "label": "Ctrl+H",
-                "userSettingsLabel": "ctrl+h"
-            },
             "workbench.action.findInFiles": {
                 "label": "Ctrl+Shift+F",
                 "userSettingsLabel": "ctrl+shift+f"
-            },
-            "workbench.action.replaceInFiles": {
-                "label": "Ctrl+Shift+H",
-                "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
                 "label": "Ctrl+/",
@@ -1379,10 +1360,6 @@
                 "label": "Ctrl+D",
                 "userSettingsLabel": "ctrl+d"
             },
-            "editor.action.selectHighlights": {
-                "label": "Ctrl+Shift+L",
-                "userSettingsLabel": "ctrl+shift+l"
-            },
             "workbench.action.showCommands": {
                 "label": "Ctrl+Shift+P",
                 "userSettingsLabel": "ctrl+shift+p"
@@ -1409,8 +1386,8 @@
                 "userSettingsLabel": "ctrl+j"
             },
             "workbench.action.zoomIn": {
-                "label": "Ctrl+=",
-                "userSettingsLabel": "ctrl+="
+                "label": "Ctrl+Shift+=",
+                "userSettingsLabel": "ctrl+shift+="
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
@@ -1494,14 +1471,12 @@
                 "userSettingsLabel": "ctrl+pageup"
             },
             "workbench.action.nextEditorInGroup": {
-                "label": "Ctrl+K Ctrl+PageDown",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+pagedown"
+                "label": "Ctrl+Shift+L",
+                "userSettingsLabel": "ctrl+shift+l"
             },
             "workbench.action.previousEditorInGroup": {
-                "label": "Ctrl+K Ctrl+PageUp",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+pageup"
+                "label": "Ctrl+Shift+H",
+                "userSettingsLabel": "ctrl+shift+h"
             },
             "workbench.action.focusFirstEditorGroup": {
                 "label": "Ctrl+1",
@@ -1524,14 +1499,12 @@
                 "userSettingsLabel": "ctrl+5"
             },
             "workbench.action.focusLeftGroup": {
-                "label": "Ctrl+K Ctrl+LeftArrow",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+left"
+                "label": "Ctrl+H",
+                "userSettingsLabel": "ctrl+h"
             },
             "workbench.action.focusRightGroup": {
-                "label": "Ctrl+K Ctrl+RightArrow",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+right"
+                "label": "Ctrl+L",
+                "userSettingsLabel": "ctrl+l"
             },
             "workbench.action.focusAboveGroup": {
                 "label": "Ctrl+K Ctrl+UpArrow",
@@ -1556,8 +1529,9 @@
                 "userSettingsLabel": "ctrl+shift+o"
             },
             "editor.action.revealDefinition": {
-                "label": "F12",
-                "userSettingsLabel": "f12"
+                "label": "Ctrl+Shift+<",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+[IntlBackslash]"
             },
             "editor.action.goToImplementation": {
                 "label": "Ctrl+F12",
@@ -1651,28 +1625,29 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#24292e",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "activityBarBackground": "#181818",
-            "sideBarBackground": "#181818",
-            "statusBarBackground": "#181818",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "foreground": "#d1d5da",
+            "background": "#24292e",
+            "editorBackground": "#24292e",
+            "titleBarBackground": "#24292e",
+            "activityBarBackground": "#24292e",
+            "sideBarBackground": "#1f2428",
+            "statusBarBackground": "#24292e",
+            "statusBarNoFolderBackground": "#24292e"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
+            "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
-    }
+    },
+    "windowControlHeight": 35
 }

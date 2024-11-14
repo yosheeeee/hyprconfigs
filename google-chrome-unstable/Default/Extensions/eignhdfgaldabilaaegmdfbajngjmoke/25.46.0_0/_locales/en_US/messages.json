@@ -1,0 +1,257 @@
+{
+   "cj_i18n_00000": {
+      "message": "The easiest access to the Google universe"
+   },
+   "cj_i18n_00005": {
+      "message": "Trash"
+   },
+   "cj_i18n_00428": {
+      "message": "Payments Center"
+   },
+   "cj_i18n_00453": {
+      "message": "My Client Center"
+   },
+   "cj_i18n_00480": {
+      "message": "Movies"
+   },
+   "cj_i18n_00578": {
+      "message": "Safety Center"
+   },
+   "cj_i18n_00684": {
+      "message": "News Publisher Center"
+   },
+   "cj_i18n_00692": {
+      "message": "Favorites"
+   },
+   "cj_i18n_00700": {
+      "message": "Image Labeler"
+   },
+   "cj_i18n_00782": {
+      "message": "Hotel Ads Center"
+   },
+   "cj_i18n_00841": {
+      "message": "Color Tool"
+   },
+   "cj_i18n_00844": {
+      "message": "Color picker"
+   },
+   "cj_i18n_01041": {
+      "message": "Training Center"
+   },
+   "cj_i18n_01105": {
+      "message": "Integration Center"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimization"
+   },
+   "cj_i18n_01245": {
+      "message": "Help Center"
+   },
+   "cj_i18n_01339": {
+      "message": "Topics & Sources"
+   },
+   "cj_i18n_01405": {
+      "message": "Access & authorization"
+   },
+   "cj_i18n_01491": {
+      "message": "To add/remove items to the extension, click on customize at the bottom of the black menu"
+   },
+   "cj_i18n_01535": {
+      "message": "People & sharing"
+   },
+   "cj_i18n_01536": {
+      "message": "Payments & subscriptions"
+   },
+   "cj_i18n_01584": {
+      "message": "To add pages to the black menu bar, click on 'customize' at the bottom of the menu bar and click or drag the services you want to add. If you want to remove services, you can drag/drop them to the left side of the extension or click the remove icon."
+   },
+   "cj_i18n_01585": {
+      "message": "Customize menu"
+   },
+   "cj_i18n_01586": {
+      "message": "Start customizing"
+   },
+   "cj_i18n_01698": {
+      "message": "Partner Center"
+   },
+   "cj_i18n_01713": {
+      "message": "Customize"
+   },
+   "cj_i18n_01716": {
+      "message": "Movies & Shows"
+   },
+   "cj_i18n_01787": {
+      "message": "Your favorites"
+   },
+   "cj_i18n_01805": {
+      "message": "Repair Center"
+   },
+   "cj_i18n_01870": {
+      "message": "Private Catalog"
+   },
+   "cj_i18n_01877": {
+      "message": "Data Catalog"
+   },
+   "cj_i18n_01882": {
+      "message": "Data Labeling"
+   },
+   "cj_i18n_01904": {
+      "message": "Move to Trash"
+   },
+   "cj_i18n_01906": {
+      "message": "Organizational units"
+   },
+   "cj_i18n_01929": {
+      "message": "Fashion & beauty"
+   },
+   "cj_i18n_02165": {
+      "message": "Click or drag services to customize the menu"
+   },
+   "cj_i18n_03523": {
+      "message": "Developer Tools"
+   },
+   "cj_i18n_04767": {
+      "message": "Organization"
+   },
+   "cj_i18n_06233": {
+      "message": "To-do"
+   },
+   "cj_i18n_06296": {
+      "message": "Monetization"
+   },
+   "cj_i18n_06338": {
+      "message": "Authorized Buyers"
+   },
+   "cj_i18n_06630": {
+      "message": "Vacation rentals"
+   },
+   "cj_i18n_06669": {
+      "message": "Favorite itineraries"
+   },
+   "cj_i18n_06697": {
+      "message": "Favorite jobs"
+   },
+   "cj_i18n_06698": {
+      "message": "Favorite recipes"
+   },
+   "cj_i18n_06699": {
+      "message": "Favorite videos"
+   },
+   "cj_i18n_06700": {
+      "message": "Favorite pages"
+   },
+   "cj_i18n_06704": {
+      "message": "Favorite images"
+   },
+   "cj_i18n_06900": {
+      "message": "Pro Sessions"
+   },
+   "cj_i18n_06908": {
+      "message": "Early Access"
+   },
+   "cj_i18n_06932": {
+      "message": "Customization"
+   },
+   "cj_i18n_07005": {
+      "message": "Policy Center"
+   },
+   "cj_i18n_07015": {
+      "message": "Visualizations"
+   },
+   "cj_i18n_07140": {
+      "message": "Data & privacy"
+   },
+   "cj_i18n_07155": {
+      "message": "Analytics Opt-out Browser Add-on"
+   },
+   "cj_i18n_07174": {
+      "message": "Performance Planner"
+   },
+   "cj_i18n_07179": {
+      "message": "Saved Pages"
+   },
+   "cj_i18n_07180": {
+      "message": "Ads Creative Partners Directory"
+   },
+   "cj_i18n_07187": {
+      "message": "Transactions via Search, Maps & Assistant"
+   },
+   "cj_i18n_07226": {
+      "message": "My Ad Center"
+   },
+   "cj_i18n_07238": {
+      "message": "My Ads"
+   },
+   "cj_i18n_07239": {
+      "message": "Customize Ads"
+   },
+   "cj_i18n_07257": {
+      "message": "Premium Benefits"
+   },
+   "cj_i18n_07258": {
+      "message": "My Managed Apps"
+   },
+   "cj_i18n_07334": {
+      "message": "Publisher Center"
+   },
+   "cj_i18n_07374": {
+      "message": "Partners Help"
+   },
+   "cj_i18n_07378": {
+      "message": "Developer Center"
+   },
+   "cj_i18n_07426": {
+      "message": "Locked Folder"
+   },
+   "cj_i18n_07478": {
+      "message": "Transparency Center"
+   },
+   "cj_i18n_07501": {
+      "message": "Reach Planner"
+   },
+   "cj_i18n_07507": {
+      "message": "Brand Safety"
+   },
+   "cj_i18n_07520": {
+      "message": "Data Centers"
+   },
+   "cj_i18n_07529": {
+      "message": "Flood Hub"
+   },
+   "cj_i18n_07530": {
+      "message": "Tone Transfer"
+   },
+   "cj_i18n_07531": {
+      "message": "Verse by Verse"
+   },
+   "cj_i18n_07561": {
+      "message": "Third-party apps & services"
+   },
+   "cj_i18n_07562": {
+      "message": "Play Campaigns"
+   },
+   "cj_i18n_07589": {
+      "message": "Chromium Issue Tracker"
+   },
+   "cj_i18n_07590": {
+      "message": "Structured Data"
+   },
+   "cj_i18n_07619": {
+      "message": "Generated Images"
+   },
+   "cj_i18n_07631": {
+      "message": "App & Mobile"
+   },
+   "cj_i18n_07675": {
+      "message": "Merch Shop"
+   },
+   "cj_i18n_07676": {
+      "message": "Merch Shop - U.S."
+   },
+   "cj_i18n_07677": {
+      "message": "Merch Shop - International"
+   },
+   "cj_i18n_07678": {
+      "message": "Merch Shop - Canada"
+   }
+}

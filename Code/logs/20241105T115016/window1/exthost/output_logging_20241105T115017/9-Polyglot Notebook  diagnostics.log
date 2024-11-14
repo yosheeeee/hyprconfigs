@@ -1,0 +1,12 @@
+Extension started for VS Code Stable.
+tool-uninstall: Executing [dotnet tool uninstall Microsoft.dotnet-interactive] in '/home/yoshee/.config/Code/User/globalStorage/ms-dotnettools.dotnet-interactive-vscode'.
+tool-uninstall: Finished with code 1.
+tool-uninstall: STDERR:
+Не удается найти файл манифеста, содержащий идентификатор пакета "microsoft.dotnet-interactive".
+tool-install: Executing [dotnet tool install --add-source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json --ignore-failed-sources Microsoft.dotnet-interactive --version 1.0.553001] in '/home/yoshee/.config/Code/User/globalStorage/ms-dotnettools.dotnet-interactive-vscode'.
+tool-install: Finished with code 1.
+tool-install: STDOUT:
+Пропуск проверки подписи пакета NuGet.
+tool-install: STDERR:
+Не удается добавить пакет. Файл манифеста уже содержит версию 1.0.522904 пакета microsoft.dotnet-interactive. Удалите и установите либо измените файл манифеста /home/yoshee/.config/Code/User/globalStorage/ms-dotnettools.dotnet-interactive-vscode/.config/dotnet-tools.json, чтобы указать новую версию 1.0.553001.
+Error acquiring dotnet-interactive tool: undefined

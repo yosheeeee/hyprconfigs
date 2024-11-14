@@ -1,0 +1,15 @@
+third_party/javascript/pkijs/v1/common.js
+third_party/javascript/pkijs/v1/ocsp_tsp_schema.js
+third_party/javascript/pkijs/v1/ocsp_tsp_simpl.js
+third_party/javascript/pkijs/v1/x509_schema.js
+third_party/javascript/pkijs/v1/x509_simpl.js
+third_party/javascript/pkijs/v1/cms_schema.js
+third_party/javascript/pkijs/v1/cms_simpl.js
+third_party/javascript/asn1js/v1/asn1.js
+third_party/javascript/asn1js/v1/common.js
+third_party/javascript/angular/v1_6/angular.min.js
+third_party/javascript/angular/v1_6/angular-route.min.js
+third_party/javascript/angular/v1_6/angular-animate.min.js
+third_party/javascript/angular/v1_6/angular-aria.min.js
+third_party/javascript/angular/v1_6/angular-sanitize.min.js
+third_party/javascript/angular_material/v1_1/material_min.js

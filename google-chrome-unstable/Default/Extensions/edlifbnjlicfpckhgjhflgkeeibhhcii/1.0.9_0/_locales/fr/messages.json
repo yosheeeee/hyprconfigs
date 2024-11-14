@@ -1,0 +1,32 @@
+{
+   "description": {
+      "message": "Un outil de capture d'écran innovant permet aux utilisateurs de capturer et de modifier une capture d'écran. Capture d'écran pleine page."
+   },
+   "name": {
+      "message": "Screenshot - Capture d'écran et enregistreur vidéo d'écran"
+   },
+   "popupDesc1": {
+      "message": "Screenshot will open in a new tab after completion!"
+   },
+   "popupDesc2": {
+      "message": "Failed to take a screenshot! Try reloading the page."
+   },
+   "popupDesc3": {
+      "message": "Cannot take a screenshot of this type due to Google Chrome policy. Try another page in your browser."
+   },
+   "rateDialogDesc": {
+      "message": "Pourriez-vous nous noter sur le Chrome Web Store? Merci!"
+   },
+   "rateDialogNo": {
+      "message": "Peut-être la prochaine fois"
+   },
+   "rateDialogTitle": {
+      "message": "Application utile pour vous?"
+   },
+   "rateDialogYes": {
+      "message": "OK, bien sûr"
+   },
+   "short_name": {
+      "message": "ScreenShot Capture Tool"
+   }
+}

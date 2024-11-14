@@ -1,0 +1,61 @@
+2024-10-19 22:08:00.319 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-10-19 22:08:00.319 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-10-19 22:08:00.319 [info] Experiment 'pythonTestAdapter' is active
+2024-10-19 22:08:00.319 [warning] Dir "/home/yoshee/hse/machine_learning/.pixi/envs" is not watchable (directory does not exist)
+2024-10-19 22:08:00.393 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/yoshee/hse/machine_learning
+2024-10-19 22:08:00.408 [info] Starting Environment refresh
+2024-10-19 22:08:00.408 [info] Searching for interpreters in posix paths locator
+2024-10-19 22:08:00.409 [info] Searching for pyenv environments
+2024-10-19 22:08:00.409 [info] Searching for conda environments
+2024-10-19 22:08:00.409 [info] Searching for global virtual environments
+2024-10-19 22:08:00.409 [info] Searching for custom virtual environments
+2024-10-19 22:08:00.421 [info] pyenv is not installed
+2024-10-19 22:08:00.421 [info] Finished searching for pyenv environments: 13 milliseconds
+2024-10-19 22:08:00.421 [info] Finished searching for custom virtual envs: 12 milliseconds
+2024-10-19 22:08:00.428 [info] > conda info --json
+2024-10-19 22:08:00.436 [info] > pixi --version
+2024-10-19 22:08:00.446 [info] > hatch env show --json
+2024-10-19 22:08:00.446 [info] cwd: .
+2024-10-19 22:08:00.447 [info] Python interpreter path: /bin/python
+2024-10-19 22:08:00.508 [info] Finished searching for global virtual envs: 99 milliseconds
+2024-10-19 22:08:00.776 [info] > pyenv which python
+2024-10-19 22:08:00.776 [info] cwd: .
+2024-10-19 22:08:00.783 [info] Found: /bin/python --> /bin/python3.12
+2024-10-19 22:08:00.808 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-10-19 22:08:00.809 [info] Found: /bin/python3 --> /bin/python3.12
+2024-10-19 22:08:00.811 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-10-19 22:08:00.826 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-10-19 22:08:00.839 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:00.859 [info] Found: /sbin/python --> /sbin/python3.12
+2024-10-19 22:08:00.866 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-10-19 22:08:00.866 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-10-19 22:08:00.872 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-10-19 22:08:00.872 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-10-19 22:08:00.873 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-10-19 22:08:00.892 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-10-19 22:08:00.893 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-10-19 22:08:00.893 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-10-19 22:08:00.893 [info] Found: /home/linuxbrew/.linuxbrew/bin/python3 --> /home/linuxbrew/.linuxbrew/Cellar/python@3.12/3.12.6/bin/python3.12
+2024-10-19 22:08:00.893 [info] Found: /home/linuxbrew/.linuxbrew/bin/python3.12 --> /home/linuxbrew/.linuxbrew/Cellar/python@3.12/3.12.6/bin/python3.12
+2024-10-19 22:08:00.904 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:00.914 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:00.919 [info] Finished searching for interpreters in posix paths locator: 512 milliseconds
+2024-10-19 22:08:00.921 [info] Environments refresh paths discovered (event): 514 milliseconds
+2024-10-19 22:08:00.921 [info] Environments refresh paths discovered: 514 milliseconds
+2024-10-19 22:08:00.943 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:00.953 [info] > /home/linuxbrew/.linuxbrew/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.021 [info] Environments refresh finished (event): 614 milliseconds
+2024-10-19 22:08:01.029 [info] Environment refresh took 622 milliseconds
+2024-10-19 22:08:01.067 [info] > /sbin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.072 [info] > /usr/bin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.101 [info] > /bin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.112 [info] > /usr/sbin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.141 [info] > /sbin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.168 [info] > /usr/sbin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.183 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.210 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-10-19 22:08:01.229 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-10-19 22:08:01.238 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-10-19 22:08:01.261 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-10-19 22:08:01.748 [info] Starting Pylance language server.
+2024-10-19 22:08:03.620 [warning] could not find a pixi interpreter for the interpreter at /bin/python3

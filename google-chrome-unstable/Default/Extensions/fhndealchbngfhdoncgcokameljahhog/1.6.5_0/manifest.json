@@ -1,0 +1,40 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "img/security_googblue_19dp.png",
+         "38": "img/security_googblue_38dp.png"
+      }
+   },
+   "background": {
+      "service_worker": "js/background_script_binary.js"
+   },
+   "content_security_policy": {
+      "connect-src": "https://*",
+      "default-src": "self",
+      "font-src": "https://fonts.gstatic.com/",
+      "img-src": "'self' data:",
+      "object-src": "none",
+      "script-src": "self",
+      "style-src": "'unsafe-inline' https://fonts.googleapis.com/"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "host_permissions": [ "https://*/*" ],
+   "icons": {
+      "128": "img/security_googblue_128dp.png",
+      "16": "img/security_googblue_16dp.png",
+      "19": "img/security_googblue_19dp.png",
+      "38": "img/security_googblue_38dp.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsMHuhbqxi8W8WReRLzWW86s7Iz9TKnMnx1ltYoSTtyOzxCqZ45hSrL7y15nYGzmr2z+C2zAm1pkeSj7XQ8gFfKC+okVlCh3spT+Eh6q6fBDYErkXFzyFrqu5+mc7cMahQpBvaBP2Fgl9xNcWE7fo0w8cx4UsnX7ZeG1zWlms30AQDqnewAwM//xnmphhiIAKVyIyanznuIIFIuwUGNaLOnMquj7BEjNi8oJ0yL5UlJ73ng5u20TbdsGory/jEfJXUAld5lblcO7xUnMc2IqlXnx0SvuxyTz9T9tZc3s256s3K/jEIflORfS/ZmBrW6/RSrFSSlc26rspfHjs8VU9hwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "106",
+   "name": "__MSG_extension_name__",
+   "offline_enabled": true,
+   "permissions": [ "storage", "enterprise.deviceAttributes", "enterprise.platformKeys", "clipboardWrite", "alarms", "notifications", "identity", "identity.email", "platformKeys" ],
+   "storage": {
+      "managed_schema": "managed_policy_schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.5"
+}

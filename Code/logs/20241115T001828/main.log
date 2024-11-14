@@ -1,0 +1,4 @@
+2024-11-15 00:18:28.732 [info] update#setState idle
+2024-11-15 00:18:28.733 [info] update#ctor - manual checks only; automatic updates are disabled by user preference
+2024-11-15 00:20:53.548 [info] Extension host with pid 142872 exited with code: 0, signal: unknown.
+2024-11-15 00:20:53.580 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1729619056, signal: unknown

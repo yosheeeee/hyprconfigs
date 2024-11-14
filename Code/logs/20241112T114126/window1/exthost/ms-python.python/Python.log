@@ -1,0 +1,77 @@
+2024-11-12 11:41:29.901 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-12 11:41:29.901 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-12 11:41:29.901 [info] Experiment 'pythonTestAdapter' is active
+2024-11-12 11:41:29.901 [warning] Dir "/home/yoshee/hse/machine_learning/.pixi/envs" is not watchable (directory does not exist)
+2024-11-12 11:41:30.015 [info] Default formatter is set to esbenp.prettier-vscode for workspace /home/yoshee/hse/machine_learning
+2024-11-12 11:41:30.026 [info] Starting Environment refresh
+2024-11-12 11:41:30.026 [info] Searching for interpreters in posix paths locator
+2024-11-12 11:41:30.026 [info] Searching for pyenv environments
+2024-11-12 11:41:30.026 [info] Searching for conda environments
+2024-11-12 11:41:30.026 [info] Searching for global virtual environments
+2024-11-12 11:41:30.026 [info] Searching for custom virtual environments
+2024-11-12 11:41:30.036 [info] pyenv is not installed
+2024-11-12 11:41:30.036 [info] Finished searching for pyenv environments: 10 milliseconds
+2024-11-12 11:41:30.036 [info] Finished searching for custom virtual envs: 10 milliseconds
+2024-11-12 11:41:30.042 [info] > conda info --json
+2024-11-12 11:41:30.049 [info] > pixi --version
+2024-11-12 11:41:30.058 [info] > hatch env show --json
+2024-11-12 11:41:30.058 [info] cwd: .
+2024-11-12 11:41:30.059 [info] Python interpreter path: /bin/python
+2024-11-12 11:41:30.068 [info] Finished searching for global virtual envs: 42 milliseconds
+2024-11-12 11:41:30.323 [info] > pyenv which python
+2024-11-12 11:41:30.323 [info] cwd: .
+2024-11-12 11:41:30.335 [info] Found: /bin/python --> /bin/python3.12
+2024-11-12 11:41:30.347 [info] Found: /bin/python3 --> /bin/python3.12
+2024-11-12 11:41:30.349 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-11-12 11:41:30.356 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-11-12 11:41:30.372 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-11-12 11:41:30.403 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.405 [info] Found: /sbin/python --> /sbin/python3.12
+2024-11-12 11:41:30.405 [info] Found: /sbin/python3 --> /sbin/python3.12
+2024-11-12 11:41:30.405 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2024-11-12 11:41:30.419 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-11-12 11:41:30.419 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-11-12 11:41:30.419 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-11-12 11:41:30.467 [info] Found: /usr/sbin/python --> /usr/sbin/python3.12
+2024-11-12 11:41:30.467 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2024-11-12 11:41:30.467 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2024-11-12 11:41:30.469 [info] Found: /home/linuxbrew/.linuxbrew/bin/python3 --> /home/linuxbrew/.linuxbrew/Cellar/python@3.12/3.12.6/bin/python3.12
+2024-11-12 11:41:30.469 [info] Found: /home/linuxbrew/.linuxbrew/bin/python3.12 --> /home/linuxbrew/.linuxbrew/Cellar/python@3.12/3.12.6/bin/python3.12
+2024-11-12 11:41:30.481 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.492 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.497 [info] Finished searching for interpreters in posix paths locator: 472 milliseconds
+2024-11-12 11:41:30.499 [info] Environments refresh paths discovered (event): 474 milliseconds
+2024-11-12 11:41:30.499 [info] Environments refresh paths discovered: 474 milliseconds
+2024-11-12 11:41:30.522 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.532 [info] > /home/linuxbrew/.linuxbrew/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.596 [info] Environments refresh finished (event): 571 milliseconds
+2024-11-12 11:41:30.599 [info] Environment refresh took 574 milliseconds
+2024-11-12 11:41:30.601 [error] Environment /bin/python got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.601 [error] Environment /sbin/python got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.601 [error] Environment /usr/bin/python got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.601 [error] Environment /usr/sbin/python got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.630 [info] > /sbin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.636 [info] > /usr/sbin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.668 [info] > /usr/bin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.670 [error] Environment /sbin/python3.12 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.680 [info] > /bin/python3.12 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.682 [error] Environment /usr/sbin/python3.12 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.708 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.709 [error] Environment /usr/bin/python3.12 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.723 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.724 [error] Environment /bin/python3.12 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.746 [info] > /sbin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.747 [error] Environment /bin/python3 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.769 [info] > /usr/sbin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/interpreterInfo.py
+2024-11-12 11:41:30.771 [error] Environment /usr/bin/python3 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.776 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 11:41:30.788 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 11:41:30.793 [error] Environment /sbin/python3 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.812 [error] Environment /usr/sbin/python3 got the wrong version from native locator (Native = 3.12.6.final.0, Actual 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910])
+2024-11-12 11:41:30.815 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 11:41:31.391 [info] Starting Pylance language server.
+2024-11-12 11:44:05.476 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 11:54:53.223 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 11:54:53.226 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 12:15:22.736 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-11-12 12:15:22.739 [warning] could not find a pixi interpreter for the interpreter at /bin/python3

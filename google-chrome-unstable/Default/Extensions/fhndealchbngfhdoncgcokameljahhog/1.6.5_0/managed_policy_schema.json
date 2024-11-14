@@ -1,0 +1,184 @@
+{
+  "type": "object",
+  "properties": {
+    "cep_proxy_url": {
+      "description": "URL for the Certificate Enrollment Policy Web Services. The extension contacts CEP on this URL and gets the possible certificate enrollment service endpoints.",
+      "type": "string"
+    },
+    "enable_auto_enrollment": {
+      "description": "Control whether the extension initiates enrollment automatically or waits for user action.",
+      "type": "boolean"
+    },
+    "allow_machine_cert_enrollment": {
+      "description": "Control whether the user in question is allowed to install a device-wide certificate.",
+      "type": "boolean"
+    },
+    "user_enrollment_templates": {
+      "description": "List of matching template names in order of priority for user-enrollment flows.",
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "device_enrollment_templates": {
+      "description": "List of matching template names in order of priority for device-enrollment flows.",
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "user_cert_request_values": {
+      "description": "Values to be filled when requesting a certificate. Variable replacement will be performed on the strings.",
+      "type": "object",
+      "properties": {
+        "Subject": {
+          "type": "object",
+          "properties": {
+            "CommonName": {"type": "string"},
+            "Organization": {"type": "string"},
+            "OrganizationUnit": {"type": "string"},
+            "Locality": {"type": "string"},
+            "State": {"type": "string"},
+            "Country": {"type": "string"}
+          }
+        },
+        "SubjectAlternativeNames": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "NameType": {
+                "type": "string",
+                "enum": ["rfc822Name", "dNSName", "uniformResourceIdentifier", "userPrincipalName"]
+              },
+              "Name": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "device_cert_request_values": {
+      "description": "Values to be filled when requesting a certificate. Variable replacement will be performed on the strings.",
+      "type": "object",
+      "properties": {
+        "Subject": {
+          "type": "object",
+          "properties": {
+            "CommonName": {"type": "string"},
+            "Organization": {"type": "string"},
+            "OrganizationUnit": {"type": "string"},
+            "Locality": {"type": "string"},
+            "State": {"type": "string"},
+            "Country": {"type": "string"}
+          }
+        },
+        "SubjectAlternativeNames": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "NameType": {
+                "type": "string",
+                "enum": ["rfc822Name", "dNSName", "uniformResourceIdentifier", "userPrincipalName"]
+              },
+              "Name": {"type": "string"}
+            }
+          }
+        }
+      }
+    },
+    "placeholder_values": {
+      "description": "Username and password placeholders to help organizations guide their users when logging in.",
+      "type": "object",
+      "properties": {
+        "Username": {"type": "string"},
+        "Password": {"type": "string"},
+        "Uri": {"type": "string"},
+        "RequestId": {"type": "string"},
+        "Header": {"type": "string"}
+      }
+    },
+    "company_info": {
+      "description": "Placeholders holding the relevant branding information for a company.",
+      "type": "object",
+      "properties": {
+        "name": {"type": "string"},
+        "logo": {"type": "string"},
+        "help_url": {"type": "string"},
+        "help_text": {"type": "string"}
+      }
+    },
+    "log_level": {
+      "description": "Relevant log level to be used in the application.",
+      "type": "string"
+    },
+    "signature_algo": {
+      "description": "Signature algorithm to use when signing certificate requests. Must be SHA1, SHA256, or SHA512.",
+      "type": "string"
+    },
+    "pending_ui_enabled": {
+      "description": "Whether or not users should be able to navigate to the pending request UI.",
+      "type": "boolean"
+    },
+    "renew_hours_before_expiry": {
+      "description": "The amount of time in hours when to notify a user to renew a certificate before it expires. As in, setting this to 24 hours means the user will get initially notified that certificate X will expire in 24 hours.",
+      "type": "number"
+    },
+    "renew_reminder_interval": {
+      "description": "The amount of time in hours the extension should wait to notify a user again about renewing a certificate if the user selects 'remind me later' or similar option. If this is set to 6 hours, then after the initial notification, the extension will notify the user again every 6 hours (as long as the user does not renew the certificate or stop notifications).",
+      "type": "number"
+    },
+    "request_timeout_seconds": {
+      "description": "The amount of time in seconds before a call to CEP or CES should timeout. The default value for this is 5 seconds each. Setting this to any non-positive value will result in the default value being used. Setting this to 120 for example will make the timeout 2 minutes for each request.",
+      "type": "number"
+    },
+    "va_api_key": {
+      "description": "A string for an API key to talk to a verified access endpoint. It can be generated via the instructions here: https://developers.google.com/console/help/new/#generatingdevkeys This must be set to use verified access.",
+      "type": "string",
+      "sensitiveValue": true
+    },
+    "va_enabled": {
+      "description": "Whether or not enrollment should utilize verified access. Defaults to false. This must be set to use verified access.",
+      "type": "boolean"
+    },
+    "va_google_url": {
+      "description": "The URL of the Google Verified Access server. It should look like https://verifiedaccess.googleapis.com/v1/challenge?key= where the value of the query string is intentionally left out. If used, this must be set to an endpoint starting with https:// .",
+      "type": "string"
+    },
+    "va_shared_secret": {
+      "description": "A shared secret key used to authenticate the client extension with the enrollment agent server. The enrollment agent server will generate this during installation. That value needs to be pasted here in order to secure communication between the client extension and enrollment agent server as well as prevent abuse. This must be set to use verified access.",
+      "type": "string",
+      "sensitiveValue": true
+    },
+    "va_request_timeout_seconds": {
+      "description": "The amount of time in seconds before a call to the Google Verified Access server or enrollment agent should timeout. The default value for this is 60 seconds each. Setting this to any non-positive value will result in the default value being used. Setting this to 120 for example will make the timeout 2 minutes for each request.",
+      "type": "number"
+    },
+    "service_account_name": {
+      "description": "The user name of the service account used for auto-enrollment/renewal of AD certificates.",
+      "type": "string"
+    },
+    "service_account_password": {
+      "description": "The password of the service account used for auto-enrollment/renewal of AD certificates.",
+      "type": "string",
+      "sensitiveValue": true
+    },
+    "service_account_host": {
+      "description": "The URL used to download service account credentials in JSON form.",
+      "type": "string"
+    },
+    "service_account_host_password_mask": {
+      "description": "A mask that will be combined with the 'maskedPassword' field downloaded from service_account_host.",
+      "type": "string",
+      "sensitiveValue": true
+    },
+    "client_authentication": {
+      "description": "Which client authentication type to use. Currently only 'basic' authentication (username/password) and 'kerberos' are supported. Defaults to 'basic'.",
+      "type": "string"
+    },
+    "use_key_based_renewal": {
+      "description": "Whether to allow certificates to be renewed without re-entering user credentials. Defaults to false.",
+      "type": "boolean"
+    },
+     "ces_renewal_url": {
+       "description": "URL for the Certificate Enrollment Web Service used for certificate key-based renewal requests. The extension sends a certificate renewal request to the CES on this URL.",
+       "type": "string"
+    }
+  }
+}

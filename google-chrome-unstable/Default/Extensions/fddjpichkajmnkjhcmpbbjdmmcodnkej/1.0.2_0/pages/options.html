@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>OptionsPage</title>
+<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="options.css">
+</head>
+<body class="hidden">
+<main>
+	<h1>
+		<img class="addon-icon" src="../images/addon-128.png" alt="">
+		<span>RuTracker</span>
+		<span class="addon-version"> - официальный плагин [<span id="addonVersion"></span>]</span>
+	</h1>
+	<fieldset>
+		<legend>
+			Настройки
+			<a class="supportPageUrl" target="_blank">
+				<img class="help-icon" src="../images/help.svg" alt="help">
+			</a>
+		</legend>
+		<section>
+			<div id="proxy-mode-group" class="group proxy">
+				<span class="group-title">Прокси:</span>
+				<select id="proxyMode" class="has-proxy-error" title="прокси">
+					<option value="off">Выключено</option>
+					<option value="on">Включено</option>
+				</select>
+			</div>
+			<div id="proxy-error-desc" class="desc-error"></div>
+		</section>
+		<section>
+			<label class="group">
+				<input id="addContextMenu" type="checkbox">
+				<span>Поиск в контекстном меню</span>
+			</label>
+		</section>
+		<section class="footer">
+			<ul class="bottom-links">
+				<li>
+					<div id="proxyModeTipTitle" class="clickable">Какой вариант выбрать для опции Прокси?</div>
+					<div id="proxyModeTipBody" class="hidden">
+						<ul>
+							<li>Если у вас сайт <b>не заблокирован</b>, выберите <b>Выключено</b></li>
+							<li>Если заблокирован, но при этом вы <b>не используете</b> другие плагины для обхода блокировок, выберите <b>Включено</b></li>
+						</ul>
+					</div>
+				</li>
+				<li id="restoreHiddenWarnings" class="restoreHiddenWarnings clickable hidden">&#9888; Восстановить скрытые предупреждения</li>
+				<li><a class="supportPageUrl" target="_blank">Тема для обсуждения плагина на форуме</a></li>
+				<li class="hidden"><a id="optionsVpn" target="_blank">VPN - Обход блокировок. Полная анонимность!</a></li>
+				<li id="toggleActivePermissions" class="clickable">Показать текущие разрешения</li>
+				<li id="activePermissions" class="code no-bullet hidden"></li>
+			</ul>
+		</section>
+	</fieldset>
+	<div class="save-button-wrap">
+		<button id="save" class="saved" accesskey="s">Сохранить</button>
+	</div>
+	<footer>
+		<div id="exceptionMessage" class="hidden"></div>
+	</footer>
+</main>
+<script src="../bundle/page.js"></script>
+</body>
+</html>

@@ -1,0 +1,605 @@
+{
+   "cj_i18n_00000": {
+      "message": "The easiest access to the Google universe"
+   },
+   "cj_i18n_00002": {
+      "message": "Ibinahagi sa akin"
+   },
+   "cj_i18n_00005": {
+      "message": "Basurahan"
+   },
+   "cj_i18n_00006": {
+      "message": "huling binago"
+   },
+   "cj_i18n_00017": {
+      "message": "Mga larawan"
+   },
+   "cj_i18n_00018": {
+      "message": "Mga balita"
+   },
+   "cj_i18n_00019": {
+      "message": "Mga aklat"
+   },
+   "cj_i18n_00020": {
+      "message": "Ulo ng mga balita"
+   },
+   "cj_i18n_00025": {
+      "message": "Libangan"
+   },
+   "cj_i18n_00026": {
+      "message": "Palakasan"
+   },
+   "cj_i18n_00027": {
+      "message": "Kalusugan"
+   },
+   "cj_i18n_00045": {
+      "message": "Buksan ang video sa bagong tab"
+   },
+   "cj_i18n_00047": {
+      "message": "Iba pa"
+   },
+   "cj_i18n_00076": {
+      "message": "Panoorin mamaya"
+   },
+   "cj_i18n_00083": {
+      "message": "Lahat"
+   },
+   "cj_i18n_00084": {
+      "message": "buksan ang serbisyo sa bagong tab"
+   },
+   "cj_i18n_00107": {
+      "message": "Lahat"
+   },
+   "cj_i18n_00108": {
+      "message": "Pag-aari ko"
+   },
+   "cj_i18n_00122": {
+      "message": "Mga File"
+   },
+   "cj_i18n_00162": {
+      "message": "Bumalik"
+   },
+   "cj_i18n_00165": {
+      "message": "Enero"
+   },
+   "cj_i18n_00166": {
+      "message": "Pebrero"
+   },
+   "cj_i18n_00167": {
+      "message": "Marso"
+   },
+   "cj_i18n_00168": {
+      "message": "Abril"
+   },
+   "cj_i18n_00169": {
+      "message": "Mayo"
+   },
+   "cj_i18n_00170": {
+      "message": "Hunyo"
+   },
+   "cj_i18n_00171": {
+      "message": "Hulyo"
+   },
+   "cj_i18n_00172": {
+      "message": "Agosto"
+   },
+   "cj_i18n_00173": {
+      "message": "Septiyembre"
+   },
+   "cj_i18n_00174": {
+      "message": "Oktubre"
+   },
+   "cj_i18n_00175": {
+      "message": "Nobiyembre"
+   },
+   "cj_i18n_00176": {
+      "message": "Disyembre"
+   },
+   "cj_i18n_00191": {
+      "message": "Nagte-trend sa YouTube"
+   },
+   "cj_i18n_00226": {
+      "message": "Kahapon"
+   },
+   "cj_i18n_00295": {
+      "message": "Mga Tao"
+   },
+   "cj_i18n_00296": {
+      "message": "Mga Notification"
+   },
+   "cj_i18n_00298": {
+      "message": "Mga Setting"
+   },
+   "cj_i18n_00314": {
+      "message": "Mga contact"
+   },
+   "cj_i18n_00325": {
+      "message": "Naglo-load…"
+   },
+   "cj_i18n_00331": {
+      "message": "Lahat"
+   },
+   "cj_i18n_00337": {
+      "message": "Mag-sign up"
+   },
+   "cj_i18n_00350": {
+      "message": "Mag tanong"
+   },
+   "cj_i18n_00354": {
+      "message": "Mag-donate"
+   },
+   "cj_i18n_00406": {
+      "message": "Masusing paghahanap"
+   },
+   "cj_i18n_00412": {
+      "message": "Pinansya"
+   },
+   "cj_i18n_00414": {
+      "message": "Mga Flight"
+   },
+   "cj_i18n_00422": {
+      "message": "Panatilihin"
+   },
+   "cj_i18n_00425": {
+      "message": "Balita"
+   },
+   "cj_i18n_00427": {
+      "message": "Mga Patent"
+   },
+   "cj_i18n_00428": {
+      "message": "Payments Center"
+   },
+   "cj_i18n_00429": {
+      "message": "Mga Larawan"
+   },
+   "cj_i18n_00438": {
+      "message": "Tulong"
+   },
+   "cj_i18n_00440": {
+      "message": "Pagsasalin"
+   },
+   "cj_i18n_00441": {
+      "message": "Mga trend"
+   },
+   "cj_i18n_00450": {
+      "message": "Tungkol sa Google"
+   },
+   "cj_i18n_00453": {
+      "message": "My Client Center"
+   },
+   "cj_i18n_00460": {
+      "message": "Mga Libro"
+   },
+   "cj_i18n_00464": {
+      "message": "Mga Extension"
+   },
+   "cj_i18n_00465": {
+      "message": "Mga Tema"
+   },
+   "cj_i18n_00480": {
+      "message": "Mga pelikula"
+   },
+   "cj_i18n_00484": {
+      "message": "Mga Event"
+   },
+   "cj_i18n_00488": {
+      "message": "Mga larawan"
+   },
+   "cj_i18n_00500": {
+      "message": "Mga setting sa paghahanap"
+   },
+   "cj_i18n_00509": {
+      "message": "Mga Video"
+   },
+   "cj_i18n_00578": {
+      "message": "Safety Center"
+   },
+   "cj_i18n_00603": {
+      "message": "Pag-sync"
+   },
+   "cj_i18n_00626": {
+      "message": "Lumikha"
+   },
+   "cj_i18n_00684": {
+      "message": "News Publisher Center"
+   },
+   "cj_i18n_00692": {
+      "message": "Favorites"
+   },
+   "cj_i18n_00700": {
+      "message": "Image Labeler"
+   },
+   "cj_i18n_00782": {
+      "message": "Hotel Ads Center"
+   },
+   "cj_i18n_00838": {
+      "message": "Tungkol dito"
+   },
+   "cj_i18n_00841": {
+      "message": "Color Tool"
+   },
+   "cj_i18n_00844": {
+      "message": "Color picker"
+   },
+   "cj_i18n_00930": {
+      "message": "Mga Eksperimento"
+   },
+   "cj_i18n_01030": {
+      "message": "Mga Hotel"
+   },
+   "cj_i18n_01041": {
+      "message": "Training Center"
+   },
+   "cj_i18n_01105": {
+      "message": "Integration Center"
+   },
+   "cj_i18n_01150": {
+      "message": "mga site"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimization"
+   },
+   "cj_i18n_01161": {
+      "message": "I-preview"
+   },
+   "cj_i18n_01174": {
+      "message": "Naglo-load"
+   },
+   "cj_i18n_01178": {
+      "message": "Magpatuloy"
+   },
+   "cj_i18n_01186": {
+      "message": "Mga komento"
+   },
+   "cj_i18n_01245": {
+      "message": "Help Center"
+   },
+   "cj_i18n_01253": {
+      "message": "Ngayon"
+   },
+   "cj_i18n_01269": {
+      "message": "Mga larawan"
+   },
+   "cj_i18n_01339": {
+      "message": "Topics & Sources"
+   },
+   "cj_i18n_01344": {
+      "message": "Awtomatikong nakita"
+   },
+   "cj_i18n_01351": {
+      "message": "Matuto nang higit pa"
+   },
+   "cj_i18n_01363": {
+      "message": "I-save"
+   },
+   "cj_i18n_01403": {
+      "message": "Mga Eksperimento"
+   },
+   "cj_i18n_01405": {
+      "message": "Access & authorization"
+   },
+   "cj_i18n_01440": {
+      "message": "Mga Kagustuhan"
+   },
+   "cj_i18n_01447": {
+      "message": "Sarado"
+   },
+   "cj_i18n_01491": {
+      "message": "To add/remove items to the extension, click on customize at the bottom of the black menu"
+   },
+   "cj_i18n_01507": {
+      "message": "Mag-sign out"
+   },
+   "cj_i18n_01508": {
+      "message": "Naka-sign out"
+   },
+   "cj_i18n_01515": {
+      "message": "Aktibidad"
+   },
+   "cj_i18n_01518": {
+      "message": "Mga Address"
+   },
+   "cj_i18n_01532": {
+      "message": "Tulong"
+   },
+   "cj_i18n_01535": {
+      "message": "People & sharing"
+   },
+   "cj_i18n_01536": {
+      "message": "Payments & subscriptions"
+   },
+   "cj_i18n_01543": {
+      "message": "Lumipat ng account"
+   },
+   "cj_i18n_01544": {
+      "message": "Mag-sign in"
+   },
+   "cj_i18n_01545": {
+      "message": "buksan sa bagong tab"
+   },
+   "cj_i18n_01546": {
+      "message": "buksan sa panel"
+   },
+   "cj_i18n_01563": {
+      "message": "Tanggalin"
+   },
+   "cj_i18n_01584": {
+      "message": "To add pages to the black menu bar, click on 'customize' at the bottom of the menu bar and click or drag the services you want to add. If you want to remove services, you can drag/drop them to the left side of the extension or click the remove icon."
+   },
+   "cj_i18n_01585": {
+      "message": "Customize menu"
+   },
+   "cj_i18n_01586": {
+      "message": "Start customizing"
+   },
+   "cj_i18n_01622": {
+      "message": "Mag download"
+   },
+   "cj_i18n_01659": {
+      "message": "Kanselahin"
+   },
+   "cj_i18n_01692": {
+      "message": "Pag-browse ng history"
+   },
+   "cj_i18n_01697": {
+      "message": "Libangan"
+   },
+   "cj_i18n_01698": {
+      "message": "Partner Center"
+   },
+   "cj_i18n_01707": {
+      "message": "Palakasan"
+   },
+   "cj_i18n_01713": {
+      "message": "Customize"
+   },
+   "cj_i18n_01716": {
+      "message": "Movies & Shows"
+   },
+   "cj_i18n_01787": {
+      "message": "Your favorites"
+   },
+   "cj_i18n_01805": {
+      "message": "Repair Center"
+   },
+   "cj_i18n_01807": {
+      "message": "Inirerekomenda"
+   },
+   "cj_i18n_01870": {
+      "message": "Private Catalog"
+   },
+   "cj_i18n_01877": {
+      "message": "Data Catalog"
+   },
+   "cj_i18n_01882": {
+      "message": "Data Labeling"
+   },
+   "cj_i18n_01904": {
+      "message": "Move to Trash"
+   },
+   "cj_i18n_01906": {
+      "message": "Organizational units"
+   },
+   "cj_i18n_01915": {
+      "message": "Mag-sign in sa Google"
+   },
+   "cj_i18n_01929": {
+      "message": "Fashion & beauty"
+   },
+   "cj_i18n_01940": {
+      "message": "Pangalanang muli"
+   },
+   "cj_i18n_01990": {
+      "message": "Pangalan"
+   },
+   "cj_i18n_02121": {
+      "message": "Papaano"
+   },
+   "cj_i18n_02165": {
+      "message": "Click or drag services to customize the menu"
+   },
+   "cj_i18n_02543": {
+      "message": "I-print"
+   },
+   "cj_i18n_02703": {
+      "message": "Lahat ng file"
+   },
+   "cj_i18n_02717": {
+      "message": "Hindi naka-sign in"
+   },
+   "cj_i18n_03523": {
+      "message": "Mga tool ng Nag-develop"
+   },
+   "cj_i18n_03929": {
+      "message": "Mga Nai-download"
+   },
+   "cj_i18n_04163": {
+      "message": "Wika"
+   },
+   "cj_i18n_04767": {
+      "message": "Samahan"
+   },
+   "cj_i18n_04828": {
+      "message": "Mga Password"
+   },
+   "cj_i18n_05092": {
+      "message": "Mga resulta ng paghahanap"
+   },
+   "cj_i18n_05388": {
+      "message": "Pangkalahatan"
+   },
+   "cj_i18n_05629": {
+      "message": "I-edit"
+   },
+   "cj_i18n_06233": {
+      "message": "To-do"
+   },
+   "cj_i18n_06247": {
+      "message": "Bukas"
+   },
+   "cj_i18n_06248": {
+      "message": "Lunes"
+   },
+   "cj_i18n_06249": {
+      "message": "Martes"
+   },
+   "cj_i18n_06250": {
+      "message": "Miyerkules"
+   },
+   "cj_i18n_06251": {
+      "message": "Huwebes"
+   },
+   "cj_i18n_06252": {
+      "message": "Biyernes"
+   },
+   "cj_i18n_06253": {
+      "message": "Sabado"
+   },
+   "cj_i18n_06254": {
+      "message": "Linggo"
+   },
+   "cj_i18n_06296": {
+      "message": "Monetization"
+   },
+   "cj_i18n_06327": {
+      "message": "Nagse-save"
+   },
+   "cj_i18n_06338": {
+      "message": "Authorized Buyers"
+   },
+   "cj_i18n_06630": {
+      "message": "Vacation rentals"
+   },
+   "cj_i18n_06669": {
+      "message": "Favorite itineraries"
+   },
+   "cj_i18n_06697": {
+      "message": "Favorite jobs"
+   },
+   "cj_i18n_06698": {
+      "message": "Favorite recipes"
+   },
+   "cj_i18n_06699": {
+      "message": "Favorite videos"
+   },
+   "cj_i18n_06700": {
+      "message": "Favorite pages"
+   },
+   "cj_i18n_06704": {
+      "message": "Favorite images"
+   },
+   "cj_i18n_06900": {
+      "message": "Pro Sessions"
+   },
+   "cj_i18n_06908": {
+      "message": "Early Access"
+   },
+   "cj_i18n_06932": {
+      "message": "Customization"
+   },
+   "cj_i18n_07005": {
+      "message": "Policy Center"
+   },
+   "cj_i18n_07015": {
+      "message": "Visualizations"
+   },
+   "cj_i18n_07140": {
+      "message": "Data & privacy"
+   },
+   "cj_i18n_07143": {
+      "message": "Aktibidad"
+   },
+   "cj_i18n_07155": {
+      "message": "Analytics Opt-out Browser Add-on"
+   },
+   "cj_i18n_07174": {
+      "message": "Performance Planner"
+   },
+   "cj_i18n_07179": {
+      "message": "Saved Pages"
+   },
+   "cj_i18n_07180": {
+      "message": "Ads Creative Partners Directory"
+   },
+   "cj_i18n_07187": {
+      "message": "Transactions via Search, Maps & Assistant"
+   },
+   "cj_i18n_07226": {
+      "message": "My Ad Center"
+   },
+   "cj_i18n_07238": {
+      "message": "My Ads"
+   },
+   "cj_i18n_07239": {
+      "message": "Customize Ads"
+   },
+   "cj_i18n_07257": {
+      "message": "Premium Benefits"
+   },
+   "cj_i18n_07258": {
+      "message": "My Managed Apps"
+   },
+   "cj_i18n_07334": {
+      "message": "Publisher Center"
+   },
+   "cj_i18n_07374": {
+      "message": "Partners Help"
+   },
+   "cj_i18n_07378": {
+      "message": "Developer Center"
+   },
+   "cj_i18n_07426": {
+      "message": "Locked Folder"
+   },
+   "cj_i18n_07478": {
+      "message": "Transparency Center"
+   },
+   "cj_i18n_07501": {
+      "message": "Reach Planner"
+   },
+   "cj_i18n_07507": {
+      "message": "Brand Safety"
+   },
+   "cj_i18n_07520": {
+      "message": "Data Centers"
+   },
+   "cj_i18n_07529": {
+      "message": "Flood Hub"
+   },
+   "cj_i18n_07530": {
+      "message": "Tone Transfer"
+   },
+   "cj_i18n_07531": {
+      "message": "Verse by Verse"
+   },
+   "cj_i18n_07561": {
+      "message": "Third-party apps & services"
+   },
+   "cj_i18n_07562": {
+      "message": "Play Campaigns"
+   },
+   "cj_i18n_07589": {
+      "message": "Chromium Issue Tracker"
+   },
+   "cj_i18n_07590": {
+      "message": "Structured Data"
+   },
+   "cj_i18n_07619": {
+      "message": "Generated Images"
+   },
+   "cj_i18n_07631": {
+      "message": "App & Mobile"
+   },
+   "cj_i18n_07675": {
+      "message": "Merch Shop"
+   },
+   "cj_i18n_07676": {
+      "message": "Merch Shop - U.S."
+   },
+   "cj_i18n_07677": {
+      "message": "Merch Shop - International"
+   },
+   "cj_i18n_07678": {
+      "message": "Merch Shop - Canada"
+   }
+}

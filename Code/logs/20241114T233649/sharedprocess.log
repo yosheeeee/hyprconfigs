@@ -1,0 +1,86 @@
+2024-11-14 23:36:56.187 [info] Getting Manifest... devsense.composer-php-vscode
+2024-11-14 23:36:56.188 [info] Getting Manifest... devsense.profiler-php-vscode
+2024-11-14 23:36:56.188 [info] Getting Manifest... kamikillerto.vscode-colorize
+2024-11-14 23:36:56.189 [info] Getting Manifest... ms-dotnettools.dotnet-interactive-vscode
+2024-11-14 23:36:56.190 [info] Getting Manifest... ms-python.vscode-pylance
+2024-11-14 23:36:56.190 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2024-11-14 23:36:56.191 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-14 23:36:56.361 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.371 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.372 [info] Installing extension: ms-vscode-remote.remote-ssh {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.417 [info] Installing extension: kamikillerto.vscode-colorize {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.424 [info] Installing extension: devsense.composer-php-vscode {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.426 [info] Installing extension: devsense.profiler-php-vscode {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:56.494 [info] Installing extension: ms-dotnettools.dotnet-interactive-vscode {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-14 23:36:57.977 [info] Getting Manifest... ms-python.python
+2024-11-14 23:36:58.218 [info] Getting Manifest... ms-toolsai.jupyter
+2024-11-14 23:36:58.325 [info] Extension signature verification result for pkief.material-icon-theme: Success. Executed: true. Duration: 1095ms.
+2024-11-14 23:36:58.340 [info] Extension signature verification result for devsense.composer-php-vscode: Success. Executed: true. Duration: 1170ms.
+2024-11-14 23:36:58.357 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/devsense.composer-php-vscode-1.53.16338: devsense.composer-php-vscode
+2024-11-14 23:36:58.361 [info] Renamed to /home/yoshee/.vscode/extensions/devsense.composer-php-vscode-1.53.16338
+2024-11-14 23:36:58.386 [info] Marked extension as uninstalled devsense.composer-php-vscode-1.52.16273
+2024-11-14 23:36:58.394 [info] Extension installed successfully: devsense.composer-php-vscode vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:36:58.445 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-14 23:36:58.467 [info] Extension signature verification result for devsense.profiler-php-vscode: Success. Executed: true. Duration: 1064ms.
+2024-11-14 23:36:58.487 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/devsense.profiler-php-vscode-1.53.16338: devsense.profiler-php-vscode
+2024-11-14 23:36:58.489 [info] Renamed to /home/yoshee/.vscode/extensions/devsense.profiler-php-vscode-1.53.16338
+2024-11-14 23:36:58.507 [info] Marked extension as uninstalled devsense.profiler-php-vscode-1.52.16273
+2024-11-14 23:36:58.520 [info] Extension installed successfully: devsense.profiler-php-vscode vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:36:58.676 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Executed: true. Duration: 1042ms.
+2024-11-14 23:36:58.774 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.1: ms-vscode-remote.remote-ssh
+2024-11-14 23:36:58.776 [info] Renamed to /home/yoshee/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.1
+2024-11-14 23:36:58.802 [info] Marked extension as uninstalled ms-vscode-remote.remote-ssh-0.115.0
+2024-11-14 23:36:58.811 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:36:58.859 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-14 23:36:58.927 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/pkief.material-icon-theme-5.14.1: pkief.material-icon-theme
+2024-11-14 23:36:58.934 [info] Renamed to /home/yoshee/.vscode/extensions/pkief.material-icon-theme-5.14.1
+2024-11-14 23:36:58.952 [info] Marked extension as uninstalled pkief.material-icon-theme-5.13.0
+2024-11-14 23:36:58.960 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:36:59.844 [info] Extension signature verification result for ms-dotnettools.dotnet-interactive-vscode: Success. Executed: true. Duration: 707ms.
+2024-11-14 23:37:00.020 [info] Extension signature verification result for kamikillerto.vscode-colorize: Success. Executed: true. Duration: 763ms.
+2024-11-14 23:37:00.361 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/ms-dotnettools.dotnet-interactive-vscode-1.0.5563010: ms-dotnettools.dotnet-interactive-vscode
+2024-11-14 23:37:00.370 [info] Renamed to /home/yoshee/.vscode/extensions/ms-dotnettools.dotnet-interactive-vscode-1.0.5563010
+2024-11-14 23:37:00.396 [info] Marked extension as uninstalled ms-dotnettools.dotnet-interactive-vscode-1.0.5530010
+2024-11-14 23:37:00.404 [info] Extension installed successfully: ms-dotnettools.dotnet-interactive-vscode vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:37:00.452 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-14 23:37:00.653 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/kamikillerto.vscode-colorize-0.12.1: kamikillerto.vscode-colorize
+2024-11-14 23:37:00.656 [info] Renamed to /home/yoshee/.vscode/extensions/kamikillerto.vscode-colorize-0.12.1
+2024-11-14 23:37:00.677 [info] Marked extension as uninstalled kamikillerto.vscode-colorize-0.11.1
+2024-11-14 23:37:00.688 [info] Extension installed successfully: kamikillerto.vscode-colorize vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:37:00.737 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-14 23:37:05.597 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 731ms.
+2024-11-14 23:37:08.187 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.11.2: ms-python.vscode-pylance
+2024-11-14 23:37:08.199 [info] Renamed to /home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.11.2
+2024-11-14 23:37:08.224 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.11.1
+2024-11-14 23:37:08.228 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-14 23:37:08.282 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

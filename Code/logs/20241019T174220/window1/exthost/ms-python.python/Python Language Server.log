@@ -1,0 +1,42 @@
+2024-10-19 17:42:24.487 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.14.1)
+2024-10-19 17:42:24.901 [info] [Info  - 17:42:24] (4600) Server root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 17:42:24.902 [info] [Info  - 17:42:24] (4600) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-19 17:42:24.906 [info] [Info  - 17:42:24] (4600) Starting service instance "machine_learning"
+2024-10-19 17:42:24.962 [info] [Info  - 17:42:24] (4600) Setting environmentName for service "machine_learning": "3.12.6 (global)"
+2024-10-19 17:42:24.963 [info] [Info  - 17:42:24] (4600) Setting pythonPath for service "machine_learning": "/bin/python"
+2024-10-19 17:42:24.963 [info] [Info  - 17:42:24] (4600) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-10-19 17:42:24.963 [info] [Info  - 17:42:24] (4600) Auto-excluding **/node_modules
+2024-10-19 17:42:24.963 [info] [Info  - 17:42:24] (4600) Auto-excluding **/__pycache__
+2024-10-19 17:42:24.964 [info] [Info  - 17:42:24] (4600) Auto-excluding **/.*
+2024-10-19 17:42:24.987 [info] [Info  - 17:42:24] (4600) Assuming Python version 3.12.6.final.0
+2024-10-19 17:42:25.069 [info] [Info  - 17:42:25] (4600) Found 1 source file
+2024-10-19 17:42:25.098 [info] [Info  - 17:42:25] (4600) Starting service instance "machine_learning"
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) Setting environmentName for service "machine_learning": "3.12.6 (global)"
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) Setting pythonPath for service "machine_learning": "/bin/python3"
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) Auto-excluding **/node_modules
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) Auto-excluding **/__pycache__
+2024-10-19 17:42:25.123 [info] [Info  - 17:42:25] (4600) Auto-excluding **/.*
+2024-10-19 17:42:25.147 [info] [Info  - 17:42:25] (4600) Assuming Python version 3.12.6.final.0
+2024-10-19 17:42:25.196 [info] [Info  - 17:42:25] (4600) Found 1 source file
+2024-10-19 17:42:25.544 [info] [Info  - 17:42:25] (4600) Background analysis(1) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 17:42:25.544 [info] [Info  - 17:42:25] (4600) Background analysis(1) started
+2024-10-19 17:42:25.641 [info] [Info  - 17:42:25] (4600) Background analysis(2) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 17:42:25.643 [info] [Info  - 17:42:25] (4600) Background analysis(2) started
+2024-10-19 17:42:25.697 [info] [Info  - 17:42:25] (4600) Indexer background runner(3) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-19 17:42:25.697 [info] [Info  - 17:42:25] (4600) Indexing(3) started
+2024-10-19 17:42:26.173 [info] [Info  - 17:42:26] (4600) scanned(3) 252 files over 1 exec env
+2024-10-19 17:42:26.357 [info] [Info  - 17:42:26] (4600) indexed(3) 252 files over 1 exec env
+2024-10-19 17:42:26.403 [info] [Info  - 17:42:26] (4600) Indexing finished(3).
+2024-10-19 17:47:43.988 [info] [Info  - 17:47:43] (4600) Starting service instance "<default>"
+2024-10-19 17:47:44.021 [info] [Info  - 17:47:44] (4600) Setting environmentName for service "<default>": "3.12.6 (global)"
+2024-10-19 17:47:44.021 [info] [Info  - 17:47:44] (4600) Setting pythonPath for service "<default>": "/bin/python"
+2024-10-19 17:47:44.021 [info] [Info  - 17:47:44] (4600) No include entries specified; assuming /<default workspace root>
+2024-10-19 17:47:44.022 [info] [Info  - 17:47:44] (4600) Auto-excluding **/node_modules
+2024-10-19 17:47:44.022 [info] [Info  - 17:47:44] (4600) Auto-excluding **/__pycache__
+2024-10-19 17:47:44.022 [info] [Info  - 17:47:44] (4600) Auto-excluding **/.*
+2024-10-19 17:47:44.056 [info] [Info  - 17:47:44] (4600) Assuming Python version 3.12.6.final.0
+2024-10-19 17:47:44.108 [info] [Error - 17:47:44] (4600) File or directory "/<default workspace root>" does not exist.
+2024-10-19 17:47:44.109 [info] [Info  - 17:47:44] (4600) No source files found.
+2024-10-19 17:47:44.478 [info] [Info  - 17:47:44] (4600) Background analysis(4) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-19 17:47:44.479 [info] [Info  - 17:47:44] (4600) Background analysis(4) started

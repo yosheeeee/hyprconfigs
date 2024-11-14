@@ -1,0 +1,818 @@
+{
+   "additionalPermissionCaptionLabel": {
+      "message": "Izin tambahan diperlukan untuk menggunakan Simple Translate pada laman web."
+   },
+   "additionalPermissionLabel": {
+      "message": "Aktifkan penerjemahan pada laman web"
+   },
+   "addonPageLabel": {
+      "message": "Laman pengaya"
+   },
+   "addonUrl": {
+      "message": "https://addons.mozilla.org/en-US/firefox/addon/simple-translate/?src=optionpage"
+   },
+   "allLangLabel": {
+      "message": "Semua bahasa"
+   },
+   "altLabel": {
+      "message": "Alt"
+   },
+   "amazonTitleLabel": {
+      "message": "Kartu eGift amazon.co.jp"
+   },
+   "amazonUrl": {
+      "message": "https://www.amazon.co.jp/dp/B004N3APGO?language=en_US"
+   },
+   "backersLabel": {
+      "message": "Penyokong"
+   },
+   "bgColorLabel": {
+      "message": "Warna latar belakang"
+   },
+   "bottomLabel": {
+      "message": "Bawah"
+   },
+   "bottomLeftLabel": {
+      "message": "Kiri bawah"
+   },
+   "bottomRightLabel": {
+      "message": "Kanan bawah"
+   },
+   "bottomSelectedTextLabel": {
+      "message": "Bagian bawah seleksi teks"
+   },
+   "buttonPositionLabel": {
+      "message": "Tampilan Posisi"
+   },
+   "buttonSizeLabel": {
+      "message": "Ukuran"
+   },
+   "buttonStyleCaptionLabel": {
+      "message": "Menentukan gaya tombol terjemahan yang ditampilkan pada laman web."
+   },
+   "buttonStyleLabel": {
+      "message": "Tombol terjemahan"
+   },
+   "candidateFontColorLabel": {
+      "message": "Warna font kandidat terjemahan"
+   },
+   "clear": {
+      "message": "Kosongkan"
+   },
+   "clickedPointLabel": {
+      "message": "Titik klik"
+   },
+   "cmdLabel": {
+      "message": "Command"
+   },
+   "copiedLabel": {
+      "message": "Disalin."
+   },
+   "copyLabel": {
+      "message": "Salin"
+   },
+   "ctrlLabel": {
+      "message": "Ctrl"
+   },
+   "currentTabLabel": {
+      "message": "Tab saat ini"
+   },
+   "darkLabel": {
+      "message": "Gelap"
+   },
+   "deeplApiCaptionLabel": {
+      "message": "Gunakan API DeepL. Anda harus mendaftar dengan DeepL API Free atau DeepL API Pro untuk mendapat kunci autentikasi."
+   },
+   "deeplApiLabel": {
+      "message": "API DeepL"
+   },
+   "deeplAuthError": {
+      "message": "Galat: Gagal mengautentikasi API DeepL. Mohon atur kunci autentikasi dan paket dengan benar pada laman pengaturan."
+   },
+   "deeplAuthKeyCaptionLabel": {
+      "message": "Masukkan kunci autentikasi untuk API DeepL."
+   },
+   "deeplAuthKeyLabel": {
+      "message": "Kunci autentikasi"
+   },
+   "deeplFreeLabel": {
+      "message": "DeepL API Free"
+   },
+   "deeplPlanCaptionLabel": {
+      "message": "Pilih paket API DeepL untuk tempat Anda mendaftar."
+   },
+   "deeplPlanLabel": {
+      "message": "Paket API DeepL"
+   },
+   "deeplProLabel": {
+      "message": "DeepL API Pro"
+   },
+   "disableOnThisPage": {
+      "message": "Nonaktifkan penerjemahan pada laman ini"
+   },
+   "disableTranslationLabel": {
+      "message": "Nonaktifkan terjemahan"
+   },
+   "disableUrlListCaptionLabel": {
+      "message": "Jika URL laman sesuai dengan daftar, laman tersebut tidak akan diterjemah. Daftar ini mengizinkan wildcard \"*\"."
+   },
+   "disableUrlListLabel": {
+      "message": "Daftar URL yang tidak usah diterjemah"
+   },
+   "displayDirectionLabel": {
+      "message": "Tampilan posisi - Arah"
+   },
+   "donateLabel": {
+      "message": "Sumbang"
+   },
+   "donateWithPaypalLabel": {
+      "message": "Sumbang dengan PayPal"
+   },
+   "donationCaptionLabel": {
+      "message": "Terima kasih telah menggunakan Simple Translate.\u003Cbr>Dukungan Anda akan menjadi dorongan besar selama saya mengembangkan pengaya ini. \u003Cbr>Jika Anda suka Simple Translate, memberi sumbangan akan sangat membantu."
+   },
+   "donationLabel": {
+      "message": "Silakan memberi sumbangan"
+   },
+   "dontshowbuttonCaptionlabel": {
+      "message": "Jangan tampilkan tombol terjemahan atau panel terjemahan."
+   },
+   "dontshowbuttonlabel": {
+      "message": "Jangan tampilkan tombol atau panel"
+   },
+   "enableLabel": {
+      "message": "Aktifkan"
+   },
+   "enableOnThisPage": {
+      "message": "Aktifkan penerjemahan pada laman ini"
+   },
+   "exportButtonLabel": {
+      "message": "Ekspor"
+   },
+   "exportSettingsCaptionLabel": {
+      "message": "Simpan pengaturan sebagai berkas json di komputer."
+   },
+   "exportSettingsLabel": {
+      "message": "Ekspor pengaturan"
+   },
+   "extDescription": {
+      "message": "Cepat menerjemahkan teks yang dipilih atau diketik pada laman web. Mendukung Google Terjemahan dan API DeepL."
+   },
+   "extName": {
+      "message": "Simple Translate"
+   },
+   "extensionPageLabel": {
+      "message": "Laman ekstensi"
+   },
+   "fontSizeLabel": {
+      "message": "Ukuran huruf"
+   },
+   "generalLabel": {
+      "message": "Umum"
+   },
+   "googleApiCaptionLabel": {
+      "message": "Gunakan API Google Terjemahan. Tidak perlu mendaftar."
+   },
+   "googleApiLabel": {
+      "message": "API Google Terjemahan"
+   },
+   "heightLabel": {
+      "message": "Tinggi"
+   },
+   "howToUseDeeplLabel": {
+      "message": "Cara mendaftar API DeepL"
+   },
+   "ifAutoTranslateCaptionLabel": {
+      "message": "Langsung tampilkan panel terjemahan tanpa menampilkan tombolnya."
+   },
+   "ifAutoTranslateLabel": {
+      "message": "Tampilkan panel terjemahan"
+   },
+   "ifChangeSecondLangCaptionLabel": {
+      "message": "Mendeteksi bahasa dari teks masukan. Jika sama dengan bahasa sasaran bawaan, akan diterjemahkan ke bahasa kedua."
+   },
+   "ifChangeSecondLangLabel": {
+      "message": "Secara otomatis beralih ke bahasa kedua"
+   },
+   "ifChangeSecondLangOnPageCaptionLabel": {
+      "message": "Mendeteksi bahasa dari teks yang dipilih. Jika sama dengan bahasa sasaran bawaan, akan diterjemahkan ke bahasa kedua."
+   },
+   "ifCheckLangCaptionLabel": {
+      "message": "Mendeteksi bahasa dari teks yang dipilih. Jika sama dengan bahasa sasaran, tombol tidak akan ditampilkan."
+   },
+   "ifCheckLangLabel": {
+      "message": "Jangan tampilkan tombol jika terjemahan tidak diperlukan"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedCaptionLabel": {
+      "message": "Hanya tampilkan terjamahan saat tombol pengubah ditekan."
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedLabel": {
+      "message": "Terjemahkan saat tombol pengubah ditekan"
+   },
+   "ifShowButtonCaptionLabel": {
+      "message": "Tampilkan tombol terjemahan untuk membuka panel saat dipencet."
+   },
+   "ifShowButtonLabel": {
+      "message": "Tampilkan tombol terjemahan"
+   },
+   "ifShowCandidateCaptionLabel": {
+      "message": "Tampilkan beberapa kandidat terjemahan saat satu kata diterjemahkan."
+   },
+   "ifShowCandidateLabel": {
+      "message": "Tampilkan kandidat terjemahan"
+   },
+   "ifShowMenuCaptionLabel": {
+      "message": "Menambah butir ke tampilan menu konteks saat memencet kanan di laman web atau tab."
+   },
+   "ifShowMenuLabel": {
+      "message": "Tampilkan menu konteks"
+   },
+   "ignoredDocumentLangCaptionLabel": {
+      "message": "Nonaktifkan terjemahan jika atribut bahasa di unsur html laman sesuai dengan daftar. Masukkan tag bahasa yang dipisah koma."
+   },
+   "ignoredDocumentLangLabel": {
+      "message": "Nonaktifkan terjemahan menurut atribut bahasa"
+   },
+   "importButtonLabel": {
+      "message": "Impor"
+   },
+   "importSettingsCaptionLabel": {
+      "message": "Muat berkas pengaturan yang disimpan di komputer."
+   },
+   "importSettingsLabel": {
+      "message": "Impor pengaturan"
+   },
+   "includeMacModifierKeysMessage": {
+      "message": "Sertakan antara Command, Ctrl atau Alt"
+   },
+   "includeModifierKeysMessage": {
+      "message": "Sertakan Ctrl atau Alt"
+   },
+   "informationLabel": {
+      "message": "Informasi"
+   },
+   "initialTextArea": {
+      "message": "Masukkan teks"
+   },
+   "invalidLetterMessage": {
+      "message": "Huruf ini tidak dapat digunakan"
+   },
+   "invalidShortcutMessage": {
+      "message": "Pintasan ini tidak dapat digunakan"
+   },
+   "isDebugModeCaptionLabel": {
+      "message": "Saat mode debug diaktifkan, keluaran log digunakan untuk debugger."
+   },
+   "isDebugModeLabel": {
+      "message": "Aktifkan mode debug"
+   },
+   "isDisabledInCodeElementCaptionLabel": {
+      "message": "Jangan tampilkan tombol atau panel terjemahan saat menyeleksi teks di tag kode."
+   },
+   "isDisabledInCodeElementLabel": {
+      "message": "Nonaktifkan terjemahan pada tag kode"
+   },
+   "isDisabledInTextFieldsCaptionLabel": {
+      "message": "Jangan tampilkan tombol atau panel terjemahan saat menyeleksi teks di kolom teks."
+   },
+   "isDisabledInTextFieldsLabel": {
+      "message": "Nonaktifkan terjemahan pada kolom teks"
+   },
+   "isOverrideColorsLabel": {
+      "message": "Timpa warna bawaan dengan warna berikut"
+   },
+   "isShowOptionsPageWhenUpdatedCaptionLabel": {
+      "message": "Tampilkan laman pengaturan saat Simple Translate diperbaharui. Anda bisa mengetahui konten pembaharuan dengan cepat."
+   },
+   "isShowOptionsPageWhenUpdatedLabel": {
+      "message": "Tampilkan laman pengaturan saat memperbarui"
+   },
+   "keyboardShortcutsLabel": {
+      "message": "Pintasan papan ketik"
+   },
+   "lang_af": {
+      "message": "Bahasa Afrikaans"
+   },
+   "lang_am": {
+      "message": "Bahasa Amhar"
+   },
+   "lang_ar": {
+      "message": "Bahasa Arab"
+   },
+   "lang_az": {
+      "message": "Bahasa Azeri"
+   },
+   "lang_be": {
+      "message": "Bahasa Belarus"
+   },
+   "lang_bg": {
+      "message": "Bahasa Bulgaria"
+   },
+   "lang_bn": {
+      "message": "Bahasa Benggala"
+   },
+   "lang_bs": {
+      "message": "Bahasa Bosnia"
+   },
+   "lang_ca": {
+      "message": "Bahasa Katala"
+   },
+   "lang_ceb": {
+      "message": "Bahasa Sugbu"
+   },
+   "lang_co": {
+      "message": "Bahasa Korsika"
+   },
+   "lang_cs": {
+      "message": "Bahasa Ceko"
+   },
+   "lang_cy": {
+      "message": "Bahasa Wales"
+   },
+   "lang_da": {
+      "message": "Bahasa Denmark"
+   },
+   "lang_de": {
+      "message": "Bahasa Jerman"
+   },
+   "lang_el": {
+      "message": "Bahasa Yunani"
+   },
+   "lang_en": {
+      "message": "Bahasa Inggris"
+   },
+   "lang_en_GB": {
+      "message": "Bahasa Inggris (Britania)"
+   },
+   "lang_en_US": {
+      "message": "Bahasa Inggris (Amerika)"
+   },
+   "lang_eo": {
+      "message": "Bahasa Espranto"
+   },
+   "lang_es": {
+      "message": "Bahasa Spanyol"
+   },
+   "lang_et": {
+      "message": "Bahasa Esti"
+   },
+   "lang_eu": {
+      "message": "Bahasa Euskara"
+   },
+   "lang_fa": {
+      "message": "Bahasa Farsi"
+   },
+   "lang_fi": {
+      "message": "Bahasa Suomi"
+   },
+   "lang_fr": {
+      "message": "Bahasa Prancis"
+   },
+   "lang_fy": {
+      "message": "Bahasa Frisia"
+   },
+   "lang_ga": {
+      "message": "Bahasa Irlandia"
+   },
+   "lang_gd": {
+      "message": "Bahasa Gaelik Skots"
+   },
+   "lang_gl": {
+      "message": "Bahasa Galisia"
+   },
+   "lang_gu": {
+      "message": "Bahasa Gujarat"
+   },
+   "lang_ha": {
+      "message": "Bahasa Hausa"
+   },
+   "lang_haw": {
+      "message": "Bahasa Hawai'i"
+   },
+   "lang_he": {
+      "message": "Bahasa Ibrani"
+   },
+   "lang_hi": {
+      "message": "Bahasa Hindi"
+   },
+   "lang_hmn": {
+      "message": "Bahasa Mong"
+   },
+   "lang_hr": {
+      "message": "Bahasa Kroasia"
+   },
+   "lang_ht": {
+      "message": "Bahasa Haiti"
+   },
+   "lang_hu": {
+      "message": "Bahasa Magyar"
+   },
+   "lang_hy": {
+      "message": "Bahasa Armenia"
+   },
+   "lang_id": {
+      "message": "Bahasa Indonesia"
+   },
+   "lang_ig": {
+      "message": "Bahasa Igbo"
+   },
+   "lang_is": {
+      "message": "Bahasa Islan"
+   },
+   "lang_it": {
+      "message": "Bahasa Italia"
+   },
+   "lang_ja": {
+      "message": "Bahasa Jepang"
+   },
+   "lang_jv": {
+      "message": "Bahasa Jawa"
+   },
+   "lang_ka": {
+      "message": "Bahasa Kartuli"
+   },
+   "lang_kk": {
+      "message": "Bahasa Kazak"
+   },
+   "lang_km": {
+      "message": "Bahasa Khmer"
+   },
+   "lang_kn": {
+      "message": "Bahasa Kannada"
+   },
+   "lang_ko": {
+      "message": "Bahasa Korea"
+   },
+   "lang_ku": {
+      "message": "Bahasa Kurdi"
+   },
+   "lang_ky": {
+      "message": "Bahasa Kirgiz"
+   },
+   "lang_la": {
+      "message": "Bahasa Latin"
+   },
+   "lang_lb": {
+      "message": "Bahasa Luksemburg"
+   },
+   "lang_lo": {
+      "message": "Bahasa Laos"
+   },
+   "lang_lt": {
+      "message": "Bahasa Lituavi"
+   },
+   "lang_lv": {
+      "message": "Bahasa Latvia"
+   },
+   "lang_mg": {
+      "message": "Bahasa Malagasi"
+   },
+   "lang_mi": {
+      "message": "Bahasa Maori"
+   },
+   "lang_mk": {
+      "message": "Bahasa Makedonia"
+   },
+   "lang_ml": {
+      "message": "Bahasa Malayalam"
+   },
+   "lang_mn": {
+      "message": "Bahasa Mongol"
+   },
+   "lang_mr": {
+      "message": "Bahasa Marathi"
+   },
+   "lang_ms": {
+      "message": "Bahasa Melayu"
+   },
+   "lang_mt": {
+      "message": "Bahasa Malta"
+   },
+   "lang_my": {
+      "message": "Bahasa Burma"
+   },
+   "lang_nb": {
+      "message": "Norwegia (bokmål)"
+   },
+   "lang_ne": {
+      "message": "Bahasa Nepali"
+   },
+   "lang_nl": {
+      "message": "Bahasa Belanda"
+   },
+   "lang_no": {
+      "message": "Bahasa Norwegia"
+   },
+   "lang_ny": {
+      "message": "Bahasa Chewa"
+   },
+   "lang_or": {
+      "message": "Bahasa Odia"
+   },
+   "lang_pa": {
+      "message": "Bahasa Punjab"
+   },
+   "lang_pl": {
+      "message": "Bahasa Polski"
+   },
+   "lang_ps": {
+      "message": "Bahasa Pashtun"
+   },
+   "lang_pt": {
+      "message": "Bahasa Portugis"
+   },
+   "lang_pt_BR": {
+      "message": "Bahasa Portugis (Brazil)"
+   },
+   "lang_pt_PT": {
+      "message": "Bahasa Portugis"
+   },
+   "lang_ro": {
+      "message": "Bahasa Rumania"
+   },
+   "lang_ru": {
+      "message": "Bahasa Rusia"
+   },
+   "lang_rw": {
+      "message": "Bahasa Kinyarwanda"
+   },
+   "lang_sd": {
+      "message": "Bahasa Sindhi"
+   },
+   "lang_si": {
+      "message": "Bahasa Sinhala"
+   },
+   "lang_sk": {
+      "message": "Bahasa Slowak"
+   },
+   "lang_sl": {
+      "message": "Bahasa Slovenia"
+   },
+   "lang_sm": {
+      "message": "Bahasa Samoa"
+   },
+   "lang_sn": {
+      "message": "Bahasa Shona"
+   },
+   "lang_so": {
+      "message": "Bahasa Somali"
+   },
+   "lang_sq": {
+      "message": "Bahasa Albania"
+   },
+   "lang_sr": {
+      "message": "Bahasa Serbia"
+   },
+   "lang_st": {
+      "message": "Bahasa Sotho"
+   },
+   "lang_su": {
+      "message": "Bahasa Sunda"
+   },
+   "lang_sv": {
+      "message": "Bahasa Swedia"
+   },
+   "lang_sw": {
+      "message": "Bahasa Swahili"
+   },
+   "lang_ta": {
+      "message": "Bahasa Tamil"
+   },
+   "lang_te": {
+      "message": "Bahasa Telugu"
+   },
+   "lang_tg": {
+      "message": "Bahasa Tajik"
+   },
+   "lang_th": {
+      "message": "Bahasa Thailand"
+   },
+   "lang_tk": {
+      "message": "Bahasa Turkmen"
+   },
+   "lang_tl": {
+      "message": "Bahasa Tagalog"
+   },
+   "lang_tr": {
+      "message": "Bahasa Turki"
+   },
+   "lang_tt": {
+      "message": "Bahasa Tatar"
+   },
+   "lang_ug": {
+      "message": "Bahasa Uighur"
+   },
+   "lang_uk": {
+      "message": "Bahasa Ukraina"
+   },
+   "lang_ur": {
+      "message": "Bahasa Urdu"
+   },
+   "lang_uz": {
+      "message": "Bahasa Uzbek"
+   },
+   "lang_vi": {
+      "message": "Bahasa Vietnam"
+   },
+   "lang_xh": {
+      "message": "Bahasa Xhosa"
+   },
+   "lang_yi": {
+      "message": "Bahasa Yiddish"
+   },
+   "lang_yo": {
+      "message": "Bahasa Yoruba"
+   },
+   "lang_zh": {
+      "message": "Bahasa Cina"
+   },
+   "lang_zh_CN": {
+      "message": "Bahasa Cina (Sederhana)"
+   },
+   "lang_zh_TW": {
+      "message": "Bahasa Cina (Tradisional)"
+   },
+   "lang_zu": {
+      "message": "Bahasa Zulu"
+   },
+   "leftLabel": {
+      "message": "Kiri"
+   },
+   "licenseLabel": {
+      "message": "Lisensi"
+   },
+   "lightLabel": {
+      "message": "Terang"
+   },
+   "listenLabel": {
+      "message": "Dengar"
+   },
+   "menuLabel": {
+      "message": "Menu konteks"
+   },
+   "modifierKeyLabel": {
+      "message": "Tombol Pengubah"
+   },
+   "networkError": {
+      "message": "Galat: Periksa status sambungan jejaring."
+   },
+   "newTabLabel": {
+      "message": "Tab baru"
+   },
+   "openInDeeplLabel": {
+      "message": "Buka di DeepL Translator"
+   },
+   "openInGoogleLabel": {
+      "message": "Buka di Google Terjemahan"
+   },
+   "openPopupDescription": {
+      "message": "Buka sembulan bilah alat"
+   },
+   "otherLabel": {
+      "message": "Lainnya"
+   },
+   "pageTranslationLabel": {
+      "message": "Penerjemahan laman"
+   },
+   "pageTranslationOpenToCaptionLabel": {
+      "message": "Tentukan tab mana untuk menampilkan hasil terjemahan laman."
+   },
+   "pageTranslationOpenToLabel": {
+      "message": "Tab untuk menampilkan hasil terjemah"
+   },
+   "panelStyleCaptionLabel": {
+      "message": "Menentukan gaya panel terjemahan yang ditampilkan pada laman web."
+   },
+   "panelStyleLabel": {
+      "message": "Panel terjemahan"
+   },
+   "positionOffsetLabel": {
+      "message": "Posisi tampilan - Offset"
+   },
+   "privacyPolicyLabel": {
+      "message": "Kebijakan privasi"
+   },
+   "recentLangLabel": {
+      "message": "Bahasa baru-baru ini"
+   },
+   "referencePointLabel": {
+      "message": "Posisi tampilan - Titik rujukan"
+   },
+   "reset": {
+      "message": "Atur ulang"
+   },
+   "resetSettingsButtonLabel": {
+      "message": "Atur ulang"
+   },
+   "resetSettingsCaptionLabel": {
+      "message": "Pulihkan semua pengaturan ke semula."
+   },
+   "resetSettingsLabel": {
+      "message": "Atur ulang"
+   },
+   "resultFontColorLabel": {
+      "message": "Warna font hasil terjemahan"
+   },
+   "rightLabel": {
+      "message": "Kanan"
+   },
+   "secondTargetLangCaptionLabel": {
+      "message": "Pilih bahasa sasaran yang kedua."
+   },
+   "secondTargetLangLabel": {
+      "message": "Bahasa kedua"
+   },
+   "setKeyboardShortCutsMessage": {
+      "message": "Atur pintasan papan ketik."
+   },
+   "settingsLabel": {
+      "message": "Pengaturan"
+   },
+   "shiftLabel": {
+      "message": "Shift"
+   },
+   "shortcutsLabel": {
+      "message": "Pintasan"
+   },
+   "showLink": {
+      "message": "Terjemahkan laman ini"
+   },
+   "sponsorsLabel": {
+      "message": "Sponsor"
+   },
+   "styleLabel": {
+      "message": "Gaya"
+   },
+   "systemLabel": {
+      "message": "Sistem"
+   },
+   "targetLangCaptionLabel": {
+      "message": "Pilih bahasa sasaran bawaan."
+   },
+   "targetLangLabel": {
+      "message": "Bahasa Sasaran"
+   },
+   "themeCaptionLabel": {
+      "message": "Tentukan warna skema."
+   },
+   "themeLabel": {
+      "message": "Tema"
+   },
+   "toolbarLabel": {
+      "message": "Sembulan bilah alat"
+   },
+   "topLabel": {
+      "message": "Atas"
+   },
+   "topLeftLabel": {
+      "message": "Kiri atas"
+   },
+   "topRightLabel": {
+      "message": "Kanan atas"
+   },
+   "topSelectedTextLabel": {
+      "message": "Bagian atas seleksi teks"
+   },
+   "translateLinkMenu": {
+      "message": "Terjemahkan tautan terpilih"
+   },
+   "translatePageMenu": {
+      "message": "Terjemahkan halaman ini"
+   },
+   "translateTextMenu": {
+      "message": "Terjemahkan teks terpilih"
+   },
+   "translationApiLabel": {
+      "message": "Mesin terjemahan"
+   },
+   "typeLetterMessage": {
+      "message": "Ketik huruf"
+   },
+   "typeShortcutMessage": {
+      "message": "Ketik pintasan"
+   },
+   "unavailableError": {
+      "message": "Galat: Penggunaan jasa melebihi batas. Tunggu beberapa saat dan coba lagi."
+   },
+   "unknownError": {
+      "message": "Galat: Tidak diketahui"
+   },
+   "waitTime2CaptionLabel": {
+      "message": "Jika diterjemahkan berkali-kali dalam waktu singkat, mungkin untuk sementara akan tidak dapat digunakan."
+   },
+   "waitTimeCaptionLabel": {
+      "message": "Tentukan waktu tunggu dari masukan huruf sampai mulai penerjemahan. (milidetik)"
+   },
+   "waitTimeLabel": {
+      "message": "Waktu tunggu terjemahan"
+   },
+   "webPageLabel": {
+      "message": "Laman web"
+   },
+   "whenSelectTextLabel": {
+      "message": "Perilaku saat memilih teks"
+   },
+   "widthLabel": {
+      "message": "Lebar"
+   }
+}

@@ -1,0 +1,371 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android-Smartphones"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple-Smartphones"
+   },
+   "button_feedback": {
+      "message": "Bewertung hinzufügen"
+   },
+   "button_message": {
+      "message": "Senden Sie uns eine Nachricht"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "Aktivieren Sie die mobile Ansicht auf dieser Seite"
+   },
+   "copie": {
+      "message": "Kopie"
+   },
+   "copied": {
+      "message": "Kopiert"
+   },
+   "extDescription": {
+      "message": "Smartphone- und Tablet-Simulator auf dem Computer mit mehreren Modellen zum Testen mobiler responsiver Websites."
+   },
+   "extName": {
+      "message": "Mobiler Simulator – reaktionsschnelles Testtool"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "Stornieren"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "Hinzufügen eines Geräts in einem neuen Fenster"
+   },
+   "menu_change_device": {
+      "message": "Gerät wechseln"
+   },
+   "menu_close_alone": {
+      "message": "Deaktivieren Sie den Simulator"
+   },
+   "menu_close_multi": {
+      "message": "Dieses Fenster schließen"
+   },
+   "menu_faq_all": {
+      "message": "Alle häufig gestellten Fragen anzeigen"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Wie aktiviere ich den Simulator im Inkognito-Modus?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Meine Medienabfragen funktionieren nicht"
+   },
+   "menu_faq_scroll": {
+      "message": "Im Simulator kann nicht gescrollt werden"
+   },
+   "menu_faq_shortcut": {
+      "message": "Wie konfiguriere ich Tastaturkürzel?"
+   },
+   "menu_faq_subscription": {
+      "message": "Warum mein Abonnement nicht funktioniert"
+   },
+   "menu_faq_title": {
+      "message": "Häufig gestellte Fragen"
+   },
+   "menu_help_center": {
+      "message": "Hilfe-Center"
+   },
+   "menu_info_device": {
+      "message": "Funktionen und Modell dieses Telefons (Ansichtsfensterauflösung usw.)"
+   },
+   "menu_info_device_features": {
+      "message": "Funktionen (Ansichtsfensterauflösung usw.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Kostenloses transparentes PNG-Modell"
+   },
+   "menu_report": {
+      "message": "Fehler melden"
+   },
+   "menu_rotate": {
+      "message": "Ändern der Ausrichtung"
+   },
+   "menu_screencast": {
+      "message": "Starten eines Tabulatordatensatzes"
+   },
+   "menu_screenshot": {
+      "message": "Machen Sie einen Screenshot"
+   },
+   "menu_send_improvement": {
+      "message": "Schlagen Sie eine Verbesserung vor"
+   },
+   "menu_send_message": {
+      "message": "Hilfe-Center"
+   },
+   "menu_settings": {
+      "message": "Einstellungen"
+   },
+   "menu_share": {
+      "message": "Teilen Sie es mit einem Kollegen, einem Freund, ..."
+   },
+   "menu_theme_day": {
+      "message": "Aktivieren Sie den Tagmodus"
+   },
+   "menu_theme_night": {
+      "message": "Aktivieren Sie den Nachtmodus"
+   },
+   "menu_vote_feature": {
+      "message": "Stimmen Sie für die gewünschten Funktionen"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_15_h1": {
+      "message": "Seien Sie der Erste, der das iPhone 15 PRO (virtuell) nutzt"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Information\u003C/strong>Touch-Scroll ist in diesem Simulator nicht verfügbar, aber Sie können die \u003Cstrong>Bildlaufleiste anzeigen\u003C/strong>, wenn Sie kein Mausrad oder Trackpad zum Scrollen haben.\u003Cbr>\u003Cbr>Dies ist eine Option in den Einstellungen unten rechts \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_0_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.0\u003C/strong>Wichtiges Update bezüglich Videoaufnahme. Neue Videoformate und unbegrenzte Aufnahmezeit! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_0_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.0\u003C/strong>Korrekturen bezüglich Anzeigeproblemen im Simulator."
+   },
+   "notification_update_title_v4_1_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.1\u003C/strong>3 neue aktuelle Geräte (in der PRO-Version). Google Pixel 8, Samsung Galaxy S24 und ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_1_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.1.2\u003C/strong>Mehrere Fehlerbehebungen bezüglich der Konvertierung von Videoaufnahmen"
+   },
+   "notification_update_title_v4_2_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.2\u003C/strong>Sie können Ihre Websites jetzt mit dem neuesten iPhone 16 testen.\u003C/strong> \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_2_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.2.2\u003C/strong>\u003Cstrong>Korrekturen\u003C/strong> bezüglich der Generierung von Videoaufnahmen sowie Screenshots ganzer Seiten"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Sonderangebote"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktivieren Sie die Option"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Dieser Simulator kann standardmäßig nicht für lokale Dateien (file:///) aktiviert werden, Sie können die Option jedoch manuell auf der Chrome-Einstellungsseite aktivieren."
+   },
+   "popup_message": {
+      "message": "Wechseln Sie das Gerät und finden Sie alle Optionen über das Menü auf der rechten Seite des Simulators"
+   },
+   "popup_site_incompatible": {
+      "message": "Dieser Simulator kann auf dieser nativen Chrome-Seite nicht aktiviert werden. Versuchen Sie es auf einem anderen Tab. Oder durchsuchen Sie eine Website und starten Sie sie erneut."
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Unbegrenzte Tab-Datensätze"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Anzeigen entfernen"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Jährliche Abrechnung"
+   },
+   "pro_modale_button": {
+      "message": "Abonnieren"
+   },
+   "pro_modale_from": {
+      "message": "Ab"
+   },
+   "pro_modale_h1": {
+      "message": "Werde ein PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Anzeigen entfernen"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konvertieren Sie Ihre Videoaufnahmen in die Formate GIF und MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Alle Geräte simulieren"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Sie haben das Limit von 5 Tab-Einträgen pro Tag erreicht"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Alle Einstellungen entsperren"
+   },
+   "pro_modale_h2": {
+      "message": "Werden Sie PRO und tragen Sie aktiv zur Entwicklung dieser Erweiterung bei."
+   },
+   "pro_modale_link_1": {
+      "message": "Oder"
+   },
+   "pro_modale_link_2": {
+      "message": "einloggen"
+   },
+   "pro_modale_link_3": {
+      "message": "auf Ihr Konto"
+   },
+   "pro_modale_recurring_month": {
+      "message": "Monat"
+   },
+   "pro_modale_savings": {
+      "message": "Sparen sie"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "Würden Sie diese Erweiterung empfehlen?"
+   },
+   "review_note_feedback": {
+      "message": "Vielen Dank für Ihr Feedback. Senden Sie uns gerne eine Nachricht, damit wir diese Erweiterung verbessern können."
+   },
+   "review_note_store": {
+      "message": "Vielen Dank für Ihr Feedback. Gerne können Sie eine Bewertung im Google Store hinzufügen. Ich wäre sehr dankbar 😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "Beim Aufzeichnen der Tabulatortaste ist ein Fehler aufgetreten. {Klicken Sie hier}, um eine Problemumgehung zu erhalten."
+   },
+   "screencast_generation": {
+      "message": "Erstellung des GIF läuft"
+   },
+   "screencast_modale_contact": {
+      "message": "Melden Sie einen Fehler, einen Vorschlag, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Kopie"
+   },
+   "screencast_modale_download": {
+      "message": "Herunterladen"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Überall kompatibel, aber geringere Qualität"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Bessere Kompatibilität mit PowerPoint, Keynote usw."
+   },
+   "screencast_modale_download_webm": {
+      "message": "Im Standard-WEBM-Format herunterladen"
+   },
+   "screencast_modale_texte": {
+      "message": "Sie können dieses Video in verschiedenen Formaten herunterladen oder einen Freigabelink erhalten."
+   },
+   "screencast_modale_title": {
+      "message": "Registerkarte „Datensatz“"
+   },
+   "screencast_modale_upload": {
+      "message": "Auf den Server hochladen und den Freigabelink erhalten"
+   },
+   "screencast_onboarding_close": {
+      "message": "Schließen"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Erstellen Sie mit 1 Klick ein mobiles Video im GIF-Format (max. 20 Sekunden)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Registerkarte „Datensatz“"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "Screenshot mit dem Geräterahmen"
+   },
+   "screenshot_menu_2": {
+      "message": "Screenshot ohne Geräterahmen"
+   },
+   "screenshot_menu_3": {
+      "message": "Screenshot der gesamten Seite"
+   },
+   "screenshot_modale_copy": {
+      "message": "Bild in die Zwischenablage kopieren"
+   },
+   "screenshot_modale_help": {
+      "message": "Um das Bild mit einer guten Auflösung zu speichern, können Sie einfach mit der rechten Maustaste darauf klicken und dann „Bild kopieren“ oder „Bild speichern unter“ wählen."
+   },
+   "screenshot_modale_title": {
+      "message": "Screenshot"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_batterie_level": {
+      "message": "Batteriestand in der Anschlussleiste (%)"
+   },
+   "settings_change_analytics": {
+      "message": "Ich unterstütze den Entwickler dieser Erweiterung dabei, sein Produkt dank Google Analytics zu verbessern. Die Daten sind anonym."
+   },
+   "settings_change_background": {
+      "message": "Ändern der Hintergrundfarbe"
+   },
+   "settings_change_cursor": {
+      "message": "Ändern Sie den Cursorstil im Gerät nicht"
+   },
+   "settings_default_device": {
+      "message": "Standardgerät jeder neuen Aktivierung"
+   },
+   "settings_device_hide": {
+      "message": "Gerät ausblenden"
+   },
+   "settings_hide_header_footer": {
+      "message": "Kopf- und Fußzeile des Browsers im Gerät ausblenden (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Zeigen Sie die gefälschte Tastatur nicht an"
+   },
+   "settings_presenter_mode": {
+      "message": "Präsentationsmodus (rechtes Menü wird nur beim Hovern angezeigt)"
+   },
+   "settings_scrollbar_show": {
+      "message": "Zeigen Sie die native Bildlaufleiste im Gerät an (wenn Sie kein Trackpad oder Mausrad haben)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "Ist diese Erweiterung für Sie nützlich?"
+   },
+   "sharing_h2": {
+      "message": "Teilen Sie es also mit Ihren Kollegen oder Freunden"
+   },
+   "sharing_review_1": {
+      "message": "Und wenn Sie eine Minute Zeit haben,"
+   },
+   "sharing_review_2": {
+      "message": "Bewertung hinzufügen"
+   },
+   "sharing_review_3": {
+      "message": "Ich wäre Ihnen sehr dankbar 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Ich füge eine Bewertung hinzu"
+   },
+   "sharing_txt": {
+      "message": "Simulator zum Testen Ihrer Site auf Smartphone und Tablet"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "Dies ist ein gefälschtes Element. Verwenden Sie Ihre eigene Tastatur."
+   },
+   "simulator_header_info": {
+      "message": "Dies ist ein gefälschtes Element. Um die URL zu ändern, verwenden Sie einfach das Chrome-Textfeld oben."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tabletten"
+   }
+}

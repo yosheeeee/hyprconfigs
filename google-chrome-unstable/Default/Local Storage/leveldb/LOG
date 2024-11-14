@@ -1,0 +1,6 @@
+2024/11/12-12:25:30.415 4 Reusing MANIFEST /home/yoshee/.config/google-chrome-unstable/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/12-12:25:30.420 4 Recovering log #13
+2024/11/12-12:25:30.420 4 Reusing old log /home/yoshee/.config/google-chrome-unstable/Default/Local Storage/leveldb/000013.log 
+2024/11/12-12:25:43.971 5 Level-0 table #17: started
+2024/11/12-12:25:43.980 5 Level-0 table #17: 43091 bytes OK
+2024/11/12-12:25:43.982 5 Delete type=0 #13

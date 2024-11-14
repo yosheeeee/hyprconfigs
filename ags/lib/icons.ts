@@ -15,8 +15,10 @@ export const substitutions: substitutions = {
 		"de.shorsh.discord-screenaudio": "discord",
 		"org.pwmt.zathura": "x-office-document",
 		"code-url-handler": "visual-studio-code",
-		"dev.zed.Zed": "zed",
+		"dev.zed.Zed": "dialog-xml-editor-symbolic",
 		"": "preferences-desktop-display",
+		"YandexMusic": "yandex-music",
+		"Google-chrome": "google-chrome-unstable", "": "preferences-desktop-display",
 	},
 	titles: {
 		"io.github.Rirusha.Cassette": "Cassette",

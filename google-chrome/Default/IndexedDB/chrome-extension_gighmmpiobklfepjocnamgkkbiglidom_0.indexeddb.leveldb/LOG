@@ -1,2 +1,3 @@
-2024/11/14-14:01:03.624 1bb8 Creating DB /home/yoshee/.config/google-chrome/Default/IndexedDB/chrome-extension_gighmmpiobklfepjocnamgkkbiglidom_0.indexeddb.leveldb since it was missing.
-2024/11/14-14:01:03.632 1bb8 Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/IndexedDB/chrome-extension_gighmmpiobklfepjocnamgkkbiglidom_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-00:22:15.336 1e7a Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/IndexedDB/chrome-extension_gighmmpiobklfepjocnamgkkbiglidom_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-00:22:15.336 1e7a Recovering log #4
+2024/11/15-00:22:15.336 1e7a Reusing old log /home/yoshee/.config/google-chrome/Default/IndexedDB/chrome-extension_gighmmpiobklfepjocnamgkkbiglidom_0.indexeddb.leveldb/000004.log 

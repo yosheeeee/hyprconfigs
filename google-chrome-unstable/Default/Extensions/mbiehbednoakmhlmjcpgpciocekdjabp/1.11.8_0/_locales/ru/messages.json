@@ -1,0 +1,110 @@
+{
+   "4pdaLink": {
+      "message": "\u003Ca target='_blank' href='//4pda.to/forum/index.php?showforum=916'>4PDA\u003C/a>"
+   },
+   "Activated": {
+      "message": "Активирована"
+   },
+   "Thx4sup": {
+      "message": "Спасибо за поддержку!"
+   },
+   "Whait": {
+      "message": "Ожидайте"
+   },
+   "boostyPage": {
+      "message": "\u003Ca target='_blank' href='https://boosty.to/miwifi'>Boosty\u003C/a>"
+   },
+   "contSupport": {
+      "message": "Поддержи разработку плагина\u003Cbr/>Активируй \u003Ca target='_blank' href='https://boosty.to/miwifi/posts/bd0c1793-7dc4-4588-8edc-83c74f0f533f' style='color: #5288ff' title='Для доступа к функционалу сайта из некоторых стран может потребоваться прокси (VPN)'>Pro режим\u003C/a> всего за 50 руб!\u003C/p>\u003Cp style='padding: 15px'>\u003Ca target='_blank' style='color:#5288ff' href='https://boosty.to/miwifi/posts/3c468cd0-be15-4ee7-9e5b-e578b2da7b89'>Как восстановить активацию\u003C/a>"
+   },
+   "extDescription": {
+      "description": "Описание расширения в manifest",
+      "message": "Переводчик китайской прошивки Xiaomi роутера. Работает оффлайн. Не требует настройки."
+   },
+   "extName": {
+      "description": "Название расширения в manifest",
+      "message": "RUMIWIFI"
+   },
+   "passEnter": {
+      "message": "Пароль маршрутизатора"
+   },
+   "passEnterHere": {
+      "message": "Введите пароль сюда"
+   },
+   "popBlueTheme": {
+      "message": "Синяя Тема"
+   },
+   "popDarkTheme": {
+      "message": "Черная Тема (Pro)"
+   },
+   "popDomainTitle": {
+      "message": "Задать адрес вручную \u003Ci class='info' title='В случаи если Ваш роутер находится на специфическом IP или плагин не срабатывает, просто добавьте его адрес.'>i\u003C/i>"
+   },
+   "popLang": {
+      "message": "Язык перевода"
+   },
+   "popLangEn": {
+      "message": "Английский (Авто)"
+   },
+   "popLangNo": {
+      "message": "Оригинал"
+   },
+   "popLangRu": {
+      "message": "Русский"
+   },
+   "popNotWork": {
+      "message": "\u003Ca target=\"_blank\" href=\"https://boosty.to/miwifi/posts/7374614b-72bb-45b7-b3c3-8e8b5f35b953\">Не работает перевод?\u003C/a>"
+   },
+   "popPro": {
+      "message": "Pro версия: "
+   },
+   "popProActivate": {
+      "message": "Активировать"
+   },
+   "popProNot": {
+      "message": "Не активна"
+   },
+   "popShDesc": {
+      "message": "Плагин переводит интерфейс \u003Cu>китайской\u003C/u> прошивки роутера Xiaomi. Подробнее о RUMIWIFI читайте на \u003Ca href=\"https://boosty.to/miwifi\" target=\"_blank\">странице плагина\u003C/a>."
+   },
+   "popShName": {
+      "message": "RUMIWIFI"
+   },
+   "popThemeTitle": {
+      "message": "Тема админ панели"
+   },
+   "proVer": {
+      "message": "RUMIWIFI - Pro версия"
+   },
+   "pubVer": {
+      "message": "RUMIWIFI - Публичная версия"
+   },
+   "restoreNeedAuth": {
+      "message": "Для активации плагина RUMIWIFI, необходимо авторизоваться на сайте Boosty!\u003Cbr/>\u003Csmall>Если вы уже вошли, попробуйте снова.\u003C/small>"
+   },
+   "restoreNoMail": {
+      "message": "Ваш email на Boosty не подтвержден!\u003Cbr/>\u003Csmall>Подтвердите его и попробуйте снова.\u003C/small>"
+   },
+   "restoreProCreated": {
+      "message": "PRO подписка на RUMIWIFI успешно активирована!"
+   },
+   "restoreProError": {
+      "message": "RUMIWIFI не смог активировать/восстановить PRO статус. Если Вы новый пользователь, прочитайте информацию о том как активировать подписку на текущей странице.\u003Cbr/>\u003Csmall>Если ранее Вы уже получали Pro версию, обратетиесь в \u003Ca style='color:#333' href='mailto:pedanto.com@gmail.com?subject=Помощь с активацией RUMIWIFI'>поддержку\u003C/a>\u003C/small>"
+   },
+   "restoreProRestored": {
+      "message": "Подписка на RUMIWIFI успешно восстановлена!"
+   },
+   "routersList": {
+      "message": "Новые роутеры"
+   },
+   "seconds": {
+      "message": "секунд"
+   },
+   "shortName": {
+      "description": "Краткое название расширения в manifest",
+      "message": "RUMIWIFI русификатор Xiaomi роутера"
+   },
+   "telegramChat": {
+      "message": "\u003Ca target='_blank' href='https://t.me/rumiwifi'>Телеграм\u003C/a>"
+   }
+}

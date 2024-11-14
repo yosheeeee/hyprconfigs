@@ -1,0 +1,231 @@
+{
+   "checksum": "cc5dcfa3d40ad7264043c40d9613592b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13109403393981941",
+            "date_last_used": "0",
+            "guid": "45b61089-31e5-44f9-a0eb-5e1c84a2716f",
+            "id": "12",
+            "name": "Google",
+            "type": "url",
+            "url": "https://www.google.ru/?gfe_rd=cr&ei=7A1RV9mmM8aFzAXx27rIDg&gws_rd=ssl"
+         }, {
+            "date_added": "13319562600971285",
+            "date_last_used": "0",
+            "guid": "38bbbf7a-974f-4517-bfe8-cefbed4bb798",
+            "id": "13",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13319562600972188",
+            "date_last_used": "13371376545705322",
+            "guid": "42be0280-53d2-430b-aba7-6256ba73dd5e",
+            "id": "14",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13292924226420457",
+            "date_last_used": "0",
+            "guid": "35b7d326-c07f-4d90-aa0a-69dd857214fc",
+            "id": "15",
+            "name": "Перевести",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13313612239000000",
+                  "date_last_used": "0",
+                  "guid": "3149cdab-337a-47f8-a7fc-e509f3232347",
+                  "id": "18",
+                  "name": "Приступим",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/firefox/central/"
+               }, {
+                  "date_added": "13306604102000000",
+                  "date_last_used": "13320067905286904",
+                  "guid": "ca15d647-48fc-4968-82cc-f15393f460f9",
+                  "id": "19",
+                  "name": " Smart LMS",
+                  "type": "url",
+                  "url": "https://smartedu.hse.ru/"
+               }, {
+                  "date_added": "13307038399000000",
+                  "date_last_used": "0",
+                  "guid": "bd2718b8-6b15-4831-ac35-bd57efdeda5a",
+                  "id": "20",
+                  "name": "METANIT",
+                  "type": "url",
+                  "url": "https://metanit.com/"
+               } ],
+               "date_added": "13320066626315669",
+               "date_last_used": "0",
+               "date_modified": "13320066626315669",
+               "guid": "4192f30b-7d46-4c10-b947-374ad6a51d25",
+               "id": "17",
+               "name": "toolbar",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13313612239000000",
+                  "date_last_used": "0",
+                  "guid": "44e7f77d-8248-4b9b-841e-7115ecb9cb3d",
+                  "id": "22",
+                  "name": "Получить помощь",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13313612239000000",
+                  "date_last_used": "0",
+                  "guid": "831264e7-1667-4d0c-8522-485339897b57",
+                  "id": "23",
+                  "name": "Настроить Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13313612239000000",
+                  "date_last_used": "0",
+                  "guid": "6936f8b6-b383-46ca-b7b8-14f16dd8c330",
+                  "id": "24",
+                  "name": "Присоединиться",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13313612239000000",
+                  "date_last_used": "0",
+                  "guid": "71cbaaca-a119-4d3a-a95d-9880e9e3a023",
+                  "id": "25",
+                  "name": "О нас",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               }, {
+                  "date_added": "13321455846006118",
+                  "date_last_used": "0",
+                  "guid": "6e87f7fe-a0af-40e4-9105-faf7c1b87dbc",
+                  "id": "26",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Проги – Google Диск",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/1zkK-X2XsBkXfOf-U98QO0NH7MCXxved0"
+               } ],
+               "date_added": "13320066626315772",
+               "date_last_used": "0",
+               "date_modified": "13321455846006118",
+               "guid": "296dbcd6-590f-45a6-bfb3-11268e418d69",
+               "id": "21",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13320066626315259",
+            "date_last_used": "0",
+            "date_modified": "13320066626315259",
+            "guid": "c6fb1da8-9dc2-41b8-babc-8dd9643d50ff",
+            "id": "16",
+            "name": "Импортированные из Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13370937705477253",
+         "date_last_used": "0",
+         "date_modified": "13319562600972188",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13343214339440938",
+            "date_last_used": "0",
+            "guid": "9c937d3c-ec43-46c7-88c9-d3e54a8225c4",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "UnitedLearnPlan_6564388615.pdf",
+            "type": "url",
+            "url": "https://www.hse.ru/dbs/education/UnitedLearnPlan_6564388615.pdf?_gl=1*1vkhtjt*_ga*MTk3MDQ2MTM5LjE2OTc4MjI5MzU.*_ga_D145P1R4PL*MTY5ODc0MDM5Ni41LjEuMTY5ODc0MDUzNC41Ny4wLjA."
+         }, {
+            "date_added": "13343772325654954",
+            "date_last_used": "0",
+            "guid": "02790fde-1c87-424b-96b4-ca5bb30109b7",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "border",
+            "type": "url",
+            "url": "https://getbootstrap.com/docs/5.3/utilities/borders/"
+         } ],
+         "date_added": "13370937705477255",
+         "date_last_used": "0",
+         "date_modified": "13343772325654954",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13143740078927071",
+            "date_last_used": "0",
+            "guid": "232f7bed-94eb-461e-887f-9440926f4e99",
+            "id": "7",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=288&clid=2256818-1&utm_source=distribution&utm_medium=bookmark_none&utm_campaign=ru"
+         }, {
+            "date_added": "13143740078927078",
+            "date_last_used": "0",
+            "guid": "3bd15667-763d-4128-929d-72477bb20d36",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13169476188124491"
+            },
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=288&clid=2256818-1&from=dist_bookmark"
+         }, {
+            "date_added": "13158300747717897",
+            "date_last_used": "0",
+            "guid": "329e699a-4582-4ccb-bc6a-e24880f0e2c7",
+            "id": "9",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=286&clid=2255400-225&utm_source=distribution&utm_medium=bookmark_none&utm_campaign=ru"
+         }, {
+            "date_added": "13158300747717901",
+            "date_last_used": "0",
+            "guid": "edbfc935-449d-4f64-b550-736b78381543",
+            "id": "10",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=286&clid=2255400-225&from=dist_bookmark"
+         }, {
+            "date_added": "13323425649494483",
+            "date_last_used": "0",
+            "guid": "9212c3ec-9279-4f64-8257-1b056f8ff02b",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Новая вкладка",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         } ],
+         "date_added": "13370937705477256",
+         "date_last_used": "0",
+         "date_modified": "13323425649494483",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCSkpYeybIgYAESkpYeybIgYAKVGzY+ybIgYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAP5W5psiBgARAP5W5psiBgApn7Nj7JsiBgAwgPzbsr7TiAMSACoYWnVDdDdjazdwWXRodXhWRWlPeFBaUT09SAMS6wEIBRLmAQocbVlTUmVjL1JuSERBd3RZdktSS3ZuNHZLd3ZjPRJmWjpBRHF0QVp5cGh5WjlrSi95aGIvMkZzREFjRmRCTVpIQlRScUp4M202UHJWUDJidmFzanNPcHAzWDhLek1LdUlrTkhhcDlHNWgzVGxXa3o0TXQvRFgycjAvbmVnWDczTWRNQT09GAAgACgAMNryyLPun4IDOPG62qa4MUDxutqmuDFKHEEvMFBlMktkbWRwZElWUmlMM3QvNlh3QnJVaz1aHiIcWEY4dVdDWDJuUWJyQzNFUS9kL0lhK2ViRmpNPWWQJat5EsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad3ZDeVZQL2xyUitWdzg3MDVIcUdFcHg0MVRySzZjenE1OWF1RjVwa1JmcWZaVmducnFreUVvZ3FvbVB2c0NoM2ZHbzlKTkw0TExoTFhoKzFoTkQ4cGtrMFIzTmc9PRgAIAAoADCsr9OP3MaIAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCBES5gEKHERtcFVuQkFBbWF4TWM2RUZ3UStmdUJTOUUzcz0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQkZCS2d4Z2VRdGlTSVp0b1M2dENISVRteXV3RStNd0IzamFUY0R4S1Y4SjFyWGQ4b1A0RUxLWUR2RVdLVml4QTBLY01hRGc9PRgAIAAoADDe5IHHl/78AjiLloKJ4jBAi5aCieIwShxlR1QrZlBtalNVR3c3VzFvTm02Und4bnliL2M9Wh4iHEhBZ0VCSWFjajhWMkVCYXFMcFhPZXhVbTRQND1lAAAAABKsAggHEqcCChxpb0w4eGJOTGg1ejAvaCtSajlzcVVQV3RwbzQ9EqYBWjpBRHF0QVp5MWJJQmd5WVlQNWw1WW1ZNFk0dlBRTFhhWTR5SVhOWndBRWZIWGMvY2JzSVFGOCtkeUdFa3hMN1VULzIzSHpvdnkwdWlYZkJrbkIvQnE5dzdVU2VldTZNZU5MaTFQS2E3aExQRmdZNVRYQ3hhb1g2UWlhL2pCYnNmS2ZrVUEyOFZ3bGphVkNFVW1ieUxodW5mMlNvZk9EY2pqZHc9PRgAIAAoADDmg6LRyrT0Ajj07vuZ0StA9O77mdErShxjUlBpM0E2YVBnR3M2Vy9BRVJFZ1p4WXBFZEE9Wh4iHC91U0hZV2dQZmhwR0NURWVpekw1RWNPcUVDdz1liqFvaxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnkvRW93bGQ4QWZxbGhCWm1LREdPR1NSSjFEWEZNMUZZYWtIUXFPVHNTVEgwUzJVMFBlN25UWjNLUVAxb1pteHQwSk5ocGJQT1NHTk1NMURmTXhuMjQ5UXpjOUNBPT0YACAAKAAwrK/Tj9zGiAM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgLEucBChx5U200T2FZMlJiUEJlanRFTlIrNTJ4Rm12STA9EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJnSEpKTW95VW9NWW15bFNENWFHRjlPUi9objVJU0p4VUNGaGxoZjZJeXdyVENZNGdSRjd2cEp4aTF6a1BzTTk1RWpKNEJRPT0YACAAKAAw8+q85Pff/QI429bcyu4wQNvW3MruMEoceU04T0VMTkt0ekNaS3UzRUxtVTZqZ2RzbDFVPVofIh3tQ0hBYSt4RkhTc0xWTkpPdGNhek45ay9kN3NNPWUAAAAAEuwBCBQS5wEKHGhsS1NnYk9qOEJtbVNoUnZ6cUMwWGtPa1lWUT0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQnZkbVpBd1ptR0p2alJDWWtUaXlEN0IzWm1pQSttcnYrcXBqbDUxNThQYUE0My9nd2FQZmpkTG93bGZ6dExGNm9hSEtpeEE9PRgAIAAoADCjsZnYvL39AjiLloKJ4jBAi5aCieIwShxFeExGZWVxOGNBd2ZvTDBteFVERTJvYTU5dlE9Wh8iHdUvT01CUEJaZzU2cGRzTG0yKzc2U1lJejI5L0k9ZcekRtUSrAIICBKnAgoccHdyTWpKeld2TmpUMGN2cU5RTU94Y0VyMng0PRKmAVo6QURxdEFaeTFiSUJneVlZUDVsNVltWTRZNHZQUUxYYVk0eUlYTlp3QUVmSFhjL2Nic0ZFcFVsUERRUEwvMUFFaFV4S2g2UU5nRTRVaktYcjFueDNKdFRVVk9ZQjlQTlhZRXRzRkh2YlBqNmxtdWIzK1ZBTWZSTis1aVRHYWl2cE56NzIvNmV3VTFiZzJidFhCUGxDZFllRDJ2d0lTSXVYM1Z3PT0YACAAKAAw5oOi0cq09AI49O77mdErQPTu+5nRK0ocQXlsc3p5THJjeCtlaFZ6L3FkUHp1bGQrMU9nPVoeIhxpVkwza0ZweVVUREdaemJ3K1lmNGJlL3c2WWs9ZRC8mh4SrQIICRKoAgocQVFHSzBVVWVwWVIyelFHQmdtQmo5SnV5Sm1nPRKmAVo6QURxdEFaeTFiSUJneVlZUDVsNVltWTRZNHZQUXlDV3Q1dUJwY2hyc3VURWFaV3E2TGlJWG5zSjEvL0pkSVByMlNpUUQ1dVo5T2drUUJMQkFaUXZiMkd4SEpMemRkenZUZ2xLTkhZWUNxaVhtMk5tclk0NDl3WE1adytEUXpwdzlldVliaVdrMXR3aSsvRG1WTmd3NVUrbDlvYUE4MjBSYldnPT0YACAAKAAw5oOi0cq09AI4n9Lmj58sQJ/S5o+fLEocU1J2dWdpQmRwbUd3ei9Sbnp0RXJTQVhYNW93PVofIh20MTZkeXowYzQvUmpVd3RxMWZzRFErZTlDOXhvPWUAAAAAEusBCBYS5gEKHGppMXc0V1FMTHlucTdUek1laUZ0cFl1eDNlND0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQjgrWVlIdW0wWk9kQWhnRUpoOXJFcjRvdHZwaXVGOHdaNVlXd21FS0tidHpoeE8xSFFpVVF0UFJpK3ZyM2VQUVFYSjZzSEE9PRgAIAAoADCV5ZfHl/78AjiLloKJ4jBAi5aCieIwShxSY0FabTJLTE9YUHJ4b21sVWZ2YXR1YzJLZ289Wh4iHGt5VnZRY0pJMXQzOGJlUlI5cENoSUlpK3FYST1lAAAAABLuAQgNEukBChxzZTd5Q29QN0RPeWFTN1JxQjRSa0QzQjdMUm89EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJCQVpKZjdmVWtRQ3VRZXNsS1BXbE5aeVJjek02V2FFNytmNjREMWJLRGs5VWFLM3lRQ2FNQ2Z1cHFqeDBXb1poaVpPMXVBPT0YACAAKAAw8bGf4IKPhQM4kfDD+vwvQJHww/r8L0oceitDUmMybmNKZ0J0VU15TmszR0NCVC9uc3RFPVohIh///7VkZU8vMkE2amdMV3VxMlN1ZXM2NmRHZGZRQTA9ZZs9hbYSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3ZmlFSG5DSmlaeG9PbWU2eVNiSVcyYWZUOFZMSm4zU0VvNnE2R0FTeUM4UnVDQ1lOVjUvMjI0YzVlYnJCemR5WjRJVi84GAAgACgAMKyv04/cxogDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIGRLnAQocNWRTd09IWmpPdmVlSHBRWHVjTXZDcndyNkw4PRJmWjpBRHF0QVp5cGh5WjlrSi95aGIvMkZzREFjRmRCdm1TdWIrdVFDaEVJUkp1Mm1zNXBzQjJvZVhwTnpOaFN2SzlDaTZBTXV5a2xLeUlwMFlDZERoMlVpdTFHWTZXcHhzSDVadz09GAAgACgAMJXll8eX/vwCOIuWgoniMECLloKJ4jBKHDh5cW4zMWdVKzZ5L0pOUitzZEk4SlRWaWd1ND1aHyId3XhqT2hBT0xXa1owUHJQcUZCUWpONEJuczNUVT1lAAAAABLuAQgQEukBChw5Y0tObm5hWkxyVktyK3ZnQ2FCckxmOUgxLzA9EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJWbmZMVTVPTDY2L0lTK01JYzRZQlN4UkllTTRJa2F0RXlVdytqdkY2TXdFK3FadnYzNFAraDlOanhSSlhWbWFmSHY1bDFnPT0YACAAKAAw3uSBx5f+/AI4i5aCieIwQIuWgoniMEocNEZxci83aU9oY1FnRjlWNi9QanNNT0tjY2lFPVohIh////ZpeVFoNkptS2M4Myt6S3FOQmNUK3BJdFZFenc9ZQAAAAAS7AEIBhLnAQocalRSaGZlVnB4RjB5Wi9JOEhOM2VyRTEyUElFPRJmWjpBRHF0QVp5cGh5WjlrSi95aGIvMkZzREFjRmRCL0NaMkpkL1pvTXVTekMwMkE1bDluZHYycmRzTWl3Sy9LczB0RFZPRStQT0FhNUF6ZzkzakUwWDlPQkFXL2RpblFSdEJ6QT09GAAgACgAMMHP6YiNsIIDOJee47C6MUCXnuOwujFKHGdwakdVTnJIT2lpVXU5NElKc1I3TkpRcW8zVT1aHyIdrDBnN3V2R2Z0SWRsc09QNk9JRVcrcFNjSi8xTT1lrV2HWBLsAQgTEucBChxGR0R6Mk5wbzJJWDFiTWVESVlIa0VrYzUySWc9EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJiaVlwSzRoNGJUODJiRW1JNWk1QWNlQjVhUmkwa1VFeTVhbVNOSzhocDF0RnpnQ0dySmx3SDcrdHg2Z2FSSVJaVDlLajVBPT0YACAAKAAw8YWrw9X7gwM4i5aCieIwQIuWgoniMEoca0lHc2JaZlFvWGJEeFVoS0JGMThNVHNJNGhZPVofIh2qTS9adldKajVBWTN5ajBIQTVkV3pjaENMSmxvPWXubR4DEu4BCA8S6QEKHFZmdk5EK2s5ZGRsK0s2L3pGVDd3VmxYRVlGMD0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQmRwdlRoMXRXMW42OUZYekl4RFpselorc0NUOXUrMnloNmczUjhkWG85d2FkQk1rZUw2QjloUVlSTnBpYUZnNjRXelpUa3c9PRgAIAAoADDxsZ/ggo+FAziR8MP6/C9AkfDD+vwvShw3ZytNaTJ6a0h6eVhLRlhLWW54Vk1ha3BKZjg9WiEiH///7XVCdHdtYjE3Tmc3blZ3S25nNE9ucVY1ZGlacz1lxc+QARKtAggKEqgCChxHeHJQZTZBWlhRQ01xaENQUTVXRzlqdWdWblU9EqYBWjpBRHF0QVp5MWJJQmd5WVlQNWw1WW1ZNFk0dlBReUNXdDV1QnBjaHJzdVRFYVpXcTZMaG55bDN2Y25BMkg3OHJWT3JZNWtzZUNaa25FK0dXelRpaXZpakpSSEhRUW1lb2lvVVZaTmdVRTVPa20zNXVOQ0UxbUgvbWZaTVVicnNFdzhDeldSaTE1M2ZXK2dGcTBMa2ZnL0xKbytWSEtrczJodUE9PRgAIAAoADDmg6LRyrT0Ajif0uaPnyxAn9Lmj58sShxMQzQvTUpCWmh1cHZIRVUvUEVmMXVRcFFKVG89Wh8iHdpxN0p2TkFKQnRqaXZwYzNHNkxjTzBYdnB2em89ZQAAAAAS6wEIEhLmAQocMFpBcm8zQXYyakNoRUpwZkt5Yzk4eU5uUXk0PRJmWjpBRHF0QVp5cGh5WjlrSi95aGIvMkZzREFjRmRCKzl6NDlBMS9QcC9UaXBwbDlrb2xLdE9iazU3MTNZTmZuL3V5WXBPV25NbEVlLy9WWHlPTnVMdXc1RmdiNFY5YmlrcFVadz09GAAgACgAMJXll8eX/vwCOIuWgoniMECLloKJ4jBKHHJ3VWs3MjFndE5tcU1mK0d5MlZWRSt3aGNVcz1aHiIcVXU1Y3NVbTZoditsdno3WTdscndTOVVpcHlNPWUAAAAAEusBCBUS5gEKHEQwU2ltQjBCcVZlVi92SHdOa0c4RnFkNGM5RT0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQklzK2V5TW8wVHhLRE9pQVBVQ0dXNktNa2lDRXRYYlRoeWtQZHo3cFlMNnBwSUViSEIvbEt6RlVZcVBJL2M0aFdlZUJDTVE9PRgAIAAoADDe5IHHl/78AjiLloKJ4jBAi5aCieIwShx5bERGR1dnTG8zYjlHbmY2SERIanNqOTRrd2c9Wh4iHFJuZkdpNHRFSnJIdHE0ZUpwcHRVSG05WERlaz1lAAAAABLrAQgXEuYBChwzSmFsR1RzUnppaXBOenZuaVlhVGZUS3UvMTQ9EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJNOFpuTlE2VHk5anZPNXZHWXNRM1dUTzF5QjJVeWIveW9PVWFMMVhLclNGdUlPaXluMWNxSFZMa2NzUldUcm8xdndjenBnPT0YACAAKAAwleWXx5f+/AI4i5aCieIwQIuWgoniMEocODBBdEpJcll5RVAzd3JSOUFuU3E1eWtoSDlrPVoeIhx0NUt1Mm41eFpTN1RJM2JoRHhaSUc5RWNmZ0k9ZQAAAAASrQIIDBKoAgocYnFzYWsvMWZhdWt0dTR2ekJiQTlCbkJuRHcwPRKmAVo6QURxdEFaeTFiSUJneVlZUDVsNVltWTRZNHZQUUxYYVk0eUlYTlp3QUVmSFhjL2Nic01HMzNCYXhqdlpPZlpRL1ZBWDc0SWk1R0YvaytOaFVEcHhxQVlLcG93K2hob1RFMlR6a0NDTGNYZTVaOStDVm01elVLZzlrWUZ4MUxnZEJsb0g4RHNWdVF0S0E0UVorWE1iTS9sQi80TmtGV2dXVnVnPT0YACAAKAAw8bGf4IKPhQM479Or3/4qQO/Tq9/+KkocSWIvM0I0WFMzeWNEOWozQnBoSHZ3ckVUR2lZPVofIh2oRys0cDJRVmNhL1pESVNld0Vua2lpTmhKRzNNPWUQMP/kEu4BCA4S6QEKHFhSeUxHSkJwcGpoRlZpYUNtaUhjWUJiOWtEdz0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQk80bm9MM0doQzVGeGF1NDdBME43Y2Q2Sjg0T3ZwMW5oc3lXMTZVQi9JNlA3TFFwL0FNV1ZGclh2Sy9PKzY1TWs3Z2RCNHc9PRgAIAAoADDxsZ/ggo+FAziR8MP6/C9AkfDD+vwvShxmdUg3Z3N1N013Uk5DVTNBVUNKVS9KNzVLNk09WiEiH///2jFRRTZtNVN1QkdvQ1lNeUc4QXZ1S1YyYjlyMD1lOPk5MxLsAQgYEucBChw2UktBTmxUODFXSmwxM0ZvS0tSS1NKL1FocFk9EmZaOkFEcXRBWnlwaHlaOWtKL3loYi8yRnNEQWNGZEJGdjNRbFA0Wm9XOWhxOWFQa1FmUkx0OVJnVDJSYlB4OElWbkRCVVhibGxNZC9yWUhSRUFvYk5qUVp3cEhnL3QzNjZiY1h3PT0YACAAKAAwleWXx5f+/AI4i5aCieIwQIuWgoniMEocUlc0cjFJdTBhMEdweGZRVlh5NkhBeGhTRXJrPVofIh26TTh1SlR5ZlNkeWpqRHNVZk5jbGp4S3NqVVdFPWUAAAAAEuwBCBoS5wEKHFdZbC9oaFBZejk2dGFDcG9naFREZ0xabGlVZz0SZlo6QURxdEFaeXBoeVo5a0oveWhiLzJGc0RBY0ZkQndTbWtFaXFSZ3NUdXBjNzBrZGZRckFZdlhYTUJybHVBd3lEZGV2eGxwOTc0NTdMbGZUemkrb3MxL3Q2dzI1NjFBT055bGc9PRgAIAAoADCzzMfuzab9Ajj2tLmf5zBA9rS5n+cwShw2UDRHckVTbUVaRjBKaUNZRFBzeUNpN0YxL0U9Wh8iHe55Z1FOU3BONnUzUWJqUnpmZ3V2SWMvdkdCVmc9ZfqR3tswATgA",
+   "version": 1
+}

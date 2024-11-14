@@ -1,0 +1,32 @@
+{
+   "description": {
+      "message": "Screenshot tool with screen video recording. Take screen capture with further edit, screenshot. Free Screen Recorder. Powerful screenshot & screen capture tool, take full page screenshot, annotate your screenshot."
+   },
+   "name": {
+      "message": "Screenshot - Screen Capture"
+   },
+   "popupDesc1": {
+      "message": "Screenshot will open in a new tab after completion!"
+   },
+   "popupDesc2": {
+      "message": "Failed to take a screenshot! Try reloading the page."
+   },
+   "popupDesc3": {
+      "message": "Cannot take a screenshot of this type due to Google Chrome policy. Try another page in your browser."
+   },
+   "rateDialogDesc": {
+      "message": "هل تمانع في تقييمنا على سوق Chrome الإلكتروني؟ شكرا لك!"
+   },
+   "rateDialogNo": {
+      "message": "ربما في المرة القادمة"
+   },
+   "rateDialogTitle": {
+      "message": "تطبيق مفيد لك؟"
+   },
+   "rateDialogYes": {
+      "message": "حسنا بالطبع"
+   },
+   "short_name": {
+      "message": "Make Screenshot - Edit Screenshot"
+   }
+}

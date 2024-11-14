@@ -1,0 +1,50 @@
+{
+   "action": {
+      "default_title": "Click to open sidebar"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+K",
+            "mac": "Command+Shift+K"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "shell/inject.js" ],
+      "matches": [ "https://*.bing.com/edgesvc/shell*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "js": [ "libs/pdf.min.js", "content-script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_bing",
+         "path": "rules/bing.json"
+      } ]
+   },
+   "description": "Microsoft Copilot sidebar ported from Edge to Chrome",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkeE1ApNMizmEPK3MluVfwxsLoeyDk/y809K+MRVWSId511YCfd/Lc/1BGFU0KYQZQYGCTY8fZokzVA7GgbFWKgD6/t/31fPwUa6C2kw78qVz0fs6m2PAD2ezO0OHiKTh6mUlVhQ+61JwQTA9fr42Yyi9kqnM3ZvlKYPcdqrmQuOOXQNN2tX9vPm46y0oM9AP17qyBPT5ERj9MOQdNjC3dzTJLnoQ2lA9BENmIP2pn3r6pZRrrYrehwrxhm/AK99BG8aToO4U1bFK4mNFJXe9VVTVqdbxSkfgeoScdr9pR1tTe0cbldJhlWT7dwq5NKcIq7/KVpAK198iOsgCLFmFfwIDAQAB",
+   "manifest_version": 3,
+   "name": "Copilot sidebar for Chrome",
+   "permissions": [ "sidePanel", "declarativeNetRequest", "tabs", "notifications" ],
+   "side_panel": {
+      "default_path": "sidepanel/index.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.0"
+}

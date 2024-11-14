@@ -1,0 +1,130 @@
+2024-11-05 11:36:55.914 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.14.1)
+2024-11-05 11:36:56.402 [info] [Info  - 11:36:56] (5731) Server root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:36:56.404 [info] [Info  - 11:36:56] (5731) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-05 11:36:56.414 [info] [Info  - 11:36:56] (5731) Starting service instance "machine_learning"
+2024-11-05 11:36:56.470 [info] [Info  - 11:36:56] (5731) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:36:56.470 [info] [Info  - 11:36:56] (5731) Setting pythonPath for service "machine_learning": "/bin/python"
+2024-11-05 11:36:56.470 [info] [Info  - 11:36:56] (5731) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:36:56.471 [info] [Info  - 11:36:56] (5731) Auto-excluding **/node_modules
+2024-11-05 11:36:56.471 [info] [Info  - 11:36:56] (5731) Auto-excluding **/__pycache__
+2024-11-05 11:36:56.471 [info] [Info  - 11:36:56] (5731) Auto-excluding **/.*
+2024-11-05 11:36:56.497 [info] [Info  - 11:36:56] (5731) Assuming Python version 3.12.7.final.0
+2024-11-05 11:36:56.613 [info] [Info  - 11:36:56] (5731) Found 1 source file
+2024-11-05 11:36:56.628 [info] [Info  - 11:36:56] (5731) Starting service instance "machine_learning"
+2024-11-05 11:36:56.655 [info] [Info  - 11:36:56] (5731) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:36:56.655 [info] [Info  - 11:36:56] (5731) Setting pythonPath for service "machine_learning": "/bin/python3"
+2024-11-05 11:36:56.656 [info] [Info  - 11:36:56] (5731) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:36:56.656 [info] [Info  - 11:36:56] (5731) Auto-excluding **/node_modules
+2024-11-05 11:36:56.656 [info] [Info  - 11:36:56] (5731) Auto-excluding **/__pycache__
+2024-11-05 11:36:56.656 [info] [Info  - 11:36:56] (5731) Auto-excluding **/.*
+2024-11-05 11:36:56.681 [info] [Info  - 11:36:56] (5731) Assuming Python version 3.12.7.final.0
+2024-11-05 11:36:56.757 [info] [Info  - 11:36:56] (5731) Found 1 source file
+2024-11-05 11:36:56.996 [info] [Info  - 11:36:56] (5731) Background analysis(1) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:36:56.998 [info] [Info  - 11:36:56] (5731) Background analysis(1) started
+2024-11-05 11:36:57.161 [info] [Info  - 11:36:57] (5731) Background analysis(2) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:36:57.163 [info] [Info  - 11:36:57] (5731) Background analysis(2) started
+2024-11-05 11:36:57.216 [info] [Info  - 11:36:57] (5731) Indexer background runner(3) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-05 11:36:57.216 [info] [Info  - 11:36:57] (5731) Indexing(3) started
+2024-11-05 11:36:57.777 [info] [Info  - 11:36:57] (5731) scanned(3) 252 files over 1 exec env
+2024-11-05 11:36:58.010 [info] [Info  - 11:36:58] (5731) indexed(3) 252 files over 1 exec env
+2024-11-05 11:36:58.061 [info] [Info  - 11:36:58] (5731) Indexing finished(3).
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) Setting pythonPath for service "machine_learning": "/bin/python3"
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) Auto-excluding **/node_modules
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) Auto-excluding **/__pycache__
+2024-11-05 11:36:58.321 [info] [Info  - 11:36:58] (5731) Auto-excluding **/.*
+2024-11-05 11:36:58.347 [info] [Info  - 11:36:58] (5731) Assuming Python version 3.12.7.final.0
+2024-11-05 11:36:58.397 [info] [Info  - 11:36:58] (5731) Found 12 source files
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) Setting pythonPath for service "machine_learning": "/bin/python"
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) Auto-excluding **/node_modules
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) Auto-excluding **/__pycache__
+2024-11-05 11:36:58.467 [info] [Info  - 11:36:58] (5731) Auto-excluding **/.*
+2024-11-05 11:36:58.493 [info] [Info  - 11:36:58] (5731) Assuming Python version 3.12.7.final.0
+2024-11-05 11:36:58.547 [info] [Info  - 11:36:58] (5731) Found 1 source file
+2024-11-05 11:36:58.918 [info] [Info  - 11:36:58] (5731) Indexer background runner(4) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-05 11:36:58.918 [info] [Info  - 11:36:58] (5731) Indexing(4) started
+2024-11-05 11:36:59.191 [info] [Info  - 11:36:59] (5731) scanned(4) 252 files over 1 exec env
+2024-11-05 11:36:59.383 [info] [Info  - 11:36:59] (5731) indexed(4) 252 files over 1 exec env
+2024-11-05 11:36:59.441 [info] [Info  - 11:36:59] (5731) Indexing finished(4).
+2024-11-05 11:37:42.394 [info] [Info  - 11:37:42] (5731) Starting service instance "machine_learning"
+2024-11-05 11:37:42.445 [info] [Info  - 11:37:42] (5731) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:37:42.445 [info] [Info  - 11:37:42] (5731) Setting pythonPath for service "machine_learning": "/home/yoshee/hse/machine_learning"
+2024-11-05 11:37:42.445 [info] [Info  - 11:37:42] (5731) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:37:42.445 [info] [Info  - 11:37:42] (5731) Auto-excluding **/node_modules
+2024-11-05 11:37:42.446 [info] [Info  - 11:37:42] (5731) Auto-excluding **/__pycache__
+2024-11-05 11:37:42.446 [info] [Info  - 11:37:42] (5731) Auto-excluding **/.*
+2024-11-05 11:37:42.490 [info] [Info  - 11:37:42] (5731) Found 1 source file
+2024-11-05 11:37:43.055 [info] [Info  - 11:37:43] (5731) Background analysis(5) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:37:43.057 [info] [Info  - 11:37:43] (5731) Background analysis(5) started
+2024-11-05 11:37:43.078 [info] [Info  - 11:37:43] (5731) Indexer background runner(6) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-05 11:37:43.079 [info] [Info  - 11:37:43] (5731) Indexing(6) started
+2024-11-05 11:37:43.306 [info] [Info  - 11:37:43] (5731) scanned(6) 1 files over 1 exec env
+2024-11-05 11:37:43.477 [info] [Info  - 11:37:43] (5731) indexed(6) 1 files over 1 exec env
+2024-11-05 11:37:43.487 [info] [Info  - 11:37:43] (5731) Indexing finished(6).
+2024-11-05 11:41:47.628 [info] [Info  - 11:41:47] Server process exited successfully
+2024-11-05 11:41:48.180 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.14.1)
+2024-11-05 11:41:48.649 [info] [Info  - 11:41:48] (6636) Server root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:41:48.649 [info] [Info  - 11:41:48] (6636) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-05 11:41:48.654 [info] [Info  - 11:41:48] (6636) Starting service instance "machine_learning"
+2024-11-05 11:41:48.703 [info] [Info  - 11:41:48] (6636) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:41:48.704 [info] [Info  - 11:41:48] (6636) Setting pythonPath for service "machine_learning": "/bin/python"
+2024-11-05 11:41:48.704 [info] [Info  - 11:41:48] (6636) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:41:48.704 [info] [Info  - 11:41:48] (6636) Auto-excluding **/node_modules
+2024-11-05 11:41:48.704 [info] [Info  - 11:41:48] (6636) Auto-excluding **/__pycache__
+2024-11-05 11:41:48.705 [info] [Info  - 11:41:48] (6636) Auto-excluding **/.*
+2024-11-05 11:41:48.732 [info] [Info  - 11:41:48] (6636) Assuming Python version 3.12.7.final.0
+2024-11-05 11:41:48.793 [info] [Info  - 11:41:48] (6636) Found 1 source file
+2024-11-05 11:41:48.819 [info] [Info  - 11:41:48] (6636) Starting service instance "machine_learning"
+2024-11-05 11:41:48.847 [info] [Info  - 11:41:48] (6636) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:41:48.847 [info] [Info  - 11:41:48] (6636) Setting pythonPath for service "machine_learning": "/bin/python3"
+2024-11-05 11:41:48.847 [info] [Info  - 11:41:48] (6636) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:41:48.847 [info] [Info  - 11:41:48] (6636) Auto-excluding **/node_modules
+2024-11-05 11:41:48.848 [info] [Info  - 11:41:48] (6636) Auto-excluding **/__pycache__
+2024-11-05 11:41:48.848 [info] [Info  - 11:41:48] (6636) Auto-excluding **/.*
+2024-11-05 11:41:48.874 [info] [Info  - 11:41:48] (6636) Assuming Python version 3.12.7.final.0
+2024-11-05 11:41:48.921 [info] [Info  - 11:41:48] (6636) Found 1 source file
+2024-11-05 11:41:48.956 [info] [Info  - 11:41:48] (6636) Starting service instance "machine_learning"
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) Setting pythonPath for service "machine_learning": "/home/yoshee/hse/machine_learning"
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) Auto-excluding **/node_modules
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) Auto-excluding **/__pycache__
+2024-11-05 11:41:49.008 [info] [Info  - 11:41:49] (6636) Auto-excluding **/.*
+2024-11-05 11:41:49.035 [info] [Info  - 11:41:49] (6636) Found 1 source file
+2024-11-05 11:41:49.296 [info] [Info  - 11:41:49] (6636) Background analysis(1) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:41:49.298 [info] [Info  - 11:41:49] (6636) Background analysis(1) started
+2024-11-05 11:41:49.425 [info] [Info  - 11:41:49] (6636) Background analysis(2) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:41:49.428 [info] [Info  - 11:41:49] (6636) Background analysis(2) started
+2024-11-05 11:41:49.550 [info] [Info  - 11:41:49] (6636) Background analysis(3) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:41:49.554 [info] [Info  - 11:41:49] (6636) Background analysis(3) started
+2024-11-05 11:41:49.596 [info] [Info  - 11:41:49] (6636) Indexer background runner(4) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-05 11:41:49.596 [info] [Info  - 11:41:49] (6636) Indexing(4) started
+2024-11-05 11:41:50.097 [info] [Info  - 11:41:50] (6636) scanned(4) 252 files over 1 exec env
+2024-11-05 11:41:50.343 [info] [Info  - 11:41:50] (6636) indexed(4) 252 files over 1 exec env
+2024-11-05 11:41:50.623 [info] [Info  - 11:41:50] (6636) scanned(4) 1 files over 1 exec env
+2024-11-05 11:41:50.768 [info] [Info  - 11:41:50] (6636) indexed(4) 1 files over 1 exec env
+2024-11-05 11:41:50.786 [info] [Info  - 11:41:50] (6636) Indexing finished(4).
+2024-11-05 11:41:51.831 [info] [Info  - 11:41:51] (6636) [BG(2)] Long operation: analyzing: file:///home/yoshee/hse/machine_learning/sem_7_classwork.ipynb.py#pylancePrefixCell (2045ms)
+2024-11-05 11:46:06.602 [info] [Info  - 11:46:06] (6636) Starting service instance "<default>"
+2024-11-05 11:46:06.644 [info] [Info  - 11:46:06] (6636) Setting environmentName for service "<default>": "3.12.7 (global)"
+2024-11-05 11:46:06.645 [info] [Info  - 11:46:06] (6636) Setting pythonPath for service "<default>": "/bin/python"
+2024-11-05 11:46:06.645 [info] [Info  - 11:46:06] (6636) No include entries specified; assuming /<default workspace root>
+2024-11-05 11:46:06.645 [info] [Info  - 11:46:06] (6636) Auto-excluding **/node_modules
+2024-11-05 11:46:06.645 [info] [Info  - 11:46:06] (6636) Auto-excluding **/__pycache__
+2024-11-05 11:46:06.645 [info] [Info  - 11:46:06] (6636) Auto-excluding **/.*
+2024-11-05 11:46:06.681 [info] [Info  - 11:46:06] (6636) Assuming Python version 3.12.7.final.0
+2024-11-05 11:46:06.740 [info] [Error - 11:46:06] (6636) File or directory "/<default workspace root>" does not exist.
+2024-11-05 11:46:06.740 [info] [Info  - 11:46:06] (6636) No source files found.
+2024-11-05 11:46:07.144 [info] [Info  - 11:46:07] (6636) Background analysis(5) root directory: file:///home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-05 11:46:07.146 [info] [Info  - 11:46:07] (6636) Background analysis(5) started
+2024-11-05 11:50:01.467 [info] [Info  - 11:50:01] (6636) Starting service instance "machine_learning"
+2024-11-05 11:50:01.514 [info] [Info  - 11:50:01] (6636) Setting environmentName for service "machine_learning": "3.12.7 (global)"
+2024-11-05 11:50:01.515 [info] [Info  - 11:50:01] (6636) Setting pythonPath for service "machine_learning": "/home/yoshee/hse/machine_learning"
+2024-11-05 11:50:01.515 [info] [Info  - 11:50:01] (6636) No include entries specified; assuming /home/yoshee/hse/machine_learning
+2024-11-05 11:50:01.515 [info] [Info  - 11:50:01] (6636) Auto-excluding **/node_modules
+2024-11-05 11:50:01.515 [info] [Info  - 11:50:01] (6636) Auto-excluding **/__pycache__
+2024-11-05 11:50:01.515 [info] [Info  - 11:50:01] (6636) Auto-excluding **/.*
+2024-11-05 11:50:01.582 [info] [Info  - 11:50:01] (6636) Found 1 source file

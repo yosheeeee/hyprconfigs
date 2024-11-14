@@ -1,0 +1,57 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "public/icons/icon128.png",
+         "16": "public/icons/icon16.png",
+         "48": "public/icons/icon48.png"
+      },
+      "default_popup": "action/default_popup.html"
+   },
+   "background": {
+      "service_worker": "background/service_worker.js"
+   },
+   "content_scripts": [ {
+      "css": [  ],
+      "js": [ "content_scripts/content-0.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-1.css", "/public/content-variables.css" ],
+      "js": [ "content_scripts/content-1.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [  ],
+      "js": [ "content_scripts/content-2.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "content_scripts/content-3.css" ],
+      "js": [ "content_scripts/content-3.js" ],
+      "matches": [ "*://*.storage.googleapis.com/*" ],
+      "run_at": "document_idle"
+   }, {
+      "css": [ "content_scripts/content-4.css" ],
+      "js": [ "content_scripts/content-4.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "Ускоряет YouTube. Скажи нет замедлению Ютуб. Без регистрации.",
+   "differential_fingerprint": "1.e1d6dea87863872fd4bdb6cf3e29a08fc1d70bd03b7fe1fb56c98f076da7f613",
+   "host_permissions": [ "https://*.youtube.com/*" ],
+   "icons": {
+      "128": "public/icons/icon128.png",
+      "16": "public/icons/icon16.png",
+      "48": "public/icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3CL9bzb1s7DANnDNTLqy3loweLz0xo/2JqMKXHaEdK9dLhdQG6k+FBVkm1EfmbLihyY++0rpm3TaouzQkbjgaED43fAr/YiisTrOiBzAm4UHxhv7OGmi1JfRLQi3DQTc6lsCFjrMgcdIle0PIGM3tpjUWBcCZlioGqNyBKlkTDm32P7vCYaZax22OHNeYiEQC6KHYzJSxCflKx3JCVRU1l0IPn1xHcj6xsM8xLgqRGBIVpTm19Jt5MWEMu4kclSOiFHFXx/ElsLKwni2qxY6MgpIAvzF8d967ghETO+Sy1tdbWvxeAR6jiwdx8hzROw66w41JsZtcHJJ5bPWF/HGNQIDAQAB",
+   "manifest_version": 3,
+   "name": "ЮБуст - Ускорение YouTube. Ютуб без замедления в России",
+   "permissions": [ "proxy", "storage", "webRequest", "activeTab", "tabs", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.2.3",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.youtube.com/*", "*://*.youtube.com/*", "*://*.google.com/*", "*://*.youtube.com/*", "*://*.storage.googleapis.com/*", "*://*.youtube.com/*" ],
+      "resources": [ "web_accessible_resources/*" ]
+   } ]
+}

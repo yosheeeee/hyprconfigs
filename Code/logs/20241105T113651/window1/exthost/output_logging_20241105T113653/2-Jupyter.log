@@ -1,0 +1,51 @@
+Visual Studio Code (1.93.0, undefined, desktop)
+Jupyter Extension Version: 2024.8.1.
+Python Extension Version: 2024.14.1.
+Pylance Extension Version: 2024.10.1.
+Platform: linux (x64).
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2024.8.1
+Workspace folder ~/hse/machine_learning, Home = /home/yoshee
+11:36:55.827 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.7) for '~/hse/machine_learning/sem_7_classwork.ipynb' (disableUI=true)
+11:36:55.843 [warn] Failed to get activated env vars for /bin/python3 in 17ms
+11:36:55.851 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+11:36:55.855 [warn] Failed to get activated env vars for /bin/python3 in 18ms
+11:36:55.872 [info] Process Execution: /bin/python3 -m pip list
+11:36:55.877 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:36:55.885 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3c66802b10126bf58dcd4617be42174e114479e87.json
+    > cwd: //home/~/hse/machine_learning
+11:36:55.896 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:36:56.740 [info] Kernel successfully started
+11:36:56.753 [info] Process Execution: /bin/python3 /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/pythonFiles/printJupyterDataDir.py
+11:46:49.598 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.7) for '~/hse/machine_learning/sem9_classwork.ipynb' (disableUI=false)
+11:46:49.652 [warn] Failed to get activated env vars for /bin/python3 in 52ms
+11:46:49.664 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:46:49.675 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v37b5909fed4712f5aff6d54455d1041f8685de39e.json
+    > cwd: //home/~/hse/machine_learning
+11:46:49.678 [warn] Failed to get activated env vars for /bin/python3 in 72ms
+11:46:49.690 [info] Process Execution: /bin/python3 -m pip list
+11:46:49.718 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+11:46:50.310 [info] Kernel successfully started
+11:50:01.482 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.7) for '~/hse/machine_learning/sem_8_classwork.ipynb' (disableUI=true)
+11:50:01.553 [warn] Failed to get activated env vars for /bin/python3 in 67ms
+11:50:01.566 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:50:01.580 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v36470e76c69ded2905fcc6decd475f0e4ccdb73b7.json
+    > cwd: //home/~/hse/machine_learning
+11:50:02.219 [info] Kernel successfully started
+11:50:02.938 [info] Dispose Kernel '~/hse/machine_learning/sem_7_classwork.ipynb' associated with '~/hse/machine_learning/sem_7_classwork.ipynb'
+11:50:12.182 [info] Dispose Kernel '~/hse/machine_learning/sem_7_classwork.ipynb' associated with '~/hse/machine_learning/sem_7_classwork.ipynb'
+11:50:12.182 [info] Dispose Kernel '~/hse/machine_learning/sem9_classwork.ipynb' associated with '~/hse/machine_learning/sem9_classwork.ipynb'
+11:50:12.192 [info] Dispose Kernel '~/hse/machine_learning/sem_8_classwork.ipynb' associated with '~/hse/machine_learning/sem_8_classwork.ipynb'
+11:50:12.231 [warn] Failed to delete connection file file:///home/~/.local/share/jupyter/runtime/kernel-v36470e76c69ded2905fcc6decd475f0e4ccdb73b7.json for pid 8795 Canceled (FileSystemError): Canceled
+    at Function.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7311)
+    at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:3977)
+    at Jc.delete (/home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:239:15273)
+    at /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:303:469 {
+  code: 'Unknown'
+}
+11:50:12.234 [warn] Failed to delete connection file file:///home/~/.local/share/jupyter/runtime/kernel-v37b5909fed4712f5aff6d54455d1041f8685de39e.json for pid 8442 Canceled (FileSystemError): Canceled
+    at Function.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7311)
+    at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:3977)
+    at Jc.delete (/home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:239:15273)
+    at /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:303:469 {
+  code: 'Unknown'
+}

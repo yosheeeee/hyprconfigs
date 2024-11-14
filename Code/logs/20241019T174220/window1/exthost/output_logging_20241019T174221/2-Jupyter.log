@@ -1,0 +1,61 @@
+Visual Studio Code (1.93.0, undefined, desktop)
+Jupyter Extension Version: 2024.8.1.
+Python Extension Version: 2024.14.1.
+Pylance Extension Version: 2024.10.1.
+Platform: linux (x64).
+Temp Storage folder ~/.config/Code/User/globalStorage/ms-toolsai.jupyter/version-2024.8.1
+Workspace folder ~/hse/machine_learning, Home = /home/yoshee
+17:42:24.308 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.6) for '~/hse/machine_learning/sem_6_classwork.ipynb' (disableUI=true)
+17:42:24.342 [warn] Failed to get activated env vars for /bin/python3 in 37ms
+17:42:24.351 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+17:42:24.357 [warn] Failed to get activated env vars for /bin/python3 in 30ms
+17:42:24.375 [info] Process Execution: /bin/python3 -m pip list
+17:42:24.382 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:42:24.397 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+17:42:24.408 [warn] Failed to get activated env vars for /bin/python3 in 44ms
+17:42:24.417 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3f6f803e9397b84119ed46332ad0a59ca41334ad8.json
+    > cwd: //home/~/hse/machine_learning
+17:42:25.294 [info] Kernel successfully started
+17:42:58.280 [info] Process Execution: /bin/python3 /home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/pythonFiles/printJupyterDataDir.py
+17:42:59.586 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.6) for '~/hse/machine_learning/sem_7_classwork.ipynb' (disableUI=true)
+17:42:59.628 [warn] Failed to get activated env vars for /bin/python3 in 39ms
+17:42:59.634 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:42:59.645 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v3cfbdb9dd3079fe3f2aab569625b12913239e0724.json
+    > cwd: //home/~/hse/machine_learning
+17:43:00.290 [info] Kernel successfully started
+17:44:49.479 [info] Starting Kernel (Python Path: /bin/python3, Unknown, 3.12.6) for '~/hse/machine_learning/sem_5_classwork.ipynb' (disableUI=true)
+17:44:49.560 [warn] Failed to get activated env vars for /bin/python3 in 78ms
+17:44:49.570 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+17:44:49.581 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v306558f1d536166fefa645e69974461de6d27a960.json
+    > cwd: //home/~/hse/machine_learning
+17:44:50.205 [info] Kernel successfully started
+17:54:21.874 [info] Dispose Kernel '~/hse/machine_learning/sem_5_classwork.ipynb' associated with '~/hse/machine_learning/sem_5_classwork.ipynb'
+17:58:23.372 [warn] Cell completed with errors nu [Error]: name 'res_mnk' is not defined
+    at n.execute (/home/~/.vscode/extensions/ms-toolsai.jupyter-2024.8.1-linux-x64/dist/extension.node.js:297:4958) {
+  ename: 'NameError',
+  evalue: "name 'res_mnk' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[3], line 5\x1B[0m\n' +
+      '\x1B[1;32m      2\x1B[0m fig, axs \x1B[38;5;241m=\x1B[39m plt\x1B[38;5;241m.\x1B[39msubplots(\x1B[38;5;241m1\x1B[39m, \x1B[38;5;241m3\x1B[39m, figsize\x1B[38;5;241m=\x1B[39m(\x1B[38;5;241m15\x1B[39m, \x1B[38;5;241m5\x1B[39m))\n' +
+      '\x1B[1;32m      4\x1B[0m \x1B[38;5;66;03m# Первый подграфик: Линейные графики для всех моделей\x1B[39;00m\n' +
+      "\x1B[0;32m----> 5\x1B[0m axs[\x1B[38;5;241m0\x1B[39m]\x1B[38;5;241m.\x1B[39mplot(x_test[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mDays\x1B[39m\x1B[38;5;124m'\x1B[39m], \x1B[43mres_mnk\x1B[49m, label\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mМНК\x1B[39m\x1B[38;5;124m'\x1B[39m, color\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mblue\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      "\x1B[1;32m      6\x1B[0m axs[\x1B[38;5;241m0\x1B[39m]\x1B[38;5;241m.\x1B[39mplot(x_test[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mDays\x1B[39m\x1B[38;5;124m'\x1B[39m], res_svm, label\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mSVM\x1B[39m\x1B[38;5;124m'\x1B[39m, color\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mgreen\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      "\x1B[1;32m      7\x1B[0m axs[\x1B[38;5;241m0\x1B[39m]\x1B[38;5;241m.\x1B[39mplot(x_test[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mDays\x1B[39m\x1B[38;5;124m'\x1B[39m], res_knn, label\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mKNN\x1B[39m\x1B[38;5;124m'\x1B[39m, color\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mpurple\x1B[39m\x1B[38;5;124m'\x1B[39m)\n",
+    "\x1B[0;31mNameError\x1B[0m: name 'res_mnk' is not defined"
+  ]
+}
+18:07:29.825 [info] Disposing request as the cell (8) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.826 [info] Disposing request as the cell (9) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.826 [info] Disposing request as the cell (11) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.827 [info] Disposing request as the cell (13) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.827 [info] Disposing request as the cell (13) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.828 [info] Disposing request as the cell (16) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.828 [info] Disposing request as the cell (17) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.828 [info] Disposing request as the cell (18) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.829 [info] Disposing request as the cell (22) was deleted ~/hse/machine_learning/sem_7_classwork.ipynb
+18:07:29.830 [info] Dispose Kernel '~/hse/machine_learning/sem_7_classwork.ipynb' associated with '~/hse/machine_learning/sem_7_classwork.ipynb'
+18:07:31.775 [info] Dispose Kernel '~/hse/machine_learning/sem_6_classwork.ipynb' associated with '~/hse/machine_learning/sem_6_classwork.ipynb'
+18:07:31.784 [info] Dispose Kernel '~/hse/machine_learning/sem_7_classwork.ipynb' associated with '~/hse/machine_learning/sem_7_classwork.ipynb'
+18:07:31.784 [info] Dispose Kernel '~/hse/machine_learning/sem_5_classwork.ipynb' associated with '~/hse/machine_learning/sem_5_classwork.ipynb'

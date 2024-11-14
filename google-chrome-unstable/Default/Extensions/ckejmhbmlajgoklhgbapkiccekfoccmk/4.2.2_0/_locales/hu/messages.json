@@ -1,0 +1,371 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android okostelefonok"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple okostelefonok"
+   },
+   "button_feedback": {
+      "message": "Vélemény hozzáadása"
+   },
+   "button_message": {
+      "message": "Küldj nekünk üzenetet"
+   },
+   "close": {
+      "message": "Közeli"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "Aktiválja a mobilnézetet ezen az oldalon"
+   },
+   "copie": {
+      "message": "Másolat"
+   },
+   "copied": {
+      "message": "Másolva"
+   },
+   "extDescription": {
+      "message": "Okostelefon- és táblagép-szimulátor számítógépen több modellel a mobilreszponzív webhelyek teszteléséhez."
+   },
+   "extName": {
+      "message": "Mobil szimulátor - reszponzív tesztelő eszköz"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "Mégse"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "Eszköz hozzáadása új ablakban"
+   },
+   "menu_change_device": {
+      "message": "Eszköz cseréje"
+   },
+   "menu_close_alone": {
+      "message": "Inaktiválja a szimulátort"
+   },
+   "menu_close_multi": {
+      "message": "Zárja be ezt az ablakot"
+   },
+   "menu_faq_all": {
+      "message": "Tekintse meg az összes gyakran ismételt kérdést"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Hogyan lehet aktiválni a szimulátort inkognitó módban?"
+   },
+   "menu_faq_media_queries": {
+      "message": "A médialekérdezéseim nem működnek"
+   },
+   "menu_faq_scroll": {
+      "message": "Nem lehet görgetni a szimulátorban"
+   },
+   "menu_faq_shortcut": {
+      "message": "Hogyan kell beállítani a billentyűparancsokat?"
+   },
+   "menu_faq_subscription": {
+      "message": "Miért nem működik az előfizetésem?"
+   },
+   "menu_faq_title": {
+      "message": "Gyakran ismételt kérdések"
+   },
+   "menu_help_center": {
+      "message": "Súgó"
+   },
+   "menu_info_device": {
+      "message": "A telefon jellemzői és modellje (nézetablak felbontása stb.)"
+   },
+   "menu_info_device_features": {
+      "message": "Jellemzők (nézetablak felbontása stb.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Ingyenes PNG átlátszó makett"
+   },
+   "menu_report": {
+      "message": "Hiba bejelentése"
+   },
+   "menu_rotate": {
+      "message": "Változtassa meg a tájolást"
+   },
+   "menu_screencast": {
+      "message": "Tabulátorrekord indítása"
+   },
+   "menu_screenshot": {
+      "message": "Készítsen képernyőképet"
+   },
+   "menu_send_improvement": {
+      "message": "Javasoljon javítást"
+   },
+   "menu_send_message": {
+      "message": "Súgó"
+   },
+   "menu_settings": {
+      "message": "Beállítások elemre"
+   },
+   "menu_share": {
+      "message": "Oszd meg egy kollégáddal, barátoddal,..."
+   },
+   "menu_theme_day": {
+      "message": "Aktiválja a nappali üzemmódot"
+   },
+   "menu_theme_night": {
+      "message": "Aktiválja az éjszakai üzemmódot"
+   },
+   "menu_vote_feature": {
+      "message": "Szavazz a kívánt funkciókra"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_15_h1": {
+      "message": "Legyen Ön az első, aki (gyakorlatilag) használja az iPhone 15 PRO-t"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Információ\u003C/strong>Az érintéses görgetés nem érhető el ebben a szimulátorban, de \u003Cstrong>megjelenítheti a görgetősávot\u003C/strong>, ha nincs egér görgője vagy görgetőpadja. görgessen.\u003Cbr>\u003Cbr>Ez a beállítás a jobb alsó sarokban található \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_0_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Frissítés v4.0\u003C/strong>Fontos frissítés a videórögzítéssel kapcsolatban. Új videó formátumok és korlátlan felvételi idő! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_0_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Frissítés v4.0\u003C/strong>javítások a szimulátor megjelenítési problémáival kapcsolatban."
+   },
+   "notification_update_title_v4_1_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Frissítse a v4.1-et\u003C/strong>3 új, legújabb eszközökön (a PRO verzióban). Google Pixel 8, Samsung Galaxy S24 és ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_1_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>4.1.2-es verzió frissítése\u003C/strong>Számos hibajavítás a videofelvételek konvertálásával kapcsolatban"
+   },
+   "notification_update_title_v4_2_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>4.2-es frissítés\u003C/strong>Most már tesztelheti webhelyeit a legújabb iPhone 16-tal.\u003C/strong> \u003Ci class='mdi'>&#xe917;\u003C /i>"
+   },
+   "notification_update_title_v4_2_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Frissítés v4.2.2\u003C/strong>\u003Cstrong>Javítások\u003C/strong> a videórögzítések, valamint a teljes oldalas képernyőképek generálásával kapcsolatban"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Különlegességek"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktiválja az opciót"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Ez a szimulátor alapértelmezés szerint nem aktiválható helyi fájlokon (file:///), de manuálisan is aktiválhatja a lehetőséget a Chrome beállítási oldalán."
+   },
+   "popup_message": {
+      "message": "Változtassa meg az eszközt, és keresse meg az összes lehetőséget a szimulátor jobb oldalán található menü segítségével"
+   },
+   "popup_site_incompatible": {
+      "message": "Ez a szimulátor nem aktiválható ezen a natív Chrome-oldalon. Próbáld másik lapon. Vagy böngésszen egy webhelyet, és indítsa újra."
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Korlátlan számú laprekord"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Távolítsa el a hirdetéseket"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Évente számlázva"
+   },
+   "pro_modale_button": {
+      "message": "Iratkozz fel"
+   },
+   "pro_modale_from": {
+      "message": "Tól"
+   },
+   "pro_modale_h1": {
+      "message": "Legyél profi"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Távolítsa el a hirdetéseket"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Alakítsa át videófelvételeit GIF és MP4 formátumokká"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Szimulálja az összes eszközt"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Elérte a napi 5 laprekord korlátot"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Oldja fel az összes beállítás zárolását"
+   },
+   "pro_modale_h2": {
+      "message": "Legyen PRO-tag, és aktívan járuljon hozzá a bővítmény fejlesztéséhez."
+   },
+   "pro_modale_link_1": {
+      "message": "Vagy"
+   },
+   "pro_modale_link_2": {
+      "message": "jelentkezz be"
+   },
+   "pro_modale_link_3": {
+      "message": "fiókjába"
+   },
+   "pro_modale_recurring_month": {
+      "message": "hónap"
+   },
+   "pro_modale_savings": {
+      "message": "Megtakarítás"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "Ajánlanád ezt a bővítményt?"
+   },
+   "review_note_feedback": {
+      "message": "Köszönjük visszajelzését, nyugodtan küldjön nekünk üzenetet, hogy javíthassuk a bővítményt."
+   },
+   "review_note_store": {
+      "message": "Köszönjük visszajelzését, nyugodtan írjon véleményt a Google Store-ban. Nagyon hálás lennék 😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "Hiba történt a laprögzítés során. {Kattintson ide} a megoldásért."
+   },
+   "screencast_generation": {
+      "message": "A GIF készítése folyamatban van"
+   },
+   "screencast_modale_contact": {
+      "message": "Hiba bejelentése, javaslat,..."
+   },
+   "screencast_modale_copy": {
+      "message": "Másolat"
+   },
+   "screencast_modale_download": {
+      "message": "Letöltés"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Mindenhol kompatibilis, de gyengébb minőség"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Jobb kompatibilitás a PowerPointtal, Keynote-tal stb."
+   },
+   "screencast_modale_download_webm": {
+      "message": "Letöltés alapértelmezett WEBM formátumban"
+   },
+   "screencast_modale_texte": {
+      "message": "Letöltheti ezt a videót különböző formátumokban, vagy kaphat egy megosztási linket."
+   },
+   "screencast_modale_title": {
+      "message": "Tab rekord"
+   },
+   "screencast_modale_upload": {
+      "message": "Töltse fel a szerverre, és kapja meg a megosztási hivatkozást"
+   },
+   "screencast_onboarding_close": {
+      "message": "Közeli"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Mobilvideó készítése GIF formátumban 1 kattintással (maximum 20 másodperc)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Tab rekord"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "Képernyőkép az eszköz keretével"
+   },
+   "screenshot_menu_2": {
+      "message": "Képernyőkép az eszköz kerete nélkül"
+   },
+   "screenshot_menu_3": {
+      "message": "Teljes oldalas képernyőkép"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kép másolása a vágólapra"
+   },
+   "screenshot_modale_help": {
+      "message": "A kép jó felbontású mentéséhez egyszerűen kattintson rá jobb gombbal, majd válassza a \"Kép másolása\" vagy a \"Kép mentése másként\" lehetőséget."
+   },
+   "screenshot_modale_title": {
+      "message": "Képernyőkép"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_batterie_level": {
+      "message": "Az akkumulátor töltöttségi szintje a csatlakozófejben (%)"
+   },
+   "settings_change_analytics": {
+      "message": "Támogatom a bővítmény fejlesztőjét terméke fejlesztésében a Google Analytics segítségével. Az adatok névtelenek."
+   },
+   "settings_change_background": {
+      "message": "Módosítsa a háttérszínt"
+   },
+   "settings_change_cursor": {
+      "message": "Ne változtassa meg a kurzor stílusát az eszközön"
+   },
+   "settings_default_device": {
+      "message": "Minden új aktiválás alapértelmezett eszköze"
+   },
+   "settings_device_hide": {
+      "message": "Az eszköz elrejtése"
+   },
+   "settings_hide_header_footer": {
+      "message": "A böngésző fejlécének és láblécének elrejtése az eszközben (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Ne jelenítse meg a hamis billentyűzetet"
+   },
+   "settings_presenter_mode": {
+      "message": "Prezentációs mód (jobb oldali menü csak az egérmutató mozdulatával jelenik meg)"
+   },
+   "settings_scrollbar_show": {
+      "message": "A natív görgetősáv megjelenítése az eszközön (ha nincs görgetőpad vagy egérgörgő)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "Ez a bővítmény hasznos az Ön számára?"
+   },
+   "sharing_h2": {
+      "message": "Tehát ossza meg kollégáival vagy barátaival"
+   },
+   "sharing_review_1": {
+      "message": "És ha van egy perced"
+   },
+   "sharing_review_2": {
+      "message": "írj véleményt"
+   },
+   "sharing_review_3": {
+      "message": "Nagyon hálás lennék neked 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Adok hozzá egy értékelést"
+   },
+   "sharing_txt": {
+      "message": "Szimulátor a webhely teszteléséhez okostelefonon és táblagépen"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "Ez egy hamis elem. Használja a saját billentyűzetét."
+   },
+   "simulator_header_info": {
+      "message": "Ez egy hamis elem. Az URL módosításához használja a Chrome szövegmezőjét a tetején."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> táblagépek"
+   }
+}

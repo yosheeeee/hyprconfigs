@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Todoist に追加"
+   },
+   "appDesc": {
+      "message": "Todoist for Chrome で仕事と生活を管理"
+   },
+   "appName": {
+      "message": "Todoist for Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "プライベートモードではアドインが機能しません"
+   },
+   "optionsAddDueTitle": {
+      "message": "Chrome 拡張機能から追加されたタスク:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "「今日」のデフォルト予定日を設定"
+   },
+   "optionsSaved": {
+      "message": "保存しました"
+   }
+}

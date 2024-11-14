@@ -1,0 +1,653 @@
+{
+   "cj_i18n_00000": {
+      "message": "The easiest access to the Google universe"
+   },
+   "cj_i18n_00002": {
+      "message": "Delas med mig"
+   },
+   "cj_i18n_00004": {
+      "message": "Stjärnmärkta"
+   },
+   "cj_i18n_00005": {
+      "message": "Papperskorg"
+   },
+   "cj_i18n_00017": {
+      "message": "Bilder"
+   },
+   "cj_i18n_00046": {
+      "message": "Var god och ange sökord"
+   },
+   "cj_i18n_00047": {
+      "message": "Mer"
+   },
+   "cj_i18n_00061": {
+      "message": "Utforska"
+   },
+   "cj_i18n_00081": {
+      "message": "Påminnelser"
+   },
+   "cj_i18n_00083": {
+      "message": "Alla"
+   },
+   "cj_i18n_00084": {
+      "message": "Öppna service i en ny flik"
+   },
+   "cj_i18n_00085": {
+      "message": "Sök"
+   },
+   "cj_i18n_00086": {
+      "message": "Sök i en ny flik"
+   },
+   "cj_i18n_00097": {
+      "message": "Släpp här för att ta bort"
+   },
+   "cj_i18n_00106": {
+      "message": "Ändra vy"
+   },
+   "cj_i18n_00107": {
+      "message": "Alla"
+   },
+   "cj_i18n_00108": {
+      "message": "Ägs av mig"
+   },
+   "cj_i18n_00116": {
+      "message": "Pröva ett annat eller mer generellt sökord"
+   },
+   "cj_i18n_00122": {
+      "message": "Filer"
+   },
+   "cj_i18n_00131": {
+      "message": "Bibliotek"
+   },
+   "cj_i18n_00134": {
+      "message": "Butik"
+   },
+   "cj_i18n_00155": {
+      "message": "Historik"
+   },
+   "cj_i18n_00161": {
+      "message": "Om mig"
+   },
+   "cj_i18n_00162": {
+      "message": "Tillbaka"
+   },
+   "cj_i18n_00165": {
+      "message": "Januari"
+   },
+   "cj_i18n_00166": {
+      "message": "Februari"
+   },
+   "cj_i18n_00167": {
+      "message": "Mars"
+   },
+   "cj_i18n_00169": {
+      "message": "Maj"
+   },
+   "cj_i18n_00170": {
+      "message": "Juni"
+   },
+   "cj_i18n_00171": {
+      "message": "Juli"
+   },
+   "cj_i18n_00172": {
+      "message": "Augusti"
+   },
+   "cj_i18n_00174": {
+      "message": "Oktober"
+   },
+   "cj_i18n_00183": {
+      "message": "Varningar"
+   },
+   "cj_i18n_00190": {
+      "message": "Bokmärke"
+   },
+   "cj_i18n_00205": {
+      "message": "Artister"
+   },
+   "cj_i18n_00216": {
+      "message": "Appar"
+   },
+   "cj_i18n_00217": {
+      "message": "Spel"
+   },
+   "cj_i18n_00225": {
+      "message": "Hitills idag"
+   },
+   "cj_i18n_00226": {
+      "message": "Igår"
+   },
+   "cj_i18n_00227": {
+      "message": "vs samma dag senaste veckan"
+   },
+   "cj_i18n_00228": {
+      "message": "Än så länge denna månad"
+   },
+   "cj_i18n_00233": {
+      "message": "Det finns inget AdSense konto kopplat till detta Google konto"
+   },
+   "cj_i18n_00235": {
+      "message": "Innan du kan använda denna sidan, måste du ge tillgång att hämta din Google AdSense information"
+   },
+   "cj_i18n_00259": {
+      "message": "Innan du kan använda denna sidan, måste du ge tillgång att hämta din Blogger information"
+   },
+   "cj_i18n_00260": {
+      "message": "Inga bloggar hittades"
+   },
+   "cj_i18n_00262": {
+      "message": "Kunde inte hämta dina bloggar"
+   },
+   "cj_i18n_00263": {
+      "message": "Var god och kontrollera att du är ansluten till internet"
+   },
+   "cj_i18n_00291": {
+      "message": "Startsida"
+   },
+   "cj_i18n_00292": {
+      "message": "Samlingar"
+   },
+   "cj_i18n_00293": {
+      "message": "Grupper"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Personer"
+   },
+   "cj_i18n_00296": {
+      "message": "Meddelanden"
+   },
+   "cj_i18n_00298": {
+      "message": "Inställningar"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalender"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontakter"
+   },
+   "cj_i18n_00325": {
+      "message": "Laddar…"
+   },
+   "cj_i18n_00331": {
+      "message": "Allt"
+   },
+   "cj_i18n_00337": {
+      "message": "Skapa konto"
+   },
+   "cj_i18n_00346": {
+      "message": "Sök bland Google kortkommandon"
+   },
+   "cj_i18n_00350": {
+      "message": "Skriv en fråga"
+   },
+   "cj_i18n_00354": {
+      "message": "Donera"
+   },
+   "cj_i18n_00361": {
+      "message": "Lägg till konto"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokument"
+   },
+   "cj_i18n_00406": {
+      "message": "Avancerad sök"
+   },
+   "cj_i18n_00412": {
+      "message": "Ekonomi"
+   },
+   "cj_i18n_00414": {
+      "message": "Flyg"
+   },
+   "cj_i18n_00418": {
+      "message": "Grupper"
+   },
+   "cj_i18n_00425": {
+      "message": "Nyheter"
+   },
+   "cj_i18n_00427": {
+      "message": "Patent"
+   },
+   "cj_i18n_00429": {
+      "message": "Foton"
+   },
+   "cj_i18n_00434": {
+      "message": "Sök"
+   },
+   "cj_i18n_00438": {
+      "message": "Hjälp"
+   },
+   "cj_i18n_00440": {
+      "message": "Översätt"
+   },
+   "cj_i18n_00441": {
+      "message": "Trender"
+   },
+   "cj_i18n_00460": {
+      "message": "Böcker"
+   },
+   "cj_i18n_00464": {
+      "message": "Tillägg"
+   },
+   "cj_i18n_00465": {
+      "message": "Teman"
+   },
+   "cj_i18n_00470": {
+      "message": "Anslagstavla"
+   },
+   "cj_i18n_00481": {
+      "message": "Konto"
+   },
+   "cj_i18n_00484": {
+      "message": "Event"
+   },
+   "cj_i18n_00488": {
+      "message": "Bilder"
+   },
+   "cj_i18n_00500": {
+      "message": "Sökinställningar"
+   },
+   "cj_i18n_00509": {
+      "message": "Videor"
+   },
+   "cj_i18n_00556": {
+      "message": "Mobilappar"
+   },
+   "cj_i18n_00566": {
+      "message": "Tvåstegsverifiering"
+   },
+   "cj_i18n_00603": {
+      "message": "Synkronisera"
+   },
+   "cj_i18n_00616": {
+      "message": "Arkiv"
+   },
+   "cj_i18n_00626": {
+      "message": "Skapa"
+   },
+   "cj_i18n_00634": {
+      "message": "Mina bidrag"
+   },
+   "cj_i18n_00689": {
+      "message": "Min aktivitet"
+   },
+   "cj_i18n_00692": {
+      "message": "Favoriter"
+   },
+   "cj_i18n_00807": {
+      "message": "Mitt bibliotek"
+   },
+   "cj_i18n_00821": {
+      "message": "Arkiv"
+   },
+   "cj_i18n_00838": {
+      "message": "Om"
+   },
+   "cj_i18n_00878": {
+      "message": "Tillgänglighet"
+   },
+   "cj_i18n_00901": {
+      "message": "Sekretess"
+   },
+   "cj_i18n_00930": {
+      "message": "Experiment"
+   },
+   "cj_i18n_01006": {
+      "message": "Applösenord"
+   },
+   "cj_i18n_01025": {
+      "message": "Wear OS stilguide"
+   },
+   "cj_i18n_01031": {
+      "message": "Aprilskämt"
+   },
+   "cj_i18n_01087": {
+      "message": "Reservationer"
+   },
+   "cj_i18n_01107": {
+      "message": "Nyligen kollade"
+   },
+   "cj_i18n_01149": {
+      "message": "Reklam vid sökning"
+   },
+   "cj_i18n_01150": {
+      "message": "Websidor"
+   },
+   "cj_i18n_01152": {
+      "message": "Rapporter"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimering"
+   },
+   "cj_i18n_01154": {
+      "message": "Betalningar"
+   },
+   "cj_i18n_01161": {
+      "message": "Förhandsgranskning"
+   },
+   "cj_i18n_01163": {
+      "message": "Byt produkt"
+   },
+   "cj_i18n_01164": {
+      "message": "Ta bort från menyn"
+   },
+   "cj_i18n_01167": {
+      "message": "Länkar"
+   },
+   "cj_i18n_01174": {
+      "message": "Läser in"
+   },
+   "cj_i18n_01178": {
+      "message": "Fortsätt"
+   },
+   "cj_i18n_01179": {
+      "message": "vs samma period senaste året"
+   },
+   "cj_i18n_01180": {
+      "message": "vs senaste 28 dagar"
+   },
+   "cj_i18n_01181": {
+      "message": "Senaste 28 dagarna"
+   },
+   "cj_i18n_01182": {
+      "message": "Uppdatera rapport"
+   },
+   "cj_i18n_01183": {
+      "message": "Dina bloggar"
+   },
+   "cj_i18n_01184": {
+      "message": "Inlägg"
+   },
+   "cj_i18n_01185": {
+      "message": "Statistik"
+   },
+   "cj_i18n_01186": {
+      "message": "Kommentarer"
+   },
+   "cj_i18n_01187": {
+      "message": "Intäkter"
+   },
+   "cj_i18n_01188": {
+      "message": "Sidor"
+   },
+   "cj_i18n_01189": {
+      "message": "Utforming"
+   },
+   "cj_i18n_01190": {
+      "message": "Tema"
+   },
+   "cj_i18n_01197": {
+      "message": "Ny sökning"
+   },
+   "cj_i18n_01253": {
+      "message": "Idag"
+   },
+   "cj_i18n_01269": {
+      "message": "Bilder"
+   },
+   "cj_i18n_01326": {
+      "message": "Ladda upp"
+   },
+   "cj_i18n_01342": {
+      "message": "Inga resultat"
+   },
+   "cj_i18n_01344": {
+      "message": "Upptäck automatiskt"
+   },
+   "cj_i18n_01351": {
+      "message": "Läs mer"
+   },
+   "cj_i18n_01363": {
+      "message": "Spara"
+   },
+   "cj_i18n_01403": {
+      "message": "Experiment"
+   },
+   "cj_i18n_01418": {
+      "message": "Kampanjer"
+   },
+   "cj_i18n_01440": {
+      "message": "Inställningar"
+   },
+   "cj_i18n_01506": {
+      "message": "Konto"
+   },
+   "cj_i18n_01507": {
+      "message": "Logga ut"
+   },
+   "cj_i18n_01508": {
+      "message": "Utloggad"
+   },
+   "cj_i18n_01510": {
+      "message": "Innan du kan använda denna sidan, måste du ge tillgång att visa dina Chrome appar"
+   },
+   "cj_i18n_01515": {
+      "message": "Aktivitet"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresser"
+   },
+   "cj_i18n_01532": {
+      "message": "Hjälp"
+   },
+   "cj_i18n_01533": {
+      "message": "Säkerhet"
+   },
+   "cj_i18n_01534": {
+      "message": "Personlig Info"
+   },
+   "cj_i18n_01539": {
+      "message": "Liknande appar"
+   },
+   "cj_i18n_01543": {
+      "message": "Byt konto"
+   },
+   "cj_i18n_01544": {
+      "message": "Logga in"
+   },
+   "cj_i18n_01545": {
+      "message": "Öppna i ny flik"
+   },
+   "cj_i18n_01546": {
+      "message": "Öppna i en panel"
+   },
+   "cj_i18n_01557": {
+      "message": "Logga in på ditt Google-konto för att använda denna app"
+   },
+   "cj_i18n_01563": {
+      "message": "Ta bort"
+   },
+   "cj_i18n_01579": {
+      "message": "Arkivera"
+   },
+   "cj_i18n_01587": {
+      "message": "Tema"
+   },
+   "cj_i18n_01588": {
+      "message": "Avancerat"
+   },
+   "cj_i18n_01590": {
+      "message": "Återställ inställnigarna till standard"
+   },
+   "cj_i18n_01603": {
+      "message": "Översättningar"
+   },
+   "cj_i18n_01611": {
+      "message": "Klassiskt"
+   },
+   "cj_i18n_01612": {
+      "message": "Mörkt"
+   },
+   "cj_i18n_01613": {
+      "message": "Ljust"
+   },
+   "cj_i18n_01622": {
+      "message": "Ladda ner"
+   },
+   "cj_i18n_01659": {
+      "message": "Avbryt"
+   },
+   "cj_i18n_01692": {
+      "message": "Webbhistorik"
+   },
+   "cj_i18n_01713": {
+      "message": "Anpassa"
+   },
+   "cj_i18n_01715": {
+      "message": "Klar"
+   },
+   "cj_i18n_01785": {
+      "message": "Överför"
+   },
+   "cj_i18n_01794": {
+      "message": "Mapp"
+   },
+   "cj_i18n_01807": {
+      "message": "Rekommenderas"
+   },
+   "cj_i18n_01915": {
+      "message": "Logga in med Google"
+   },
+   "cj_i18n_01916": {
+      "message": "Fortsätt med Google"
+   },
+   "cj_i18n_01940": {
+      "message": "Ändra namn"
+   },
+   "cj_i18n_01943": {
+      "message": "Filnamn"
+   },
+   "cj_i18n_01990": {
+      "message": "Namn"
+   },
+   "cj_i18n_02121": {
+      "message": "Instruktioner"
+   },
+   "cj_i18n_02162": {
+      "message": "Öppna Hem"
+   },
+   "cj_i18n_02176": {
+      "message": "Innan du kan använda denna sidan, måste du ge tillgång att hämta din {PRODUCT_NAME} information"
+   },
+   "cj_i18n_02543": {
+      "message": "Skriv ut"
+   },
+   "cj_i18n_02717": {
+      "message": "Inte inloggad"
+   },
+   "cj_i18n_03523": {
+      "message": "Verktyg för programmerare"
+   },
+   "cj_i18n_03929": {
+      "message": "Nedladdade filer"
+   },
+   "cj_i18n_04163": {
+      "message": "Språk"
+   },
+   "cj_i18n_04776": {
+      "message": "Upphovsrätt"
+   },
+   "cj_i18n_04828": {
+      "message": "Lösenord"
+   },
+   "cj_i18n_05092": {
+      "message": "Sökresultat"
+   },
+   "cj_i18n_05190": {
+      "message": "Webbläsare"
+   },
+   "cj_i18n_05388": {
+      "message": "Allmänt"
+   },
+   "cj_i18n_05629": {
+      "message": "Redigera"
+   },
+   "cj_i18n_06247": {
+      "message": "Imorgon"
+   },
+   "cj_i18n_06248": {
+      "message": "Mån"
+   },
+   "cj_i18n_06249": {
+      "message": "Tis"
+   },
+   "cj_i18n_06250": {
+      "message": "Ons"
+   },
+   "cj_i18n_06251": {
+      "message": "Tor"
+   },
+   "cj_i18n_06252": {
+      "message": "Fre"
+   },
+   "cj_i18n_06253": {
+      "message": "Lör"
+   },
+   "cj_i18n_06254": {
+      "message": "Sön"
+   },
+   "cj_i18n_06259": {
+      "message": "Maj"
+   },
+   "cj_i18n_06264": {
+      "message": "Okt"
+   },
+   "cj_i18n_06287": {
+      "message": "Klicka för att visa ändringsloggen"
+   },
+   "cj_i18n_06288": {
+      "message": "{APP_NAME} har uppdaterats"
+   },
+   "cj_i18n_06289": {
+      "message": "Nytt inlägg"
+   },
+   "cj_i18n_06292": {
+      "message": "Visa blogg"
+   },
+   "cj_i18n_06294": {
+      "message": "Fler funktioner"
+   },
+   "cj_i18n_06327": {
+      "message": "Sparar"
+   },
+   "cj_i18n_06359": {
+      "message": "Säkerhetskontroll"
+   },
+   "cj_i18n_06405": {
+      "message": "Pixelmobil"
+   },
+   "cj_i18n_06418": {
+      "message": "Mobilapp"
+   },
+   "cj_i18n_06601": {
+      "message": "Tilläggsuppdateringar"
+   },
+   "cj_i18n_06602": {
+      "message": "Simulera uppdatering av tillägg"
+   },
+   "cj_i18n_06603": {
+      "message": "Visa en notifikation efter uppdatering istället för full ändringslogg"
+   },
+   "cj_i18n_06640": {
+      "message": "Mobil"
+   },
+   "cj_i18n_06647": {
+      "message": "Snabb åtkomst"
+   },
+   "cj_i18n_06875": {
+      "message": "Populärt"
+   },
+   "cj_i18n_06960": {
+      "message": "Min AdMob sida"
+   },
+   "cj_i18n_07092": {
+      "message": "Redigera användarprofil"
+   },
+   "cj_i18n_07125": {
+      "message": "Kopiera till urklipp"
+   },
+   "cj_i18n_07143": {
+      "message": "Aktivitet"
+   }
+}

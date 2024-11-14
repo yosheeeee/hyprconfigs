@@ -1,2 +1,3 @@
-2024/09/10-11:07:13.057 24b0c Creating DB /home/yoshee/.config/Code/Local Storage/leveldb since it was missing.
-2024/09/10-11:07:13.061 24b0c Reusing MANIFEST /home/yoshee/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2024/11/15-00:18:28.606 22d8f Reusing MANIFEST /home/yoshee/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2024/11/15-00:18:28.606 22d8f Recovering log #3
+2024/11/15-00:18:28.606 22d8f Reusing old log /home/yoshee/.config/Code/Local Storage/leveldb/000003.log 

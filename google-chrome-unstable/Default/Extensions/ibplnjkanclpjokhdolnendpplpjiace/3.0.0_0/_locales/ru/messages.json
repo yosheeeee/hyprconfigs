@@ -1,0 +1,818 @@
+{
+   "additionalPermissionCaptionLabel": {
+      "message": "Для использования Simple Translate на веб-страницах требуются дополнительные разрешения."
+   },
+   "additionalPermissionLabel": {
+      "message": "Включить перевод на веб-страницах"
+   },
+   "addonPageLabel": {
+      "message": "Страница расширения"
+   },
+   "addonUrl": {
+      "message": "https://addons.mozilla.org/ru/firefox/addon/simple-translate/?src=optionpage"
+   },
+   "allLangLabel": {
+      "message": "Все языки"
+   },
+   "altLabel": {
+      "message": "Alt"
+   },
+   "amazonTitleLabel": {
+      "message": "Карты eGift от amazon.co.jp"
+   },
+   "amazonUrl": {
+      "message": "https://www.amazon.co.jp/dp/B004N3APGO?language=ru_RU"
+   },
+   "backersLabel": {
+      "message": "При поддержке"
+   },
+   "bgColorLabel": {
+      "message": "Цвет фона"
+   },
+   "bottomLabel": {
+      "message": "Внизу"
+   },
+   "bottomLeftLabel": {
+      "message": "Внизу слева"
+   },
+   "bottomRightLabel": {
+      "message": "Внизу справа"
+   },
+   "bottomSelectedTextLabel": {
+      "message": "Снизу от выделенного текста"
+   },
+   "buttonPositionLabel": {
+      "message": "Положение"
+   },
+   "buttonSizeLabel": {
+      "message": "Размер"
+   },
+   "buttonStyleCaptionLabel": {
+      "message": "Настройте стиль кнопки перевода, показываемой на веб-странице."
+   },
+   "buttonStyleLabel": {
+      "message": "Кнопка перевода"
+   },
+   "candidateFontColorLabel": {
+      "message": "Цвет шрифта вариантов перевода"
+   },
+   "clear": {
+      "message": "Очистить"
+   },
+   "clickedPointLabel": {
+      "message": "Рядом с курсором"
+   },
+   "cmdLabel": {
+      "message": "Command"
+   },
+   "copiedLabel": {
+      "message": "Скопировано."
+   },
+   "copyLabel": {
+      "message": "Копировать"
+   },
+   "ctrlLabel": {
+      "message": "Ctrl"
+   },
+   "currentTabLabel": {
+      "message": "Текущая вкладка"
+   },
+   "darkLabel": {
+      "message": "Тёмная"
+   },
+   "deeplApiCaptionLabel": {
+      "message": "Использовать DeepL API. Для получения ключа аутентификации необходимо зарегистрироваться в DeepL API Free или DeepL API Pro."
+   },
+   "deeplApiLabel": {
+      "message": "DeepL API"
+   },
+   "deeplAuthError": {
+      "message": "Ошибка: аутентификация DeepL API не удалась. Пожалуйста, установите правильный ключ аутентификации и тарифный план на странице настроек."
+   },
+   "deeplAuthKeyCaptionLabel": {
+      "message": "Введите ключ аутентификации для DeepL API."
+   },
+   "deeplAuthKeyLabel": {
+      "message": "Ключ аутентификации"
+   },
+   "deeplFreeLabel": {
+      "message": "DeepL API Free"
+   },
+   "deeplPlanCaptionLabel": {
+      "message": "Выберите тарифный план DeepL API, на который вы зарегистрированы."
+   },
+   "deeplPlanLabel": {
+      "message": "Тарифный план DeepL API"
+   },
+   "deeplProLabel": {
+      "message": "DeepL API Pro"
+   },
+   "disableOnThisPage": {
+      "message": "Отключить перевод на этой странице"
+   },
+   "disableTranslationLabel": {
+      "message": "Отключить перевод"
+   },
+   "disableUrlListCaptionLabel": {
+      "message": "Если URL страницы внесен в список, то перевод будет отключен. Список позволяет использовать подстановку \"*\"."
+   },
+   "disableUrlListLabel": {
+      "message": "Список URL для которых перевод будет отключен"
+   },
+   "displayDirectionLabel": {
+      "message": "Положение - Направление"
+   },
+   "donateLabel": {
+      "message": "Пожертвовать"
+   },
+   "donateWithPaypalLabel": {
+      "message": "Пожертвование через PayPal"
+   },
+   "donationCaptionLabel": {
+      "message": "Спасибо за использование Simple Translate.\u003Cbr>Ваша поддержка это большая помощь в дальнейшем развитии расширения.\u003Cbr>Если вам нравится Simple Translate, пожалуйста, подумайте о внесении небольшого пожертвования."
+   },
+   "donationLabel": {
+      "message": "Пожалуйста, поблагодарите автора"
+   },
+   "dontshowbuttonCaptionlabel": {
+      "message": "Не показывать ни кнопку перевода, ни панель с переводом."
+   },
+   "dontshowbuttonlabel": {
+      "message": "Не отображать кнопку или панель"
+   },
+   "enableLabel": {
+      "message": "Включить"
+   },
+   "enableOnThisPage": {
+      "message": "Включить перевод на этой странице"
+   },
+   "exportButtonLabel": {
+      "message": "Экспорт"
+   },
+   "exportSettingsCaptionLabel": {
+      "message": "Сохраните настройки в виде json-файла на своём компьютере."
+   },
+   "exportSettingsLabel": {
+      "message": "Экспорт настроек"
+   },
+   "extDescription": {
+      "message": "Быстро переводите выделенный или набранный текст на веб-страницах. Поддерживается Google Переводчик и DeepL API."
+   },
+   "extName": {
+      "message": "Simple Translate"
+   },
+   "extensionPageLabel": {
+      "message": "Страница расширения"
+   },
+   "fontSizeLabel": {
+      "message": "Размер шрифта"
+   },
+   "generalLabel": {
+      "message": "Общие"
+   },
+   "googleApiCaptionLabel": {
+      "message": "Использовать Google Translate API. Регистрация не требуется."
+   },
+   "googleApiLabel": {
+      "message": "Google Переводчик API"
+   },
+   "heightLabel": {
+      "message": "Высота"
+   },
+   "howToUseDeeplLabel": {
+      "message": "Как зарегистрироваться в DeepL API"
+   },
+   "ifAutoTranslateCaptionLabel": {
+      "message": "Сразу показать панель с переводом, не показывая кнопку."
+   },
+   "ifAutoTranslateLabel": {
+      "message": "Показать панель с переводом"
+   },
+   "ifChangeSecondLangCaptionLabel": {
+      "message": "Переключаться на дополнительный язык перевода в окне на панели инструментов, если язык исходного текста совпадает с языком перевода по умолчанию."
+   },
+   "ifChangeSecondLangLabel": {
+      "message": "Автоматически переключаться на дополнительный язык перевода"
+   },
+   "ifChangeSecondLangOnPageCaptionLabel": {
+      "message": "Переключаться на дополнительный язык перевода, если язык выделенного текста совпадает с языком перевода по умолчанию."
+   },
+   "ifCheckLangCaptionLabel": {
+      "message": "Если язык выделенного текста совпадает с языком перевода, то кнопка не показывается."
+   },
+   "ifCheckLangLabel": {
+      "message": "Не показывать кнопку, если перевод не требуется"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedCaptionLabel": {
+      "message": "Переводить только c модификатором"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedLabel": {
+      "message": "Переводить при нажатии клавиши модификатора"
+   },
+   "ifShowButtonCaptionLabel": {
+      "message": "Показать кнопку для открытия панели с переводом."
+   },
+   "ifShowButtonLabel": {
+      "message": "Показать кнопку перевода"
+   },
+   "ifShowCandidateCaptionLabel": {
+      "message": "Показывать несколько вариантов перевода одиночного слова."
+   },
+   "ifShowCandidateLabel": {
+      "message": "Показывать варианты перевода"
+   },
+   "ifShowMenuCaptionLabel": {
+      "message": "Добавить команды перевода в контекстное меню веб-страницы и контекстное меню вкладки."
+   },
+   "ifShowMenuLabel": {
+      "message": "Добавить пункты в контекстное меню"
+   },
+   "ignoredDocumentLangCaptionLabel": {
+      "message": "Отключить перевод если язык страницы совпадает с языком в списке. Введите список языков через запятую."
+   },
+   "ignoredDocumentLangLabel": {
+      "message": "Отключить перевод по аттрибуту lang"
+   },
+   "importButtonLabel": {
+      "message": "Импорт"
+   },
+   "importSettingsCaptionLabel": {
+      "message": "Загрузите файл настроек, сохраненный на компьютере."
+   },
+   "importSettingsLabel": {
+      "message": "Импорт настроек"
+   },
+   "includeMacModifierKeysMessage": {
+      "message": "Нажмите клавишу Command, Ctrl или Alt"
+   },
+   "includeModifierKeysMessage": {
+      "message": "Нажмите клавишу Ctrl или Alt"
+   },
+   "informationLabel": {
+      "message": "Информация"
+   },
+   "initialTextArea": {
+      "message": "Введите текст"
+   },
+   "invalidLetterMessage": {
+      "message": "Эта буква не может быть использована"
+   },
+   "invalidShortcutMessage": {
+      "message": "Это сочетание клавиш не может быть использовано"
+   },
+   "isDebugModeCaptionLabel": {
+      "message": "Если включен режим отладки, то журнал работы будет выводиться в отладчик."
+   },
+   "isDebugModeLabel": {
+      "message": "Включить режим отладки"
+   },
+   "isDisabledInCodeElementCaptionLabel": {
+      "message": "Не показывать кнопку перевода или панель при выделении текста в коде."
+   },
+   "isDisabledInCodeElementLabel": {
+      "message": "Отключить перевод в коде"
+   },
+   "isDisabledInTextFieldsCaptionLabel": {
+      "message": "Не показывать ни кнопку перевода, ни панель с переводом при выделении текста в текстовом поле."
+   },
+   "isDisabledInTextFieldsLabel": {
+      "message": "Отключить перевод в текстовых полях"
+   },
+   "isOverrideColorsLabel": {
+      "message": "Переопределить цвета по умолчанию цветами ниже"
+   },
+   "isShowOptionsPageWhenUpdatedCaptionLabel": {
+      "message": "Показать настройки после обновления расширения. Позволяет быстро узнать что нового."
+   },
+   "isShowOptionsPageWhenUpdatedLabel": {
+      "message": "Показать настройки при обновлении"
+   },
+   "keyboardShortcutsLabel": {
+      "message": "Сочетания клавиш"
+   },
+   "lang_af": {
+      "message": "Африкаанс"
+   },
+   "lang_am": {
+      "message": "Амхарский"
+   },
+   "lang_ar": {
+      "message": "Арабский"
+   },
+   "lang_az": {
+      "message": "Азербайджанский"
+   },
+   "lang_be": {
+      "message": "Белорусский"
+   },
+   "lang_bg": {
+      "message": "Болгарский"
+   },
+   "lang_bn": {
+      "message": "Бенгальский"
+   },
+   "lang_bs": {
+      "message": "Боснийский"
+   },
+   "lang_ca": {
+      "message": "Каталанский"
+   },
+   "lang_ceb": {
+      "message": "Себуано"
+   },
+   "lang_co": {
+      "message": "Корсиканский"
+   },
+   "lang_cs": {
+      "message": "Чешский"
+   },
+   "lang_cy": {
+      "message": "Валлийский"
+   },
+   "lang_da": {
+      "message": "Датский"
+   },
+   "lang_de": {
+      "message": "Немецкий"
+   },
+   "lang_el": {
+      "message": "Греческий"
+   },
+   "lang_en": {
+      "message": "Английский"
+   },
+   "lang_en_GB": {
+      "message": "Английский (британский)"
+   },
+   "lang_en_US": {
+      "message": "Английский (американский)"
+   },
+   "lang_eo": {
+      "message": "Эсперанто"
+   },
+   "lang_es": {
+      "message": "Испанский"
+   },
+   "lang_et": {
+      "message": "Эстонский"
+   },
+   "lang_eu": {
+      "message": "Баскский"
+   },
+   "lang_fa": {
+      "message": "Фарси"
+   },
+   "lang_fi": {
+      "message": "Финский"
+   },
+   "lang_fr": {
+      "message": "Французский"
+   },
+   "lang_fy": {
+      "message": "Фризский"
+   },
+   "lang_ga": {
+      "message": "Ирландский"
+   },
+   "lang_gd": {
+      "message": "Шотландский Гэльский"
+   },
+   "lang_gl": {
+      "message": "Галисийский"
+   },
+   "lang_gu": {
+      "message": "Гуджарати"
+   },
+   "lang_ha": {
+      "message": "Хауса"
+   },
+   "lang_haw": {
+      "message": "Гавайский"
+   },
+   "lang_he": {
+      "message": "Иврит"
+   },
+   "lang_hi": {
+      "message": "Хинди"
+   },
+   "lang_hmn": {
+      "message": "Хмонг"
+   },
+   "lang_hr": {
+      "message": "Хорватский"
+   },
+   "lang_ht": {
+      "message": "Гаитянский"
+   },
+   "lang_hu": {
+      "message": "Венгерский"
+   },
+   "lang_hy": {
+      "message": "Армянский"
+   },
+   "lang_id": {
+      "message": "Индонезийский"
+   },
+   "lang_ig": {
+      "message": "Игбо"
+   },
+   "lang_is": {
+      "message": "Исландский"
+   },
+   "lang_it": {
+      "message": "Итальянский"
+   },
+   "lang_ja": {
+      "message": "Японский"
+   },
+   "lang_jv": {
+      "message": "Яванский"
+   },
+   "lang_ka": {
+      "message": "Грузинский"
+   },
+   "lang_kk": {
+      "message": "Казахский"
+   },
+   "lang_km": {
+      "message": "Кхмерский"
+   },
+   "lang_kn": {
+      "message": "Каннада"
+   },
+   "lang_ko": {
+      "message": "Корейский"
+   },
+   "lang_ku": {
+      "message": "Курдский"
+   },
+   "lang_ky": {
+      "message": "Киргизский"
+   },
+   "lang_la": {
+      "message": "Латынь"
+   },
+   "lang_lb": {
+      "message": "Люксембургский"
+   },
+   "lang_lo": {
+      "message": "Лаосский"
+   },
+   "lang_lt": {
+      "message": "Литовский"
+   },
+   "lang_lv": {
+      "message": "Латышский"
+   },
+   "lang_mg": {
+      "message": "Малагасийский"
+   },
+   "lang_mi": {
+      "message": "Маори"
+   },
+   "lang_mk": {
+      "message": "Македонский"
+   },
+   "lang_ml": {
+      "message": "Малаялам"
+   },
+   "lang_mn": {
+      "message": "Монгольский"
+   },
+   "lang_mr": {
+      "message": "Маратхи"
+   },
+   "lang_ms": {
+      "message": "Малайский"
+   },
+   "lang_mt": {
+      "message": "Мальтийский"
+   },
+   "lang_my": {
+      "message": "Мьянманский"
+   },
+   "lang_nb": {
+      "message": "Норвежский (bokmål)"
+   },
+   "lang_ne": {
+      "message": "Непальский"
+   },
+   "lang_nl": {
+      "message": "Нидерландский"
+   },
+   "lang_no": {
+      "message": "Норвежский"
+   },
+   "lang_ny": {
+      "message": "Чева"
+   },
+   "lang_or": {
+      "message": "Одия (Ория)"
+   },
+   "lang_pa": {
+      "message": "Панджаби"
+   },
+   "lang_pl": {
+      "message": "Польский"
+   },
+   "lang_ps": {
+      "message": "Пушту"
+   },
+   "lang_pt": {
+      "message": "Португальский"
+   },
+   "lang_pt_BR": {
+      "message": "Португальский (бразильский)"
+   },
+   "lang_pt_PT": {
+      "message": "Португальский"
+   },
+   "lang_ro": {
+      "message": "Румынский"
+   },
+   "lang_ru": {
+      "message": "Русский"
+   },
+   "lang_rw": {
+      "message": "Киньяруанда"
+   },
+   "lang_sd": {
+      "message": "Синдхи"
+   },
+   "lang_si": {
+      "message": "Сингальский"
+   },
+   "lang_sk": {
+      "message": "Словацкий"
+   },
+   "lang_sl": {
+      "message": "Словенский"
+   },
+   "lang_sm": {
+      "message": "Самоанский"
+   },
+   "lang_sn": {
+      "message": "Шона"
+   },
+   "lang_so": {
+      "message": "Сомалийский"
+   },
+   "lang_sq": {
+      "message": "Албанский"
+   },
+   "lang_sr": {
+      "message": "Сербский"
+   },
+   "lang_st": {
+      "message": "Сесото"
+   },
+   "lang_su": {
+      "message": "Суданский"
+   },
+   "lang_sv": {
+      "message": "Шведский"
+   },
+   "lang_sw": {
+      "message": "Суахили"
+   },
+   "lang_ta": {
+      "message": "Тамильский"
+   },
+   "lang_te": {
+      "message": "Телугу"
+   },
+   "lang_tg": {
+      "message": "Таджикский"
+   },
+   "lang_th": {
+      "message": "Тайский"
+   },
+   "lang_tk": {
+      "message": "Туркменский"
+   },
+   "lang_tl": {
+      "message": "Тагальский"
+   },
+   "lang_tr": {
+      "message": "Турецкий"
+   },
+   "lang_tt": {
+      "message": "Татарский"
+   },
+   "lang_ug": {
+      "message": "Уйгурский"
+   },
+   "lang_uk": {
+      "message": "Украинский"
+   },
+   "lang_ur": {
+      "message": "Урду"
+   },
+   "lang_uz": {
+      "message": "Узбекский"
+   },
+   "lang_vi": {
+      "message": "Вьетнамский"
+   },
+   "lang_xh": {
+      "message": "Коса"
+   },
+   "lang_yi": {
+      "message": "Идиш"
+   },
+   "lang_yo": {
+      "message": "Йоруба"
+   },
+   "lang_zh": {
+      "message": "Китайский"
+   },
+   "lang_zh_CN": {
+      "message": "Китайский (упрощенный)"
+   },
+   "lang_zh_TW": {
+      "message": "Китайский (традиционный)"
+   },
+   "lang_zu": {
+      "message": "Зулу"
+   },
+   "leftLabel": {
+      "message": "Слева"
+   },
+   "licenseLabel": {
+      "message": "Лицензия"
+   },
+   "lightLabel": {
+      "message": "Светлая"
+   },
+   "listenLabel": {
+      "message": "Слушать"
+   },
+   "menuLabel": {
+      "message": "Контекстное меню"
+   },
+   "modifierKeyLabel": {
+      "message": "Клавиша модификатор"
+   },
+   "networkError": {
+      "message": "Ошибка: проверьте состояние сетевого подключения."
+   },
+   "newTabLabel": {
+      "message": "Новая вкладка"
+   },
+   "openInDeeplLabel": {
+      "message": "Открыть в DeepL Translator"
+   },
+   "openInGoogleLabel": {
+      "message": "Открыть в Переводчике Google"
+   },
+   "openPopupDescription": {
+      "message": "Показать всплывающее окно на панели инструментов"
+   },
+   "otherLabel": {
+      "message": "Другое"
+   },
+   "pageTranslationLabel": {
+      "message": "Перевод страницы"
+   },
+   "pageTranslationOpenToCaptionLabel": {
+      "message": "Укажите вкладку для отображения результатов перевода страницы."
+   },
+   "pageTranslationOpenToLabel": {
+      "message": "Вкладка для отображения результатов перевода"
+   },
+   "panelStyleCaptionLabel": {
+      "message": "Настройте стиль панели с переводом, показываемой на веб-странице."
+   },
+   "panelStyleLabel": {
+      "message": "Панель с переводом"
+   },
+   "positionOffsetLabel": {
+      "message": "Положение - Сдвиг"
+   },
+   "privacyPolicyLabel": {
+      "message": "Политика конфиденциальности"
+   },
+   "recentLangLabel": {
+      "message": "Недавние языки"
+   },
+   "referencePointLabel": {
+      "message": "Положение"
+   },
+   "reset": {
+      "message": "Сброс"
+   },
+   "resetSettingsButtonLabel": {
+      "message": "Сброс"
+   },
+   "resetSettingsCaptionLabel": {
+      "message": "Восстановить все настройки по умолчанию."
+   },
+   "resetSettingsLabel": {
+      "message": "Сброс настроек"
+   },
+   "resultFontColorLabel": {
+      "message": "Цвет шрифта перевода"
+   },
+   "rightLabel": {
+      "message": "Справа"
+   },
+   "secondTargetLangCaptionLabel": {
+      "message": "Выберите дополнительный язык перевода."
+   },
+   "secondTargetLangLabel": {
+      "message": "Дополнительный язык перевода"
+   },
+   "setKeyboardShortCutsMessage": {
+      "message": "Настройка сочетаний клавиш."
+   },
+   "settingsLabel": {
+      "message": "Настройки"
+   },
+   "shiftLabel": {
+      "message": "Shift"
+   },
+   "shortcutsLabel": {
+      "message": "Горячие клавиши"
+   },
+   "showLink": {
+      "message": "Перевести страницу"
+   },
+   "sponsorsLabel": {
+      "message": "Спонсоры"
+   },
+   "styleLabel": {
+      "message": "Стиль"
+   },
+   "systemLabel": {
+      "message": "Системные"
+   },
+   "targetLangCaptionLabel": {
+      "message": "Выберите язык перевода по умолчанию."
+   },
+   "targetLangLabel": {
+      "message": "Язык перевода"
+   },
+   "themeCaptionLabel": {
+      "message": "Выберите тему оформления."
+   },
+   "themeLabel": {
+      "message": "Тема"
+   },
+   "toolbarLabel": {
+      "message": "Всплывающее окно на панели инструментов"
+   },
+   "topLabel": {
+      "message": "Вверху"
+   },
+   "topLeftLabel": {
+      "message": "Вверху слева"
+   },
+   "topRightLabel": {
+      "message": "Вверху справа"
+   },
+   "topSelectedTextLabel": {
+      "message": "Сверху от выделенного текста"
+   },
+   "translateLinkMenu": {
+      "message": "Перевести страницу по ссылке"
+   },
+   "translatePageMenu": {
+      "message": "Перевести всю страницу"
+   },
+   "translateTextMenu": {
+      "message": "Перевести выделенный текст"
+   },
+   "translationApiLabel": {
+      "message": "Система перевода"
+   },
+   "typeLetterMessage": {
+      "message": "Введите букву"
+   },
+   "typeShortcutMessage": {
+      "message": "Введите сочетание клавиш"
+   },
+   "unavailableError": {
+      "message": "Ошибка: достигнут предел использования сервиса. Подождите некоторое время и повторите попытку."
+   },
+   "unknownError": {
+      "message": "Ошибка: неизвестная ошибка"
+   },
+   "waitTime2CaptionLabel": {
+      "message": "Если запускать перевод слишком часто, сервис может стать временно недоступным."
+   },
+   "waitTimeCaptionLabel": {
+      "message": "Настройте задержку между вводом символа и началом процесса перевода (миллисекунды)."
+   },
+   "waitTimeLabel": {
+      "message": "Задержка перед переводом"
+   },
+   "webPageLabel": {
+      "message": "Веб-страница"
+   },
+   "whenSelectTextLabel": {
+      "message": "Поведение при выделении текста"
+   },
+   "widthLabel": {
+      "message": "Ширина"
+   }
+}

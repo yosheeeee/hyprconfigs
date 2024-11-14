@@ -1,0 +1,336 @@
+{
+   "auto_enrollment_notification_message": {
+      "message": "Click here to automatically enroll a pre-configured certificate."
+   },
+   "auto_enrollment_notification_title": {
+      "message": "Enroll Certificate"
+   },
+   "cea_cep_network": {
+      "message": "Communicating with the configured CEP endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_cep_template": {
+      "message": "No matching certificate template was found. Please contact your administrator."
+   },
+   "cea_ces_denied": {
+      "message": "The certificate request was denied by the Certificate Authority."
+   },
+   "cea_ces_network": {
+      "message": "Communicating with the configured CES endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_ces_pending": {
+      "message": "The certificate request was left pending by the Certificate Authority. Please contact your administrator."
+   },
+   "cea_error_other": {
+      "message": "An unknown error was encountered by the certificate enrollment agent during verified access enrollment. If this continues, contact your administrator."
+   },
+   "cea_google_network": {
+      "message": "Communicating with the configured Google verified access server failed. If this continues, contact your administrator."
+   },
+   "cea_google_reject": {
+      "message": "The verified access check was not successful for the Chrome identity of the signed in user on this device."
+   },
+   "cea_invalid_api_version": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected version. If this continues, contact your administrator."
+   },
+   "cea_ldap_network": {
+      "message": "Communicating with the configured LDAP server failed. If this continues, contact your administrator."
+   },
+   "cea_ldap_user_verification": {
+      "message": "The username provided was not found or failed verification. Please check your username and try again. If this continues, contact your administrator."
+   },
+   "cea_locked_contact_admin": {
+      "message": "The request failed due to lockout protection. Please contact your administrator."
+   },
+   "cea_locked_try_again": {
+      "message": "The request failed due to lockout protection. Please try again later."
+   },
+   "cea_malformed_request": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected format. If this continues, contact your administrator."
+   },
+   "cea_no_api_failure": {
+      "message": "Could not access the enterprise.platformKeys API. Your device may not be enrolled in the domain."
+   },
+   "cea_qps_reject": {
+      "message": "The request was rejected to due to too many requests per second. Please wait a few minutes and try again."
+   },
+   "cea_timed_out": {
+      "message": "Getting a certificate through the verified access enrollment flow timed out. If this continues, contact your administrator."
+   },
+   "cea_va_failed": {
+      "message": "The user's identity could not be confirmed with the verified access API."
+   },
+   "certificate_renewal_alert": {
+      "message": "Certificate was succesfully renewed."
+   },
+   "certificate_renewal_failure_alert": {
+      "message": "Failure: an error occurred while renewing a certificate. More details can be found on the console logs."
+   },
+   "empty_username": {
+      "message": "The username field is required."
+   },
+   "extension_description": {
+      "message": "Pyydä laitteelle varmenne."
+   },
+   "extension_name": {
+      "message": "Certificate Enrollment for ChromeOS"
+   },
+   "extension_name_dev": {
+      "message": "Certificate Enrollment for ChromeOS Dev"
+   },
+   "failure_title": {
+      "message": "Virhe"
+   },
+   "generate_challenge_response_failed": {
+      "message": "Unable to create a challenge-response for enrolling with Verified Access. If this continues, contact your administrator."
+   },
+   "get_challenge_failed": {
+      "message": "Getting a challenge from the Verified Access endpoint failed. If this continues, contact your administrator."
+   },
+   "get_challenge_timed_out": {
+      "message": "Getting a challenge from the Verified Access endpoint timed out. If this continues, contact your administrator."
+   },
+   "invalid_credentials": {
+      "message": "Palvelin ei voinut vahvistaa käyttäjätunnusta ja salasanaa. Yhdessä tai molemmissa voi olla virhe."
+   },
+   "invalid_policy_var": {
+      "message": "Määritettiin virheellinen käytännön muuttuja.\nKäytännön muuttujan nimi: $1\nKäytännön muuttujan arvo: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "kerberos_authentication_text": {
+      "message": "Your admin has configured certificates to be issued using Kerberos authentication. Click the $1 button to request a certificate. Kerberos tickets can be obtained via Chrome Settings > People > Kerberos tickets.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "login_cep_failure": {
+      "message": "Ei saatu yhteyttä käytäntöpalvelimeen."
+   },
+   "login_device_help": {
+      "message": "Pyydä koko laitteelle varmennetta, joka sallii muiden organisaatioosi kuuluvien käyttää laitetta."
+   },
+   "login_enrollment_failure": {
+      "message": "Rekisteröinti määritettyyn URI-osoitteeseen epäonnistui."
+   },
+   "login_failure_alert": {
+      "message": "Virhe: tapahtui virhe. Lisätietoja on konsolin lokeissa."
+   },
+   "login_help_center_text": {
+      "message": "Ohjekeskus"
+   },
+   "login_hide_pending": {
+      "message": "Piilotetaanko lisäkentät odottavien pyyntöjen tarkistuksessa?"
+   },
+   "login_invalid_character": {
+      "message": "Merkit \u003C ja > eivät ole sallittuja tässä kentässä."
+   },
+   "login_loading_text": {
+      "message": "Varmenne pyydetty. Odota."
+   },
+   "login_no_uri_failure": {
+      "message": "Rekisteröinnin URI-osoitteita ei ole käytettävissä rekisteröintiä varten."
+   },
+   "login_privacy_link": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "login_query_uri": {
+      "message": "Määritettiin virheellinen rekisteröinnin URI. Rekisteröinnin URI-kentän alussa on oltava https."
+   },
+   "login_service_account_help": {
+      "message": "Request a certificate using the acount details provided by your administrator."
+   },
+   "login_show_pending": {
+      "message": "Näytetäänkö lisäkentät odottavien pyyntöjen tarkistuksessa?"
+   },
+   "login_success_alert": {
+      "message": "Onnistui: varmenne luotiin ja sen tuonti onnistui."
+   },
+   "managed_cep_empty_error": {
+      "message": "cep_proxy_url on määrittämättä tai määritetty tyhjäksi."
+   },
+   "managed_cep_http_error": {
+      "message": "cep_proxy_url ei ala merkinnällä https."
+   },
+   "managed_certificate_renewal_error": {
+      "message": "Yritettiin määrittää enable_certificate_renewal tuntemattomaan arvoon."
+   },
+   "managed_clipboard_button": {
+      "message": "Kopioi lokit leikepöydälle"
+   },
+   "managed_company_url_http_error": {
+      "message": "help_url field in company_info not set to https."
+   },
+   "managed_help_text": {
+      "message": "Tarvitsetko apua?"
+   },
+   "managed_license_button": {
+      "message": "Tietoja"
+   },
+   "managed_log_level_error": {
+      "message": "Yritettiin määrittää log_level tuntemattomaan arvoon."
+   },
+   "managed_login_button": {
+      "message": "Rekisteröidy"
+   },
+   "managed_login_device_wide_checkbox": {
+      "message": "Enroll Device-Wide Certificate"
+   },
+   "managed_login_header": {
+      "message": "Varmenteen rekisteröinti"
+   },
+   "managed_login_tab_label": {
+      "message": "Uusi pyyntö"
+   },
+   "managed_login_use_service_account_checkbox": {
+      "message": "Use Service Account"
+   },
+   "managed_more_options": {
+      "message": "Lisäasetukset"
+   },
+   "managed_password_placeholder": {
+      "message": "Salasana"
+   },
+   "managed_policy_handling_info": {
+      "message": "Käsitellään muutettuja käytäntöjä."
+   },
+   "managed_policy_request_info": {
+      "message": "Pyydetään käytäntöä taustajärjestelmästä."
+   },
+   "managed_policy_response_info": {
+      "message": "Käytännön päivitys vastaanotettu taustajärjestelmästä."
+   },
+   "managed_signature_algo_error": {
+      "message": "Yritettiin määrittää allekirjoitus_algo tuntemattomaan arvoon."
+   },
+   "managed_status_button": {
+      "message": "Tarkista tila"
+   },
+   "managed_status_header": {
+      "message": "Odottava varmenteen tarkistus"
+   },
+   "managed_status_tab_label": {
+      "message": "Odottava pyyntö"
+   },
+   "managed_username_placeholder": {
+      "message": "Käyttäjätunnus"
+   },
+   "managed_va_url_http_error": {
+      "message": "va_google_url not set to https."
+   },
+   "no_certificates_to_renew": {
+      "message": "There are no existing certificates to renew."
+   },
+   "okay_button": {
+      "message": "OK"
+   },
+   "pending_title": {
+      "message": "Odottaa"
+   },
+   "policy_bad_response": {
+      "message": "Virheellinen vastaus yritettäessä hakea rekisteröinnin URI-osoitteita. Virheilmoitus: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "policy_timeout_error": {
+      "message": "Request timed out when attempting to reach the CEP endpoint. Please try again later or contact your administrator."
+   },
+   "renewal_generate_pkcs10_failure": {
+      "message": "Generating a new certificate request to embed in a renewal request failed."
+   },
+   "renewal_notification_ignore": {
+      "message": "Ohita kaikki muistutukset"
+   },
+   "renewal_notification_message": {
+      "message": "Varmenne vanhenee pian. Uudista nyt klikkaamalla."
+   },
+   "renewal_notification_remind": {
+      "message": "Muistuta myöhemmin"
+   },
+   "renewal_notification_title": {
+      "message": "Varmenteen uudistusmuistutus"
+   },
+   "renewal_request_key_pair_failure": {
+      "message": "Retrieving the key pair associated with the renewal certificate failed."
+   },
+   "renewal_sign_cms_failure": {
+      "message": "Signing a renewal request failed."
+   },
+   "saving_bad_response": {
+      "message": "Virheellinen vastaus yritettäessä rekisteröidä varmennetta. Virheilmoitus: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "saving_denied": {
+      "message": "Palvelin esti varmennepyynnön."
+   },
+   "saving_generate_digest_failure": {
+      "message": "Kohteen julkisen avaimen tiivistäminen epäonnistui."
+   },
+   "saving_generate_export_failure": {
+      "message": "Julkisen avaimen vienti epäonnistui."
+   },
+   "saving_generate_extract_failure": {
+      "message": "Key pair extraction and saving failed."
+   },
+   "saving_generate_key_failure": {
+      "message": "Avainparin luonti ja tallennus epäonnistuivat."
+   },
+   "saving_generate_push_failure": {
+      "message": "Pushing attributes into CSR failed."
+   },
+   "saving_generate_sign_failure": {
+      "message": "Lopullisen varmennepyynnön allekirjoitus epäonnistui."
+   },
+   "saving_no_cert_failure": {
+      "message": "Tallennettavaa varmennetta ei löytynyt vastauksesta."
+   },
+   "saving_pending": {
+      "message": "The server set the request to pending.\nRequest: $1\nReference: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "saving_store_failure": {
+      "message": "Vastauksen varmennetta ei voitu tallentaa koneelle."
+   },
+   "saving_template_error": {
+      "message": "Palvelin esti varmennepyynnön, koska määritettiin virheellinen varmennemalli."
+   },
+   "saving_timeout_error": {
+      "message": "Request timed out when attempting to reach the CES endpoint. Please try again later or contact your administrator."
+   },
+   "service_account_host_error": {
+      "message": "Could not retrieve service account credentials."
+   },
+   "success_title": {
+      "message": "Onnistui"
+   },
+   "token_no_system_failure": {
+      "message": "Could not find a valid system token. Your device may not be enrolled in the domain, or you may not have rights to request a system certificate."
+   },
+   "token_no_user_failure": {
+      "message": "Could not find a valid user token. Your device may not be enrolled in the domain."
+   },
+   "token_system_unallowed_failure": {
+      "message": "Nykyinen käytäntö ei salli rekisteröintiä laitteen varmenteella."
+   }
+}

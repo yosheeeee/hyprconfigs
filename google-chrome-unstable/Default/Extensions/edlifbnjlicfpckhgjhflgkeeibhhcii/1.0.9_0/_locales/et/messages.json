@@ -1,0 +1,32 @@
+{
+   "description": {
+      "message": "Screenshot Tool and screen capture from your screen with free screenshot. Screen video recorder, screencast or video recording. Take screenshot. Powerful screenshot & screen capture tool, take full page screenshot, annotate your screenshot."
+   },
+   "name": {
+      "message": "Screenshot - Screen Capture"
+   },
+   "popupDesc1": {
+      "message": "Screenshot will open in a new tab after completion!"
+   },
+   "popupDesc2": {
+      "message": "Failed to take a screenshot! Try reloading the page."
+   },
+   "popupDesc3": {
+      "message": "Cannot take a screenshot of this type due to Google Chrome policy. Try another page in your browser."
+   },
+   "rateDialogDesc": {
+      "message": "Would you mind rating us on the Chrome Web Store? Thank you!"
+   },
+   "rateDialogNo": {
+      "message": "Maybe next time"
+   },
+   "rateDialogTitle": {
+      "message": "Useful App for you?"
+   },
+   "rateDialogYes": {
+      "message": "OK, sure"
+   },
+   "short_name": {
+      "message": "Screenshot Capture Tool"
+   }
+}

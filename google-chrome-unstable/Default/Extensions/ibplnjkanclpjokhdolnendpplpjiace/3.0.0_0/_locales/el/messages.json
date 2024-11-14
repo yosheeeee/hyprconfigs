@@ -1,0 +1,818 @@
+{
+   "additionalPermissionCaptionLabel": {
+      "message": "Additional permissions are required to use Simple Translate on web pages."
+   },
+   "additionalPermissionLabel": {
+      "message": "Enable translation on web pages"
+   },
+   "addonPageLabel": {
+      "message": "Σελίδα πρόσθετου"
+   },
+   "addonUrl": {
+      "message": "https://addons.mozilla.org/en-US/firefox/addon/simple-translate/?src=optionpage"
+   },
+   "allLangLabel": {
+      "message": "Όλες οι γλώσσες"
+   },
+   "altLabel": {
+      "message": "Alt"
+   },
+   "amazonTitleLabel": {
+      "message": "amazon.co.jp eGift Cards"
+   },
+   "amazonUrl": {
+      "message": "https://www.amazon.co.jp/dp/B004N3APGO?language=en_US"
+   },
+   "backersLabel": {
+      "message": "Υποστηρικτές"
+   },
+   "bgColorLabel": {
+      "message": "Χρώμα φόντου"
+   },
+   "bottomLabel": {
+      "message": "Κάτω"
+   },
+   "bottomLeftLabel": {
+      "message": "Κάτω αριστερά"
+   },
+   "bottomRightLabel": {
+      "message": "Κάτω δεξιά"
+   },
+   "bottomSelectedTextLabel": {
+      "message": "Κάτω από το επιλεγμένο κείμενο"
+   },
+   "buttonPositionLabel": {
+      "message": "Θέση εμφάνισης"
+   },
+   "buttonSizeLabel": {
+      "message": "Μέγεθος"
+   },
+   "buttonStyleCaptionLabel": {
+      "message": "Καθορίστε το στυλ του κουμπιού μετάφρασης που εμφανίζεται στην ιστοσελίδα."
+   },
+   "buttonStyleLabel": {
+      "message": "Κουμπί μετάφρασης"
+   },
+   "candidateFontColorLabel": {
+      "message": "Χρώμα γραμματοσειράς των υποψηφίων μεταφράσεων"
+   },
+   "clear": {
+      "message": "Καθάρισμα"
+   },
+   "clickedPointLabel": {
+      "message": "Στο σημείο που έγινε κλικ"
+   },
+   "cmdLabel": {
+      "message": "Εντολή"
+   },
+   "copiedLabel": {
+      "message": "Αντιγράφτηκε."
+   },
+   "copyLabel": {
+      "message": "Αντιγραφή"
+   },
+   "ctrlLabel": {
+      "message": "Ctrl"
+   },
+   "currentTabLabel": {
+      "message": "Τρέχουσα καρτέλα"
+   },
+   "darkLabel": {
+      "message": "Σκούρο"
+   },
+   "deeplApiCaptionLabel": {
+      "message": "Χρησιμοποιήστε το DeepL API. Πρέπει να εγγραφείτε στο DeepL API Free ή στο DeepL API Pro για να αποκτήσετε ένα κλειδί ταυτοποίησης."
+   },
+   "deeplApiLabel": {
+      "message": "DeepL API"
+   },
+   "deeplAuthError": {
+      "message": "Σφάλμα: Ο έλεγχος ταυτότητας του DeepL API απέτυχε. Παρακαλώ ορίστε το κλειδί ελέγχου ταυτότητας και πλάνο στη σελίδα ρυθμίσεων."
+   },
+   "deeplAuthKeyCaptionLabel": {
+      "message": "Εισάγετε το κλειδί ελέγχου ταυτότητας για το API DeepL."
+   },
+   "deeplAuthKeyLabel": {
+      "message": "Κλειδί πιστοποίησης"
+   },
+   "deeplFreeLabel": {
+      "message": "Δωρεάν DeepL API"
+   },
+   "deeplPlanCaptionLabel": {
+      "message": "Επιλέξτε το πλάνο DeepL API στο οποίο έχετε εγγραφεί."
+   },
+   "deeplPlanLabel": {
+      "message": "Πλάνο DeepL API"
+   },
+   "deeplProLabel": {
+      "message": "DeepL API Pro"
+   },
+   "disableOnThisPage": {
+      "message": "Απενεργοποίηση μετάφρασης σε αυτή τη σελίδα"
+   },
+   "disableTranslationLabel": {
+      "message": "Απενεργοποίηση μετάφρασης"
+   },
+   "disableUrlListCaptionLabel": {
+      "message": "Εάν το URL της σελίδας υπάρχει στη λίστα, η μετάφραση στην ιστοσελίδα είναι απενεργοποιημένη. Η λίστα επιτρέπει χαρακτήρες \"*\" μπαλαντέρ."
+   },
+   "disableUrlListLabel": {
+      "message": "Λίστα URL για απενεργοποίηση μετάφρασης"
+   },
+   "displayDirectionLabel": {
+      "message": "Θέση εμφάνισης - Κατεύθυνση"
+   },
+   "donateLabel": {
+      "message": "Δωρεά"
+   },
+   "donateWithPaypalLabel": {
+      "message": "Δωρεά μέσω PayPal"
+   },
+   "donationCaptionLabel": {
+      "message": "Ευχαριστούμε που χρησιμοποιείτε το Simple Translate.\u003Cbr>Η υποστήριξή σας με ενθαρρύνει να συνεχίσω να αναπτύσσω αυτό το πρόσθετο.\u003Cbr>Αν σας αρέσει το Simple Translate, θα ήμουν ευτυχής αν σκεφτείτε να κάνετε μια δωρεά."
+   },
+   "donationLabel": {
+      "message": "Κάντε μια δωρεά"
+   },
+   "dontshowbuttonCaptionlabel": {
+      "message": "Μη εμφάνιση του κουμπιού ή του πλαισίου μετάφρασης."
+   },
+   "dontshowbuttonlabel": {
+      "message": "Μη εμφάνιση κουμπιού ή πλαισίου"
+   },
+   "enableLabel": {
+      "message": "Enable"
+   },
+   "enableOnThisPage": {
+      "message": "Ενεργοποίηση μετάφρασης σε αυτή τη σελίδα"
+   },
+   "exportButtonLabel": {
+      "message": "Εξαγωγή"
+   },
+   "exportSettingsCaptionLabel": {
+      "message": "Αποθηκεύστε τις ρυθμίσεις ως αρχείο json στον υπολογιστή."
+   },
+   "exportSettingsLabel": {
+      "message": "Εξαγωγή ρυθμίσεων"
+   },
+   "extDescription": {
+      "message": "Γρήγορη μετάφραση επιλεγμένου ή πληκτρολογημένου κειμένου σε ιστοσελίδες. Υποστηρίζει Μετάφραση Google και DeepL API."
+   },
+   "extName": {
+      "message": "Simple Translate"
+   },
+   "extensionPageLabel": {
+      "message": "Σελίδα επέκτασης"
+   },
+   "fontSizeLabel": {
+      "message": "Μέγεθος γραμματοσειράς"
+   },
+   "generalLabel": {
+      "message": "Γενικές"
+   },
+   "googleApiCaptionLabel": {
+      "message": "Χρήση του API Μετάφρασης Google. Δεν απαιτείται εγγραφή."
+   },
+   "googleApiLabel": {
+      "message": "API Μετάφρασης Google"
+   },
+   "heightLabel": {
+      "message": "Ύψος"
+   },
+   "howToUseDeeplLabel": {
+      "message": "Πώς να εγγραφείτε στο DeepL API"
+   },
+   "ifAutoTranslateCaptionLabel": {
+      "message": "Άμεση εμφάνιση του πλαισίου μετάφρασης χωρίς εμφάνιση του κουμπιού."
+   },
+   "ifAutoTranslateLabel": {
+      "message": "Εμφάνιση του πλαισίου μετάφρασης"
+   },
+   "ifChangeSecondLangCaptionLabel": {
+      "message": "Εντοπίζει τη γλώσσα του επιλεγμένου κειμένου και αν είναι ίδια με τη γλώσσα προορισμού, μεταφράζει στη δεύτερη γλώσσα."
+   },
+   "ifChangeSecondLangLabel": {
+      "message": "Αυτόματη αλλαγή στη δεύτερη γλώσσα"
+   },
+   "ifChangeSecondLangOnPageCaptionLabel": {
+      "message": "Εντοπίζει τη γλώσσα του επιλεγμένου κειμένου και αν είναι ίδια με τη γλώσσα προορισμού, μεταφράζει στη δεύτερη γλώσσα."
+   },
+   "ifCheckLangCaptionLabel": {
+      "message": "Εντοπίζει τη γλώσσα του επιλεγμένου κειμένου και αν είναι ίδια με τη γλώσσα προορισμού, το κουμπί δεν εμφανίζεται."
+   },
+   "ifCheckLangLabel": {
+      "message": "Μη εμφάνιση κουμπιού μετάφρασης όταν δεν χρειάζεται μετάφραση"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedCaptionLabel": {
+      "message": "Εμφάνιση μετάφρασης μόνο με το πάτημα του πλήκτρου τροποποίησης."
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedLabel": {
+      "message": "Μετάφραση με το πάτημα του πλήκτρου τροποποίησης"
+   },
+   "ifShowButtonCaptionLabel": {
+      "message": "Εμφάνιση του κουμπιού για άνοιγμα του πλαισίου όταν πατηθεί."
+   },
+   "ifShowButtonLabel": {
+      "message": "Εμφάνιση του κουμπιού μετάφρασης"
+   },
+   "ifShowCandidateCaptionLabel": {
+      "message": "Εμφάνιση πολλαπλών προτεινόμενων μεταφράσεων όταν μεταφράζεται μία μόνο λέξη."
+   },
+   "ifShowCandidateLabel": {
+      "message": "Εμφάνιση προτεινόμενων μεταφράσεων"
+   },
+   "ifShowMenuCaptionLabel": {
+      "message": "Προσθέστε στοιχεία στο μενού πλαισίου που εμφανίζεται όταν κάνετε δεξί κλικ στην ιστοσελίδα ή την καρτέλα."
+   },
+   "ifShowMenuLabel": {
+      "message": "Εμφάνιση του μενού πλαισίου"
+   },
+   "ignoredDocumentLangCaptionLabel": {
+      "message": "Απενεργοποίηση μετάφρασης εάν το χαρακτηριστικό γλώσσας στο στοιχείο html της σελίδας ταιριάζει με τη λίστα. Εισάγετε ετικέτες γλώσσας χωρισμένες με κόμμα."
+   },
+   "ignoredDocumentLangLabel": {
+      "message": "Απενεργοποίηση μετάφρασης με βάση τα χαρακτηριστικά γλώσσας"
+   },
+   "importButtonLabel": {
+      "message": "Εισαγωγή"
+   },
+   "importSettingsCaptionLabel": {
+      "message": "Φόρτωση του αποθηκευμένου στον υπολογιστή αρχείου ρυθμίσεων."
+   },
+   "importSettingsLabel": {
+      "message": "Εισαγωγή Ρυθμίσεων"
+   },
+   "includeMacModifierKeysMessage": {
+      "message": "Συμπερίληψη του πλήκτρου Command, Ctrl ή Alt"
+   },
+   "includeModifierKeysMessage": {
+      "message": "Συμπερίληψη το πλήκτρου Ctrl ή Alt"
+   },
+   "informationLabel": {
+      "message": "Πληροφόρηση"
+   },
+   "initialTextArea": {
+      "message": "Εισαγωγή κειμένου"
+   },
+   "invalidLetterMessage": {
+      "message": "Αυτό το γράμμα δεν μπορεί να χρησιμοποιηθεί"
+   },
+   "invalidShortcutMessage": {
+      "message": "Η συντόμευση δεν μπορεί να χρησιμοποιηθεί"
+   },
+   "isDebugModeCaptionLabel": {
+      "message": "Όταν έχει ενεργοποιηθεί ο εντοπισμός σφαλμάτων, το περιεχόμενο καταγραφής κατευθύνεται στο πρόγραμμα αποσφαλμάτωσης."
+   },
+   "isDebugModeLabel": {
+      "message": "Ενεργοποίηση εντοπισμού σφαλμάτων"
+   },
+   "isDisabledInCodeElementCaptionLabel": {
+      "message": "Να μην εμφανίζεται το κουμπί ή ο πίνακας μετάφρασης κατά την επιλογή κειμένου στην ετικέτα κώδικα."
+   },
+   "isDisabledInCodeElementLabel": {
+      "message": "Απενεργοποίηση μετάφρασης στις ετικέτες κώδικα"
+   },
+   "isDisabledInTextFieldsCaptionLabel": {
+      "message": "Μη εμφάνιση κουμπιού ή πλαισίου μετάφρασης όταν επιλέγεται κείμενο σε πεδίο κειμένου."
+   },
+   "isDisabledInTextFieldsLabel": {
+      "message": "Απενεργοποίηση μετάφρασης σε πεδία κειμένου"
+   },
+   "isOverrideColorsLabel": {
+      "message": "Παράκαμψη των προεπιλεγμένων χρωμάτων με τα παρακάτω χρώματα"
+   },
+   "isShowOptionsPageWhenUpdatedCaptionLabel": {
+      "message": "Να εμφανίζεται η σελίδα των επιλογών μετά από ενημέρωση του Simple Translate. Αποκτάτε γρήγορα γνώση των περιεχομένων της ενημέρωσης."
+   },
+   "isShowOptionsPageWhenUpdatedLabel": {
+      "message": "Εμφάνιση της σελίδας επιλογών μετά από ενημέρωση"
+   },
+   "keyboardShortcutsLabel": {
+      "message": "Συντομεύσεις πληκτρολογίου"
+   },
+   "lang_af": {
+      "message": "Αφρικάανς"
+   },
+   "lang_am": {
+      "message": "Αμχαρικά"
+   },
+   "lang_ar": {
+      "message": "Αραβικά"
+   },
+   "lang_az": {
+      "message": "Αζερικά"
+   },
+   "lang_be": {
+      "message": "Λευκορωσικά"
+   },
+   "lang_bg": {
+      "message": "Βουλγαρικά"
+   },
+   "lang_bn": {
+      "message": "Μπενγκάλι"
+   },
+   "lang_bs": {
+      "message": "Βοσνιακά"
+   },
+   "lang_ca": {
+      "message": "Καταλανικά"
+   },
+   "lang_ceb": {
+      "message": "Σεμπουάνο"
+   },
+   "lang_co": {
+      "message": "Κορσικανικά"
+   },
+   "lang_cs": {
+      "message": "Τσεχικά"
+   },
+   "lang_cy": {
+      "message": "Ουαλικά"
+   },
+   "lang_da": {
+      "message": "Δανικά"
+   },
+   "lang_de": {
+      "message": "Γερμανικά"
+   },
+   "lang_el": {
+      "message": "Ελληνικά"
+   },
+   "lang_en": {
+      "message": "Αγγλικά"
+   },
+   "lang_en_GB": {
+      "message": "Αγγλικά (Βρετανικά)"
+   },
+   "lang_en_US": {
+      "message": "Αγγλικά (Αμερικανικά)"
+   },
+   "lang_eo": {
+      "message": "Εσπεράντο"
+   },
+   "lang_es": {
+      "message": "Spanish"
+   },
+   "lang_et": {
+      "message": "Εσθονικά"
+   },
+   "lang_eu": {
+      "message": "Βασκικά"
+   },
+   "lang_fa": {
+      "message": "Persian"
+   },
+   "lang_fi": {
+      "message": "Φινλανδικά"
+   },
+   "lang_fr": {
+      "message": "Γαλλικά"
+   },
+   "lang_fy": {
+      "message": "Φριζικά"
+   },
+   "lang_ga": {
+      "message": "Ιρλανδικά"
+   },
+   "lang_gd": {
+      "message": "Scottish Gaelic"
+   },
+   "lang_gl": {
+      "message": "Γαλικικά"
+   },
+   "lang_gu": {
+      "message": "Γκουγιαράτι"
+   },
+   "lang_ha": {
+      "message": "Χάουσα"
+   },
+   "lang_haw": {
+      "message": "Χαβανεζικά"
+   },
+   "lang_he": {
+      "message": "Εβραϊκά"
+   },
+   "lang_hi": {
+      "message": "Χίντι"
+   },
+   "lang_hmn": {
+      "message": "Monk"
+   },
+   "lang_hr": {
+      "message": "Κροατικά"
+   },
+   "lang_ht": {
+      "message": "Αϊτιανά"
+   },
+   "lang_hu": {
+      "message": "Ουγγρικά"
+   },
+   "lang_hy": {
+      "message": "Αρμενικά"
+   },
+   "lang_id": {
+      "message": "Ινδονησιακά"
+   },
+   "lang_ig": {
+      "message": "Ίγκμπο"
+   },
+   "lang_is": {
+      "message": "Ισλανδικά"
+   },
+   "lang_it": {
+      "message": "Ιταλικά"
+   },
+   "lang_ja": {
+      "message": "Ιαπωνικά"
+   },
+   "lang_jv": {
+      "message": "Javanese"
+   },
+   "lang_ka": {
+      "message": "Γεωργιανά"
+   },
+   "lang_kk": {
+      "message": "Kazakh"
+   },
+   "lang_km": {
+      "message": "Khmer"
+   },
+   "lang_kn": {
+      "message": "Kannada"
+   },
+   "lang_ko": {
+      "message": "Korean"
+   },
+   "lang_ku": {
+      "message": "Kurdish"
+   },
+   "lang_ky": {
+      "message": "Kirghiz"
+   },
+   "lang_la": {
+      "message": "Latin"
+   },
+   "lang_lb": {
+      "message": "Luxembourgish"
+   },
+   "lang_lo": {
+      "message": "Laotian"
+   },
+   "lang_lt": {
+      "message": "Lithuanian"
+   },
+   "lang_lv": {
+      "message": "Latvian"
+   },
+   "lang_mg": {
+      "message": "Malagasy"
+   },
+   "lang_mi": {
+      "message": "Maori"
+   },
+   "lang_mk": {
+      "message": "Macedonian"
+   },
+   "lang_ml": {
+      "message": "Malayalam"
+   },
+   "lang_mn": {
+      "message": "Mongolian"
+   },
+   "lang_mr": {
+      "message": "Marathi"
+   },
+   "lang_ms": {
+      "message": "Malay"
+   },
+   "lang_mt": {
+      "message": "Maltese"
+   },
+   "lang_my": {
+      "message": "Myanmar"
+   },
+   "lang_nb": {
+      "message": "Νορβηγικά (bokmål)"
+   },
+   "lang_ne": {
+      "message": "Nepali"
+   },
+   "lang_nl": {
+      "message": "Ολλανδικά"
+   },
+   "lang_no": {
+      "message": "Norwegian"
+   },
+   "lang_ny": {
+      "message": "Τσιούα"
+   },
+   "lang_or": {
+      "message": "Odia (Oriya)"
+   },
+   "lang_pa": {
+      "message": "Punjabi"
+   },
+   "lang_pl": {
+      "message": "Polish"
+   },
+   "lang_ps": {
+      "message": "Pushto"
+   },
+   "lang_pt": {
+      "message": "Portuguese"
+   },
+   "lang_pt_BR": {
+      "message": "Πορτογαλικά, (Βραζιλιάνικα)"
+   },
+   "lang_pt_PT": {
+      "message": "Portuguese"
+   },
+   "lang_ro": {
+      "message": "Romanian"
+   },
+   "lang_ru": {
+      "message": "Russian"
+   },
+   "lang_rw": {
+      "message": "Kinyarwanda"
+   },
+   "lang_sd": {
+      "message": "Sindhi"
+   },
+   "lang_si": {
+      "message": "Sinhala"
+   },
+   "lang_sk": {
+      "message": "Slovak"
+   },
+   "lang_sl": {
+      "message": "Slovenian"
+   },
+   "lang_sm": {
+      "message": "Samoan"
+   },
+   "lang_sn": {
+      "message": "Shona"
+   },
+   "lang_so": {
+      "message": "Somali"
+   },
+   "lang_sq": {
+      "message": "Αλβανικά"
+   },
+   "lang_sr": {
+      "message": "Serbian"
+   },
+   "lang_st": {
+      "message": "Sesotho"
+   },
+   "lang_su": {
+      "message": "Sundanese"
+   },
+   "lang_sv": {
+      "message": "Swedish"
+   },
+   "lang_sw": {
+      "message": "Swahili"
+   },
+   "lang_ta": {
+      "message": "Tamil"
+   },
+   "lang_te": {
+      "message": "Τελούγκου"
+   },
+   "lang_tg": {
+      "message": "Tajiki"
+   },
+   "lang_th": {
+      "message": "Ταϊλανδικά"
+   },
+   "lang_tk": {
+      "message": "Τουρκμενικά"
+   },
+   "lang_tl": {
+      "message": "Tagalog"
+   },
+   "lang_tr": {
+      "message": "Τουρκικά"
+   },
+   "lang_tt": {
+      "message": "Ταταρικά"
+   },
+   "lang_ug": {
+      "message": "Ουιγκούρ"
+   },
+   "lang_uk": {
+      "message": "Ουκρανικά"
+   },
+   "lang_ur": {
+      "message": "Ούρντου"
+   },
+   "lang_uz": {
+      "message": "Ουζμπεκικά"
+   },
+   "lang_vi": {
+      "message": "Βιετναμεζικά"
+   },
+   "lang_xh": {
+      "message": "Κχόσα"
+   },
+   "lang_yi": {
+      "message": "Γίντις"
+   },
+   "lang_yo": {
+      "message": "Γιορούμπα"
+   },
+   "lang_zh": {
+      "message": "Κινεζικά"
+   },
+   "lang_zh_CN": {
+      "message": "Κινεζικά (απλοποιημένα)"
+   },
+   "lang_zh_TW": {
+      "message": "Κινεζικά (Παραδοσιακά)"
+   },
+   "lang_zu": {
+      "message": "Ζουλού"
+   },
+   "leftLabel": {
+      "message": "Αριστερά"
+   },
+   "licenseLabel": {
+      "message": "Άδεια χρήσης"
+   },
+   "lightLabel": {
+      "message": "Ανοιχτόχρωμο"
+   },
+   "listenLabel": {
+      "message": "Εκφώνηση"
+   },
+   "menuLabel": {
+      "message": "Μενού πλαισίου"
+   },
+   "modifierKeyLabel": {
+      "message": "Πλήκτρο Τροποποίησης"
+   },
+   "networkError": {
+      "message": "Σφάλμα: Ελέγξτε την κατάσταση σύνδεσης του δικτύου."
+   },
+   "newTabLabel": {
+      "message": "Νέα καρτέλα"
+   },
+   "openInDeeplLabel": {
+      "message": "Άνοιγμα στη μετάφραση DeepL"
+   },
+   "openInGoogleLabel": {
+      "message": "Χρήση της μετάφρασης Google"
+   },
+   "openPopupDescription": {
+      "message": "Άνοιγμα του αναδυόμενου παραθύρου της γραμμής εργαλείων"
+   },
+   "otherLabel": {
+      "message": "Άλλο"
+   },
+   "pageTranslationLabel": {
+      "message": "Μετάφραση σελίδας"
+   },
+   "pageTranslationOpenToCaptionLabel": {
+      "message": "Καθορίστε την καρτέλα εμφάνισης των αποτελεσμάτων μετάφρασης της σελίδας."
+   },
+   "pageTranslationOpenToLabel": {
+      "message": "Καρτέλα εμφάνισης αποτελεσμάτων μετάφρασης"
+   },
+   "panelStyleCaptionLabel": {
+      "message": "Καθορίστε το στυλ του πλαισίου μετάφρασης που εμφανίζεται στην ιστοσελίδα."
+   },
+   "panelStyleLabel": {
+      "message": "Πλαίσιο μεταφράσεων"
+   },
+   "positionOffsetLabel": {
+      "message": "Θέση εμφάνισης - Μετατόπιση"
+   },
+   "privacyPolicyLabel": {
+      "message": "Πολιτική απορρήτου"
+   },
+   "recentLangLabel": {
+      "message": "Πρόσφατες γλώσσες"
+   },
+   "referencePointLabel": {
+      "message": "Θέση εμφάνισης - Σημείο αναφοράς"
+   },
+   "reset": {
+      "message": "Επαναφορά"
+   },
+   "resetSettingsButtonLabel": {
+      "message": "Επαναφορά"
+   },
+   "resetSettingsCaptionLabel": {
+      "message": "Επαναφορά αρχικών ρυθμίσεων."
+   },
+   "resetSettingsLabel": {
+      "message": "Επαναφορά"
+   },
+   "resultFontColorLabel": {
+      "message": "Χρώμα γραμματοσειράς του μεταφρασμένου κειμένου"
+   },
+   "rightLabel": {
+      "message": "Δεξιά"
+   },
+   "secondTargetLangCaptionLabel": {
+      "message": "Επιλέξτε την δεύτερη προεπιλεγμένη γλώσσα-στόχο."
+   },
+   "secondTargetLangLabel": {
+      "message": "Δευτερεύουσα Γλώσσα προς μετάφραση"
+   },
+   "setKeyboardShortCutsMessage": {
+      "message": "Ορισμός συντομεύσεων πληκτρολογίου."
+   },
+   "settingsLabel": {
+      "message": "Ρυθμίσεις"
+   },
+   "shiftLabel": {
+      "message": "Shift"
+   },
+   "shortcutsLabel": {
+      "message": "Συντομεύσεις"
+   },
+   "showLink": {
+      "message": "Μετάφραση αυτής της σελίδας"
+   },
+   "sponsorsLabel": {
+      "message": "Χορηγοί"
+   },
+   "styleLabel": {
+      "message": "Τεχνοτροπία"
+   },
+   "systemLabel": {
+      "message": "Σύστημα"
+   },
+   "targetLangCaptionLabel": {
+      "message": "Επιλέξτε την προεπιλεγμένη γλώσσα-στόχο."
+   },
+   "targetLangLabel": {
+      "message": "Γλώσσα-στόχος"
+   },
+   "themeCaptionLabel": {
+      "message": "Καθορίστε το θέμα χρωμάτων."
+   },
+   "themeLabel": {
+      "message": "Θέμα"
+   },
+   "toolbarLabel": {
+      "message": "Εμφάνιση αναδυόμενης γραμμής εργαλείων"
+   },
+   "topLabel": {
+      "message": "Πάνω"
+   },
+   "topLeftLabel": {
+      "message": "Πάνω αριστερά"
+   },
+   "topRightLabel": {
+      "message": "Πάνω δεξιά"
+   },
+   "topSelectedTextLabel": {
+      "message": "Πάνω από το επιλεγμένο κείμενο"
+   },
+   "translateLinkMenu": {
+      "message": "Μετάφραση του επιλεγμένου συνδέσμου"
+   },
+   "translatePageMenu": {
+      "message": "Μετάφραση της σελίδας"
+   },
+   "translateTextMenu": {
+      "message": "Μετάφραση επιλεγμένου κειμένου"
+   },
+   "translationApiLabel": {
+      "message": "Μηχανή μετάφρασης"
+   },
+   "typeLetterMessage": {
+      "message": "Πληκτρολογήστε ένα γράμμα"
+   },
+   "typeShortcutMessage": {
+      "message": "Πληκτρολογήστε μία συντόμευση"
+   },
+   "unavailableError": {
+      "message": "Σφάλμα: Υπέρβαση ορίου χρήσης της υπηρεσίας. Περιμένετε λίγο και δοκιμάστε ξανά."
+   },
+   "unknownError": {
+      "message": "Σφάλμα: Άγνωστο λάθος"
+   },
+   "waitTime2CaptionLabel": {
+      "message": "Αν μεταφράζετε πολλές φορές σε σύντομο χρονικό διάστημα, μπορεί να τεθεί εκτός λειτουργίας για λίγο."
+   },
+   "waitTimeCaptionLabel": {
+      "message": "Καθορίστε το χρόνο αναμονής από την εισαγωγή ενός χαρακτήρα ως την εκκίνηση της μετάφρασης. (χιλιοστά δευτερολέπτου)"
+   },
+   "waitTimeLabel": {
+      "message": "Χρόνος αναμονής για μετάφραση"
+   },
+   "webPageLabel": {
+      "message": "Ιστοσελίδα"
+   },
+   "whenSelectTextLabel": {
+      "message": "Ενέργεια όταν επιλέγεται κείμενο"
+   },
+   "widthLabel": {
+      "message": "Πλάτος"
+   }
+}

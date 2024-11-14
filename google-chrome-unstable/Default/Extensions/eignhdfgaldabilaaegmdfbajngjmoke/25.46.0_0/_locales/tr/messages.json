@@ -1,0 +1,2867 @@
+{
+   "cj_i18n_00000": {
+      "message": "Google evrenine kolay erişim"
+   },
+   "cj_i18n_00002": {
+      "message": "Benimle paylaşılan"
+   },
+   "cj_i18n_00003": {
+      "message": "En son"
+   },
+   "cj_i18n_00004": {
+      "message": "Yıldızlı"
+   },
+   "cj_i18n_00005": {
+      "message": "Çöp"
+   },
+   "cj_i18n_00006": {
+      "message": "modifiye edilmiş"
+   },
+   "cj_i18n_00014": {
+      "message": "Videolar"
+   },
+   "cj_i18n_00015": {
+      "message": "Alışveriş"
+   },
+   "cj_i18n_00017": {
+      "message": "Görseller"
+   },
+   "cj_i18n_00018": {
+      "message": "Haberler"
+   },
+   "cj_i18n_00019": {
+      "message": "Kitaplar"
+   },
+   "cj_i18n_00021": {
+      "message": "Dünya"
+   },
+   "cj_i18n_00022": {
+      "message": "Ülkeniz"
+   },
+   "cj_i18n_00023": {
+      "message": "İş"
+   },
+   "cj_i18n_00025": {
+      "message": "Eğlence"
+   },
+   "cj_i18n_00026": {
+      "message": "Spor"
+   },
+   "cj_i18n_00027": {
+      "message": "Sağlık"
+   },
+   "cj_i18n_00045": {
+      "message": "Yeni bir sekmede video açın"
+   },
+   "cj_i18n_00046": {
+      "message": "Lütfen bir arama yapın"
+   },
+   "cj_i18n_00047": {
+      "message": "Daha fazla"
+   },
+   "cj_i18n_00054": {
+      "message": "Benim siteleri"
+   },
+   "cj_i18n_00055": {
+      "message": "Sayfa bulunamadı"
+   },
+   "cj_i18n_00059": {
+      "message": "Google Alışveriş"
+   },
+   "cj_i18n_00061": {
+      "message": "Keşfet"
+   },
+   "cj_i18n_00076": {
+      "message": "Daha sonra izle"
+   },
+   "cj_i18n_00081": {
+      "message": "Hatırlatıcılar"
+   },
+   "cj_i18n_00083": {
+      "message": "Tümü"
+   },
+   "cj_i18n_00084": {
+      "message": "Servisi yeni sekmede aç"
+   },
+   "cj_i18n_00085": {
+      "message": "Ara"
+   },
+   "cj_i18n_00086": {
+      "message": "Yeni sekmede ara"
+   },
+   "cj_i18n_00090": {
+      "message": "Yeni Dosya"
+   },
+   "cj_i18n_00097": {
+      "message": "Kaldırmak için buraya sürükleyiniz"
+   },
+   "cj_i18n_00099": {
+      "message": "dökümanlar"
+   },
+   "cj_i18n_00101": {
+      "message": "sunular"
+   },
+   "cj_i18n_00102": {
+      "message": "formlar"
+   },
+   "cj_i18n_00103": {
+      "message": "çizimler"
+   },
+   "cj_i18n_00104": {
+      "message": "Haritalar"
+   },
+   "cj_i18n_00105": {
+      "message": "siteler"
+   },
+   "cj_i18n_00106": {
+      "message": "Görünümü değiştir"
+   },
+   "cj_i18n_00107": {
+      "message": "Tümü"
+   },
+   "cj_i18n_00108": {
+      "message": "Bana ait olanlar"
+   },
+   "cj_i18n_00110": {
+      "message": "Filtrele"
+   },
+   "cj_i18n_00112": {
+      "message": "Siteler"
+   },
+   "cj_i18n_00113": {
+      "message": "Silinmiş siteler"
+   },
+   "cj_i18n_00114": {
+      "message": "Site eklemek için, ekleme düğmesine basın"
+   },
+   "cj_i18n_00115": {
+      "message": "Yeni site oluştur"
+   },
+   "cj_i18n_00116": {
+      "message": "Eş anlamlı veya daha genel bir anahtar kelime deneyin"
+   },
+   "cj_i18n_00121": {
+      "message": "Klasörler"
+   },
+   "cj_i18n_00122": {
+      "message": "Dosyalar"
+   },
+   "cj_i18n_00123": {
+      "message": "Klasörü yeni sekmede aç"
+   },
+   "cj_i18n_00127": {
+      "message": "Mekanların"
+   },
+   "cj_i18n_00128": {
+      "message": "Katkıların"
+   },
+   "cj_i18n_00129": {
+      "message": "Zaman akışın"
+   },
+   "cj_i18n_00131": {
+      "message": "Kütüphane"
+   },
+   "cj_i18n_00134": {
+      "message": "Market"
+   },
+   "cj_i18n_00144": {
+      "message": "dosyalar"
+   },
+   "cj_i18n_00153": {
+      "message": "Trendler"
+   },
+   "cj_i18n_00154": {
+      "message": "Abonelikler"
+   },
+   "cj_i18n_00155": {
+      "message": "Geçmiş"
+   },
+   "cj_i18n_00156": {
+      "message": "Sonuç yok"
+   },
+   "cj_i18n_00158": {
+      "message": "Video yükle"
+   },
+   "cj_i18n_00161": {
+      "message": "Hakkımda"
+   },
+   "cj_i18n_00162": {
+      "message": "Geri dön"
+   },
+   "cj_i18n_00165": {
+      "message": "Ocak"
+   },
+   "cj_i18n_00166": {
+      "message": "Şubat"
+   },
+   "cj_i18n_00167": {
+      "message": "Mart"
+   },
+   "cj_i18n_00168": {
+      "message": "Nisan"
+   },
+   "cj_i18n_00169": {
+      "message": "Mayıs"
+   },
+   "cj_i18n_00170": {
+      "message": "Haziran"
+   },
+   "cj_i18n_00171": {
+      "message": "Temmuz"
+   },
+   "cj_i18n_00172": {
+      "message": "Ağustos"
+   },
+   "cj_i18n_00173": {
+      "message": "Eylül"
+   },
+   "cj_i18n_00174": {
+      "message": "Ekim"
+   },
+   "cj_i18n_00175": {
+      "message": "Kasım"
+   },
+   "cj_i18n_00176": {
+      "message": "Aralık"
+   },
+   "cj_i18n_00177": {
+      "message": "Yönetici"
+   },
+   "cj_i18n_00178": {
+      "message": "Öncelikli"
+   },
+   "cj_i18n_00181": {
+      "message": "Albüm Arşivi"
+   },
+   "cj_i18n_00182": {
+      "message": "Forumlar"
+   },
+   "cj_i18n_00183": {
+      "message": "Uyarılar"
+   },
+   "cj_i18n_00184": {
+      "message": "Önemli"
+   },
+   "cj_i18n_00185": {
+      "message": "Sohbetler"
+   },
+   "cj_i18n_00186": {
+      "message": "Analizler"
+   },
+   "cj_i18n_00187": {
+      "message": "Taslaklar"
+   },
+   "cj_i18n_00188": {
+      "message": "Tüm mailler"
+   },
+   "cj_i18n_00190": {
+      "message": "Yer imleri"
+   },
+   "cj_i18n_00191": {
+      "message": "Youtube'da Trendler"
+   },
+   "cj_i18n_00192": {
+      "message": "Top Charts"
+   },
+   "cj_i18n_00193": {
+      "message": "Abonelikler"
+   },
+   "cj_i18n_00195": {
+      "message": "Trend Aramalar"
+   },
+   "cj_i18n_00198": {
+      "message": "Tüm fiyatlar"
+   },
+   "cj_i18n_00199": {
+      "message": "Bedava"
+   },
+   "cj_i18n_00200": {
+      "message": "Paralı"
+   },
+   "cj_i18n_00203": {
+      "message": "Yeni Yayınlananlar"
+   },
+   "cj_i18n_00205": {
+      "message": "Sanatçılar"
+   },
+   "cj_i18n_00207": {
+      "message": "Şarkılar"
+   },
+   "cj_i18n_00212": {
+      "message": "Hatırlatıcıları kullanmak için, Google Hatırlatıcılar verilerinizi yüklemeye izin vermelisiniz"
+   },
+   "cj_i18n_00214": {
+      "message": "E-posta"
+   },
+   "cj_i18n_00215": {
+      "message": "Notu gör"
+   },
+   "cj_i18n_00216": {
+      "message": "Uygulamalar"
+   },
+   "cj_i18n_00217": {
+      "message": "Oyunlar"
+   },
+   "cj_i18n_00218": {
+      "message": "Kitaplar"
+   },
+   "cj_i18n_00223": {
+      "message": "Google Market"
+   },
+   "cj_i18n_00225": {
+      "message": "Bügüne henüz"
+   },
+   "cj_i18n_00226": {
+      "message": "Dün"
+   },
+   "cj_i18n_00227": {
+      "message": "geçen haftanın aynı gününe kıyasla"
+   },
+   "cj_i18n_00228": {
+      "message": "Bu ay henüz"
+   },
+   "cj_i18n_00233": {
+      "message": "Bu Google Hesabıyla ilişkilendirlmiş bir AdSense hesabı bulunmamaktadır"
+   },
+   "cj_i18n_00235": {
+      "message": "Bu sayfayı kullanmadan önce, Google AdSense verisine erişim vermelisiniz"
+   },
+   "cj_i18n_00238": {
+      "message": "Google Yönetim Konsolunu kullanmak için G Suite hesabınız olması gerekir"
+   },
+   "cj_i18n_00240": {
+      "message": "Kullanıcılar"
+   },
+   "cj_i18n_00243": {
+      "message": "Veri taşıma"
+   },
+   "cj_i18n_00244": {
+      "message": "Alan adları"
+   },
+   "cj_i18n_00246": {
+      "message": "Cihaz yönetimi"
+   },
+   "cj_i18n_00247": {
+      "message": "Destek"
+   },
+   "cj_i18n_00248": {
+      "message": "Gruplar"
+   },
+   "cj_i18n_00250": {
+      "message": "Güvenlik"
+   },
+   "cj_i18n_00251": {
+      "message": "Faturalandırma"
+   },
+   "cj_i18n_00252": {
+      "message": "Roller"
+   },
+   "cj_i18n_00259": {
+      "message": "Bu sayfayı kullanmadan önce, Blogger bloglarının yüklenmesine erişim vermek zorundasınız"
+   },
+   "cj_i18n_00260": {
+      "message": "Blog Bulunamadı"
+   },
+   "cj_i18n_00261": {
+      "message": "Yeni blog oluşturmak için, blogger.com'a gidin"
+   },
+   "cj_i18n_00262": {
+      "message": "Bloglarınız yüklenemedi"
+   },
+   "cj_i18n_00263": {
+      "message": "İnternet bağlantınızı kontrol edin"
+   },
+   "cj_i18n_00265": {
+      "message": "Etkinlik bulunamadı"
+   },
+   "cj_i18n_00266": {
+      "message": "Yeni bir etkinlik eklemek için sağ alt köşedeki kırmızı düğmeyi tıklayın"
+   },
+   "cj_i18n_00267": {
+      "message": "Bugün etkinlik yok"
+   },
+   "cj_i18n_00268": {
+      "message": "Yeni etkinlik"
+   },
+   "cj_i18n_00270": {
+      "message": "Yapılandırılmış Veri Test Aracı"
+   },
+   "cj_i18n_00271": {
+      "message": "Yapılandırılmış Veri İşaretleme Yardımcısı"
+   },
+   "cj_i18n_00272": {
+      "message": "E-Posta İşaretleme Yardımcısı"
+   },
+   "cj_i18n_00275": {
+      "message": "Sayfa Hızı Tespit Ediciler"
+   },
+   "cj_i18n_00276": {
+      "message": "Özel Arama"
+   },
+   "cj_i18n_00284": {
+      "message": "Bu sayfayı kullanmadan önce, Google Arama Konsoluna izin vermelisin"
+   },
+   "cj_i18n_00285": {
+      "message": "Play Kitaplar"
+   },
+   "cj_i18n_00287": {
+      "message": "Mobil Dostu Test"
+   },
+   "cj_i18n_00288": {
+      "message": "AMP Testi"
+   },
+   "cj_i18n_00291": {
+      "message": "Ana Sayfa"
+   },
+   "cj_i18n_00292": {
+      "message": "Koleksiyonlar"
+   },
+   "cj_i18n_00293": {
+      "message": "Topluluklar"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Kullanıcılar"
+   },
+   "cj_i18n_00296": {
+      "message": "Bildirimler"
+   },
+   "cj_i18n_00298": {
+      "message": "Ayarlar"
+   },
+   "cj_i18n_00299": {
+      "message": "Gelen kutusu"
+   },
+   "cj_i18n_00300": {
+      "message": "Ertelendi"
+   },
+   "cj_i18n_00301": {
+      "message": "Kaydedildi"
+   },
+   "cj_i18n_00302": {
+      "message": "Takvim"
+   },
+   "cj_i18n_00303": {
+      "message": "Gönderildi"
+   },
+   "cj_i18n_00307": {
+      "message": "Geziler"
+   },
+   "cj_i18n_00308": {
+      "message": "Seyehat"
+   },
+   "cj_i18n_00309": {
+      "message": "Kaydedildi"
+   },
+   "cj_i18n_00310": {
+      "message": "Satın alınanlar"
+   },
+   "cj_i18n_00311": {
+      "message": "Finans"
+   },
+   "cj_i18n_00312": {
+      "message": "Sosyal"
+   },
+   "cj_i18n_00313": {
+      "message": "Güncellemeler"
+   },
+   "cj_i18n_00314": {
+      "message": "Kişiler"
+   },
+   "cj_i18n_00315": {
+      "message": "Reklamlar"
+   },
+   "cj_i18n_00316": {
+      "message": "Düşük Öncelikli"
+   },
+   "cj_i18n_00321": {
+      "message": "Bu sayfayı kullanmadan önce, Google Kitaplarının yüklenmesine erşim vermek zorundasınız. Yalnızca kitap aramak istiyorsanız, eklentideki arama sayfasına haraket edin."
+   },
+   "cj_i18n_00322": {
+      "message": "Kitap bulunamadı"
+   },
+   "cj_i18n_00325": {
+      "message": "Yükleniyor…"
+   },
+   "cj_i18n_00331": {
+      "message": "Tümü"
+   },
+   "cj_i18n_00332": {
+      "message": "Bulut Yazdırma"
+   },
+   "cj_i18n_00337": {
+      "message": "Kayıt ol"
+   },
+   "cj_i18n_00343": {
+      "message": "Geliştiriciler"
+   },
+   "cj_i18n_00346": {
+      "message": "Google kısayolları ara"
+   },
+   "cj_i18n_00349": {
+      "message": "Geri bildirim ve destek"
+   },
+   "cj_i18n_00350": {
+      "message": "Soru sor"
+   },
+   "cj_i18n_00351": {
+      "message": "Sorun iletin"
+   },
+   "cj_i18n_00352": {
+      "message": "Özellik talep edin"
+   },
+   "cj_i18n_00353": {
+      "message": "Katkıda bulunun"
+   },
+   "cj_i18n_00354": {
+      "message": "Bağış yap"
+   },
+   "cj_i18n_00361": {
+      "message": "Hesap ekle"
+   },
+   "cj_i18n_00363": {
+      "message": "Marka Hesabı"
+   },
+   "cj_i18n_00380": {
+      "message": "Film"
+   },
+   "cj_i18n_00388": {
+      "message": "Gruplarım"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokümanlar"
+   },
+   "cj_i18n_00392": {
+      "message": "Yeni grup oluşturun"
+   },
+   "cj_i18n_00400": {
+      "message": "Albümler"
+   },
+   "cj_i18n_00405": {
+      "message": "Şablon Galerisi"
+   },
+   "cj_i18n_00406": {
+      "message": "Gelişmiş Arama"
+   },
+   "cj_i18n_00407": {
+      "message": "Slaytlar"
+   },
+   "cj_i18n_00408": {
+      "message": "Formlar"
+   },
+   "cj_i18n_00409": {
+      "message": "Çizimler"
+   },
+   "cj_i18n_00410": {
+      "message": "Haritalarım"
+   },
+   "cj_i18n_00412": {
+      "message": "Finans"
+   },
+   "cj_i18n_00414": {
+      "message": "Uçuşlar"
+   },
+   "cj_i18n_00415": {
+      "message": "Fontlar"
+   },
+   "cj_i18n_00418": {
+      "message": "Gruplar"
+   },
+   "cj_i18n_00423": {
+      "message": "Haritalar"
+   },
+   "cj_i18n_00424": {
+      "message": "Play Filmler"
+   },
+   "cj_i18n_00425": {
+      "message": "Haberler"
+   },
+   "cj_i18n_00427": {
+      "message": "Patentler"
+   },
+   "cj_i18n_00429": {
+      "message": "Fotoğraflar"
+   },
+   "cj_i18n_00434": {
+      "message": "Arama"
+   },
+   "cj_i18n_00435": {
+      "message": "Alışveriş"
+   },
+   "cj_i18n_00438": {
+      "message": "Yardım"
+   },
+   "cj_i18n_00439": {
+      "message": "Görevler"
+   },
+   "cj_i18n_00440": {
+      "message": "Çeviri"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendler"
+   },
+   "cj_i18n_00442": {
+      "message": "Url Kısaltıcı"
+   },
+   "cj_i18n_00444": {
+      "message": "Arama Konsolu"
+   },
+   "cj_i18n_00447": {
+      "message": "Uygulama Betikleri"
+   },
+   "cj_i18n_00449": {
+      "message": "Cüzdan"
+   },
+   "cj_i18n_00450": {
+      "message": "Google Hakkında"
+   },
+   "cj_i18n_00453": {
+      "message": "Müşteri Merkezi"
+   },
+   "cj_i18n_00454": {
+      "message": "Api Gezgin"
+   },
+   "cj_i18n_00455": {
+      "message": "Uygulama Motoru"
+   },
+   "cj_i18n_00458": {
+      "message": "Sanat Ve Kültür"
+   },
+   "cj_i18n_00460": {
+      "message": "Kitaplar"
+   },
+   "cj_i18n_00461": {
+      "message": "Chrome Deneyler"
+   },
+   "cj_i18n_00462": {
+      "message": "Chrome Web Mağazası"
+   },
+   "cj_i18n_00463": {
+      "message": "Geliştirici Gösterge Paneli"
+   },
+   "cj_i18n_00464": {
+      "message": "Uzantılar"
+   },
+   "cj_i18n_00465": {
+      "message": "Temalar"
+   },
+   "cj_i18n_00467": {
+      "message": "Anketler"
+   },
+   "cj_i18n_00470": {
+      "message": "Panel"
+   },
+   "cj_i18n_00471": {
+      "message": "Dünya"
+   },
+   "cj_i18n_00472": {
+      "message": "Dünya Motoru"
+   },
+   "cj_i18n_00476": {
+      "message": "Yeni E-Posta"
+   },
+   "cj_i18n_00477": {
+      "message": "Girdi Araçları"
+   },
+   "cj_i18n_00478": {
+      "message": "Play Konsol"
+   },
+   "cj_i18n_00479": {
+      "message": "Play Sanatçı Merkezi"
+   },
+   "cj_i18n_00480": {
+      "message": "Filmler"
+   },
+   "cj_i18n_00481": {
+      "message": "Hesap"
+   },
+   "cj_i18n_00482": {
+      "message": "Mal Deposu"
+   },
+   "cj_i18n_00484": {
+      "message": "Etkinlikler"
+   },
+   "cj_i18n_00485": {
+      "message": "Popüler Olanlar"
+   },
+   "cj_i18n_00486": {
+      "message": "Hükümet istekleri"
+   },
+   "cj_i18n_00488": {
+      "message": "Görseller"
+   },
+   "cj_i18n_00489": {
+      "message": "YAŞAM fotoğraf arşivi"
+   },
+   "cj_i18n_00491": {
+      "message": "Haritalar İç Mekan"
+   },
+   "cj_i18n_00493": {
+      "message": "Tüccar Merkezi"
+   },
+   "cj_i18n_00494": {
+      "message": "Ay"
+   },
+   "cj_i18n_00495": {
+      "message": "Benim Cihazlarım"
+   },
+   "cj_i18n_00496": {
+      "message": "Haber Arşivi"
+   },
+   "cj_i18n_00498": {
+      "message": "Kamu Uyarılar"
+   },
+   "cj_i18n_00499": {
+      "message": "Kamu Veri Gezgini"
+   },
+   "cj_i18n_00500": {
+      "message": "Ayarlarda ara"
+   },
+   "cj_i18n_00501": {
+      "message": "Gökyüzü"
+   },
+   "cj_i18n_00502": {
+      "message": "Ürün Forumları"
+   },
+   "cj_i18n_00503": {
+      "message": "Tasfiye"
+   },
+   "cj_i18n_00504": {
+      "message": "Ulaşım"
+   },
+   "cj_i18n_00506": {
+      "message": "Şeffaflık Raporu"
+   },
+   "cj_i18n_00508": {
+      "message": "Güvenilir Test"
+   },
+   "cj_i18n_00509": {
+      "message": "Videolar"
+   },
+   "cj_i18n_00510": {
+      "message": "Analizler"
+   },
+   "cj_i18n_00512": {
+      "message": "Arama Yılı"
+   },
+   "cj_i18n_00513": {
+      "message": "Etiket Yöneticisi"
+   },
+   "cj_i18n_00517": {
+      "message": "Bunu postala"
+   },
+   "cj_i18n_00518": {
+      "message": "Bunu Haritala"
+   },
+   "cj_i18n_00520": {
+      "message": "Cihazımı Bul"
+   },
+   "cj_i18n_00521": {
+      "message": "Aboneliklerim"
+   },
+   "cj_i18n_00522": {
+      "message": "Görüşleriniz Raporlar"
+   },
+   "cj_i18n_00523": {
+      "message": "Anahtar Kelime Planlayıcısı"
+   },
+   "cj_i18n_00525": {
+      "message": "Harita Zaman Çizgisi"
+   },
+   "cj_i18n_00529": {
+      "message": "Dünya Turu Düzenleyici"
+   },
+   "cj_i18n_00530": {
+      "message": "Kişi Bulucu"
+   },
+   "cj_i18n_00531": {
+      "message": "Kriz Haritası"
+   },
+   "cj_i18n_00532": {
+      "message": "Fiber - Benim Fiber"
+   },
+   "cj_i18n_00534": {
+      "message": "Ortaklar"
+   },
+   "cj_i18n_00538": {
+      "message": "Planlama Araçları"
+   },
+   "cj_i18n_00542": {
+      "message": "Yap-Boz"
+   },
+   "cj_i18n_00543": {
+      "message": "Bağlantı"
+   },
+   "cj_i18n_00544": {
+      "message": "Bir Google Günü"
+   },
+   "cj_i18n_00547": {
+      "message": "Yeni Arama Motoru"
+   },
+   "cj_i18n_00548": {
+      "message": "Dünyanı Takip Et"
+   },
+   "cj_i18n_00549": {
+      "message": "Cam"
+   },
+   "cj_i18n_00550": {
+      "message": "İstek Listem"
+   },
+   "cj_i18n_00551": {
+      "message": "OAuth 2.0 Ayarlama"
+   },
+   "cj_i18n_00554": {
+      "message": "Benim İşim"
+   },
+   "cj_i18n_00555": {
+      "message": "Konum Ekle"
+   },
+   "cj_i18n_00556": {
+      "message": "Mobil uygulamalar"
+   },
+   "cj_i18n_00557": {
+      "message": "Google ile Düşün"
+   },
+   "cj_i18n_00558": {
+      "message": "Sıfır Anı"
+   },
+   "cj_i18n_00560": {
+      "message": "Kariyer"
+   },
+   "cj_i18n_00561": {
+      "message": "Drive Depolama"
+   },
+   "cj_i18n_00562": {
+      "message": "Tasarım"
+   },
+   "cj_i18n_00566": {
+      "message": "2 Adımlı Doğrulama"
+   },
+   "cj_i18n_00567": {
+      "message": "Basın Köşesi"
+   },
+   "cj_i18n_00571": {
+      "message": "Danışma Konseyi"
+   },
+   "cj_i18n_00574": {
+      "message": "Eğitim İçin Google"
+   },
+   "cj_i18n_00575": {
+      "message": "İş Çözümleri"
+   },
+   "cj_i18n_00577": {
+      "message": "Spektrum Veri Tabanı"
+   },
+   "cj_i18n_00578": {
+      "message": "Güvenlik Merkezi"
+   },
+   "cj_i18n_00581": {
+      "message": "Uygulama Güvenliği"
+   },
+   "cj_i18n_00582": {
+      "message": "Alfabe Yatırımcı İlişkileri"
+   },
+   "cj_i18n_00584": {
+      "message": "Dünya Sosyal Yardımları"
+   },
+   "cj_i18n_00586": {
+      "message": "Doodlelar"
+   },
+   "cj_i18n_00587": {
+      "message": "Nokta Org"
+   },
+   "cj_i18n_00588": {
+      "message": "Domainler"
+   },
+   "cj_i18n_00589": {
+      "message": "Hesap Makinesi"
+   },
+   "cj_i18n_00591": {
+      "message": "Analiz Akademisi"
+   },
+   "cj_i18n_00592": {
+      "message": "Sokak Sanatları"
+   },
+   "cj_i18n_00593": {
+      "message": "İçerik Üretici Akademisi"
+   },
+   "cj_i18n_00596": {
+      "message": "Google İletişim"
+   },
+   "cj_i18n_00597": {
+      "message": "Bulut Platform"
+   },
+   "cj_i18n_00600": {
+      "message": "Web Tasarımcısı"
+   },
+   "cj_i18n_00601": {
+      "message": "Araştırma"
+   },
+   "cj_i18n_00603": {
+      "message": "Senkronizasyon"
+   },
+   "cj_i18n_00605": {
+      "message": "Halka Açık DNS"
+   },
+   "cj_i18n_00606": {
+      "message": "Büyük İstek"
+   },
+   "cj_i18n_00607": {
+      "message": "Yen Belge"
+   },
+   "cj_i18n_00608": {
+      "message": "Yeni Tablo"
+   },
+   "cj_i18n_00609": {
+      "message": "Yeni Sunum"
+   },
+   "cj_i18n_00614": {
+      "message": "Android Telefonlar"
+   },
+   "cj_i18n_00618": {
+      "message": "Wear Uygulamalar"
+   },
+   "cj_i18n_00621": {
+      "message": "YouTube Trendleri"
+   },
+   "cj_i18n_00623": {
+      "message": "Canlı Yayın"
+   },
+   "cj_i18n_00624": {
+      "message": "Topluluk"
+   },
+   "cj_i18n_00625": {
+      "message": "Kanal"
+   },
+   "cj_i18n_00626": {
+      "message": "Oluştur"
+   },
+   "cj_i18n_00631": {
+      "message": "Yeni Form"
+   },
+   "cj_i18n_00633": {
+      "message": "Yeni Talimatlar"
+   },
+   "cj_i18n_00634": {
+      "message": "Katkılarım"
+   },
+   "cj_i18n_00637": {
+      "message": "Zengin Medya Galerisi"
+   },
+   "cj_i18n_00640": {
+      "message": "Tarihsel An"
+   },
+   "cj_i18n_00641": {
+      "message": "Projeler"
+   },
+   "cj_i18n_00644": {
+      "message": "Dijital Garaj"
+   },
+   "cj_i18n_00647": {
+      "message": "Merkezi"
+   },
+   "cj_i18n_00649": {
+      "message": "X - Ay Fabrikası"
+   },
+   "cj_i18n_00652": {
+      "message": "Seferler"
+   },
+   "cj_i18n_00653": {
+      "message": "Filtrelenmemiş Haberler"
+   },
+   "cj_i18n_00656": {
+      "message": "Üretici Merkezi"
+   },
+   "cj_i18n_00664": {
+      "message": "Optimize Etme"
+   },
+   "cj_i18n_00665": {
+      "message": "İzleyici Merkezi"
+   },
+   "cj_i18n_00666": {
+      "message": "Nitelik"
+   },
+   "cj_i18n_00669": {
+      "message": "Bugün Bir Tane"
+   },
+   "cj_i18n_00670": {
+      "message": "Bulut Konsol"
+   },
+   "cj_i18n_00671": {
+      "message": "FireBase Konsol"
+   },
+   "cj_i18n_00673": {
+      "message": "Önizleme Aracı"
+   },
+   "cj_i18n_00674": {
+      "message": "Yönetici Rolleri"
+   },
+   "cj_i18n_00675": {
+      "message": "Raporlar"
+   },
+   "cj_i18n_00676": {
+      "message": "İştirakçi"
+   },
+   "cj_i18n_00678": {
+      "message": "Posta Müdürü"
+   },
+   "cj_i18n_00681": {
+      "message": "Bakarken"
+   },
+   "cj_i18n_00683": {
+      "message": "Ortak Çizgi"
+   },
+   "cj_i18n_00684": {
+      "message": "Haberleri Yayınlama Merkezi"
+   },
+   "cj_i18n_00685": {
+      "message": "Bilgin Kapanımları"
+   },
+   "cj_i18n_00686": {
+      "message": "Geliştiriciler - CLA"
+   },
+   "cj_i18n_00687": {
+      "message": "Geliştiriciler - Codelabs"
+   },
+   "cj_i18n_00688": {
+      "message": "Yeni Site"
+   },
+   "cj_i18n_00689": {
+      "message": "Aktivitem"
+   },
+   "cj_i18n_00691": {
+      "message": "Sivil Toplum Kuruluşları"
+   },
+   "cj_i18n_00692": {
+      "message": "Favoriler"
+   },
+   "cj_i18n_00694": {
+      "message": "Sanat Ve Kültür - Cervantes"
+   },
+   "cj_i18n_00695": {
+      "message": "Atölye İçin Chrome"
+   },
+   "cj_i18n_00700": {
+      "message": "Resim Etiketleyicisi"
+   },
+   "cj_i18n_00702": {
+      "message": "Seçimler"
+   },
+   "cj_i18n_00706": {
+      "message": "Mal Deposu - ABD/Kanada"
+   },
+   "cj_i18n_00707": {
+      "message": "Mal Deposu - Uluslararası"
+   },
+   "cj_i18n_00711": {
+      "message": "Yerleşik Chromecast"
+   },
+   "cj_i18n_00712": {
+      "message": "Bulut Platformu Podcast"
+   },
+   "cj_i18n_00715": {
+      "message": "Kariyer Uygulamaları"
+   },
+   "cj_i18n_00717": {
+      "message": "Ev"
+   },
+   "cj_i18n_00718": {
+      "message": "Anahtar Kelime"
+   },
+   "cj_i18n_00719": {
+      "message": "Kayıt"
+   },
+   "cj_i18n_00720": {
+      "message": "İstasyon"
+   },
+   "cj_i18n_00721": {
+      "message": "Bulut Ortaklar"
+   },
+   "cj_i18n_00725": {
+      "message": "Kadın Teknoloji Üreticileri"
+   },
+   "cj_i18n_00728": {
+      "message": "Asistan"
+   },
+   "cj_i18n_00731": {
+      "message": "En Çok Katkıda Bulunanlar"
+   },
+   "cj_i18n_00732": {
+      "message": "Bulut Durum Gösterge Paneli"
+   },
+   "cj_i18n_00733": {
+      "message": "Hareketsiz Fotoğraflar"
+   },
+   "cj_i18n_00736": {
+      "message": "Yerel Rehberler"
+   },
+   "cj_i18n_00737": {
+      "message": "YouTube İşleri"
+   },
+   "cj_i18n_00739": {
+      "message": "Boyutlandırıcı"
+   },
+   "cj_i18n_00742": {
+      "message": "Cihaz Ölçümleri"
+   },
+   "cj_i18n_00743": {
+      "message": "Hava Durumu"
+   },
+   "cj_i18n_00744": {
+      "message": "Marka hesapları"
+   },
+   "cj_i18n_00745": {
+      "message": "Reklam Ayarları"
+   },
+   "cj_i18n_00746": {
+      "message": "Galeri"
+   },
+   "cj_i18n_00751": {
+      "message": "Android Deneyimleri"
+   },
+   "cj_i18n_00753": {
+      "message": "Mağaza İçi"
+   },
+   "cj_i18n_00756": {
+      "message": "Bilgisayar Motoru"
+   },
+   "cj_i18n_00759": {
+      "message": "YouTube Üretici Topluluğu"
+   },
+   "cj_i18n_00761": {
+      "message": "YouTube Üretici Servis Rehberi"
+   },
+   "cj_i18n_00763": {
+      "message": "İçerik Üretici Ana Ekranı"
+   },
+   "cj_i18n_00765": {
+      "message": "Sokak Görünümü"
+   },
+   "cj_i18n_00768": {
+      "message": "Kod Arşivi"
+   },
+   "cj_i18n_00782": {
+      "message": "Otel reklamları merkezi"
+   },
+   "cj_i18n_00789": {
+      "message": "Gelişmiş Teknoloji ve Projeler"
+   },
+   "cj_i18n_00791": {
+      "message": "Küp"
+   },
+   "cj_i18n_00795": {
+      "message": "Wifi - Cihaz Paylaşımı"
+   },
+   "cj_i18n_00801": {
+      "message": "Önizlemeler"
+   },
+   "cj_i18n_00802": {
+      "message": "Konumlar"
+   },
+   "cj_i18n_00806": {
+      "message": "Bulut Arama"
+   },
+   "cj_i18n_00807": {
+      "message": "Kütüphanem"
+   },
+   "cj_i18n_00808": {
+      "message": "Sohbet geçmişi"
+   },
+   "cj_i18n_00809": {
+      "message": "Tanış"
+   },
+   "cj_i18n_00818": {
+      "message": "Yerlerim"
+   },
+   "cj_i18n_00821": {
+      "message": "Arşivler"
+   },
+   "cj_i18n_00828": {
+      "message": "Kötü Amaçlı Yazılım bildir"
+   },
+   "cj_i18n_00834": {
+      "message": "Açık kaynak"
+   },
+   "cj_i18n_00835": {
+      "message": "Ürünler"
+   },
+   "cj_i18n_00838": {
+      "message": "Hakkında"
+   },
+   "cj_i18n_00840": {
+      "message": "TV için Youtube"
+   },
+   "cj_i18n_00851": {
+      "message": "Android Açık Kaynak"
+   },
+   "cj_i18n_00854": {
+      "message": "Android Geliştiriciler"
+   },
+   "cj_i18n_00862": {
+      "message": "uygulamalarım"
+   },
+   "cj_i18n_00863": {
+      "message": "Konum Paylaşma"
+   },
+   "cj_i18n_00871": {
+      "message": "Android Beta Programı"
+   },
+   "cj_i18n_00872": {
+      "message": "Android girişimci"
+   },
+   "cj_i18n_00878": {
+      "message": "Erişilebilirlik"
+   },
+   "cj_i18n_00901": {
+      "message": "Gizlilik"
+   },
+   "cj_i18n_00904": {
+      "message": "Kirala"
+   },
+   "cj_i18n_00905": {
+      "message": "Paylaşılmış onay"
+   },
+   "cj_i18n_00917": {
+      "message": "Yedekleme ve senkronizasyon"
+   },
+   "cj_i18n_00924": {
+      "message": "Kullanıcı araştırması"
+   },
+   "cj_i18n_00926": {
+      "message": "Keşfet"
+   },
+   "cj_i18n_00928": {
+      "message": "WebVR Deneyimleri"
+   },
+   "cj_i18n_00930": {
+      "message": "Deneyler"
+   },
+   "cj_i18n_00931": {
+      "message": "Reklam Trafik Kalitesi"
+   },
+   "cj_i18n_00958": {
+      "message": "Android Geliştiricileri Zirvesi"
+   },
+   "cj_i18n_00978": {
+      "message": "Dünya müzesi"
+   },
+   "cj_i18n_00990": {
+      "message": "Gönderiler"
+   },
+   "cj_i18n_00991": {
+      "message": "Bilgi"
+   },
+   "cj_i18n_00994": {
+      "message": "Fotoğraflar"
+   },
+   "cj_i18n_00996": {
+      "message": "Yönetici Karantinaları"
+   },
+   "cj_i18n_00998": {
+      "message": "Android Yönetim Deneyimi"
+   },
+   "cj_i18n_00999": {
+      "message": "Play Oyunlar"
+   },
+   "cj_i18n_01002": {
+      "message": "Sanatçılar için Youtube"
+   },
+   "cj_i18n_01004": {
+      "message": "Uzaktan masaüstü"
+   },
+   "cj_i18n_01006": {
+      "message": "Uygulama Şifreleri"
+   },
+   "cj_i18n_01008": {
+      "message": "Erişim"
+   },
+   "cj_i18n_01009": {
+      "message": "Destek"
+   },
+   "cj_i18n_01015": {
+      "message": "Android Partnerler Portalı"
+   },
+   "cj_i18n_01019": {
+      "message": "Profil"
+   },
+   "cj_i18n_01020": {
+      "message": "Bağış geçmişi"
+   },
+   "cj_i18n_01025": {
+      "message": "Wear OS Tasarım Prensipleri"
+   },
+   "cj_i18n_01028": {
+      "message": "Alışveriş Listesi"
+   },
+   "cj_i18n_01030": {
+      "message": "Oteller"
+   },
+   "cj_i18n_01031": {
+      "message": "1 Nisan Şakası"
+   },
+   "cj_i18n_01034": {
+      "message": "Ev"
+   },
+   "cj_i18n_01039": {
+      "message": "Video Kalitesi Şikayeti"
+   },
+   "cj_i18n_01040": {
+      "message": "Telefonlar"
+   },
+   "cj_i18n_01048": {
+      "message": "Klipler"
+   },
+   "cj_i18n_01055": {
+      "message": "Senin İçin"
+   },
+   "cj_i18n_01057": {
+      "message": "Youtube Müzik"
+   },
+   "cj_i18n_01058": {
+      "message": "Youtube Filmler"
+   },
+   "cj_i18n_01059": {
+      "message": "Youtube Çocuk"
+   },
+   "cj_i18n_01060": {
+      "message": "Canlı yayın aç"
+   },
+   "cj_i18n_01061": {
+      "message": "Müzik Listeleri"
+   },
+   "cj_i18n_01064": {
+      "message": "Bir"
+   },
+   "cj_i18n_01066": {
+      "message": "Bulut Çözümleri"
+   },
+   "cj_i18n_01069": {
+      "message": "Neden Google Bulut?"
+   },
+   "cj_i18n_01073": {
+      "message": "Kurallar"
+   },
+   "cj_i18n_01075": {
+      "message": "Ödüller"
+   },
+   "cj_i18n_01077": {
+      "message": "Partnerlik Menajerliği"
+   },
+   "cj_i18n_01078": {
+      "message": "Bulut Ürünleri"
+   },
+   "cj_i18n_01079": {
+      "message": "İzleyici Yöneticisi"
+   },
+   "cj_i18n_01080": {
+      "message": "Olumsuz anahtar kelime listesi"
+   },
+   "cj_i18n_01081": {
+      "message": "Paylaşılan bütçeler"
+   },
+   "cj_i18n_01084": {
+      "message": "Mesajlar"
+   },
+   "cj_i18n_01087": {
+      "message": "Rezervasyonlar"
+   },
+   "cj_i18n_01089": {
+      "message": "Abonelikler"
+   },
+   "cj_i18n_01092": {
+      "message": "Sertifikalı Yayıncı ortağı"
+   },
+   "cj_i18n_01093": {
+      "message": "Ortaklar"
+   },
+   "cj_i18n_01095": {
+      "message": "Reklamlar"
+   },
+   "cj_i18n_01097": {
+      "message": "Reklam Yöneticisi"
+   },
+   "cj_i18n_01100": {
+      "message": "Podcast yükleme araçları"
+   },
+   "cj_i18n_01101": {
+      "message": "Kampanya Yöneticisi"
+   },
+   "cj_i18n_01106": {
+      "message": "Yönetim"
+   },
+   "cj_i18n_01107": {
+      "message": "Yakın zamanda izlendi"
+   },
+   "cj_i18n_01117": {
+      "message": "Sürdürebilirlik"
+   },
+   "cj_i18n_01121": {
+      "message": "Planlama"
+   },
+   "cj_i18n_01125": {
+      "message": "İzlenen uçuş fiyatları"
+   },
+   "cj_i18n_01133": {
+      "message": "Klavye"
+   },
+   "cj_i18n_01138": {
+      "message": "Güvenlik"
+   },
+   "cj_i18n_01140": {
+      "message": "Destek"
+   },
+   "cj_i18n_01142": {
+      "message": "APIler & Servisler"
+   },
+   "cj_i18n_01143": {
+      "message": "Youtube Reklamları"
+   },
+   "cj_i18n_01144": {
+      "message": "Kanat"
+   },
+   "cj_i18n_01149": {
+      "message": "Aramalar için reklamlar"
+   },
+   "cj_i18n_01150": {
+      "message": "Siteler"
+   },
+   "cj_i18n_01151": {
+      "message": "Engelleme kontrolleri"
+   },
+   "cj_i18n_01152": {
+      "message": "Şikayetler"
+   },
+   "cj_i18n_01153": {
+      "message": "İyileştirmeler"
+   },
+   "cj_i18n_01154": {
+      "message": "Ödemeler"
+   },
+   "cj_i18n_01161": {
+      "message": "Önizleme"
+   },
+   "cj_i18n_01163": {
+      "message": "Ürünleri değiştir"
+   },
+   "cj_i18n_01164": {
+      "message": "Menüden kaldır"
+   },
+   "cj_i18n_01167": {
+      "message": "Bağlantılar"
+   },
+   "cj_i18n_01169": {
+      "message": "Notlar"
+   },
+   "cj_i18n_01174": {
+      "message": "Yükleniyor"
+   },
+   "cj_i18n_01178": {
+      "message": "Devam et"
+   },
+   "cj_i18n_01179": {
+      "message": "geçen yıl aynı döneme kıyasla"
+   },
+   "cj_i18n_01180": {
+      "message": "önceki 28 güne kıyasla"
+   },
+   "cj_i18n_01181": {
+      "message": "Son 28 gün"
+   },
+   "cj_i18n_01182": {
+      "message": "Raporları Yenile"
+   },
+   "cj_i18n_01183": {
+      "message": "Bloglarınız"
+   },
+   "cj_i18n_01184": {
+      "message": "Gönderiler"
+   },
+   "cj_i18n_01185": {
+      "message": "İstatistikler"
+   },
+   "cj_i18n_01186": {
+      "message": "Yorumlar"
+   },
+   "cj_i18n_01187": {
+      "message": "Kazançlar"
+   },
+   "cj_i18n_01188": {
+      "message": "Sayfalar"
+   },
+   "cj_i18n_01189": {
+      "message": "Yerlesim"
+   },
+   "cj_i18n_01190": {
+      "message": "Tema"
+   },
+   "cj_i18n_01191": {
+      "message": "Okuma listesi"
+   },
+   "cj_i18n_01194": {
+      "message": "Beğenilen Videolar"
+   },
+   "cj_i18n_01196": {
+      "message": "Oynatma Listeleri"
+   },
+   "cj_i18n_01197": {
+      "message": "Yeni arama"
+   },
+   "cj_i18n_01198": {
+      "message": "Sitenin temel işlevini yerine getirebilmesi için Youtube hesabı bilgilerinize erişmemiz gerekmektedir"
+   },
+   "cj_i18n_01199": {
+      "message": "Abonelik bulunamadı"
+   },
+   "cj_i18n_01201": {
+      "message": "Tüm abonelikler"
+   },
+   "cj_i18n_01202": {
+      "message": "Yönet"
+   },
+   "cj_i18n_01204": {
+      "message": "Müzik"
+   },
+   "cj_i18n_01205": {
+      "message": "Filmler"
+   },
+   "cj_i18n_01208": {
+      "message": "Keşfet"
+   },
+   "cj_i18n_01210": {
+      "message": "Şovlar"
+   },
+   "cj_i18n_01218": {
+      "message": "Haberler"
+   },
+   "cj_i18n_01219": {
+      "message": "Aile"
+   },
+   "cj_i18n_01220": {
+      "message": "Canlı"
+   },
+   "cj_i18n_01229": {
+      "message": "Gösterge Paneli"
+   },
+   "cj_i18n_01231": {
+      "message": "Analitik"
+   },
+   "cj_i18n_01236": {
+      "message": "Üretici kaynakları"
+   },
+   "cj_i18n_01238": {
+      "message": "İçerik Üreticiler için Etkinlikler"
+   },
+   "cj_i18n_01241": {
+      "message": "İçerik Üretici Değişim Elçileri"
+   },
+   "cj_i18n_01243": {
+      "message": "İçerik Üretici Kütüphanesi"
+   },
+   "cj_i18n_01245": {
+      "message": "Yardım merkezi"
+   },
+   "cj_i18n_01246": {
+      "message": "Yardım forumu"
+   },
+   "cj_i18n_01251": {
+      "message": "Yer imlerini dışa aktarın"
+   },
+   "cj_i18n_01253": {
+      "message": "Bugün"
+   },
+   "cj_i18n_01254": {
+      "message": "Ayarlar ve paylaşma"
+   },
+   "cj_i18n_01255": {
+      "message": "Sınıflar"
+   },
+   "cj_i18n_01256": {
+      "message": "Takvim"
+   },
+   "cj_i18n_01261": {
+      "message": "Periyot"
+   },
+   "cj_i18n_01262": {
+      "message": "Tüm zamanlar"
+   },
+   "cj_i18n_01263": {
+      "message": "Geçen gün"
+   },
+   "cj_i18n_01264": {
+      "message": "Geçen yıl"
+   },
+   "cj_i18n_01265": {
+      "message": "Geçen hafta"
+   },
+   "cj_i18n_01266": {
+      "message": "Geçen sene"
+   },
+   "cj_i18n_01267": {
+      "message": "Tür"
+   },
+   "cj_i18n_01268": {
+      "message": "Tüm türler"
+   },
+   "cj_i18n_01269": {
+      "message": "Görseller"
+   },
+   "cj_i18n_01270": {
+      "message": "Çizimler"
+   },
+   "cj_i18n_01275": {
+      "message": "Kişi bulunamadı"
+   },
+   "cj_i18n_01280": {
+      "message": "Etiketler"
+   },
+   "cj_i18n_01281": {
+      "message": "Sırala"
+   },
+   "cj_i18n_01282": {
+      "message": "Soyada göre sırala"
+   },
+   "cj_i18n_01283": {
+      "message": "İsme göre sırala"
+   },
+   "cj_i18n_01284": {
+      "message": "Daha fazla kişi bulunamadı"
+   },
+   "cj_i18n_01292": {
+      "message": "Yönetici Konsolu"
+   },
+   "cj_i18n_01293": {
+      "message": "Projeler"
+   },
+   "cj_i18n_01294": {
+      "message": "metinler"
+   },
+   "cj_i18n_01295": {
+      "message": "Yildizli projeler"
+   },
+   "cj_i18n_01296": {
+      "message": "Projelerim"
+   },
+   "cj_i18n_01297": {
+      "message": "Tüm projeler"
+   },
+   "cj_i18n_01310": {
+      "message": "Daha fazla uygulama"
+   },
+   "cj_i18n_01318": {
+      "message": "Önerilen"
+   },
+   "cj_i18n_01320": {
+      "message": "Makaleler"
+   },
+   "cj_i18n_01322": {
+      "message": "Uygulama indirmeleri"
+   },
+   "cj_i18n_01326": {
+      "message": "Dosya yükle"
+   },
+   "cj_i18n_01328": {
+      "message": "Paylaşılıyor"
+   },
+   "cj_i18n_01332": {
+      "message": "Kazan"
+   },
+   "cj_i18n_01339": {
+      "message": "Konular/kaynaklar"
+   },
+   "cj_i18n_01341": {
+      "message": "Kaydedilen hikayeler"
+   },
+   "cj_i18n_01342": {
+      "message": "Aradığınız şey bulunamadı"
+   },
+   "cj_i18n_01344": {
+      "message": "Otomatik algıla"
+   },
+   "cj_i18n_01345": {
+      "message": "Başlıklar"
+   },
+   "cj_i18n_01346": {
+      "message": "Bilim"
+   },
+   "cj_i18n_01347": {
+      "message": "Teknoloji"
+   },
+   "cj_i18n_01351": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "cj_i18n_01355": {
+      "message": "Kaydedildi"
+   },
+   "cj_i18n_01363": {
+      "message": "Kaydet"
+   },
+   "cj_i18n_01364": {
+      "message": "Google Haritalar"
+   },
+   "cj_i18n_01365": {
+      "message": "Google Arama"
+   },
+   "cj_i18n_01372": {
+      "message": "Kaydedilen aramalar"
+   },
+   "cj_i18n_01385": {
+      "message": "Yönetici"
+   },
+   "cj_i18n_01386": {
+      "message": "Korumalar"
+   },
+   "cj_i18n_01387": {
+      "message": "Siparişler"
+   },
+   "cj_i18n_01390": {
+      "message": "Yerli"
+   },
+   "cj_i18n_01391": {
+      "message": "Teslim araçları"
+   },
+   "cj_i18n_01394": {
+      "message": "Anahtar-değerler"
+   },
+   "cj_i18n_01396": {
+      "message": "İstisnalar"
+   },
+   "cj_i18n_01397": {
+      "message": "Trafik tahmini"
+   },
+   "cj_i18n_01398": {
+      "message": "Ağ ayarları"
+   },
+   "cj_i18n_01400": {
+      "message": "Sorgular"
+   },
+   "cj_i18n_01402": {
+      "message": "Fırsatlar"
+   },
+   "cj_i18n_01403": {
+      "message": "Deneyler"
+   },
+   "cj_i18n_01404": {
+      "message": "Genel ayarlar"
+   },
+   "cj_i18n_01405": {
+      "message": "Erişim & kimlik doğrulama"
+   },
+   "cj_i18n_01406": {
+      "message": "Teslim"
+   },
+   "cj_i18n_01407": {
+      "message": "Envanter"
+   },
+   "cj_i18n_01409": {
+      "message": "Şirketler"
+   },
+   "cj_i18n_01410": {
+      "message": "AB kullanıcı Yükümlülükleri"
+   },
+   "cj_i18n_01411": {
+      "message": "Değişiklik geçmişi"
+   },
+   "cj_i18n_01414": {
+      "message": "Raporlar"
+   },
+   "cj_i18n_01417": {
+      "message": "Meditasyon"
+   },
+   "cj_i18n_01418": {
+      "message": "Kampanyalar"
+   },
+   "cj_i18n_01423": {
+      "message": "Paylaşılmış kütüphane"
+   },
+   "cj_i18n_01424": {
+      "message": "Toplu Eylemler"
+   },
+   "cj_i18n_01431": {
+      "message": "Kurallar"
+   },
+   "cj_i18n_01432": {
+      "message": "Metinler"
+   },
+   "cj_i18n_01433": {
+      "message": "Yüklemeler"
+   },
+   "cj_i18n_01434": {
+      "message": "Sohbetler"
+   },
+   "cj_i18n_01436": {
+      "message": "Faturlandırma ve ödeme"
+   },
+   "cj_i18n_01437": {
+      "message": "İş verisi"
+   },
+   "cj_i18n_01438": {
+      "message": "Hesap erişimi"
+   },
+   "cj_i18n_01439": {
+      "message": "Linklenmiş hesaplar"
+   },
+   "cj_i18n_01440": {
+      "message": "Tercihler"
+   },
+   "cj_i18n_01453": {
+      "message": "Gelişmiş resim arama"
+   },
+   "cj_i18n_01481": {
+      "message": "Profilim"
+   },
+   "cj_i18n_01484": {
+      "message": "Alarmlar"
+   },
+   "cj_i18n_01485": {
+      "message": "Patentleri ara"
+   },
+   "cj_i18n_01487": {
+      "message": "Sohbetler"
+   },
+   "cj_i18n_01491": {
+      "message": "Eklentiye ürün eklemek için Black Menu'nün altında yer alan özelleştir tuşuna basın"
+   },
+   "cj_i18n_01499": {
+      "message": "Hatırlatıcı bulunamadı"
+   },
+   "cj_i18n_01500": {
+      "message": "Konumları yönet"
+   },
+   "cj_i18n_01501": {
+      "message": "Bir reklam oluştur"
+   },
+   "cj_i18n_01504": {
+      "message": "Araçlar"
+   },
+   "cj_i18n_01506": {
+      "message": "Hesap"
+   },
+   "cj_i18n_01507": {
+      "message": "Çıkış"
+   },
+   "cj_i18n_01508": {
+      "message": "Çıkış yapıldı"
+   },
+   "cj_i18n_01510": {
+      "message": "Bu sayfayı kullanmak için Chrome uygulamalarınızın listesine erişim izni vermelisiniz"
+   },
+   "cj_i18n_01513": {
+      "message": "Abonelikler & servisler"
+   },
+   "cj_i18n_01515": {
+      "message": "Aktivite"
+   },
+   "cj_i18n_01517": {
+      "message": "Ödeme yöntemleri"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresler"
+   },
+   "cj_i18n_01519": {
+      "message": "Kullanıcıları yönet"
+   },
+   "cj_i18n_01520": {
+      "message": "Vergi bilgisi ekle"
+   },
+   "cj_i18n_01521": {
+      "message": "Belgeler"
+   },
+   "cj_i18n_01522": {
+      "message": "Müşteri siparişleri"
+   },
+   "cj_i18n_01523": {
+      "message": "Satış vergileri"
+   },
+   "cj_i18n_01524": {
+      "message": "Öde"
+   },
+   "cj_i18n_01530": {
+      "message": "Reklamlar"
+   },
+   "cj_i18n_01531": {
+      "message": "Araç Çubuğu"
+   },
+   "cj_i18n_01532": {
+      "message": "Yardım"
+   },
+   "cj_i18n_01533": {
+      "message": "Güvenlik"
+   },
+   "cj_i18n_01534": {
+      "message": "Kişisel Bilgi"
+   },
+   "cj_i18n_01535": {
+      "message": "İnsanlar ve Paylaşımlar"
+   },
+   "cj_i18n_01536": {
+      "message": "Ödemeler & Abonelikler"
+   },
+   "cj_i18n_01539": {
+      "message": "İlgili uygulamalar"
+   },
+   "cj_i18n_01541": {
+      "message": "Yeni sekmede aç"
+   },
+   "cj_i18n_01543": {
+      "message": "Hesap değiştir"
+   },
+   "cj_i18n_01544": {
+      "message": "Oturum açın"
+   },
+   "cj_i18n_01545": {
+      "message": "Yeni sekmede aç"
+   },
+   "cj_i18n_01546": {
+      "message": "Panelde aç"
+   },
+   "cj_i18n_01547": {
+      "message": "Metni Çevir"
+   },
+   "cj_i18n_01548": {
+      "message": "Bu metni postala"
+   },
+   "cj_i18n_01549": {
+      "message": "Adrese posta gönder"
+   },
+   "cj_i18n_01552": {
+      "message": "Bu sayfayı postala"
+   },
+   "cj_i18n_01557": {
+      "message": "Uygulamaya erişim sağlamak için lütfen Google hesabınıza giriş yapın"
+   },
+   "cj_i18n_01558": {
+      "message": "Bu uygulama marka hesaplarını desteklemiyor, lütfen başka bir hesaba geçiş yapın"
+   },
+   "cj_i18n_01559": {
+      "message": "Okunmamış"
+   },
+   "cj_i18n_01560": {
+      "message": "Önemli & Okunmamış"
+   },
+   "cj_i18n_01563": {
+      "message": "Sil"
+   },
+   "cj_i18n_01564": {
+      "message": "Reklam"
+   },
+   "cj_i18n_01565": {
+      "message": "Gönder"
+   },
+   "cj_i18n_01566": {
+      "message": "Etiket"
+   },
+   "cj_i18n_01567": {
+      "message": "Uygula"
+   },
+   "cj_i18n_01568": {
+      "message": "Taşı"
+   },
+   "cj_i18n_01570": {
+      "message": "Taşı…"
+   },
+   "cj_i18n_01571": {
+      "message": "Etiket…"
+   },
+   "cj_i18n_01572": {
+      "message": "Spam bildir"
+   },
+   "cj_i18n_01573": {
+      "message": "Okunmadı olarak işaretle"
+   },
+   "cj_i18n_01574": {
+      "message": "Taslak"
+   },
+   "cj_i18n_01575": {
+      "message": "Gelen kutusuna taşı"
+   },
+   "cj_i18n_01576": {
+      "message": "Spam değil"
+   },
+   "cj_i18n_01577": {
+      "message": "Tamamen sil"
+   },
+   "cj_i18n_01578": {
+      "message": "Seçim"
+   },
+   "cj_i18n_01579": {
+      "message": "Arşivle"
+   },
+   "cj_i18n_01580": {
+      "message": "Sabitlenmiş"
+   },
+   "cj_i18n_01581": {
+      "message": "Eklenti ayarları"
+   },
+   "cj_i18n_01585": {
+      "message": "Menüyü kişiselleştirme"
+   },
+   "cj_i18n_01586": {
+      "message": "Kişiselleştirmeye başla"
+   },
+   "cj_i18n_01587": {
+      "message": "Tema"
+   },
+   "cj_i18n_01588": {
+      "message": "Gelişmiş"
+   },
+   "cj_i18n_01590": {
+      "message": "Ayarları varsayılana sıfırlayın"
+   },
+   "cj_i18n_01592": {
+      "message": "Tüm önbelleği silin"
+   },
+   "cj_i18n_01594": {
+      "message": "Verilen izinler"
+   },
+   "cj_i18n_01596": {
+      "message": "Tüm izinleri geri alın"
+   },
+   "cj_i18n_01603": {
+      "message": "Çeviriler"
+   },
+   "cj_i18n_01605": {
+      "message": "Çevirilerde yardım edin"
+   },
+   "cj_i18n_01609": {
+      "message": "Tüketiciler"
+   },
+   "cj_i18n_01611": {
+      "message": "Klasik"
+   },
+   "cj_i18n_01612": {
+      "message": "Koyu"
+   },
+   "cj_i18n_01613": {
+      "message": "Açık"
+   },
+   "cj_i18n_01622": {
+      "message": "İndir"
+   },
+   "cj_i18n_01653": {
+      "message": "Ayarları yönet"
+   },
+   "cj_i18n_01655": {
+      "message": "Ayarları içe aktar"
+   },
+   "cj_i18n_01656": {
+      "message": "Ayarları dışa aktar"
+   },
+   "cj_i18n_01659": {
+      "message": "İptal"
+   },
+   "cj_i18n_01678": {
+      "message": "Sesli kitaplar"
+   },
+   "cj_i18n_01680": {
+      "message": "Yüklemeler"
+   },
+   "cj_i18n_01681": {
+      "message": "Örnekler"
+   },
+   "cj_i18n_01682": {
+      "message": "Kiralıklar"
+   },
+   "cj_i18n_01684": {
+      "message": "Sizin için kitaplar"
+   },
+   "cj_i18n_01685": {
+      "message": "Geçmişim"
+   },
+   "cj_i18n_01686": {
+      "message": "Satınalınanlar"
+   },
+   "cj_i18n_01687": {
+      "message": "Şimdi okunuyor"
+   },
+   "cj_i18n_01689": {
+      "message": "Değerlendirildi"
+   },
+   "cj_i18n_01690": {
+      "message": "Okunacak"
+   },
+   "cj_i18n_01692": {
+      "message": "Tarama geçmişi"
+   },
+   "cj_i18n_01693": {
+      "message": "E-kitaplar"
+   },
+   "cj_i18n_01697": {
+      "message": "Eğlence"
+   },
+   "cj_i18n_01704": {
+      "message": "İçeriğinizi taşıyın"
+   },
+   "cj_i18n_01707": {
+      "message": "Spor"
+   },
+   "cj_i18n_01711": {
+      "message": "Başlarken"
+   },
+   "cj_i18n_01713": {
+      "message": "Kişiselleştir"
+   },
+   "cj_i18n_01715": {
+      "message": "Sonlandır"
+   },
+   "cj_i18n_01727": {
+      "message": "Mesajlar"
+   },
+   "cj_i18n_01729": {
+      "message": "Bu Hizmet"
+   },
+   "cj_i18n_01732": {
+      "message": "Siz olduğunuzu doğrulayın"
+   },
+   "cj_i18n_01737": {
+      "message": "(Başlıksız)"
+   },
+   "cj_i18n_01738": {
+      "message": "Arama'daki veriniz"
+   },
+   "cj_i18n_01740": {
+      "message": "Arşivlendi"
+   },
+   "cj_i18n_01741": {
+      "message": "Yeni konuşma"
+   },
+   "cj_i18n_01742": {
+      "message": "Yeni grup konuşması"
+   },
+   "cj_i18n_01743": {
+      "message": "Konuşma"
+   },
+   "cj_i18n_01744": {
+      "message": "Japonya için Google"
+   },
+   "cj_i18n_01745": {
+      "message": "Telefon bağla"
+   },
+   "cj_i18n_01751": {
+      "message": "Paketler"
+   },
+   "cj_i18n_01756": {
+      "message": "Departmanlar"
+   },
+   "cj_i18n_01759": {
+      "message": "Siparişler"
+   },
+   "cj_i18n_01760": {
+      "message": "Sepet"
+   },
+   "cj_i18n_01764": {
+      "message": "Google için yapıldı"
+   },
+   "cj_i18n_01765": {
+      "message": "Neredeyse bitti"
+   },
+   "cj_i18n_01777": {
+      "message": "Dokümanlar"
+   },
+   "cj_i18n_01780": {
+      "message": "Haritalar'daki veriniz"
+   },
+   "cj_i18n_01781": {
+      "message": "Asistan'daki veriniz"
+   },
+   "cj_i18n_01783": {
+      "message": "Yeni domain al"
+   },
+   "cj_i18n_01784": {
+      "message": "Domainlerim"
+   },
+   "cj_i18n_01785": {
+      "message": "Aktar"
+   },
+   "cj_i18n_01792": {
+      "message": "Oto"
+   },
+   "cj_i18n_01793": {
+      "message": "Otomatik olarak işletim sistemi tercihlerine göre uyarla"
+   },
+   "cj_i18n_01794": {
+      "message": "Klasör"
+   },
+   "cj_i18n_01799": {
+      "message": "App Store'dan İndirin"
+   },
+   "cj_i18n_01806": {
+      "message": "Fiyat Hesaplama"
+   },
+   "cj_i18n_01807": {
+      "message": "Önerilenler"
+   },
+   "cj_i18n_01813": {
+      "message": "Hesap Detayları"
+   },
+   "cj_i18n_01821": {
+      "message": "Dükkan"
+   },
+   "cj_i18n_01823": {
+      "message": "Ürünler"
+   },
+   "cj_i18n_01824": {
+      "message": "Servisler"
+   },
+   "cj_i18n_01833": {
+      "message": "Depolama"
+   },
+   "cj_i18n_01836": {
+      "message": "Araçlar"
+   },
+   "cj_i18n_01838": {
+      "message": "Yapay zeka"
+   },
+   "cj_i18n_01848": {
+      "message": "Depolama"
+   },
+   "cj_i18n_01896": {
+      "message": "Sağlık"
+   },
+   "cj_i18n_01898": {
+      "message": "YouTube'daki veriniz"
+   },
+   "cj_i18n_01901": {
+      "message": "Bağlantıyı kopyala"
+   },
+   "cj_i18n_01906": {
+      "message": "Organizasyonel bölümler"
+   },
+   "cj_i18n_01908": {
+      "message": "Cihazlar"
+   },
+   "cj_i18n_01911": {
+      "message": "Google Kitapları"
+   },
+   "cj_i18n_01913": {
+      "message": "Bağımlılık Önleme"
+   },
+   "cj_i18n_01915": {
+      "message": "Google ile oturum acin"
+   },
+   "cj_i18n_01916": {
+      "message": "Google ile devam et"
+   },
+   "cj_i18n_01918": {
+      "message": "Kurulu"
+   },
+   "cj_i18n_01921": {
+      "message": "Gelistirici"
+   },
+   "cj_i18n_01929": {
+      "message": "Moda"
+   },
+   "cj_i18n_01930": {
+      "message": "Uçuşları Keşfet"
+   },
+   "cj_i18n_01933": {
+      "message": "Dosya yükle"
+   },
+   "cj_i18n_01935": {
+      "message": "Yeni Klasör"
+   },
+   "cj_i18n_01940": {
+      "message": "Yeniden adlandır"
+   },
+   "cj_i18n_01943": {
+      "message": "Dosya adı"
+   },
+   "cj_i18n_01956": {
+      "message": "Ödevler"
+   },
+   "cj_i18n_01990": {
+      "message": "Ad"
+   },
+   "cj_i18n_02121": {
+      "message": "Nasıl"
+   },
+   "cj_i18n_02162": {
+      "message": "Ana sayfayı aç"
+   },
+   "cj_i18n_02165": {
+      "message": "Menüyü düzenlemek için servislerin üzerine tıklayıp sürükleyin"
+   },
+   "cj_i18n_02168": {
+      "message": "Hesaplar"
+   },
+   "cj_i18n_02171": {
+      "message": "Hesap Oluştur"
+   },
+   "cj_i18n_02176": {
+      "message": "Bu sayfayı kullanmadan önce, {PRODUCT_NAME} verilerinizi yüklemek için erişim izni vermeniz gerekir."
+   },
+   "cj_i18n_02543": {
+      "message": "Yazdır"
+   },
+   "cj_i18n_02703": {
+      "message": "Tüm dosyalar"
+   },
+   "cj_i18n_02717": {
+      "message": "Oturum açılmadı"
+   },
+   "cj_i18n_03523": {
+      "message": "Geliştirici araçları"
+   },
+   "cj_i18n_03929": {
+      "message": "İndirilenler"
+   },
+   "cj_i18n_04163": {
+      "message": "Dil"
+   },
+   "cj_i18n_04767": {
+      "message": "Kuruluş"
+   },
+   "cj_i18n_04776": {
+      "message": "Telif Hakkı"
+   },
+   "cj_i18n_04828": {
+      "message": "Şifreler"
+   },
+   "cj_i18n_05092": {
+      "message": "Arama sonuçları"
+   },
+   "cj_i18n_05190": {
+      "message": "Tarayıcı"
+   },
+   "cj_i18n_05388": {
+      "message": "Genel"
+   },
+   "cj_i18n_05629": {
+      "message": "Düzenle"
+   },
+   "cj_i18n_06216": {
+      "message": "Şablondan"
+   },
+   "cj_i18n_06217": {
+      "message": "Yeni rapor"
+   },
+   "cj_i18n_06218": {
+      "message": "Yeni rapor kaynağı"
+   },
+   "cj_i18n_06223": {
+      "message": "Zar at"
+   },
+   "cj_i18n_06225": {
+      "message": "Mayın tarlası"
+   },
+   "cj_i18n_06227": {
+      "message": "Yılan"
+   },
+   "cj_i18n_06229": {
+      "message": "Yazı Tura at"
+   },
+   "cj_i18n_06231": {
+      "message": "Hayvan Sesleri"
+   },
+   "cj_i18n_06232": {
+      "message": "Nefes egzersizi"
+   },
+   "cj_i18n_06233": {
+      "message": "Yapılacaklar"
+   },
+   "cj_i18n_06237": {
+      "message": "Devredışı hesap yöneticisi"
+   },
+   "cj_i18n_06240": {
+      "message": "Veriseti Ara"
+   },
+   "cj_i18n_06245": {
+      "message": "Öncelik"
+   },
+   "cj_i18n_06247": {
+      "message": "Yarın"
+   },
+   "cj_i18n_06248": {
+      "message": "Pts"
+   },
+   "cj_i18n_06249": {
+      "message": "Sal"
+   },
+   "cj_i18n_06250": {
+      "message": "Çar"
+   },
+   "cj_i18n_06251": {
+      "message": "Per"
+   },
+   "cj_i18n_06252": {
+      "message": "Cum"
+   },
+   "cj_i18n_06253": {
+      "message": "Cts"
+   },
+   "cj_i18n_06254": {
+      "message": "Paz"
+   },
+   "cj_i18n_06255": {
+      "message": "Oca"
+   },
+   "cj_i18n_06256": {
+      "message": "Şub"
+   },
+   "cj_i18n_06258": {
+      "message": "Nis"
+   },
+   "cj_i18n_06260": {
+      "message": "Haz"
+   },
+   "cj_i18n_06261": {
+      "message": "Tem"
+   },
+   "cj_i18n_06262": {
+      "message": "Ağu"
+   },
+   "cj_i18n_06263": {
+      "message": "Eyl"
+   },
+   "cj_i18n_06264": {
+      "message": "Eki"
+   },
+   "cj_i18n_06265": {
+      "message": "Kas"
+   },
+   "cj_i18n_06266": {
+      "message": "Ara"
+   },
+   "cj_i18n_06283": {
+      "message": "Dünya uygulamaları"
+   },
+   "cj_i18n_06284": {
+      "message": "Klasik uygulamalar"
+   },
+   "cj_i18n_06286": {
+      "message": "Bir Google kullanıcısı"
+   },
+   "cj_i18n_06287": {
+      "message": "Yenilikleri incelemek için tıklayın"
+   },
+   "cj_i18n_06288": {
+      "message": "{APP_NAME} güncellendi"
+   },
+   "cj_i18n_06289": {
+      "message": "Yeni gönderi"
+   },
+   "cj_i18n_06292": {
+      "message": "Blog'u görüntüle"
+   },
+   "cj_i18n_06293": {
+      "message": "Çoğalt"
+   },
+   "cj_i18n_06294": {
+      "message": "Diğer seçenekler"
+   },
+   "cj_i18n_06296": {
+      "message": "Para Kazanma"
+   },
+   "cj_i18n_06297": {
+      "message": "Sesli Kütüphane"
+   },
+   "cj_i18n_06298": {
+      "message": "Yeni Çizim"
+   },
+   "cj_i18n_06299": {
+      "message": "Yeni Harita"
+   },
+   "cj_i18n_06300": {
+      "message": "İlişkili notu Keep'te görüntüle"
+   },
+   "cj_i18n_06306": {
+      "message": "Yeni not"
+   },
+   "cj_i18n_06307": {
+      "message": "Yeni liste"
+   },
+   "cj_i18n_06308": {
+      "message": "Yeni anımsatıcı"
+   },
+   "cj_i18n_06316": {
+      "message": "İsim"
+   },
+   "cj_i18n_06317": {
+      "message": "Adres (URL)"
+   },
+   "cj_i18n_06318": {
+      "message": "Etiketler"
+   },
+   "cj_i18n_06320": {
+      "message": "Koleksiyona ekle"
+   },
+   "cj_i18n_06321": {
+      "message": "Yeni koleksiyon"
+   },
+   "cj_i18n_06322": {
+      "message": "Koleksiyon"
+   },
+   "cj_i18n_06323": {
+      "message": "Bunu kaydet"
+   },
+   "cj_i18n_06326": {
+      "message": "PDF olarak indir"
+   },
+   "cj_i18n_06327": {
+      "message": "Kayıt ediliyor"
+   },
+   "cj_i18n_06337": {
+      "message": "Bu tarihte etkinlik bulunamadı"
+   },
+   "cj_i18n_06342": {
+      "message": "Sporlar"
+   },
+   "cj_i18n_06348": {
+      "message": "Resme göre ara"
+   },
+   "cj_i18n_06353": {
+      "message": "Eğitim"
+   },
+   "cj_i18n_06358": {
+      "message": "Gizlilik kontrolü"
+   },
+   "cj_i18n_06359": {
+      "message": "Güvenlik kontrolü"
+   },
+   "cj_i18n_06386": {
+      "message": "Koronavirüs (COVID-19)"
+   },
+   "cj_i18n_06397": {
+      "message": "Koronavirüs haritası"
+   },
+   "cj_i18n_06405": {
+      "message": "Pixel Telefon Uygulaması"
+   },
+   "cj_i18n_06418": {
+      "message": "Telefon Uygulaması"
+   },
+   "cj_i18n_06432": {
+      "message": "Tarayıcı dili yerine İngilizceyi kullan"
+   },
+   "cj_i18n_06557": {
+      "message": "Temalar"
+   },
+   "cj_i18n_06577": {
+      "message": "Öğretim"
+   },
+   "cj_i18n_06580": {
+      "message": "Sınıf ayarları"
+   },
+   "cj_i18n_06581": {
+      "message": "Yeni görüşme başlat"
+   },
+   "cj_i18n_06599": {
+      "message": "Bildirimleri sessize al"
+   },
+   "cj_i18n_06601": {
+      "message": "Uzatma güncellemeleri"
+   },
+   "cj_i18n_06602": {
+      "message": "Uzatma güncellemesini simüle et"
+   },
+   "cj_i18n_06603": {
+      "message": "Tarayıcı güncellemeleri"
+   },
+   "cj_i18n_06609": {
+      "message": "Etiketler"
+   },
+   "cj_i18n_06622": {
+      "message": "İncelenecekler"
+   },
+   "cj_i18n_06624": {
+      "message": "Hesap ayarları"
+   },
+   "cj_i18n_06632": {
+      "message": "Dersler"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefon"
+   },
+   "cj_i18n_06647": {
+      "message": "Hızlı Erişim"
+   },
+   "cj_i18n_06648": {
+      "message": "Kaynaklar"
+   },
+   "cj_i18n_06671": {
+      "message": "Tüm uygulamalar"
+   },
+   "cj_i18n_06672": {
+      "message": "Kullanıcılar ve izinler"
+   },
+   "cj_i18n_06673": {
+      "message": "Sipariş yönetimi"
+   },
+   "cj_i18n_06674": {
+      "message": "Finansal"
+   },
+   "cj_i18n_06675": {
+      "message": "Email listesi"
+   },
+   "cj_i18n_06676": {
+      "message": "Lisans testi"
+   },
+   "cj_i18n_06677": {
+      "message": "Oyun projelerini yönet"
+   },
+   "cj_i18n_06678": {
+      "message": "Geliştirici hesabı"
+   },
+   "cj_i18n_06679": {
+      "message": "Ödeme seçenekleri"
+   },
+   "cj_i18n_06709": {
+      "message": "Editörler"
+   },
+   "cj_i18n_06718": {
+      "message": "Ruh hali & türler"
+   },
+   "cj_i18n_06719": {
+      "message": "Önerilerini iyileştir"
+   },
+   "cj_i18n_06739": {
+      "message": "Eskimiş içeriği yoket"
+   },
+   "cj_i18n_06742": {
+      "message": "Tüm mesajlar"
+   },
+   "cj_i18n_06743": {
+      "message": "URL parametreleri"
+   },
+   "cj_i18n_06744": {
+      "message": "Robots.tct test edicisi"
+   },
+   "cj_i18n_06745": {
+      "message": "Veri işaretleyici"
+   },
+   "cj_i18n_06746": {
+      "message": "Yardım Topluluğu"
+   },
+   "cj_i18n_06748": {
+      "message": "Geliştirici Profili"
+   },
+   "cj_i18n_06749": {
+      "message": "Ödüller"
+   },
+   "cj_i18n_06750": {
+      "message": "Sipariş geçmişi"
+   },
+   "cj_i18n_06751": {
+      "message": "Kullanıcı ayarları"
+   },
+   "cj_i18n_06752": {
+      "message": "Email tercihleri"
+   },
+   "cj_i18n_06754": {
+      "message": "SSS"
+   },
+   "cj_i18n_06757": {
+      "message": "Site haritaları"
+   },
+   "cj_i18n_06760": {
+      "message": "Güvenlik sorunları"
+   },
+   "cj_i18n_06762": {
+      "message": "Mobil kullanılabilirlik"
+   },
+   "cj_i18n_06763": {
+      "message": "Mobil kullanılabilirlik özeti"
+   },
+   "cj_i18n_06809": {
+      "message": "Sahiplik"
+   },
+   "cj_i18n_06814": {
+      "message": "COVID-19 Özel duyurusu"
+   },
+   "cj_i18n_06817": {
+      "message": "Nitelik ekle"
+   },
+   "cj_i18n_06818": {
+      "message": "Bütün nitelikler"
+   },
+   "cj_i18n_06819": {
+      "message": "Performans"
+   },
+   "cj_i18n_06821": {
+      "message": "Güvenlik & manuel aksiyonlar"
+   },
+   "cj_i18n_06823": {
+      "message": "Özellikler"
+   },
+   "cj_i18n_06826": {
+      "message": "Nitelik ayarları"
+   },
+   "cj_i18n_06827": {
+      "message": "Yıldızlanmış konuşmalar"
+   },
+   "cj_i18n_06846": {
+      "message": "Hatırlatıcı"
+   },
+   "cj_i18n_06848": {
+      "message": "Googlebot hata raporlayıcı"
+   },
+   "cj_i18n_06852": {
+      "message": "Aile oluştur"
+   },
+   "cj_i18n_06875": {
+      "message": "Popüler"
+   },
+   "cj_i18n_06876": {
+      "message": "Öğren"
+   },
+   "cj_i18n_06898": {
+      "message": "Başarımlar"
+   },
+   "cj_i18n_06923": {
+      "message": "Engellenmiş kullanıcılar"
+   },
+   "cj_i18n_06928": {
+      "message": "Yayımlanan reklamlar"
+   },
+   "cj_i18n_06929": {
+      "message": "Tarayıcı uygulamaları"
+   },
+   "cj_i18n_06930": {
+      "message": "İçerik"
+   },
+   "cj_i18n_06931": {
+      "message": "Altyazılar"
+   },
+   "cj_i18n_06933": {
+      "message": "Video yükle"
+   },
+   "cj_i18n_06960": {
+      "message": "AdMob sayfam"
+   },
+   "cj_i18n_06978": {
+      "message": "Hedef kitleler"
+   },
+   "cj_i18n_06983": {
+      "message": "Chrome yönetimi"
+   },
+   "cj_i18n_06984": {
+      "message": "Mobil & Endpointler"
+   },
+   "cj_i18n_06985": {
+      "message": "Ağlar"
+   },
+   "cj_i18n_06986": {
+      "message": "Çekirdek servisleri"
+   },
+   "cj_i18n_06987": {
+      "message": "Ek servisler"
+   },
+   "cj_i18n_06988": {
+      "message": "Web ve mobil"
+   },
+   "cj_i18n_06991": {
+      "message": "Alarm merkezi"
+   },
+   "cj_i18n_06992": {
+      "message": "API kontrolleri"
+   },
+   "cj_i18n_06993": {
+      "message": "Bağlama duyarlı erişim"
+   },
+   "cj_i18n_06994": {
+      "message": "Veri koruma"
+   },
+   "cj_i18n_06995": {
+      "message": "İnceleme aracı"
+   },
+   "cj_i18n_06996": {
+      "message": "Güvenlik sağlığı"
+   },
+   "cj_i18n_06997": {
+      "message": "Abonelikleri yönet"
+   },
+   "cj_i18n_06998": {
+      "message": "Ödeme hesapları"
+   },
+   "cj_i18n_06999": {
+      "message": "Daha fazla servis alın"
+   },
+   "cj_i18n_07000": {
+      "message": "Domainleri yönet"
+   },
+   "cj_i18n_07001": {
+      "message": "Bir domain ekle"
+   },
+   "cj_i18n_07002": {
+      "message": "Birincil domaini değiştir"
+   },
+   "cj_i18n_07006": {
+      "message": "Gizlilik & mesajlaşma"
+   },
+   "cj_i18n_07018": {
+      "message": "Uygulama Dağıtımı"
+   },
+   "cj_i18n_07033": {
+      "message": "Cihazlarınız"
+   },
+   "cj_i18n_07034": {
+      "message": "Google ile Daha Güvenli"
+   },
+   "cj_i18n_07039": {
+      "message": "Bu sayfaya erişiminiz yok"
+   },
+   "cj_i18n_07045": {
+      "message": "Müşteri çıktısı"
+   },
+   "cj_i18n_07048": {
+      "message": "Android rehberi"
+   },
+   "cj_i18n_07071": {
+      "message": "Şifre Yöneticisi"
+   },
+   "cj_i18n_07072": {
+      "message": "Şifre kontrolü"
+   },
+   "cj_i18n_07093": {
+      "message": "Takip ettiğim blogları yönet"
+   },
+   "cj_i18n_07115": {
+      "message": "Bildir"
+   },
+   "cj_i18n_07124": {
+      "message": "Panoya kopyalandı"
+   },
+   "cj_i18n_07125": {
+      "message": "Panoya kopyala"
+   },
+   "cj_i18n_07133": {
+      "message": "Diğer Google hareketleri"
+   },
+   "cj_i18n_07140": {
+      "message": "Veri ve Gizlilik"
+   },
+   "cj_i18n_07142": {
+      "message": "Aktiviteyi temizle"
+   },
+   "cj_i18n_07143": {
+      "message": "Aktivite"
+   },
+   "cj_i18n_07192": {
+      "message": "Veriniz"
+   },
+   "cj_i18n_07199": {
+      "message": "Mesajı al"
+   },
+   "cj_i18n_07231": {
+      "message": "Klasörü aç"
+   },
+   "cj_i18n_07234": {
+      "message": "Olay planla"
+   },
+   "cj_i18n_07238": {
+      "message": "Benim reklamlarım"
+   },
+   "cj_i18n_07239": {
+      "message": "Reklamları özelleştir"
+   },
+   "cj_i18n_07240": {
+      "message": "Gizliliği yönet"
+   },
+   "cj_i18n_07270": {
+      "message": "Erişim ve güvenlik"
+   },
+   "cj_i18n_07271": {
+      "message": "Yeni hesap oluştur"
+   }
+}

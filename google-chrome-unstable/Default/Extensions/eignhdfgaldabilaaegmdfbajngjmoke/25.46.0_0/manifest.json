@@ -1,0 +1,540 @@
+{
+   "action": {
+      "browser_style": false,
+      "default_area": "navbar",
+      "default_icon": {
+         "16": "/pages/wei_blackmenu/blackmenu-16.png",
+         "19": "/pages/wei_blackmenu/blackmenu-19.png",
+         "32": "/pages/wei_blackmenu/blackmenu-32.png",
+         "38": "/pages/wei_blackmenu/blackmenu-38.png"
+      },
+      "default_popup": "/views/popup.html",
+      "icon_variants": [ {
+         "16": "/pages/wei_blackmenu/blackmenu-dark-16.svg",
+         "19": "/pages/wei_blackmenu/blackmenu-dark-19.svg",
+         "32": "/pages/wei_blackmenu/blackmenu-dark-32.svg",
+         "38": "/pages/wei_blackmenu/blackmenu-dark-38.svg",
+         "color_schemes": [ "dark" ]
+      }, {
+         "16": "/pages/wei_blackmenu/blackmenu-16.svg",
+         "19": "/pages/wei_blackmenu/blackmenu-19.svg",
+         "32": "/pages/wei_blackmenu/blackmenu-32.svg",
+         "38": "/pages/wei_blackmenu/blackmenu-38.svg"
+      } ],
+      "theme_icons": [ {
+         "dark": "/pages/wei_blackmenu/blackmenu-16.svg",
+         "light": "/pages/wei_blackmenu/blackmenu-dark-16.svg",
+         "size": 16
+      }, {
+         "dark": "/pages/wei_blackmenu/blackmenu-19.svg",
+         "light": "/pages/wei_blackmenu/blackmenu-dark-19.svg",
+         "size": 19
+      }, {
+         "dark": "/pages/wei_blackmenu/blackmenu-32.svg",
+         "light": "/pages/wei_blackmenu/blackmenu-dark-32.svg",
+         "size": 32
+      }, {
+         "dark": "/pages/wei_blackmenu/blackmenu-38.svg",
+         "light": "/pages/wei_blackmenu/blackmenu-dark-38.svg",
+         "size": 38
+      } ]
+   },
+   "author": "Carlos Jeurissen",
+   "background": {
+      "service_worker": "/service-worker.js"
+   },
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "black-menu-for-google@carlosjeurissen.com"
+      }
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Alt+B"
+         }
+      },
+      "portal-next-page": {
+         "description": "Go to the next page"
+      },
+      "portal-previous-page": {
+         "description": "Go to the previous page"
+      }
+   },
+   "container": "GOOGLE_DRIVE",
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "/styles/cjg-popup.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/cjg-auth/*", "https://www.google.com/images/cjg-apis/*", "https://www.google.com/images/cjg-auth/*" ],
+      "js": [ "/scripts/url-search-params-polyfill.js", "/scripts/cj-basics.js", "/scripts/cjg-apis.js", "/scripts/cjg-popup.js" ],
+      "matches": [ "https://*.google.com/cjg-auth/*", "https://*.google.com/images/cjg-apis/*", "https://*.google.com/images/cjg-auth/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://news.google.com/images/cjg-proxy/*", "https://ogs.google.com/images/cjg-proxy/*", "https://www.google.com/images/cjg-proxy/*" ],
+      "js": [ "/scripts/cs-proxy.js" ],
+      "matches": [ "https://*.google.com/images/cjg-proxy/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/bard/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://bard.google.com/*bm_cid=bard*", "https://gemini.google.com/*bm_cid=bard*" ],
+      "js": [ "/pages/bard/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/notebooklm/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://notebooklm.google.com/*bm_cid=notebooklm*" ],
+      "js": [ "/pages/notebooklm/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/gasuite/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://marketingplatform.google.com/*bm_cid=gasuite*" ],
+      "js": [ "/pages/gasuite/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/alerts/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/alerts*bm_cid=alerts*" ],
+      "matches": [ "https://*.google.com/alerts*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/ngramviewer/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://books.google.com/*bm_cid=ngramviewer*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/classroomwithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://classroom.google.com/*bm_cid=classroomwithwebapp*" ],
+      "js": [ "/pages/classroomwithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/assignmentswithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://assignments.google.com/*bm_cid=assignmentswithwebapp*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/cloudsearch/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://cloudsearch.google.com/*bm_cid=cloudsearch*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/familylink/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://families.google.com/*bm_cid=familylink*" ],
+      "matches": [ "https://*.google.com/*familylink*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/messages/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://messages.google.com/*bm_cid=messages*" ],
+      "js": [ "/pages/messages/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/status/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/*bm_cid=status*", "https://mail.google.com/*bm_cid=status*" ],
+      "js": [ "/pages/status/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/contributionsprofile/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://profile.google.com/*bm_cid=contributionsprofile*", "https://channel.google.com/*bm_cid=contributionsprofile*" ],
+      "js": [ "/pages/contributionsprofile/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/lens/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://lens.google.com/*bm_cid=lens*" ],
+      "js": [ "/pages/lens/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/one/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://one.google.com/*bm_cid=one*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/home/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://home.google.com/*bm_cid=home*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/marketplace/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://workspace.google.com/*marketplace*bm_cid=marketplace*" ],
+      "js": [ "/pages/marketplace/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/googletravel/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/*bm_cid=googletravel*" ],
+      "js": [ "/pages/googletravel/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/googletravel/cs-savedhotelprices.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/travel/subscriptions/list/hotels*bm_cid=googletravel*" ],
+      "matches": [ "https://*.google.com/travel/subscriptions/list/hotels*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/fonts/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://fonts.google.com/*bm_cid=fonts*" ],
+      "js": [ "/pages/fonts/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/find/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/android/find*bm_cid=find*" ],
+      "js": [ "/pages/find/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/android/find*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/currentshybrid/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://plus.google.com/*bm_cid=currentshybrid*", "https://currents.google.com/*bm_cid=currentshybrid*" ],
+      "js": [ "/pages/currentshybrid/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/myactivity/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://myactivity.google.com/*bm_cid=myactivity*", "https://activity.google.com/*bm_cid=myactivity*" ],
+      "js": [ "/pages/myactivity/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/meet/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://meet.google.com/*bm_cid=meet*" ],
+      "js": [ "/pages/meet/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/styles/cs-scrollbar.css", "/pages/mail/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://mail.google.com/mail/mu/*mui=bm_mail*" ],
+      "js": [ "/pages/mail/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/mail/mu/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://mail.google.com/accounts/SetOSID*bm_mail*" ],
+      "js": [ "/pages/mail/cs-contentblocking.js" ],
+      "matches": [ "https://*.google.com/accounts/SetOSID*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/keepwithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://keep.google.com/*bm_cid=keepwithwebapp*" ],
+      "js": [ "/pages/keepwithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/orderfood/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://orderfood.google.com/*bm_cid=orderfood*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/reserve/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/maps/reserve*bm_cid=reserve*" ],
+      "js": [ "/pages/reserve/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/maps/reserve*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/mybusiness/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://business.google.com/*bm_cid=mybusiness*" ],
+      "js": [ "/pages/mybusiness/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/patents/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://patents.google.com/*bm_cid=patents*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/photoswithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://photos.google.com/*bm_cid=photoswithwebapp*" ],
+      "js": [ "/pages/photoswithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/play/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://play.google.com/*bm_cid=play*" ],
+      "js": [ "/pages/play/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/reminderswithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://assistant.google.com/*bm_cid=reminderswithwebapp*" ],
+      "js": [ "/pages/reminderswithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/searchlabs/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://labs.google.com/search*bm_cid=searchlabs*" ],
+      "js": [ "/pages/searchlabs/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/search*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/interestswithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/collection*bm_cid=interestswithwebapp*", "https://www.google.com/interests*bm_cid=interestswithwebapp*", "https://www.google.com/save*bm_cid=interestswithwebapp*" ],
+      "js": [ "/pages/interestswithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/collection*", "https://*.google.com/interests*", "https://*.google.com/save*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/googlestore/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://store.google.com/*bm_cid=googlestore*" ],
+      "js": [ "/pages/googlestore/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/gws/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/*bm_cid=gws*", "https://maps.google.com/*bm_cid=gws*" ],
+      "js": [ "/pages/gws/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/covid19/cs-mobility.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/covid19/mobility/*bm_cid=covid19mobility*" ],
+      "matches": [ "https://*.google.com/covid19/mobility/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/taskswithcompanion/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://tasks.google.com/*bm_cid=taskswithcompanion*" ],
+      "js": [ "/pages/taskswithcompanion/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "/pages/tasksfullwidth/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://tasks.google.com/embed/*", "https://tasks.google.com/u/?/embed/*" ],
+      "js": [ "/pages/tasksfullwidth/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/embed/*", "https://*.google.com/u/*/embed/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/mapswithcompanion/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://maps.google.com/*bm_cid=mapswithcompanion*", "https://www.google.com/*bm_cid=mapswithcompanion*" ],
+      "js": [ "/pages/mapswithcompanion/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/artsandculture/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://artsandculture.google.com/*bm_cid=artsandculture*" ],
+      "js": [ "/pages/artsandculture/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/translate/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://translate.google.com/*bm_cid=translate*" ],
+      "js": [ "/pages/translate/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/voicewithwebapp/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://voice.google.com/*bm_cid=voicewithwebapp*" ],
+      "js": [ "/pages/voicewithwebapp/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/myadcenter/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://myadcenter.google.com/*bm_cid=myadcenter*" ],
+      "js": [ "/pages/myadcenter/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/myaccount/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://myaccount.google.com/*bm_cid=myaccount*", "https://account.google.com/*bm_cid=myaccount*" ],
+      "js": [ "/pages/myaccount/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/passwords/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://passwords.google.com/*bm_cid=passwords*" ],
+      "js": [ "/pages/passwords/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/searchconsole/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://search.google.com/*bm_cid=searchconsole*" ],
+      "js": [ "/pages/searchconsole/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/searchinsights/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://search.google.com/*bm_cid=searchinsights*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/searchcentral/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://search.google.com/*bm_cid=searchcentral*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/pages/contentblocking/cs-webapp.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://www.google.com/content-blocking*bm_cid=contentblocking*", "https://mail.google.com/accounts/SetOSID*bm_cid=contentblocking*" ],
+      "js": [ "/pages/contentblocking/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/content-blocking*", "https://*.google.com/accounts/SetOSID*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "/styles/cs-scrollbar.css" ],
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://*.google.com/*bm_iid=*" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://*.google.com/*bm_wiz=1*" ],
+      "js": [ "/pages/wizfix/cs-webapp.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://pay.google.com/webrequestcheck_*bm_cid=webrequestcheck*" ],
+      "js": [ "/pages/webrequestcheck/cs-check.js" ],
+      "matches": [ "https://*.google.com/webrequestcheck_*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://accounts.google.com/*" ],
+      "include_globs": [ "https://*.google.com/*bm_cst=*" ],
+      "js": [ "/pages/cstools/cs-cst.js" ],
+      "matches": [ "https://*.google.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "default-src 'none'; child-src 'none'; manifest-src 'none'; media-src 'none'; object-src 'none'; worker-src 'none'; connect-src chrome-extension: https://www.gmail.com/call https://www.gstatic.com/ https://*.google.com/ https://chat.googleapis.com/ https://alkalilanding-pa.googleapis.com/ https://oauth2.googleapis.com/ https://adsense.googleapis.com/v2/ https://www.googleapis.com/appsmarket/v2/ https://searchconsole.googleapis.com/webmasters/v3/ https://classroom.googleapis.com/v1/ https://people.googleapis.com/ https://content.googleapis.com/ https://fonts.googleapis.com/ https://accounts.blogger.com/ https://accounts.youtube.com/ https://m.youtube.com/ https://consent.youtube.com/ https://www.youtube.com/ https://accounts.google.ae/ https://accounts.google.at/ https://accounts.google.az/ https://accounts.google.be/ https://accounts.google.by/ https://accounts.google.ca/ https://accounts.google.cat/ https://accounts.google.ch/ https://accounts.google.ci/ https://accounts.google.cl/ https://accounts.google.co.cr/ https://accounts.google.co.id/ https://accounts.google.co.il/ https://accounts.google.co.in/ https://accounts.google.co.jp/ https://accounts.google.co.kr/ https://accounts.google.co.ma/ https://accounts.google.co.nz/ https://accounts.google.co.th/ https://accounts.google.co.uk/ https://accounts.google.co.uz/ https://accounts.google.co.ve/ https://accounts.google.co.za/ https://accounts.google.com.ar/ https://accounts.google.com.au/ https://accounts.google.com.bh/ https://accounts.google.com.br/ https://accounts.google.com.co/ https://accounts.google.com.do/ https://accounts.google.com.eg/ https://accounts.google.com.hk/ https://accounts.google.com.kw/ https://accounts.google.com.mx/ https://accounts.google.com.na/ https://accounts.google.com.ng/ https://accounts.google.com.om/ https://accounts.google.com.pe/ https://accounts.google.com.ph/ https://accounts.google.com.pk/ https://accounts.google.com.sa/ https://accounts.google.com.sg/ https://accounts.google.com.tr/ https://accounts.google.com.tw/ https://accounts.google.com.ua/ https://accounts.google.com.uy/ https://accounts.google.com.vn/ https://accounts.google.cz/ https://accounts.google.de/ https://accounts.google.dk/ https://accounts.google.dz/ https://accounts.google.es/ https://accounts.google.fr/ https://accounts.google.hr/ https://accounts.google.hu/ https://accounts.google.ie/ https://accounts.google.it/ https://accounts.google.kg/ https://accounts.google.pl/ https://accounts.google.md/ https://accounts.google.nl/ https://accounts.google.ro/ https://accounts.google.ru/ https://accounts.google.se/; frame-src https://*.google.com/ https://accounts.google.com.hk/ https://www.google.com.hk/ https://content.googleapis.com/ https://*.googleusercontent.com/ https://accounts.blogger.com/ https://m.youtube.com/ https://accounts.youtube.com/ https://www.youtube.com/ https://www.youtube-nocookie.com/ https://g.carlosjeurissen.com/; font-src 'self'; img-src 'self' data: chrome://extension-icon/ https://work.fife.usercontent.google.com/ https://accounts.google.com/ https://developers.google.com/ https://books.google.com/books/content/reader https://profiles.google.com/ https://www.google.com/favicon.ico https://ssl.gstatic.com/ https://www.gstatic.com/ https://*.litepages.googlezip.net/ https://drive-thirdparty.googleusercontent.com/ https://www.lduhtrp.net/ https://drive.google.com/ https://encrypted-tbn0.gstatic.com/ https://encrypted-tbn1.gstatic.com/ https://encrypted-tbn2.gstatic.com/ https://encrypted-tbn3.gstatic.com/ https://s.ytimg.com/yts/img/ https://i.ytimg.com/ https://i9.ytimg.com/ https://lh3.google.com/ https://lh3.ggpht.com/ https://lh4.ggpht.com/ https://lh5.ggpht.com/ https://lh6.ggpht.com/ https://yt3.ggpht.com/ https://lh3.googleusercontent.com/ https://lh4.googleusercontent.com/ https://lh5.googleusercontent.com/ https://lh6.googleusercontent.com/ https://static.googleusercontent.com/media/drive-thirdparty.googleusercontent.com/ https://1.bp.blogspot.com/ https://2.bp.blogspot.com/ https://www.youtube.com/; script-src 'self'; script-src-attr 'none'; script-src-elem 'self'; style-src 'self' 'unsafe-inline'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; block-all-mixed-content; upgrade-insecure-requests; report-uri https://api.jeurissen.co/reports/csp/webext/bmfg/v25_46_0/"
+   },
+   "default_locale": "en",
+   "description": "__MSG_cj_i18n_00000__",
+   "developer": {
+      "name": "Carlos Jeurissen",
+      "url": "https://apps.jeurissen.co/"
+   },
+   "differential_fingerprint": "1.f8a1ecfa10bab8867c56efa56e07cdb8edf38b9109f5dfe2d6f54a8589dc6021",
+   "externally_connectable": {
+      "accepts_tls_channel_id": false,
+      "ids": [  ]
+   },
+   "homepage_url": "https://apps.jeurissen.co/black-menu-for-google",
+   "host_permissions": [ "https://*.google.com/*", "https://*.googleapis.com/*", "https://*.googleusercontent.com/*", "https://*.gstatic.com/*" ],
+   "icons": {
+      "128": "/pages/wei_blackmenu/blackmenu-128.png",
+      "16": "/pages/wei_blackmenu/blackmenu-16.png",
+      "256": "/pages/wei_blackmenu/blackmenu-256.png",
+      "32": "/pages/wei_blackmenu/blackmenu-32.png",
+      "48": "/pages/wei_blackmenu/blackmenu-48.png",
+      "96": "/pages/wei_blackmenu/blackmenu-96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8XjSjTGWYMJrarCQEHLWgDSQ/M9VOUoSRcHGjXo/uIfgAdsg4wbu1sSDr9i3RJ72zuV5T5wSB+iU83bfeI9/DPunY9FR+ydoq1HMs54e3MoI3CBu6l8a/hJVW5ayuRtQ9gUVv50gNuK51FLThGgfyYYQ0AcTvSkf7zqgowfW8OwIDAQAB",
+   "manifest_version": 3,
+   "name": "Black Menu for Google™",
+   "offline_enabled": true,
+   "optional_host_permissions": [ "https://*.youtube.com/*" ],
+   "optional_permissions": [ "management", "webRequest", "webRequestBlocking" ],
+   "options_ui": {
+      "browser_style": false,
+      "page": "/views/options.html"
+   },
+   "permissions": [ "activeTab", "contextMenus", "cookies", "declarativeNetRequestWithHostAccess", "scripting", "storage" ],
+   "short_name": "Black Menu Google",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "25.46.0"
+}

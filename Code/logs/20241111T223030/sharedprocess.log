@@ -1,0 +1,35 @@
+2024-11-11 22:30:37.894 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-11-11 22:30:37.895 [info] Getting Manifest... ecmel.vscode-html-css
+2024-11-11 22:30:37.896 [info] Getting Manifest... pkief.material-icon-theme
+2024-11-11 22:30:38.061 [info] Installing extension: ecmel.vscode-html-css {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 22:30:38.131 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 22:30:38.153 [info] Installing extension: catppuccin.catppuccin-vsc {"productVersion":{"version":"1.93.0","date":"2024-09-04T13:02:38.431Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json","path":"/home/yoshee/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-11 22:30:39.484 [info] Extension signature verification result for catppuccin.catppuccin-vsc: Success. Executed: true. Duration: 663ms.
+2024-11-11 22:30:39.497 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0: catppuccin.catppuccin-vsc
+2024-11-11 22:30:39.499 [info] Renamed to /home/yoshee/.vscode/extensions/catppuccin.catppuccin-vsc-3.16.0
+2024-11-11 22:30:39.510 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.15.2
+2024-11-11 22:30:39.524 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-11 22:30:39.582 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-11 22:30:39.605 [info] Extension signature verification result for pkief.material-icon-theme: Success. Executed: true. Duration: 615ms.
+2024-11-11 22:30:39.949 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Executed: true. Duration: 649ms.
+2024-11-11 22:30:39.954 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/ecmel.vscode-html-css-2.0.11: ecmel.vscode-html-css
+2024-11-11 22:30:39.961 [info] Renamed to /home/yoshee/.vscode/extensions/ecmel.vscode-html-css-2.0.11
+2024-11-11 22:30:39.978 [info] Marked extension as uninstalled ecmel.vscode-html-css-2.0.10
+2024-11-11 22:30:39.990 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-11 22:30:40.004 [info] Extracted extension to file:///home/yoshee/.vscode/extensions/pkief.material-icon-theme-5.13.0: pkief.material-icon-theme
+2024-11-11 22:30:40.005 [info] Renamed to /home/yoshee/.vscode/extensions/pkief.material-icon-theme-5.13.0
+2024-11-11 22:30:40.024 [info] Marked extension as uninstalled pkief.material-icon-theme-5.12.0
+2024-11-11 22:30:40.029 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/yoshee/.vscode/extensions/extensions.json
+2024-11-11 22:30:40.042 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)

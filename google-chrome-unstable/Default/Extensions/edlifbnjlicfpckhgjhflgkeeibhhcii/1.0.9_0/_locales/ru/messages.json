@@ -1,0 +1,32 @@
+{
+   "description": {
+      "message": "Innovative screenshot tool lets users screen capture and edit screenshot. Full page screen capture."
+   },
+   "name": {
+      "message": "Screenshot Tool - Screen Capture & Editor"
+   },
+   "popupDesc1": {
+      "message": "Скриншот откроется в новом окне после завершения!"
+   },
+   "popupDesc2": {
+      "message": "Не удалось сделать скриншот! Попробуйте перезагрузить страницу."
+   },
+   "popupDesc3": {
+      "message": "Невозможно сделать скриншот этого типа из-за политики Google Chrome. Попробуйте другую страницу в браузере."
+   },
+   "rateDialogDesc": {
+      "message": "Не могли бы вы оценить нас в Интернет-магазине Chrome? Спасибо!"
+   },
+   "rateDialogNo": {
+      "message": "Возможно, в следующий раз"
+   },
+   "rateDialogTitle": {
+      "message": "Вам полезное наше приложение?"
+   },
+   "rateDialogYes": {
+      "message": "Да конечно"
+   },
+   "short_name": {
+      "message": "Screenshot Capture Tool"
+   }
+}

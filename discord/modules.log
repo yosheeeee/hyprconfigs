@@ -1,0 +1,594 @@
+2024-09-23T17:42:34.325Z [Modules] Modules initializing
+2024-09-23T17:42:34.325Z [Modules] Distribution: remote
+2024-09-23T17:42:34.325Z [Modules] Host updates: disabled
+2024-09-23T17:42:34.325Z [Modules] Module updates: enabled
+2024-09-23T17:42:34.325Z [Modules] Module install path: /home/yoshee/.config/discord/0.0.68/modules
+2024-09-23T17:42:34.325Z [Modules] Module installed file path: /home/yoshee/.config/discord/0.0.68/modules/installed.json
+2024-09-23T17:42:34.325Z [Modules] Module download path: /home/yoshee/.config/discord/0.0.68/modules/pending
+2024-09-23T17:42:34.567Z [Modules] Bootstrapping...
+2024-09-23T17:42:34.567Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-09-23T17:42:34.570Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-09-23T17:42:34.571Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-09-23T17:42:34.572Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-09-23T17:42:34.572Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-09-23T17:42:34.573Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-09-23T17:42:34.573Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-09-23T17:42:34.574Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-09-23T17:42:34.574Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-09-23T17:42:34.575Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-09-23T17:42:34.575Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-09-23T17:42:34.576Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-09-23T17:42:34.576Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-09-23T17:42:34.577Z [Modules] Host is up to date.
+2024-09-23T17:42:34.577Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-09-23T17:42:34.737Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-09-23T17:42:34.738Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-09-23T17:42:34.738Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip
+2024-09-23T17:42:35.193Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 1%
+2024-09-23T17:42:35.238Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 2%
+2024-09-23T17:42:35.265Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 3%
+2024-09-23T17:42:35.277Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 4%
+2024-09-23T17:42:35.328Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 5%
+2024-09-23T17:42:35.340Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 6%
+2024-09-23T17:42:35.352Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 7%
+2024-09-23T17:42:35.362Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 8%
+2024-09-23T17:42:35.449Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 11%
+2024-09-23T17:42:35.450Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 15%
+2024-09-23T17:42:35.508Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 18%
+2024-09-23T17:42:35.509Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 24%
+2024-09-23T17:42:35.516Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 25%
+2024-09-23T17:42:35.518Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 26%
+2024-09-23T17:42:35.524Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 27%
+2024-09-23T17:42:35.526Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 28%
+2024-09-23T17:42:35.534Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 29%
+2024-09-23T17:42:35.536Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 30%
+2024-09-23T17:42:35.542Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 31%
+2024-09-23T17:42:35.545Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 32%
+2024-09-23T17:42:35.549Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 33%
+2024-09-23T17:42:35.555Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 34%
+2024-09-23T17:42:35.559Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 35%
+2024-09-23T17:42:35.564Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 36%
+2024-09-23T17:42:35.567Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 37%
+2024-09-23T17:42:35.571Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 38%
+2024-09-23T17:42:35.579Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 39%
+2024-09-23T17:42:35.582Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 40%
+2024-09-23T17:42:35.585Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 41%
+2024-09-23T17:42:35.589Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 42%
+2024-09-23T17:42:35.591Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 43%
+2024-09-23T17:42:35.593Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 44%
+2024-09-23T17:42:35.596Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 45%
+2024-09-23T17:42:35.601Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 47%
+2024-09-23T17:42:35.606Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 49%
+2024-09-23T17:42:35.609Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 50%
+2024-09-23T17:42:35.614Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 52%
+2024-09-23T17:42:35.618Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 54%
+2024-09-23T17:42:35.621Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 56%
+2024-09-23T17:42:35.624Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 57%
+2024-09-23T17:42:35.625Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 58%
+2024-09-23T17:42:35.629Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 60%
+2024-09-23T17:42:35.633Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 62%
+2024-09-23T17:42:35.637Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 64%
+2024-09-23T17:42:35.641Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 66%
+2024-09-23T17:42:35.644Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 68%
+2024-09-23T17:42:35.651Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 70%
+2024-09-23T17:42:35.656Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 72%
+2024-09-23T17:42:35.657Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 73%
+2024-09-23T17:42:35.661Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 76%
+2024-09-23T17:42:35.664Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 79%
+2024-09-23T17:42:35.668Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 81%
+2024-09-23T17:42:35.672Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 84%
+2024-09-23T17:42:35.676Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 86%
+2024-09-23T17:42:35.676Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 87%
+2024-09-23T17:42:35.680Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 90%
+2024-09-23T17:42:35.684Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 93%
+2024-09-23T17:42:35.687Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 95%
+2024-09-23T17:42:35.688Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 96%
+2024-09-23T17:42:35.690Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 99%
+2024-09-23T17:42:35.691Z [Modules] Streaming discord_desktop_core@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip: 100%
+2024-09-23T17:42:35.692Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-09-23T17:42:35.692Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip
+2024-09-23T17:42:36.033Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 3%
+2024-09-23T17:42:36.033Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 4%
+2024-09-23T17:42:36.035Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 7%
+2024-09-23T17:42:36.036Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 10%
+2024-09-23T17:42:36.038Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 13%
+2024-09-23T17:42:36.040Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 16%
+2024-09-23T17:42:36.041Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 19%
+2024-09-23T17:42:36.043Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 22%
+2024-09-23T17:42:36.043Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 23%
+2024-09-23T17:42:36.045Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 26%
+2024-09-23T17:42:36.046Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 29%
+2024-09-23T17:42:36.047Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 32%
+2024-09-23T17:42:36.049Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 35%
+2024-09-23T17:42:36.051Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 38%
+2024-09-23T17:42:36.051Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 39%
+2024-09-23T17:42:36.052Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 42%
+2024-09-23T17:42:36.054Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 45%
+2024-09-23T17:42:36.056Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 48%
+2024-09-23T17:42:36.057Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 51%
+2024-09-23T17:42:36.058Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 54%
+2024-09-23T17:42:36.060Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 57%
+2024-09-23T17:42:36.061Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 60%
+2024-09-23T17:42:36.063Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 62%
+2024-09-23T17:42:36.064Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 65%
+2024-09-23T17:42:36.065Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 68%
+2024-09-23T17:42:36.067Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 71%
+2024-09-23T17:42:36.068Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 74%
+2024-09-23T17:42:36.070Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 77%
+2024-09-23T17:42:36.071Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 80%
+2024-09-23T17:42:36.073Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 83%
+2024-09-23T17:42:36.074Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 86%
+2024-09-23T17:42:36.076Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 89%
+2024-09-23T17:42:36.078Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 92%
+2024-09-23T17:42:36.079Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 95%
+2024-09-23T17:42:36.080Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 97%
+2024-09-23T17:42:36.081Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 98%
+2024-09-23T17:42:36.081Z [Modules] Streaming discord_erlpack@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip: 100%
+2024-09-23T17:42:36.082Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-09-23T17:42:36.082Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip
+2024-09-23T17:42:36.386Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 1%
+2024-09-23T17:42:36.387Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 2%
+2024-09-23T17:42:36.389Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 3%
+2024-09-23T17:42:36.391Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 4%
+2024-09-23T17:42:36.393Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 5%
+2024-09-23T17:42:36.394Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 6%
+2024-09-23T17:42:36.397Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 7%
+2024-09-23T17:42:36.399Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 8%
+2024-09-23T17:42:36.401Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 9%
+2024-09-23T17:42:36.403Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 10%
+2024-09-23T17:42:36.405Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 11%
+2024-09-23T17:42:36.407Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 12%
+2024-09-23T17:42:36.409Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 13%
+2024-09-23T17:42:36.411Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 14%
+2024-09-23T17:42:36.412Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 15%
+2024-09-23T17:42:36.415Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 16%
+2024-09-23T17:42:36.418Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 17%
+2024-09-23T17:42:36.419Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 18%
+2024-09-23T17:42:36.421Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 19%
+2024-09-23T17:42:36.423Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 20%
+2024-09-23T17:42:36.426Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 21%
+2024-09-23T17:42:36.427Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 22%
+2024-09-23T17:42:36.428Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 23%
+2024-09-23T17:42:36.431Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 24%
+2024-09-23T17:42:36.432Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 25%
+2024-09-23T17:42:36.435Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 26%
+2024-09-23T17:42:36.436Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 27%
+2024-09-23T17:42:36.439Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 28%
+2024-09-23T17:42:36.442Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 29%
+2024-09-23T17:42:36.442Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 30%
+2024-09-23T17:42:36.445Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 31%
+2024-09-23T17:42:36.446Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 32%
+2024-09-23T17:42:36.449Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 33%
+2024-09-23T17:42:36.466Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 34%
+2024-09-23T17:42:36.467Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 35%
+2024-09-23T17:42:36.470Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 36%
+2024-09-23T17:42:36.471Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 37%
+2024-09-23T17:42:36.474Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 38%
+2024-09-23T17:42:36.475Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 39%
+2024-09-23T17:42:36.478Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 40%
+2024-09-23T17:42:36.479Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 41%
+2024-09-23T17:42:36.481Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 42%
+2024-09-23T17:42:36.484Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 43%
+2024-09-23T17:42:36.485Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 44%
+2024-09-23T17:42:36.488Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 45%
+2024-09-23T17:42:36.489Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 46%
+2024-09-23T17:42:36.492Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 47%
+2024-09-23T17:42:36.493Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 48%
+2024-09-23T17:42:36.496Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 49%
+2024-09-23T17:42:36.497Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 50%
+2024-09-23T17:42:36.500Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 51%
+2024-09-23T17:42:36.501Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 52%
+2024-09-23T17:42:36.504Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 53%
+2024-09-23T17:42:36.505Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 54%
+2024-09-23T17:42:36.507Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 55%
+2024-09-23T17:42:36.509Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 56%
+2024-09-23T17:42:36.510Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 57%
+2024-09-23T17:42:36.512Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 58%
+2024-09-23T17:42:36.513Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 59%
+2024-09-23T17:42:36.519Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 60%
+2024-09-23T17:42:36.522Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 61%
+2024-09-23T17:42:36.523Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 62%
+2024-09-23T17:42:36.525Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 63%
+2024-09-23T17:42:36.525Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 64%
+2024-09-23T17:42:36.527Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 65%
+2024-09-23T17:42:36.529Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 66%
+2024-09-23T17:42:36.530Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 67%
+2024-09-23T17:42:36.533Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 68%
+2024-09-23T17:42:36.543Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 69%
+2024-09-23T17:42:36.544Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 70%
+2024-09-23T17:42:36.547Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 71%
+2024-09-23T17:42:36.550Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 72%
+2024-09-23T17:42:36.551Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 73%
+2024-09-23T17:42:36.553Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 74%
+2024-09-23T17:42:36.556Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 75%
+2024-09-23T17:42:36.557Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 76%
+2024-09-23T17:42:36.558Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 77%
+2024-09-23T17:42:36.631Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 78%
+2024-09-23T17:42:36.632Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 80%
+2024-09-23T17:42:36.632Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 82%
+2024-09-23T17:42:36.633Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 84%
+2024-09-23T17:42:36.658Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 85%
+2024-09-23T17:42:36.658Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 87%
+2024-09-23T17:42:36.659Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 89%
+2024-09-23T17:42:36.659Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 91%
+2024-09-23T17:42:36.660Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 92%
+2024-09-23T17:42:36.660Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 95%
+2024-09-23T17:42:36.660Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 96%
+2024-09-23T17:42:36.681Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 97%
+2024-09-23T17:42:36.682Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 98%
+2024-09-23T17:42:36.682Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 99%
+2024-09-23T17:42:36.700Z [Modules] Streaming discord_spellcheck@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip: 100%
+2024-09-23T17:42:36.701Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-09-23T17:42:36.701Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip
+2024-09-23T17:42:37.012Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 1%
+2024-09-23T17:42:37.012Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 4%
+2024-09-23T17:42:37.012Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 6%
+2024-09-23T17:42:37.013Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 7%
+2024-09-23T17:42:37.013Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 9%
+2024-09-23T17:42:37.014Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 11%
+2024-09-23T17:42:37.015Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 13%
+2024-09-23T17:42:37.015Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 15%
+2024-09-23T17:42:37.017Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 16%
+2024-09-23T17:42:37.088Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 18%
+2024-09-23T17:42:37.095Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 20%
+2024-09-23T17:42:37.096Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 22%
+2024-09-23T17:42:37.096Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 26%
+2024-09-23T17:42:37.097Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 34%
+2024-09-23T17:42:37.097Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 40%
+2024-09-23T17:42:37.097Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 46%
+2024-09-23T17:42:37.103Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 48%
+2024-09-23T17:42:37.104Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 51%
+2024-09-23T17:42:37.104Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 55%
+2024-09-23T17:42:37.105Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 59%
+2024-09-23T17:42:37.105Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 62%
+2024-09-23T17:42:37.105Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 66%
+2024-09-23T17:42:37.105Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 71%
+2024-09-23T17:42:37.106Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 75%
+2024-09-23T17:42:37.106Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 77%
+2024-09-23T17:42:37.107Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 80%
+2024-09-23T17:42:37.107Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 84%
+2024-09-23T17:42:37.110Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 86%
+2024-09-23T17:42:37.110Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 88%
+2024-09-23T17:42:37.111Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 91%
+2024-09-23T17:42:37.111Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 95%
+2024-09-23T17:42:37.111Z [Modules] Streaming discord_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip: 100%
+2024-09-23T17:42:37.112Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-09-23T17:42:37.112Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip
+2024-09-23T17:42:37.420Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 1%
+2024-09-23T17:42:37.423Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 2%
+2024-09-23T17:42:37.425Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 3%
+2024-09-23T17:42:37.427Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 4%
+2024-09-23T17:42:37.504Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 5%
+2024-09-23T17:42:37.505Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 6%
+2024-09-23T17:42:37.508Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 7%
+2024-09-23T17:42:37.527Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 8%
+2024-09-23T17:42:37.528Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 9%
+2024-09-23T17:42:37.528Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 10%
+2024-09-23T17:42:37.529Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 11%
+2024-09-23T17:42:37.531Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 12%
+2024-09-23T17:42:37.532Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 13%
+2024-09-23T17:42:37.533Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 14%
+2024-09-23T17:42:37.534Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 15%
+2024-09-23T17:42:37.535Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 16%
+2024-09-23T17:42:37.535Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 17%
+2024-09-23T17:42:37.582Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 18%
+2024-09-23T17:42:37.582Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 19%
+2024-09-23T17:42:37.606Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 20%
+2024-09-23T17:42:37.684Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 21%
+2024-09-23T17:42:37.685Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 22%
+2024-09-23T17:42:37.686Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 23%
+2024-09-23T17:42:37.686Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 24%
+2024-09-23T17:42:37.687Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 25%
+2024-09-23T17:42:37.687Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 26%
+2024-09-23T17:42:37.714Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 27%
+2024-09-23T17:42:37.715Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 28%
+2024-09-23T17:42:37.716Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 29%
+2024-09-23T17:42:37.730Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 30%
+2024-09-23T17:42:37.735Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 31%
+2024-09-23T17:42:37.736Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 32%
+2024-09-23T17:42:37.737Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 33%
+2024-09-23T17:42:37.744Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 34%
+2024-09-23T17:42:37.745Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 35%
+2024-09-23T17:42:37.789Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 36%
+2024-09-23T17:42:37.867Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 37%
+2024-09-23T17:42:37.868Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 38%
+2024-09-23T17:42:37.869Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 39%
+2024-09-23T17:42:37.869Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 40%
+2024-09-23T17:42:37.878Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 41%
+2024-09-23T17:42:37.880Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 42%
+2024-09-23T17:42:37.881Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 43%
+2024-09-23T17:42:37.891Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 44%
+2024-09-23T17:42:37.892Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 45%
+2024-09-23T17:42:37.896Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 46%
+2024-09-23T17:42:37.897Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 47%
+2024-09-23T17:42:37.898Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 48%
+2024-09-23T17:42:37.899Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 49%
+2024-09-23T17:42:37.938Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 50%
+2024-09-23T17:42:37.939Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 51%
+2024-09-23T17:42:37.965Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 52%
+2024-09-23T17:42:38.044Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 53%
+2024-09-23T17:42:38.045Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 54%
+2024-09-23T17:42:38.045Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 55%
+2024-09-23T17:42:38.050Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 56%
+2024-09-23T17:42:38.052Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 57%
+2024-09-23T17:42:38.052Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 58%
+2024-09-23T17:42:38.053Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 59%
+2024-09-23T17:42:38.054Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 60%
+2024-09-23T17:42:38.082Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 61%
+2024-09-23T17:42:38.083Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 62%
+2024-09-23T17:42:38.083Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 63%
+2024-09-23T17:42:38.083Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 64%
+2024-09-23T17:42:38.101Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 65%
+2024-09-23T17:42:38.102Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 66%
+2024-09-23T17:42:38.103Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 67%
+2024-09-23T17:42:38.127Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 68%
+2024-09-23T17:42:38.131Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 69%
+2024-09-23T17:42:38.153Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 70%
+2024-09-23T17:42:38.228Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 71%
+2024-09-23T17:42:38.230Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 72%
+2024-09-23T17:42:38.236Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 73%
+2024-09-23T17:42:38.236Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 74%
+2024-09-23T17:42:38.237Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 75%
+2024-09-23T17:42:38.251Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 76%
+2024-09-23T17:42:38.252Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 77%
+2024-09-23T17:42:38.254Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 78%
+2024-09-23T17:42:38.262Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 79%
+2024-09-23T17:42:38.262Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 80%
+2024-09-23T17:42:38.263Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 81%
+2024-09-23T17:42:38.264Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 82%
+2024-09-23T17:42:38.264Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 83%
+2024-09-23T17:42:38.265Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 84%
+2024-09-23T17:42:38.323Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 85%
+2024-09-23T17:42:38.326Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 86%
+2024-09-23T17:42:38.402Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 87%
+2024-09-23T17:42:38.403Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 88%
+2024-09-23T17:42:38.403Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 89%
+2024-09-23T17:42:38.404Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 90%
+2024-09-23T17:42:38.417Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 91%
+2024-09-23T17:42:38.417Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 92%
+2024-09-23T17:42:38.418Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 93%
+2024-09-23T17:42:38.422Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 94%
+2024-09-23T17:42:38.423Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 95%
+2024-09-23T17:42:38.423Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 96%
+2024-09-23T17:42:38.424Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 97%
+2024-09-23T17:42:38.471Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 98%
+2024-09-23T17:42:38.471Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 99%
+2024-09-23T17:42:38.473Z [Modules] Streaming discord_voice@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip: 100%
+2024-09-23T17:42:38.473Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-09-23T17:42:38.474Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip
+2024-09-23T17:42:38.775Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 19%
+2024-09-23T17:42:38.775Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 23%
+2024-09-23T17:42:38.777Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 35%
+2024-09-23T17:42:38.778Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 52%
+2024-09-23T17:42:38.779Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 68%
+2024-09-23T17:42:38.781Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 84%
+2024-09-23T17:42:38.783Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 96%
+2024-09-23T17:42:38.988Z [Modules] Streaming discord_zstd@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip: 100%
+2024-09-23T17:42:38.989Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-09-23T17:42:38.989Z [Modules] Installing updates...
+2024-09-23T17:42:38.989Z [Modules] Installing discord_desktop_core@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_desktop_core-1.zip
+2024-09-23T17:42:39.049Z [Modules] Installing discord_erlpack@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_erlpack-1.zip
+2024-09-23T17:42:39.090Z [Modules] Installing discord_spellcheck@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_spellcheck-1.zip
+2024-09-23T17:42:39.540Z [Modules] Installing discord_utils@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_utils-1.zip
+2024-09-23T17:42:39.621Z [Modules] Installing discord_voice@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_voice-1.zip
+2024-09-23T17:42:39.987Z [Modules] Installing discord_zstd@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_zstd-1.zip
+2024-09-23T17:42:39.994Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-09-23T17:42:39.994Z [Modules] Host is up to date.
+2024-09-23T17:42:39.994Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-23T17:42:39.997Z [Modules] No module updates available.
+2024-09-23T17:42:41.099Z [Modules] Starting to install discord_krisp...
+2024-09-23T17:42:41.099Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-09-23T17:42:41.099Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip
+2024-09-23T17:42:41.104Z [Modules] Starting to install discord_game_utils...
+2024-09-23T17:42:41.457Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 1%
+2024-09-23T17:42:41.458Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 2%
+2024-09-23T17:42:41.458Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 3%
+2024-09-23T17:42:41.458Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 4%
+2024-09-23T17:42:41.463Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 5%
+2024-09-23T17:42:41.470Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 6%
+2024-09-23T17:42:41.479Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 7%
+2024-09-23T17:42:41.480Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 8%
+2024-09-23T17:42:41.582Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 9%
+2024-09-23T17:42:41.598Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 10%
+2024-09-23T17:42:41.598Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 11%
+2024-09-23T17:42:41.599Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 12%
+2024-09-23T17:42:41.599Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 13%
+2024-09-23T17:42:41.600Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 14%
+2024-09-23T17:42:41.600Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 15%
+2024-09-23T17:42:41.609Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 16%
+2024-09-23T17:42:41.612Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 17%
+2024-09-23T17:42:41.613Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 18%
+2024-09-23T17:42:41.614Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 19%
+2024-09-23T17:42:41.615Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 20%
+2024-09-23T17:42:41.615Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 21%
+2024-09-23T17:42:41.616Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 22%
+2024-09-23T17:42:41.616Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 23%
+2024-09-23T17:42:41.616Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 24%
+2024-09-23T17:42:41.616Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 25%
+2024-09-23T17:42:41.685Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 26%
+2024-09-23T17:42:41.690Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 27%
+2024-09-23T17:42:41.696Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 28%
+2024-09-23T17:42:41.701Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 29%
+2024-09-23T17:42:41.708Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 30%
+2024-09-23T17:42:41.712Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 31%
+2024-09-23T17:42:41.717Z [Modules] Host is up to date.
+2024-09-23T17:42:41.717Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-23T17:42:41.719Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 32%
+2024-09-23T17:42:41.720Z [Modules] No module updates available.
+2024-09-23T17:42:41.724Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 33%
+2024-09-23T17:42:41.730Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 34%
+2024-09-23T17:42:41.735Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 35%
+2024-09-23T17:42:41.741Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 36%
+2024-09-23T17:42:41.747Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 37%
+2024-09-23T17:42:41.769Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 38%
+2024-09-23T17:42:41.776Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 39%
+2024-09-23T17:42:41.781Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 40%
+2024-09-23T17:42:41.787Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 41%
+2024-09-23T17:42:41.792Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 42%
+2024-09-23T17:42:41.795Z [Modules] Starting to install discord_rpc...
+2024-09-23T17:42:41.798Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 43%
+2024-09-23T17:42:41.804Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 44%
+2024-09-23T17:42:41.810Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 45%
+2024-09-23T17:42:41.814Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 46%
+2024-09-23T17:42:41.821Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 47%
+2024-09-23T17:42:41.826Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 48%
+2024-09-23T17:42:41.832Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 49%
+2024-09-23T17:42:41.836Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 50%
+2024-09-23T17:42:41.842Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 51%
+2024-09-23T17:42:41.848Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 52%
+2024-09-23T17:42:41.854Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 53%
+2024-09-23T17:42:41.859Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 54%
+2024-09-23T17:42:41.868Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 55%
+2024-09-23T17:42:41.872Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 56%
+2024-09-23T17:42:41.878Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 57%
+2024-09-23T17:42:41.884Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 58%
+2024-09-23T17:42:41.890Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 59%
+2024-09-23T17:42:41.895Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 60%
+2024-09-23T17:42:41.901Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 61%
+2024-09-23T17:42:41.906Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 62%
+2024-09-23T17:42:41.912Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 63%
+2024-09-23T17:42:41.918Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 64%
+2024-09-23T17:42:41.924Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 65%
+2024-09-23T17:42:41.929Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 66%
+2024-09-23T17:42:41.935Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 67%
+2024-09-23T17:42:41.939Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 68%
+2024-09-23T17:42:41.946Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 69%
+2024-09-23T17:42:41.952Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 70%
+2024-09-23T17:42:41.962Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 71%
+2024-09-23T17:42:41.962Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 72%
+2024-09-23T17:42:41.969Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 73%
+2024-09-23T17:42:41.973Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 74%
+2024-09-23T17:42:41.980Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 75%
+2024-09-23T17:42:41.986Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 76%
+2024-09-23T17:42:41.991Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 77%
+2024-09-23T17:42:41.997Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 78%
+2024-09-23T17:42:42.003Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 79%
+2024-09-23T17:42:42.008Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 80%
+2024-09-23T17:42:42.014Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 81%
+2024-09-23T17:42:42.020Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 82%
+2024-09-23T17:42:42.025Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 83%
+2024-09-23T17:42:42.031Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 84%
+2024-09-23T17:42:42.036Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 85%
+2024-09-23T17:42:42.043Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 86%
+2024-09-23T17:42:42.048Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 87%
+2024-09-23T17:42:42.059Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 88%
+2024-09-23T17:42:42.062Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 89%
+2024-09-23T17:42:42.068Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 90%
+2024-09-23T17:42:42.075Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 91%
+2024-09-23T17:42:42.077Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 92%
+2024-09-23T17:42:42.086Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 93%
+2024-09-23T17:42:42.092Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 94%
+2024-09-23T17:42:42.096Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 95%
+2024-09-23T17:42:42.102Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 96%
+2024-09-23T17:42:42.541Z [Modules] Streaming discord_krisp@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip: 100%
+2024-09-23T17:42:42.546Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-09-23T17:42:42.546Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip
+2024-09-23T17:42:42.546Z [Modules] Installing discord_krisp@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_krisp-1.zip
+2024-09-23T17:42:42.826Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-23T17:42:42.967Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 2%
+2024-09-23T17:42:42.967Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 3%
+2024-09-23T17:42:42.969Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 5%
+2024-09-23T17:42:42.970Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 8%
+2024-09-23T17:42:42.972Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 9%
+2024-09-23T17:42:42.973Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 11%
+2024-09-23T17:42:42.974Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 14%
+2024-09-23T17:42:42.976Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 15%
+2024-09-23T17:42:42.976Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 17%
+2024-09-23T17:42:42.978Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 20%
+2024-09-23T17:42:42.980Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 22%
+2024-09-23T17:42:42.981Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 24%
+2024-09-23T17:42:42.982Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 27%
+2024-09-23T17:42:42.984Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 29%
+2024-09-23T17:42:42.985Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 31%
+2024-09-23T17:42:42.987Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 34%
+2024-09-23T17:42:42.989Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 37%
+2024-09-23T17:42:42.991Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 39%
+2024-09-23T17:42:42.992Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 41%
+2024-09-23T17:42:42.993Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 44%
+2024-09-23T17:42:42.995Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 46%
+2024-09-23T17:42:42.996Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 48%
+2024-09-23T17:42:42.998Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 51%
+2024-09-23T17:42:43.000Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 53%
+2024-09-23T17:42:43.001Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 56%
+2024-09-23T17:42:43.003Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 58%
+2024-09-23T17:42:43.005Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 60%
+2024-09-23T17:42:43.006Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 63%
+2024-09-23T17:42:43.007Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 65%
+2024-09-23T17:42:43.009Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 67%
+2024-09-23T17:42:43.010Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 70%
+2024-09-23T17:42:43.012Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 72%
+2024-09-23T17:42:43.014Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 74%
+2024-09-23T17:42:43.014Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 75%
+2024-09-23T17:42:43.015Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 76%
+2024-09-23T17:42:43.022Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 79%
+2024-09-23T17:42:43.024Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 81%
+2024-09-23T17:42:43.025Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 83%
+2024-09-23T17:42:43.027Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 86%
+2024-09-23T17:42:43.029Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 88%
+2024-09-23T17:42:43.030Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 90%
+2024-09-23T17:42:43.032Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 93%
+2024-09-23T17:42:43.034Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 95%
+2024-09-23T17:42:43.034Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 96%
+2024-09-23T17:42:43.035Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 99%
+2024-09-23T17:42:43.036Z [Modules] Streaming discord_game_utils@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip: 100%
+2024-09-23T17:42:43.037Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-09-23T17:42:43.037Z [Modules] Streaming discord_rpc@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_rpc-1.zip
+2024-09-23T17:42:43.037Z [Modules] Installing discord_game_utils@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_game_utils-1.zip
+2024-09-23T17:42:43.080Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-23T17:42:43.349Z [Modules] Streaming discord_rpc@1 to /home/yoshee/.config/discord/0.0.68/modules/pending/discord_rpc-1.zip: 100%
+2024-09-23T17:42:43.350Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2024-09-23T17:42:43.350Z [Modules] Installing discord_rpc@1 from /home/yoshee/.config/discord/0.0.68/modules/pending/discord_rpc-1.zip
+2024-09-23T17:42:43.363Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-25T17:31:42.708Z [Modules] Modules initializing
+2024-09-25T17:31:42.708Z [Modules] Distribution: remote
+2024-09-25T17:31:42.708Z [Modules] Host updates: disabled
+2024-09-25T17:31:42.713Z [Modules] Module updates: enabled
+2024-09-25T17:31:42.713Z [Modules] Module install path: /home/yoshee/.config/discord/0.0.68/modules
+2024-09-25T17:31:42.713Z [Modules] Module installed file path: /home/yoshee/.config/discord/0.0.68/modules/installed.json
+2024-09-25T17:31:42.713Z [Modules] Module download path: /home/yoshee/.config/discord/0.0.68/modules/pending
+2024-09-25T17:31:43.080Z [Modules] No updates to install
+2024-09-25T17:31:43.080Z [Modules] Host is up to date.
+2024-09-25T17:31:43.081Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:31:43.283Z [Modules] No module updates available.
+2024-09-25T17:31:46.023Z [Modules] Host is up to date.
+2024-09-25T17:31:46.023Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:31:46.027Z [Modules] No module updates available.
+2024-09-25T17:44:32.045Z [Modules] Modules initializing
+2024-09-25T17:44:32.045Z [Modules] Distribution: remote
+2024-09-25T17:44:32.045Z [Modules] Host updates: disabled
+2024-09-25T17:44:32.045Z [Modules] Module updates: enabled
+2024-09-25T17:44:32.045Z [Modules] Module install path: /home/yoshee/.config/discord/0.0.68/modules
+2024-09-25T17:44:32.045Z [Modules] Module installed file path: /home/yoshee/.config/discord/0.0.68/modules/installed.json
+2024-09-25T17:44:32.045Z [Modules] Module download path: /home/yoshee/.config/discord/0.0.68/modules/pending
+2024-09-25T17:44:32.384Z [Modules] No updates to install
+2024-09-25T17:44:32.385Z [Modules] Host is up to date.
+2024-09-25T17:44:32.385Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:44:32.637Z [Modules] No module updates available.
+2024-09-25T17:44:37.010Z [Modules] Host is up to date.
+2024-09-25T17:44:37.010Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:44:37.015Z [Modules] No module updates available.
+2024-09-25T17:51:22.383Z [Modules] Modules initializing
+2024-09-25T17:51:22.383Z [Modules] Distribution: remote
+2024-09-25T17:51:22.383Z [Modules] Host updates: disabled
+2024-09-25T17:51:22.383Z [Modules] Module updates: enabled
+2024-09-25T17:51:22.383Z [Modules] Module install path: /home/yoshee/.config/discord/0.0.68/modules
+2024-09-25T17:51:22.383Z [Modules] Module installed file path: /home/yoshee/.config/discord/0.0.68/modules/installed.json
+2024-09-25T17:51:22.383Z [Modules] Module download path: /home/yoshee/.config/discord/0.0.68/modules/pending
+2024-09-25T17:51:22.672Z [Modules] No updates to install
+2024-09-25T17:51:22.672Z [Modules] Host is up to date.
+2024-09-25T17:51:22.672Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:51:22.831Z [Modules] No module updates available.
+2024-09-25T17:51:25.115Z [Modules] Host is up to date.
+2024-09-25T17:51:25.115Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:51:25.118Z [Modules] No module updates available.
+2024-09-25T17:51:26.119Z [Modules] Host is up to date.
+2024-09-25T17:51:26.119Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T17:51:26.122Z [Modules] No module updates available.
+2024-09-25T18:51:26.748Z [Modules] Host is up to date.
+2024-09-25T18:51:26.748Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-25T18:51:26.816Z [Modules] No module updates available.

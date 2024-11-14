@@ -1,0 +1,14 @@
+2024-11-15 00:18:31.264 [info] Deleted uninstalled extension from disk devsense.profiler-php-vscode /home/yoshee/.vscode/extensions/devsense.profiler-php-vscode-1.52.16273
+2024-11-15 00:18:31.264 [info] Deleted uninstalled extension from disk devsense.composer-php-vscode /home/yoshee/.vscode/extensions/devsense.composer-php-vscode-1.52.16273
+2024-11-15 00:18:31.301 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/devsense.composer-php-vscode-1.52.16273.38c9ef36.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/yoshee/.vscode/extensions/devsense.composer-php-vscode-1.52.16273.38c9ef36.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19406)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19517)
+    at $.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36674)
+    at $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29001)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14931)
+    at async W.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120356)
+2024-11-15 00:18:31.322 [info] Deleted uninstalled extension from disk pkief.material-icon-theme /home/yoshee/.vscode/extensions/pkief.material-icon-theme-5.13.0
+2024-11-15 00:18:31.432 [info] Deleted uninstalled extension from disk ms-vscode-remote.remote-ssh /home/yoshee/.vscode/extensions/ms-vscode-remote.remote-ssh-0.115.0
+2024-11-15 00:18:31.464 [info] Deleted uninstalled extension from disk kamikillerto.vscode-colorize /home/yoshee/.vscode/extensions/kamikillerto.vscode-colorize-0.11.1
+2024-11-15 00:18:31.489 [info] Deleted uninstalled extension from disk ms-dotnettools.dotnet-interactive-vscode /home/yoshee/.vscode/extensions/ms-dotnettools.dotnet-interactive-vscode-1.0.5530010
+2024-11-15 00:18:31.518 [info] Deleted uninstalled extension from disk ms-python.vscode-pylance /home/yoshee/.vscode/extensions/ms-python.vscode-pylance-2024.11.1

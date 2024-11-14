@@ -1,0 +1,7 @@
+2024/09/16-23:10:55.551 7a98 Reusing MANIFEST /home/yoshee/.config/google-chrome-unstable/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/16-23:10:55.551 7a98 Recovering log #4
+2024/09/16-23:10:55.551 7a98 Reusing old log /home/yoshee/.config/google-chrome-unstable/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000004.log 
+2024/09/16-23:10:55.560 7a9a Level-0 table #8: started
+2024/09/16-23:10:55.561 7a9a Level-0 table #8: 4080 bytes OK
+2024/09/16-23:10:55.562 7a9a Delete type=0 #4
+2024/09/16-23:10:55.562 7a9a Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

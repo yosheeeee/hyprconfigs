@@ -1,8 +1,27 @@
-2024/11/14-14:00:12.020 1bb8 Creating DB /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
-2024/11/14-14:00:12.026 1bb8 Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/11/14-14:00:40.153 1bca Level-0 table #5: started
-2024/11/14-14:00:40.161 1bca Level-0 table #5: 163313 bytes OK
-2024/11/14-14:00:40.162 1bca Delete type=0 #3
-2024/11/14-14:00:42.182 1bc9 Level-0 table #7: started
-2024/11/14-14:00:42.184 1bc9 Level-0 table #7: 99489 bytes OK
-2024/11/14-14:00:42.185 1bc9 Delete type=0 #4
+2024/11/14-23:35:08.749 1e7a Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/14-23:35:08.749 1e7a Recovering log #6
+2024/11/14-23:35:08.750 1e7a Reusing old log /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB/000006.log 
+2024/11/14-23:36:14.480 1e7d Level-0 table #10: started
+2024/11/14-23:36:14.488 1e7d Level-0 table #10: 113479 bytes OK
+2024/11/14-23:36:14.490 1e7d Delete type=0 #6
+2024/11/14-23:47:50.939 1e7b Level-0 table #12: started
+2024/11/14-23:47:50.954 1e7b Level-0 table #12: 97631 bytes OK
+2024/11/14-23:47:50.955 1e7b Delete type=0 #9
+2024/11/14-23:58:24.505 1e7d Level-0 table #14: started
+2024/11/14-23:58:24.513 1e7d Level-0 table #14: 88857 bytes OK
+2024/11/14-23:58:24.514 1e7d Delete type=0 #11
+2024/11/15-00:01:32.394 1e80 Level-0 table #16: started
+2024/11/15-00:01:32.401 1e80 Level-0 table #16: 89510 bytes OK
+2024/11/15-00:01:32.402 1e80 Delete type=0 #13
+2024/11/15-00:01:32.402 1e80 Compacting 4@0 + 1@1 files
+2024/11/15-00:01:32.405 1e80 Generated table #17@0: 111 keys, 25578 bytes
+2024/11/15-00:01:32.405 1e80 Compacted 4@0 + 1@1 files => 25578 bytes
+2024/11/15-00:01:32.406 1e80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-00:01:32.406 1e80 Delete type=2 #7
+2024/11/15-00:01:32.406 1e80 Delete type=2 #10
+2024/11/15-00:01:32.406 1e80 Delete type=2 #16
+2024/11/15-00:01:32.406 1e80 Delete type=2 #14
+2024/11/15-00:01:32.406 1e80 Delete type=2 #12
+2024/11/15-00:08:03.517 1e7d Level-0 table #19: started
+2024/11/15-00:08:03.519 1e7d Level-0 table #19: 83432 bytes OK
+2024/11/15-00:08:03.520 1e7d Delete type=0 #15

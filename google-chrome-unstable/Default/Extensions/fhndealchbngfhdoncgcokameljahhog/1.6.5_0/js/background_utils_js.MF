@@ -1,0 +1,9 @@
+third_party/javascript/pkijs/v1/common.js
+third_party/javascript/pkijs/v1/ocsp_tsp_schema.js
+third_party/javascript/pkijs/v1/ocsp_tsp_simpl.js
+third_party/javascript/pkijs/v1/x509_schema.js
+third_party/javascript/pkijs/v1/x509_simpl.js
+third_party/javascript/pkijs/v1/cms_schema.js
+third_party/javascript/pkijs/v1/cms_simpl.js
+third_party/javascript/asn1js/v1/asn1.js
+third_party/javascript/asn1js/v1/common.js

@@ -1,0 +1,12 @@
+2024/09/25-22:51:22.376 1c75 Reusing MANIFEST /home/yoshee/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/09/25-22:51:22.377 1c75 Recovering log #7
+2024/09/25-22:51:22.377 1c75 Reusing old log /home/yoshee/.config/discord/Local Storage/leveldb/000007.log 
+2024/09/25-22:55:34.523 1c77 Level-0 table #11: started
+2024/09/25-22:55:34.543 1c77 Level-0 table #11: 3256488 bytes OK
+2024/09/25-22:55:34.545 1c77 Delete type=0 #7
+2024/09/25-22:58:21.597 1c77 Level-0 table #13: started
+2024/09/25-22:58:21.606 1c77 Level-0 table #13: 813093 bytes OK
+2024/09/25-22:58:21.607 1c77 Delete type=0 #10
+2024/09/25-23:58:23.608 1c77 Level-0 table #15: started
+2024/09/25-23:58:23.609 1c77 Level-0 table #15: 22434 bytes OK
+2024/09/25-23:58:23.610 1c77 Delete type=0 #12
