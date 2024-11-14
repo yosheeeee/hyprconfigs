@@ -1,4 +1,5 @@
 # My linux config
+![Config Preview](./preview-git.png)
 ## Download yay 
 ```
 sudo pacman -Suy
