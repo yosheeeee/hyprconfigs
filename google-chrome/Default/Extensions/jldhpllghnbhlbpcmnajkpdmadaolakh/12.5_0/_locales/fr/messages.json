@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Ajouter sur Todoist"
+   },
+   "appDesc": {
+      "message": "Organisez votre vie et votre travail avec Todoist pour Chrome"
+   },
+   "appName": {
+      "message": "Todoist pour Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "L'add-on ne fonctionne pas en mode privé"
+   },
+   "optionsAddDueTitle": {
+      "message": "Pour les tâches ajoutées avec l’extension pour Chrome:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Régler la date d’échéance par défaut à  'Aujourd’hui'"
+   },
+   "optionsSaved": {
+      "message": "Enregistré"
+   }
+}

@@ -1,0 +1,91 @@
+{
+   "action": {
+      "default_icon": "assets/icon_38_2_na.png",
+      "default_popup": "popup/index.html",
+      "default_title": "Popup"
+   },
+   "background": {
+      "service_worker": "background/background.js",
+      "type": "module"
+   },
+   "commands": {
+      "player_dislike": {
+         "description": "Не нравится/не рекомендовать"
+      },
+      "player_focus": {
+         "description": "Активировать вкладку с Я.Музыкой"
+      },
+      "player_info": {
+         "description": "Информация о текущем треке"
+      },
+      "player_like": {
+         "description": "Мне нравится"
+      },
+      "player_next": {
+         "description": "Следующий трек",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaNextTrack"
+         }
+      },
+      "player_play": {
+         "description": "Воспроизведение/пауза",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaPlayPause"
+         }
+      },
+      "player_prev": {
+         "description": "Предыдущий трек",
+         "global": true,
+         "suggested_key": {
+            "default": "MediaPrevTrack"
+         }
+      },
+      "player_repeat": {
+         "description": "Переключить режим повтора"
+      },
+      "player_seek_back": {
+         "description": "Перемотать назад на 10сек"
+      },
+      "player_seek_fwd": {
+         "description": "Перемотать вперед на 10сек"
+      },
+      "player_shuffle": {
+         "description": "Переключить режим случайного проигрывания"
+      },
+      "player_volume_down": {
+         "description": "Уменьшить громкость"
+      },
+      "player_volume_toggle": {
+         "description": "Выключить/включить звук"
+      },
+      "player_volume_up": {
+         "description": "Увеличить громкость"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "content/content.js" ],
+      "matches": [ "https://music.yandex.ru/*", "https://radio.yandex.ru/*", "https://music.yandex.ua/*", "https://radio.yandex.ua/*", "https://music.yandex.by/*", "https://radio.yandex.by/*", "https://music.yandex.kz/*", "https://radio.yandex.kz/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Расширение добавляет на панель браузера кнопку для управления плеером сервиса Яндекс.Музыка (Yandex.Music)",
+   "host_permissions": [ "https://music.yandex.ru/", "https://radio.yandex.ru/", "https://music.yandex.ua/", "https://radio.yandex.ua/", "https://music.yandex.by/", "https://radio.yandex.by/", "https://music.yandex.kz/", "https://radio.yandex.kz/" ],
+   "icons": {
+      "128": "assets/icon_128.png",
+      "16": "assets/icon_16.png",
+      "48": "assets/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAihkheK/qLPv8ReD/3zhaBJ0g4QJopIqN5sAhXz+47wNDvOpmWW9MOiV0nHR5JXrto/TJ77pNKiSbF8SgHJmguJ7jKmtWqzSr6WYDcJBrr6dabQ96HN5fdDC94FFxEdtyiCEKOHVKGc8IYg9G3jw5GZKnwhGt08oSYgWZktxmQPktpf79dlFGv5Hx9iN89/fmAYkLHtRgAbjDYZ46DvaRDCedfkS05p33a0QxG+Xok3f2hsszxN/9rbBOMvdbL+FaOlOJ0sbk7ypHdTbGYyzUhPSwwOU3rxPRmtxLDCN3WWT2nvYm0YpzSi5CeRYids9XJYhOcbkWms7QPAXzy08DlwIDAQAB",
+   "manifest_version": 3,
+   "name": "Яндекс.Музыка - управление плеером",
+   "optional_permissions": [ "downloads", "downloads.shelf" ],
+   "options_page": "options/index.html",
+   "permissions": [ "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.3.4",
+   "web_accessible_resources": [ {
+      "matches": [ "https://music.yandex.ru/*", "https://radio.yandex.ru/*", "https://music.yandex.ua/*", "https://radio.yandex.ua/*", "https://music.yandex.by/*", "https://radio.yandex.by/*", "https://music.yandex.kz/*", "https://radio.yandex.kz/*" ],
+      "resources": [ "content/content.inject.js", "common/*.js" ]
+   } ]
+}

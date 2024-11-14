@@ -14,19 +14,58 @@
       "ctrl-w": "pane::CloseActiveItem",
       "ctrl-l": "workspace::ActivateNextPane",
       "ctrl-h": "workspace::ActivatePreviousPane",
-      "ctrl-shift-p": "outline_panel::Open"
+      "ctrl-shift-p": "outline_panel::Open",
+      "ctrl-j": "workspace::OpenTerminal"
     }
   },
   {
-    "context": "ProjectPanel",
+    "context": "vim_mode == normal || EmptyPane || ProjectPanel ",
     "bindings": {
-      // "l": "project_panel::Open"
+      "space l s": "outline::Toggle",
+      "space s": "project_symbols::Toggle",
+      "space e": "workspace::ToggleLeftDock",
+      "space w": "workspace::Save",
+      "space o": "project_panel::ToggleFocus",
+      "space c": "pane::CloseActiveItem",
+      "space f": "file_finder::Toggle",
+      "space C": "pane::CloseAllItems",
+      "space t": "workspace::NewCenterTerminal",
+      "ctrl-j": "terminal_panel::ToggleFocus"
+    }
+  },
+  {
+    "context": "vim_mode == normal",
+    "bindings": {
+      "space r": "editor::Rename"
+    }
+  },
+  {
+    "context": "ProjectPanel && not_editing",
+    "bindings": {
+      "space e": "workspace::ToggleLeftDock",
+      "space o": "project_panel::ToggleFocus",
+      "a": "project_panel::NewFile",
+      "A": "project_panel::NewDirectory",
+      "r": "project_panel::Rename",
+      "d": "project_panel::Delete",
+      "y": "project_panel::Copy",
+      "p": "project_panel::Paste",
+      "l": "project_panel::OpenPermanent"
     }
   },
   {
     "context": "OutlinePanel",
     "bindings": {
       "ctrl-l": "outline_panel::ToggleFocus"
+    }
+  },
+  {
+    "context": "Terminal",
+    "bindings": {
+      "ctrl-t": "workspace::NewTerminal",
+      "ctrl-w": "pane::CloseActiveItem",
+      "ctrl-shift-l": "pane::ActivateNextItem",
+      "ctrl-shift-h": "pane::ActivatePrevItem"
     }
   }
 ]

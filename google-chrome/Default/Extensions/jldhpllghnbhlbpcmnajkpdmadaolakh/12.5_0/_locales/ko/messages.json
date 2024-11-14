@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Todoist에 추가"
+   },
+   "appDesc": {
+      "message": "크롬을 위한 Todoist와 함께 일과 생활을 관리하세요"
+   },
+   "appName": {
+      "message": "크롬을 위한 Todoist"
+   },
+   "firefoxPrivateMode": {
+      "message": "이 애드인은 시크릿(프라이빗) 모드에서 작동하지 않습니다"
+   },
+   "optionsAddDueTitle": {
+      "message": "크롬 확장 프로그램을 통해 추가된 작업:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "'오늘'을 기본 마감 날짜로 설정"
+   },
+   "optionsSaved": {
+      "message": "저장됨"
+   }
+}

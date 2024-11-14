@@ -1,0 +1,255 @@
+html, body {
+	background: #1f1f1f!important;
+	min-height: 100%;
+	color: #c1c1c1
+}
+.ruMiWIFI .rumiLink {
+	color: #d98c40
+}
+.mod-wifi .bsd-ground {
+	font-size: 14px;
+	margin: 0 0 5px 0;
+}
+.mod-upgrade .reset-tips h3 {
+	border-color: #555;
+}
+em.em {
+	color: #ff8822
+}
+.mod-wifi .bsd-ground {
+	color: rgb(255, 136, 34);
+}
+.btn-primary span, .btn-primary-disabled span, .btn-primary-disabled:hover span {
+	background-color: #ff8822;
+	border: 1px #ffa355 solid;
+	color: #000
+	}
+	.btn-primary:hover span {
+		background-color: #f77200;
+		border: 1px #ffa355 solid;
+	}
+#userbar .name, .status-panel .ft .val, .routerinfo .bd table td {
+	color: #ff8822
+}
+.panel {
+	background: none
+}
+.panel-mask {
+	left: -3px!important;
+	right: -3px!important;
+	bottom: -3px!important;
+	top: -3px!important;
+}
+.mod-apquality .inner, .status-panel .ft, .routerinfo .bd {
+	background: #111111;
+}
+.mod-netmap .status {
+	background: #292929;
+	color: #f82;
+}
+.mod-login .detail {
+	color: #ff8822
+}
+.mod-login .tip {
+	color: #ff8822;
+}
+.mod-login .btn-login {
+	background-color: #ff7920;
+	border: 0;
+	margin: 0 1px 0 0
+}
+.form-item-select .ipt-text, .form-item .ipt-text, .mod-login .form-item .ipt-text, .form-horizontal input.ipt-text {
+	color: #fafafa!important;
+	background: #111!important;
+	border-color: #333!important;
+}
+.mod-login {
+	padding: 60px 0;
+	margin: 30px 0;
+	border-radius: 20px
+}
+.wifi_set .btn_wifi {
+	background: #ff8822;
+	color: #000
+}
+.wifi_set ul li b {
+	color: #ff8822;
+}
+.wifi_set ul li input, select {
+	background: #111;
+	border: 1px solid #333;
+	padding: 5px;
+	border-radius: 4px;
+	color: #9f9f9f;
+}
+.dialog-datetime div {
+	display: flex;
+	justify-content: space-around
+	}
+	.dialog-datetime div>* {
+		width: 100%;
+		text-align: left;
+	}
+.btn-dft span {
+	border-color: #333;
+	background: #252525;
+	color: #fff;
+	transition: .3s
+	}
+	.btn-dft span:hover {
+		filter: contrast(1.5)
+	}
+.netmode-switch-dialog-cont .on div {
+	background-color: #111;
+}
+.btn-switch-on, .btn-switch-on-wait {
+	filter: invert(1);
+}
+.btn-switch-off, .btn-switch-off-wait {
+	filter: invert(1);
+}
+input[type="radio" i] {
+	filter: invert(1);
+}
+.mod-set-nav li.active {
+	background: none;
+	position: relative
+	}
+	.mod-set-nav li.active::after {
+		content: '';
+		position: absolute;
+		left: calc(50% - 20px);
+		bottom: 0;
+		width: 0;
+		height: 0;
+		border-left: 20px solid transparent;
+		border-right: 20px solid transparent;
+		border-bottom: 20px solid #333;
+		clear: both;
+	}
+.mod-netmap .active {
+	background: none;
+	}
+	.mod-netmap .active::after {
+		content: '';
+		position: absolute;
+		left: calc(50% - 20px);
+		bottom: 0;
+		width: 0;
+		height: 0;
+		border-left: 20px solid transparent;
+		border-right: 20px solid transparent;
+		border-bottom: 20px solid #333;
+		clear: both;
+	}
+
+.panel-content .hd h3 {
+	background: #ffffff;
+	color: #000 !important
+}
+
+.dropmenu {
+	width: fit-content;
+	}
+	.dropmenu li a {
+		padding: 6px 20px
+	}
+.table td, .mod-macfilter .add-contral, .mod-table-devices th, .mod-table-devices .device-item td, .internet-panel .bd td, .internet-panel .bd, .mod-vpn .section-set {
+	border-color: #333
+}
+.mod-netmap .status-wifi .c {
+	background: #292929;
+	color: #2d2d2d
+}
+.mod-netmap p {
+	margin-bottom: 10px;
+}
+a.btn span {
+	border-color: #333;
+	background-color: #252525!important;
+	color: #fff;
+	transition: .3s
+	}
+	a.btn span:hover {
+		filter: contrast(1.5)
+	}
+.btn-dft:hover span {
+	background-color: #252525!important;
+}
+.mod-speed-result li .num {
+	color: #ff8822
+}
+.table th {
+	color: #ff8822;
+	border-bottom: 2px #ff8822 solid;
+}
+.mod-vpn td .btn-dft span {
+	width: fit-content;
+	padding: 5px 10px;
+	background: #252525;
+	color: #FFF;
+	border: 1px solid #333;
+}
+.mod-vpn td .l, .mod-vpn td .r {
+	margin: 2px;
+	float: none;
+	display: inline-block
+}
+.mod-table-devices th {
+	padding: 15px 0;
+	color: #ff8822
+}
+.internet-panel .bd dd {
+	color: #FFF
+}
+.mod-table-devices .name {
+	color: #FFF
+}
+.mod-table-devices th {
+	
+}
+#ft {
+	color: #7d7d7d
+	}
+	#ft a {
+		color: #ff8822
+	}
+	.rumid {
+		background: #333;
+		color: #f7f7f7;
+		padding: 2px 10px;
+	}
+	#bd, .panel-content {
+		border-top: 3px solid #333;
+		background: #1c1c1c
+	}
+	.hd h3 {
+		color: #ff8822 !important
+	}
+	.hd {
+		border-bottom: 1px #3a3a3a solid
+	}
+	#nav {
+		bottom: -10px
+		}
+		#nav ul {
+			display: flex
+			}
+			#nav li {
+				float: none;
+				margin: 0!important
+				}
+				#nav li a {
+					font-size: 13px;
+					text-transform: uppercase;
+					background: none;
+					padding: 10px 30px;
+					text-shadow: none
+					}
+					#nav .active a {
+						border-bottom: 2px solid #ff8822;
+						color: #FFF
+					}
+#rBd {
+	background: #1c1c1c!important
+}

@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Lägg till i Todoist"
+   },
+   "appDesc": {
+      "message": "Håll koll på e-posten med Todoist för Chrome"
+   },
+   "appName": {
+      "message": "Todoist för Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "Tillägget fungerar inte i inkognitofönster"
+   },
+   "optionsAddDueTitle": {
+      "message": "För uppgifter tillagda via Chrome-tillägget:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Ställ in ett standardförfallodatum för 'Idag'"
+   },
+   "optionsSaved": {
+      "message": "Sparad"
+   }
+}

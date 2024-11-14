@@ -1,0 +1,512 @@
+{
+   "cj_i18n_00000": {
+      "message": "The easiest access to the Google universe"
+   },
+   "cj_i18n_00002": {
+      "message": "Zilizoshirikishwa nami"
+   },
+   "cj_i18n_00004": {
+      "message": "Yenye nyota"
+   },
+   "cj_i18n_00017": {
+      "message": "Picha"
+   },
+   "cj_i18n_00046": {
+      "message": "Tafadhali andika swali kutafuta"
+   },
+   "cj_i18n_00047": {
+      "message": "Zaidi"
+   },
+   "cj_i18n_00061": {
+      "message": "Chunguza"
+   },
+   "cj_i18n_00081": {
+      "message": "Mikumbusho"
+   },
+   "cj_i18n_00084": {
+      "message": "Fungua huduma katika kichupo kipya"
+   },
+   "cj_i18n_00085": {
+      "message": "Tafuta"
+   },
+   "cj_i18n_00086": {
+      "message": "Tafuta kwa kichupo kipya"
+   },
+   "cj_i18n_00097": {
+      "message": "Weka hapa kuondoa"
+   },
+   "cj_i18n_00106": {
+      "message": "Badilisha mtazamo"
+   },
+   "cj_i18n_00107": {
+      "message": "Zote"
+   },
+   "cj_i18n_00108": {
+      "message": "Linalomilikiwa nami"
+   },
+   "cj_i18n_00110": {
+      "message": "Chuja"
+   },
+   "cj_i18n_00131": {
+      "message": "Maktaba"
+   },
+   "cj_i18n_00134": {
+      "message": "Duka"
+   },
+   "cj_i18n_00155": {
+      "message": "Historia"
+   },
+   "cj_i18n_00162": {
+      "message": "Rudi"
+   },
+   "cj_i18n_00165": {
+      "message": "Januari"
+   },
+   "cj_i18n_00166": {
+      "message": "Februari"
+   },
+   "cj_i18n_00167": {
+      "message": "Machi"
+   },
+   "cj_i18n_00168": {
+      "message": "Aprili"
+   },
+   "cj_i18n_00169": {
+      "message": "Mei"
+   },
+   "cj_i18n_00170": {
+      "message": "Juni"
+   },
+   "cj_i18n_00171": {
+      "message": "Julai"
+   },
+   "cj_i18n_00172": {
+      "message": "Agosti"
+   },
+   "cj_i18n_00173": {
+      "message": "Septemba"
+   },
+   "cj_i18n_00174": {
+      "message": "Oktoba"
+   },
+   "cj_i18n_00175": {
+      "message": "Novemba"
+   },
+   "cj_i18n_00176": {
+      "message": "Desemba"
+   },
+   "cj_i18n_00183": {
+      "message": "Arifa"
+   },
+   "cj_i18n_00216": {
+      "message": "Programu"
+   },
+   "cj_i18n_00217": {
+      "message": "Michezo"
+   },
+   "cj_i18n_00226": {
+      "message": "Jana"
+   },
+   "cj_i18n_00233": {
+      "message": "Hakuna akaunti ya AdSense linaloambatishwa na hii akaunti ya Google"
+   },
+   "cj_i18n_00263": {
+      "message": "Tafadhali hakikisha umeunganisha mtandao"
+   },
+   "cj_i18n_00291": {
+      "message": "Mwanzo"
+   },
+   "cj_i18n_00292": {
+      "message": "Mikusanyiko"
+   },
+   "cj_i18n_00293": {
+      "message": "Jumuiya"
+   },
+   "cj_i18n_00294": {
+      "message": "Wasifu"
+   },
+   "cj_i18n_00295": {
+      "message": "Watu"
+   },
+   "cj_i18n_00296": {
+      "message": "Arifa"
+   },
+   "cj_i18n_00298": {
+      "message": "Mipangilio"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalenda"
+   },
+   "cj_i18n_00314": {
+      "message": "Anwani"
+   },
+   "cj_i18n_00325": {
+      "message": "Inapakia…"
+   },
+   "cj_i18n_00331": {
+      "message": "Kila kitu"
+   },
+   "cj_i18n_00337": {
+      "message": "Jisajili"
+   },
+   "cj_i18n_00350": {
+      "message": "Uliza swali"
+   },
+   "cj_i18n_00354": {
+      "message": "Changia"
+   },
+   "cj_i18n_00361": {
+      "message": "Ongeza akaunti nyingine"
+   },
+   "cj_i18n_00390": {
+      "message": "Hifadhi"
+   },
+   "cj_i18n_00391": {
+      "message": "Hati"
+   },
+   "cj_i18n_00406": {
+      "message": "Utafutaji ya juu"
+   },
+   "cj_i18n_00414": {
+      "message": "Safari za ndege"
+   },
+   "cj_i18n_00418": {
+      "message": "Vikundi"
+   },
+   "cj_i18n_00423": {
+      "message": "Ramani"
+   },
+   "cj_i18n_00425": {
+      "message": "Habari"
+   },
+   "cj_i18n_00427": {
+      "message": "Hataza"
+   },
+   "cj_i18n_00429": {
+      "message": "Picha"
+   },
+   "cj_i18n_00434": {
+      "message": "Tafuta"
+   },
+   "cj_i18n_00435": {
+      "message": "Ununuzi"
+   },
+   "cj_i18n_00438": {
+      "message": "Msaada"
+   },
+   "cj_i18n_00440": {
+      "message": "Tafsiri"
+   },
+   "cj_i18n_00441": {
+      "message": "Mitindo"
+   },
+   "cj_i18n_00460": {
+      "message": "Vitabu"
+   },
+   "cj_i18n_00464": {
+      "message": "Viendelezi"
+   },
+   "cj_i18n_00465": {
+      "message": "Mandhari"
+   },
+   "cj_i18n_00481": {
+      "message": "Akaunti"
+   },
+   "cj_i18n_00484": {
+      "message": "Matukio"
+   },
+   "cj_i18n_00488": {
+      "message": "Picha"
+   },
+   "cj_i18n_00500": {
+      "message": "Mipangilio ya Utafutaji"
+   },
+   "cj_i18n_00509": {
+      "message": "Video"
+   },
+   "cj_i18n_00556": {
+      "message": "Programu za simu"
+   },
+   "cj_i18n_00603": {
+      "message": "Sawazisha"
+   },
+   "cj_i18n_00626": {
+      "message": "Unda"
+   },
+   "cj_i18n_00634": {
+      "message": "Michango zangu"
+   },
+   "cj_i18n_00692": {
+      "message": "Ninazopenda zaidi"
+   },
+   "cj_i18n_00807": {
+      "message": "Maktaba yangu"
+   },
+   "cj_i18n_00821": {
+      "message": "Kumbukumbu"
+   },
+   "cj_i18n_00838": {
+      "message": "Kuhusu"
+   },
+   "cj_i18n_00901": {
+      "message": "Faragha"
+   },
+   "cj_i18n_01107": {
+      "message": "Nilizotazama hivi karibuni"
+   },
+   "cj_i18n_01149": {
+      "message": "Tangazo za search"
+   },
+   "cj_i18n_01150": {
+      "message": "Mitovuti"
+   },
+   "cj_i18n_01151": {
+      "message": "Vidhibiti vya kuzuia"
+   },
+   "cj_i18n_01152": {
+      "message": "Ripoti"
+   },
+   "cj_i18n_01153": {
+      "message": "Uboreshaji"
+   },
+   "cj_i18n_01154": {
+      "message": "Malipo"
+   },
+   "cj_i18n_01161": {
+      "message": "Hakikisha"
+   },
+   "cj_i18n_01163": {
+      "message": "Badilisha bidhaa"
+   },
+   "cj_i18n_01164": {
+      "message": "Toa kwa menyu"
+   },
+   "cj_i18n_01174": {
+      "message": "Inapakia"
+   },
+   "cj_i18n_01178": {
+      "message": "Endelea"
+   },
+   "cj_i18n_01181": {
+      "message": "Siku 28 zililopita"
+   },
+   "cj_i18n_01182": {
+      "message": "Onyesha ripoti upya"
+   },
+   "cj_i18n_01186": {
+      "message": "Maoni"
+   },
+   "cj_i18n_01197": {
+      "message": "Utafutaji upya"
+   },
+   "cj_i18n_01253": {
+      "message": "Leo"
+   },
+   "cj_i18n_01269": {
+      "message": "Picha"
+   },
+   "cj_i18n_01326": {
+      "message": "Tuma"
+   },
+   "cj_i18n_01344": {
+      "message": "Gundua atomatiki"
+   },
+   "cj_i18n_01351": {
+      "message": "Pata maelezo zaidi"
+   },
+   "cj_i18n_01363": {
+      "message": "Hifadhi"
+   },
+   "cj_i18n_01403": {
+      "message": "Majaribio"
+   },
+   "cj_i18n_01417": {
+      "message": "Upatanishi"
+   },
+   "cj_i18n_01418": {
+      "message": "Kampeni"
+   },
+   "cj_i18n_01440": {
+      "message": "Mapendeleo"
+   },
+   "cj_i18n_01507": {
+      "message": "Toka"
+   },
+   "cj_i18n_01508": {
+      "message": "Halijasajiliwa"
+   },
+   "cj_i18n_01518": {
+      "message": "Anwani"
+   },
+   "cj_i18n_01532": {
+      "message": "Msaada"
+   },
+   "cj_i18n_01539": {
+      "message": "Programu zinazohusiana"
+   },
+   "cj_i18n_01543": {
+      "message": "Badilisha akaunti"
+   },
+   "cj_i18n_01544": {
+      "message": "Ingia"
+   },
+   "cj_i18n_01545": {
+      "message": "Fungua katika kichupo kipya"
+   },
+   "cj_i18n_01546": {
+      "message": "Fungua katika paneli mpya"
+   },
+   "cj_i18n_01557": {
+      "message": "Kutumia programu hii, jisaji kwa akaunti yako ya Google"
+   },
+   "cj_i18n_01563": {
+      "message": "Futa"
+   },
+   "cj_i18n_01579": {
+      "message": "Kumbukumbu"
+   },
+   "cj_i18n_01588": {
+      "message": "Ya juu"
+   },
+   "cj_i18n_01590": {
+      "message": "Weka upya mipangilio chaguo-msingi"
+   },
+   "cj_i18n_01622": {
+      "message": "Pakua"
+   },
+   "cj_i18n_01659": {
+      "message": "Katisha"
+   },
+   "cj_i18n_01692": {
+      "message": "Historia ya kuvinjari"
+   },
+   "cj_i18n_01711": {
+      "message": "Linaanza"
+   },
+   "cj_i18n_01713": {
+      "message": "Geuza kukufaa"
+   },
+   "cj_i18n_01715": {
+      "message": "Malizia"
+   },
+   "cj_i18n_01785": {
+      "message": "Hamishi"
+   },
+   "cj_i18n_01794": {
+      "message": "Folda"
+   },
+   "cj_i18n_01915": {
+      "message": "Ingia na Google"
+   },
+   "cj_i18n_01916": {
+      "message": "Endelea na Google"
+   },
+   "cj_i18n_01990": {
+      "message": "Jina"
+   },
+   "cj_i18n_02121": {
+      "message": "Jinsi"
+   },
+   "cj_i18n_02162": {
+      "message": "Fungua mwanzo"
+   },
+   "cj_i18n_02543": {
+      "message": "Chapa"
+   },
+   "cj_i18n_02717": {
+      "message": "Halijasajiliwa"
+   },
+   "cj_i18n_03523": {
+      "message": "Zana za Wasanidi Programu"
+   },
+   "cj_i18n_03929": {
+      "message": "Vipakuzi"
+   },
+   "cj_i18n_04163": {
+      "message": "Lugha"
+   },
+   "cj_i18n_04767": {
+      "message": "Shirika"
+   },
+   "cj_i18n_04828": {
+      "message": "Manenosiri"
+   },
+   "cj_i18n_05092": {
+      "message": "Matokeo ya utafutaji"
+   },
+   "cj_i18n_05190": {
+      "message": "Kivinjari"
+   },
+   "cj_i18n_05388": {
+      "message": "Kawaida"
+   },
+   "cj_i18n_05629": {
+      "message": "Hariri"
+   },
+   "cj_i18n_06247": {
+      "message": "Kesho"
+   },
+   "cj_i18n_06248": {
+      "message": "Jtat"
+   },
+   "cj_i18n_06249": {
+      "message": "Jnne"
+   },
+   "cj_i18n_06250": {
+      "message": "Jtan"
+   },
+   "cj_i18n_06251": {
+      "message": "Alh"
+   },
+   "cj_i18n_06252": {
+      "message": "Ijm"
+   },
+   "cj_i18n_06253": {
+      "message": "Jmos"
+   },
+   "cj_i18n_06254": {
+      "message": "Jpl"
+   },
+   "cj_i18n_06257": {
+      "message": "Mac"
+   },
+   "cj_i18n_06259": {
+      "message": "Mei"
+   },
+   "cj_i18n_06262": {
+      "message": "Ago"
+   },
+   "cj_i18n_06264": {
+      "message": "Okt"
+   },
+   "cj_i18n_06266": {
+      "message": "Des"
+   },
+   "cj_i18n_06287": {
+      "message": "Bofya kutazama logi ya mabadiliko"
+   },
+   "cj_i18n_06294": {
+      "message": "Vitendo zaidi"
+   },
+   "cj_i18n_06418": {
+      "message": "Programu ya simu"
+   },
+   "cj_i18n_06640": {
+      "message": "Simu"
+   },
+   "cj_i18n_06647": {
+      "message": "Pata haraka"
+   },
+   "cj_i18n_06875": {
+      "message": "Maarufu"
+   },
+   "cj_i18n_07039": {
+      "message": "Hauna ruhusa ya kutazama huu ukurasa"
+   },
+   "cj_i18n_07048": {
+      "message": "Mwongozo wa Android"
+   },
+   "cj_i18n_07115": {
+      "message": "Toa habari"
+   }
+}

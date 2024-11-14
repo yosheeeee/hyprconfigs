@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Legg til i Todoist"
+   },
+   "appDesc": {
+      "message": "Organiser jobben og livet ditt med Todoist for Chrome"
+   },
+   "appName": {
+      "message": "Todoist for Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "The add-in doesn't work in private mode"
+   },
+   "optionsAddDueTitle": {
+      "message": "For oppgaver lagt til via Chrome-utvidelsen:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Angi standard forfallsdato som «I dag»"
+   },
+   "optionsSaved": {
+      "message": "Lagret"
+   }
+}

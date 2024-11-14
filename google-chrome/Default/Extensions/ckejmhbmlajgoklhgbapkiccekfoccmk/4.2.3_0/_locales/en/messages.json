@@ -1,0 +1,371 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android smartphones"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple smartphones"
+   },
+   "button_feedback": {
+      "message": "Add a review"
+   },
+   "button_message": {
+      "message": "Send us a message"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "context_menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "context_menu_activate": {
+      "message": "Activate the mobile view on this page"
+   },
+   "copie": {
+      "message": "Copy"
+   },
+   "copied": {
+      "message": "Copied"
+   },
+   "extDescription": {
+      "message": "Smartphone and tablet simulator on computer with several models to test mobile responsive websites."
+   },
+   "extName": {
+      "message": "Mobile simulator - responsive testing tool"
+   },
+   "global": {
+      "message": "--------------------------------------------------------"
+   },
+   "global_cancel": {
+      "message": "Cancel"
+   },
+   "menu": {
+      "message": "--------------------------------------------------------"
+   },
+   "menu_add_window": {
+      "message": "Add a device in a new window"
+   },
+   "menu_change_device": {
+      "message": "Change device"
+   },
+   "menu_close_alone": {
+      "message": "Deactivate the simulator"
+   },
+   "menu_close_multi": {
+      "message": "Close this window"
+   },
+   "menu_faq_all": {
+      "message": "See all frequently asked questions"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "How to activate the simulator in incognito mode?"
+   },
+   "menu_faq_media_queries": {
+      "message": "My media queries are not working"
+   },
+   "menu_faq_scroll": {
+      "message": "Unable to scroll in the simulator"
+   },
+   "menu_faq_shortcut": {
+      "message": "How to configure keyboard shortcuts?"
+   },
+   "menu_faq_subscription": {
+      "message": "Why my subscription doesn't work"
+   },
+   "menu_faq_title": {
+      "message": "Frequently asked questions"
+   },
+   "menu_help_center": {
+      "message": "Help center"
+   },
+   "menu_info_device": {
+      "message": "Features & mockup of this phone (viewport resolution, etc.)"
+   },
+   "menu_info_device_features": {
+      "message": "Features (viewport resolution, etc.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Free PNG transparent mockup"
+   },
+   "menu_report": {
+      "message": "Report a bug"
+   },
+   "menu_rotate": {
+      "message": "Change the orientation"
+   },
+   "menu_screencast": {
+      "message": "Start a tab record"
+   },
+   "menu_screenshot": {
+      "message": "Take a screenshot"
+   },
+   "menu_send_improvement": {
+      "message": "Suggest an improvement"
+   },
+   "menu_send_message": {
+      "message": "Help center"
+   },
+   "menu_settings": {
+      "message": "Settings"
+   },
+   "menu_share": {
+      "message": "Share with a colleague, a friend,..."
+   },
+   "menu_theme_day": {
+      "message": "Activate the day mode"
+   },
+   "menu_theme_night": {
+      "message": "Activate the night mode"
+   },
+   "menu_vote_feature": {
+      "message": "Vote for the features you want"
+   },
+   "modales": {
+      "message": "--------------------------------------------------------"
+   },
+   "new_iphone_15_h1": {
+      "message": "Be the first one to (virtually) use the iPhone 15 PRO"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Information\u003C/strong>Touch scroll is not available in this simulator, but you can \u003Cstrong>display the scrollbar\u003C/strong> if you don't have mousewheel or trackpad to scroll.\u003Cbr>\u003Cbr>It is an option in the settings on the bottom right \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_0_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.0\u003C/strong>Important update regarding video capture. New video formats and unlimited recording time! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_0_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.0\u003C/strong>Fixes regarding display issues in the simulator."
+   },
+   "notification_update_title_v4_1_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.1\u003C/strong>3 new recent devices (in the PRO version). Google Pixel 8, Samsung Galaxy S24 and ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_1_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.1.2\u003C/strong>Several bug fixes regarding the conversion of video captures"
+   },
+   "notification_update_title_v4_2_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.2\u003C/strong>You can now test your websites with the latest iPhone 16.\u003C/strong> \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_2_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Update v4.2.2\u003C/strong>\u003Cstrong>Fixes\u003C/strong> regarding the generation of video captures, as well as full page screenshots"
+   },
+   "notifications": {
+      "message": "--------------------------------------------------------"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Specials"
+   },
+   "popup": {
+      "message": "--------------------------------------------------------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Activate the option"
+   },
+   "popup_activate_local_files_info": {
+      "message": "This simulator can't be activated by default on local files (file:///) but you can manually activate the option in the Chrome settings page."
+   },
+   "popup_message": {
+      "message": "Change device and find all the options by using the menu on the right of the simulator"
+   },
+   "popup_site_incompatible": {
+      "message": "This simulator can't be activated on this native Chrome page. Try on another tab. Or browser a website and relaunch."
+   },
+   "pro": {
+      "message": "--------------------------------------------------------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Unlimited tab records"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Remove ads"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Billed annually"
+   },
+   "pro_modale_button": {
+      "message": "Subscribe"
+   },
+   "pro_modale_from": {
+      "message": "From"
+   },
+   "pro_modale_h1": {
+      "message": "Become a PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Remove ads"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Convert your video captures to GIF and MP4 formats"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simulate all devices"
+   },
+   "pro_modale_h1_limit": {
+      "message": "You have reached the limit of 5 tab records per day"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Unlock all settings"
+   },
+   "pro_modale_h2": {
+      "message": "Become a PRO and actively contribute to the development of this extension."
+   },
+   "pro_modale_link_1": {
+      "message": "Or"
+   },
+   "pro_modale_link_2": {
+      "message": "log in"
+   },
+   "pro_modale_link_3": {
+      "message": "to your account"
+   },
+   "pro_modale_recurring_month": {
+      "message": "month"
+   },
+   "pro_modale_savings": {
+      "message": "Save"
+   },
+   "review": {
+      "message": "--------------------------------------------------------"
+   },
+   "review_h1": {
+      "message": "Would you recommend this extension ?"
+   },
+   "review_note_feedback": {
+      "message": "Thank you for your feedback, feel free to send us a message so that we can improve this extension."
+   },
+   "review_note_store": {
+      "message": "Thank you for your feedback, feel free to add a review on the Google Store. I would be very grateful 😊"
+   },
+   "screencast": {
+      "message": "--------------------------------------------------------"
+   },
+   "screencast_error": {
+      "message": "An error has occurred during the tab record. {Click here} for a workaround."
+   },
+   "screencast_generation": {
+      "message": "Creation of the GIF ongoing"
+   },
+   "screencast_modale_contact": {
+      "message": "Report a bug, a suggestion, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Copy"
+   },
+   "screencast_modale_download": {
+      "message": "Download"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Compatible everywhere, but lower quality"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Better compatibility with PowerPoint, Keynote, etc."
+   },
+   "screencast_modale_download_webm": {
+      "message": "Download in default WEBM format"
+   },
+   "screencast_modale_texte": {
+      "message": "You can download this video in different formats or get a share link."
+   },
+   "screencast_modale_title": {
+      "message": "Tab record"
+   },
+   "screencast_modale_upload": {
+      "message": "Upload on the server and get the share link"
+   },
+   "screencast_onboarding_close": {
+      "message": "Close"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Create a mobile video in GIF format in 1 click (max 20 seconds)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Tab record"
+   },
+   "screenshot": {
+      "message": "--------------------------------------------------------"
+   },
+   "screenshot_menu_1": {
+      "message": "Screenshot with the device frame"
+   },
+   "screenshot_menu_2": {
+      "message": "Screenshot without the device frame"
+   },
+   "screenshot_menu_3": {
+      "message": "Full page screenshot"
+   },
+   "screenshot_modale_copy": {
+      "message": "Copy image to clipboard"
+   },
+   "screenshot_modale_help": {
+      "message": "To save the picture with a good resolution, you can just do a right click on it, then \"Copy Image\", or \"Save Image As\""
+   },
+   "screenshot_modale_title": {
+      "message": "Screenshot"
+   },
+   "settings": {
+      "message": "--------------------------------------------------------"
+   },
+   "settings_batterie_level": {
+      "message": "Battery level in the terminal header (%)"
+   },
+   "settings_change_analytics": {
+      "message": "I support the developer of this extension to improve his product thanks to Google Analytics. Data is anonymous."
+   },
+   "settings_change_background": {
+      "message": "Change the background color"
+   },
+   "settings_change_cursor": {
+      "message": "Don't change the cursor style in the device"
+   },
+   "settings_default_device": {
+      "message": "Default device of each new activation"
+   },
+   "settings_device_hide": {
+      "message": "Hide the device"
+   },
+   "settings_hide_header_footer": {
+      "message": "Hide the browser header and footer in the device (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Don't display the fake keyboard"
+   },
+   "settings_presenter_mode": {
+      "message": "Presentation mode (right-hand menu displayed on hover only)"
+   },
+   "settings_scrollbar_show": {
+      "message": "Show the native scrollbar in the device (if you don't have trackpad or mousewheel)"
+   },
+   "sharing": {
+      "message": "--------------------------------------------------------"
+   },
+   "sharing_h1": {
+      "message": "This extension is useful to you?"
+   },
+   "sharing_h2": {
+      "message": "So share it with your colleagues or friends"
+   },
+   "sharing_review_1": {
+      "message": "And if you have a minute to"
+   },
+   "sharing_review_2": {
+      "message": "add a review"
+   },
+   "sharing_review_3": {
+      "message": "I would be very grateful to you 🙂"
+   },
+   "sharing_review_button": {
+      "message": "I add a review"
+   },
+   "sharing_txt": {
+      "message": "Simulator to test your site on smartphone and tablet"
+   },
+   "simulator": {
+      "message": "--------------------------------------------------------"
+   },
+   "simulator_footer_info": {
+      "message": "This is a fake element. Use your own keyboard."
+   },
+   "simulator_header_info": {
+      "message": "This is a fake element. To change the URL just use the Chrome text field on the top."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tablets"
+   }
+}

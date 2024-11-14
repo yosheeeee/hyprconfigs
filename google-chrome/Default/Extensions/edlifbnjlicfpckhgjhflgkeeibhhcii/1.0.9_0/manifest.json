@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": "images/128.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "/js/background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "/css/share-modal.css" ],
+      "js": [ "/js/lib/fabric.js", "/js/lib/jquery-3.2.1.min.js", "/js/contentScript.js", "/js/share-modal.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "images/128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApAEnhUyhwNyni1mxx/oX8qvofPUS+jGxB3qSrYOQL5/J9WaMT2KT+/wLl6bGwZbdqQuCt+FFaS6AjBYIQ965jktWIGUkLdblb8aW467oD9zCtgy1j6IJwT2Ttcb6ioX/B68PmnoCT8+jVEcITjgoa51IGJcdIBSq4S7YacCqsxV4jgsT2VHG7yzPumowoVmRLa6l5EfSAdDXjVVymsy5ZAwppS8lS81gEZ02T02o5rHgZwOmW1gxWFG7SnzdupDeNequc3oiwp4k/IzJmhShmZnU2VQdsBoUPw4k/hREcQZ2ZYz69ACoGNbXVeq5FFD0DZnfQ3H6nhAT2xV1pr4HhwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "offline_enabled": true,
+   "permissions": [ "storage", "unlimitedStorage", "scripting" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.9",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/css/injectable.css", "editor.html" ]
+   } ]
+}

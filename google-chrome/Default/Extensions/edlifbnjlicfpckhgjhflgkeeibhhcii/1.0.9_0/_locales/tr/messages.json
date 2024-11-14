@@ -1,0 +1,32 @@
+{
+   "description": {
+      "message": "Screenshot - yenilikçi ekran görüntüsü aracı, kullanıcıların ekranlarında görünen tüm görüntüleri yakalamasına ve düzenlemesine olanak tanır!"
+   },
+   "name": {
+      "message": "Screenshot - Ekran görüntüsü ve Ekran Video Kaydedici"
+   },
+   "popupDesc1": {
+      "message": "Screenshot will open in a new tab after completion!"
+   },
+   "popupDesc2": {
+      "message": "Failed to take a screenshot! Try reloading the page."
+   },
+   "popupDesc3": {
+      "message": "Cannot take a screenshot of this type due to Google Chrome policy. Try another page in your browser."
+   },
+   "rateDialogDesc": {
+      "message": "Bizi Chrome Web Mağazası'nda derecelendirir misiniz? Teşekkür ederim!"
+   },
+   "rateDialogNo": {
+      "message": "Belki gelecek sefere"
+   },
+   "rateDialogTitle": {
+      "message": "Sizin için Faydalı Uygulama?"
+   },
+   "rateDialogYes": {
+      "message": "Tamam elbette"
+   },
+   "short_name": {
+      "message": "Screenshot Capture Tool"
+   }
+}

@@ -1,0 +1,8 @@
+2024/11/14-14:00:12.020 1bb8 Creating DB /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB since it was missing.
+2024/11/14-14:00:12.026 1bb8 Reusing MANIFEST /home/yoshee/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/14-14:00:40.153 1bca Level-0 table #5: started
+2024/11/14-14:00:40.161 1bca Level-0 table #5: 163313 bytes OK
+2024/11/14-14:00:40.162 1bca Delete type=0 #3
+2024/11/14-14:00:42.182 1bc9 Level-0 table #7: started
+2024/11/14-14:00:42.184 1bc9 Level-0 table #7: 99489 bytes OK
+2024/11/14-14:00:42.185 1bc9 Delete type=0 #4

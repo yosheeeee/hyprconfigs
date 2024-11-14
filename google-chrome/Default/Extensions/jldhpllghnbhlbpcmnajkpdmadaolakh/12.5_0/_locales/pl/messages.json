@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Dodaj do Todoist"
+   },
+   "appDesc": {
+      "message": "Organizuj pracę i życie z Todoist dla Chrome"
+   },
+   "appName": {
+      "message": "Todoist dla Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "Dodatek nie działa w trybie prywatnym"
+   },
+   "optionsAddDueTitle": {
+      "message": "Dla zadań dodanych przez rozszerzenie Chrome:"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Wybierz domyślny termin na Dziś"
+   },
+   "optionsSaved": {
+      "message": "Zapisano"
+   }
+}

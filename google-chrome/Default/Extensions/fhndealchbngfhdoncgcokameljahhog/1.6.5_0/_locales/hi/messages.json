@@ -1,0 +1,336 @@
+{
+   "auto_enrollment_notification_message": {
+      "message": "Click here to automatically enroll a pre-configured certificate."
+   },
+   "auto_enrollment_notification_title": {
+      "message": "Enroll Certificate"
+   },
+   "cea_cep_network": {
+      "message": "Communicating with the configured CEP endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_cep_template": {
+      "message": "No matching certificate template was found. Please contact your administrator."
+   },
+   "cea_ces_denied": {
+      "message": "The certificate request was denied by the Certificate Authority."
+   },
+   "cea_ces_network": {
+      "message": "Communicating with the configured CES endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_ces_pending": {
+      "message": "The certificate request was left pending by the Certificate Authority. Please contact your administrator."
+   },
+   "cea_error_other": {
+      "message": "An unknown error was encountered by the certificate enrollment agent during verified access enrollment. If this continues, contact your administrator."
+   },
+   "cea_google_network": {
+      "message": "Communicating with the configured Google verified access server failed. If this continues, contact your administrator."
+   },
+   "cea_google_reject": {
+      "message": "The verified access check was not successful for the Chrome identity of the signed in user on this device."
+   },
+   "cea_invalid_api_version": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected version. If this continues, contact your administrator."
+   },
+   "cea_ldap_network": {
+      "message": "Communicating with the configured LDAP server failed. If this continues, contact your administrator."
+   },
+   "cea_ldap_user_verification": {
+      "message": "The username provided was not found or failed verification. Please check your username and try again. If this continues, contact your administrator."
+   },
+   "cea_locked_contact_admin": {
+      "message": "The request failed due to lockout protection. Please contact your administrator."
+   },
+   "cea_locked_try_again": {
+      "message": "The request failed due to lockout protection. Please try again later."
+   },
+   "cea_malformed_request": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected format. If this continues, contact your administrator."
+   },
+   "cea_no_api_failure": {
+      "message": "Could not access the enterprise.platformKeys API. Your device may not be enrolled in the domain."
+   },
+   "cea_qps_reject": {
+      "message": "The request was rejected to due to too many requests per second. Please wait a few minutes and try again."
+   },
+   "cea_timed_out": {
+      "message": "Getting a certificate through the verified access enrollment flow timed out. If this continues, contact your administrator."
+   },
+   "cea_va_failed": {
+      "message": "The user's identity could not be confirmed with the verified access API."
+   },
+   "certificate_renewal_alert": {
+      "message": "Certificate was succesfully renewed."
+   },
+   "certificate_renewal_failure_alert": {
+      "message": "Failure: an error occurred while renewing a certificate. More details can be found on the console logs."
+   },
+   "empty_username": {
+      "message": "The username field is required."
+   },
+   "extension_description": {
+      "message": "अपने डिवाइस के लिए प्रमाणपत्र का अनुरोध करें."
+   },
+   "extension_name": {
+      "message": "Certificate Enrollment for ChromeOS"
+   },
+   "extension_name_dev": {
+      "message": "Certificate Enrollment for ChromeOS Dev"
+   },
+   "failure_title": {
+      "message": "विफल रहा"
+   },
+   "generate_challenge_response_failed": {
+      "message": "Unable to create a challenge-response for enrolling with Verified Access. If this continues, contact your administrator."
+   },
+   "get_challenge_failed": {
+      "message": "Getting a challenge from the Verified Access endpoint failed. If this continues, contact your administrator."
+   },
+   "get_challenge_timed_out": {
+      "message": "Getting a challenge from the Verified Access endpoint timed out. If this continues, contact your administrator."
+   },
+   "invalid_credentials": {
+      "message": "सर्वर आपके उपयोगकर्ता नाम और पासवर्ड को सत्यापित नहीं कर सका. कोई एक या दोनों ही गलत हो सकते हैं."
+   },
+   "invalid_policy_var": {
+      "message": "अमान्य पॉलिसी वेरिएबल दर्ज किया गया.\nपॉलिसी वेरिएबल नाम: $1\nपॉलिसी वेरिएबल मान: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "kerberos_authentication_text": {
+      "message": "Your admin has configured certificates to be issued using Kerberos authentication. Click the $1 button to request a certificate. Kerberos tickets can be obtained via Chrome Settings > People > Kerberos tickets.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "login_cep_failure": {
+      "message": "पॉलिसी सर्वर से संपर्क नहीं किया जा सका."
+   },
+   "login_device_help": {
+      "message": "अपने संगठन में अन्य लोगों को डिवाइस का उपयोग करने देने के लिए पूरे डिवाइस के लिए प्रमाणपत्र का अनुरोध करें."
+   },
+   "login_enrollment_failure": {
+      "message": "दर्ज uri पर नामांकन नहीं किया जा सका."
+   },
+   "login_failure_alert": {
+      "message": "विफलता: कोई गड़बड़ी हुई. कंसोल लॉग पर ज़्यादा विवरण देखे जा सकते हैं."
+   },
+   "login_help_center_text": {
+      "message": "सहायता केंद्र"
+   },
+   "login_hide_pending": {
+      "message": "लंबित अनुरोधों को देखने के लिए अतिरिक्त फ़ील्ड छिपाएं?"
+   },
+   "login_invalid_character": {
+      "message": "इस फ़ील्ड में \u003C और > वर्णों की अनुमति नहीं है."
+   },
+   "login_loading_text": {
+      "message": "प्रमाणपत्र अनुरोधित. कृपया इंतज़ार करें."
+   },
+   "login_no_uri_failure": {
+      "message": "नामांकन करने के लिए कोई नामांकन uri उपलब्ध नहीं है."
+   },
+   "login_privacy_link": {
+      "message": "निजता पॉलिसी"
+   },
+   "login_query_uri": {
+      "message": "अमान्य नामांकन URI दर्ज किया गया. नामांकन URI फ़ील्ड https से आरंभ होना चाहिए."
+   },
+   "login_service_account_help": {
+      "message": "Request a certificate using the acount details provided by your administrator."
+   },
+   "login_show_pending": {
+      "message": "लंबित अनुरोधों को देखने के लिए अतिरिक्त फ़ील्ड दिखाएं?"
+   },
+   "login_success_alert": {
+      "message": "सफल: प्रमाणपत्र सही तरीके से जनरेट और आयात किया गया!"
+   },
+   "managed_cep_empty_error": {
+      "message": "cep_proxy_url सेट नहीं है या खाली पर सेट है."
+   },
+   "managed_cep_http_error": {
+      "message": "cep_proxy_url को https पर सेट नहीं किया है."
+   },
+   "managed_certificate_renewal_error": {
+      "message": "enable_certificate_renewal को अज्ञात मान पर सेट करने का प्रयास किया गया."
+   },
+   "managed_clipboard_button": {
+      "message": "लॉग क्लिपबोर्ड पर कॉपी करें"
+   },
+   "managed_company_url_http_error": {
+      "message": "help_url field in company_info not set to https."
+   },
+   "managed_help_text": {
+      "message": "सहायता चाहिए?"
+   },
+   "managed_license_button": {
+      "message": "संक्षिप्त विवरण"
+   },
+   "managed_log_level_error": {
+      "message": "log_level को अज्ञात मान पर सेट करने का प्रयास किया गया."
+   },
+   "managed_login_button": {
+      "message": "नामांकन करें"
+   },
+   "managed_login_device_wide_checkbox": {
+      "message": "Enroll Device-Wide Certificate"
+   },
+   "managed_login_header": {
+      "message": "प्रमाणपत्र नामांकन"
+   },
+   "managed_login_tab_label": {
+      "message": "नया अनुरोध"
+   },
+   "managed_login_use_service_account_checkbox": {
+      "message": "Use Service Account"
+   },
+   "managed_more_options": {
+      "message": "ज़्यादा विकल्प"
+   },
+   "managed_password_placeholder": {
+      "message": "पासवर्ड"
+   },
+   "managed_policy_handling_info": {
+      "message": "बदली गईं पॉलिसी प्रबंधित की जा रही हैं."
+   },
+   "managed_policy_request_info": {
+      "message": "बैकएंड से पॉलिसी का अनुरोध किया जा रहा है."
+   },
+   "managed_policy_response_info": {
+      "message": "बैकएंड से पॉलिसी अपडेट मिला."
+   },
+   "managed_signature_algo_error": {
+      "message": "signature_algo को अज्ञात मान पर सेट करने का प्रयास किया गया."
+   },
+   "managed_status_button": {
+      "message": "स्थिति जाँचें"
+   },
+   "managed_status_header": {
+      "message": "लंबित प्रमाणपत्र की जाँच"
+   },
+   "managed_status_tab_label": {
+      "message": "लंबित अनुरोध"
+   },
+   "managed_username_placeholder": {
+      "message": "उपयोगकर्ता नाम"
+   },
+   "managed_va_url_http_error": {
+      "message": "va_google_url not set to https."
+   },
+   "no_certificates_to_renew": {
+      "message": "There are no existing certificates to renew."
+   },
+   "okay_button": {
+      "message": "ठीक"
+   },
+   "pending_title": {
+      "message": "लंबित"
+   },
+   "policy_bad_response": {
+      "message": "नामांकन uris पाने की कोशिश करते समय खराब जवाब. गड़बड़ी संदेश: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "policy_timeout_error": {
+      "message": "Request timed out when attempting to reach the CEP endpoint. Please try again later or contact your administrator."
+   },
+   "renewal_generate_pkcs10_failure": {
+      "message": "Generating a new certificate request to embed in a renewal request failed."
+   },
+   "renewal_notification_ignore": {
+      "message": "सभी रिमाइंडर्स को अनदेखा करें"
+   },
+   "renewal_notification_message": {
+      "message": "आपके प्रमाणपत्र की समय सीमा जल्दी ही खत्म हो जाएगी. अभी नवीनीकरण करने के लिए क्लिक करें."
+   },
+   "renewal_notification_remind": {
+      "message": "मुझे बाद में याद दिलाएं"
+   },
+   "renewal_notification_title": {
+      "message": "प्रमाणपत्र नवीनीकरण रिमाइंडर"
+   },
+   "renewal_request_key_pair_failure": {
+      "message": "Retrieving the key pair associated with the renewal certificate failed."
+   },
+   "renewal_sign_cms_failure": {
+      "message": "Signing a renewal request failed."
+   },
+   "saving_bad_response": {
+      "message": "प्रमाणपत्र नामांकित करने का प्रयास करते समय खराब प्रतिसाद. गड़बड़ी संदेश: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "saving_denied": {
+      "message": "सर्वर ने प्रमाणपत्र अनुरोध अस्वीकार कर दिया."
+   },
+   "saving_generate_digest_failure": {
+      "message": "विषय सार्वजनिक कुंजी को डाइजेस्ट करना विफल रहा."
+   },
+   "saving_generate_export_failure": {
+      "message": "सार्वजनिक कुंजी का निर्यात करना विफल रहा."
+   },
+   "saving_generate_extract_failure": {
+      "message": "Key pair extraction and saving failed."
+   },
+   "saving_generate_key_failure": {
+      "message": "कुंजी युग्म जनरेट करना और सहेजना विफल रहा."
+   },
+   "saving_generate_push_failure": {
+      "message": "Pushing attributes into CSR failed."
+   },
+   "saving_generate_sign_failure": {
+      "message": "अंतिम प्रमाणपत्र अनुरोध पर हस्ताक्षर करना विफल रहा."
+   },
+   "saving_no_cert_failure": {
+      "message": "प्रतिसाद में संग्रहित करने के लिए प्रमाणपत्र नहीं मिला."
+   },
+   "saving_pending": {
+      "message": "The server set the request to pending.\nRequest: $1\nReference: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "saving_store_failure": {
+      "message": "प्रतिसाद प्रमाणपत्र मशीन पर संग्रहित नहीं किया जा सका."
+   },
+   "saving_template_error": {
+      "message": "अमान्य प्रमाणपत्र टेम्प्लेट दर्ज किए जाने के कारण सर्वर ने प्रमाणपत्र अनुरोध अस्वीकार कर दिया."
+   },
+   "saving_timeout_error": {
+      "message": "Request timed out when attempting to reach the CES endpoint. Please try again later or contact your administrator."
+   },
+   "service_account_host_error": {
+      "message": "Could not retrieve service account credentials."
+   },
+   "success_title": {
+      "message": "सफल"
+   },
+   "token_no_system_failure": {
+      "message": "Could not find a valid system token. Your device may not be enrolled in the domain, or you may not have rights to request a system certificate."
+   },
+   "token_no_user_failure": {
+      "message": "Could not find a valid user token. Your device may not be enrolled in the domain."
+   },
+   "token_system_unallowed_failure": {
+      "message": "डिवाइस-व्यापी प्रमाणपत्र से नामांकन, आपकी वर्तमान पॉलिसी के अंतर्गत स्वीकार्य नहीं है."
+   }
+}

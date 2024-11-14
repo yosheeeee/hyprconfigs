@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "Add to Todoist"
+   },
+   "appDesc": {
+      "message": "Organize work and life with Todoist for Chrome"
+   },
+   "appName": {
+      "message": "Todoist for Chrome"
+   },
+   "firefoxPrivateMode": {
+      "message": "The add-in doesn't work in private mode"
+   },
+   "optionsAddDueTitle": {
+      "message": "Adding tasks via Chrome"
+   },
+   "optionsAddTodayLabel": {
+      "message": "Set default due date for \"Today\""
+   },
+   "optionsSaved": {
+      "message": "Saved"
+   }
+}

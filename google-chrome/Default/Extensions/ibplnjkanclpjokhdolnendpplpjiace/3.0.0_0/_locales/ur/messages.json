@@ -1,0 +1,818 @@
+{
+   "additionalPermissionCaptionLabel": {
+      "message": "Additional permissions are required to use Simple Translate on web pages."
+   },
+   "additionalPermissionLabel": {
+      "message": "Enable translation on web pages"
+   },
+   "addonPageLabel": {
+      "message": "Add-on page"
+   },
+   "addonUrl": {
+      "message": "https://addons.mozilla.org/en-US/firefox/addon/simple-translate/?src=optionpage"
+   },
+   "allLangLabel": {
+      "message": "تمام زبانیں"
+   },
+   "altLabel": {
+      "message": "Alt"
+   },
+   "amazonTitleLabel": {
+      "message": "amazon.co.jp eGift Cards"
+   },
+   "amazonUrl": {
+      "message": "https://www.amazon.co.jp/dp/B004N3APGO?language=en_US"
+   },
+   "backersLabel": {
+      "message": "Backers"
+   },
+   "bgColorLabel": {
+      "message": "Background color"
+   },
+   "bottomLabel": {
+      "message": "Bottom"
+   },
+   "bottomLeftLabel": {
+      "message": "Bottom left"
+   },
+   "bottomRightLabel": {
+      "message": "Bottom right"
+   },
+   "bottomSelectedTextLabel": {
+      "message": "Bottom of selected text"
+   },
+   "buttonPositionLabel": {
+      "message": "Display position"
+   },
+   "buttonSizeLabel": {
+      "message": "Size"
+   },
+   "buttonStyleCaptionLabel": {
+      "message": "Specify the style of the translation button displayed on the web page."
+   },
+   "buttonStyleLabel": {
+      "message": "Translation button"
+   },
+   "candidateFontColorLabel": {
+      "message": "Font color of translation candidates"
+   },
+   "clear": {
+      "message": "Clear"
+   },
+   "clickedPointLabel": {
+      "message": "Clicked point"
+   },
+   "cmdLabel": {
+      "message": "Command"
+   },
+   "copiedLabel": {
+      "message": "کاپی کیا ہوا۔"
+   },
+   "copyLabel": {
+      "message": "کاپی"
+   },
+   "ctrlLabel": {
+      "message": "Ctrl"
+   },
+   "currentTabLabel": {
+      "message": "Current tab"
+   },
+   "darkLabel": {
+      "message": "Dark"
+   },
+   "deeplApiCaptionLabel": {
+      "message": "Use DeepL API. You must register with DeepL API Free or DeepL API Pro to obtain an authentication key."
+   },
+   "deeplApiLabel": {
+      "message": "DeepL API"
+   },
+   "deeplAuthError": {
+      "message": "Error: Authentication of DeepL API failed. Please set the authentication key and plan correctly on the settings page."
+   },
+   "deeplAuthKeyCaptionLabel": {
+      "message": "Enter the authentication key for the DeepL API."
+   },
+   "deeplAuthKeyLabel": {
+      "message": "Authentication key"
+   },
+   "deeplFreeLabel": {
+      "message": "DeepL API Free"
+   },
+   "deeplPlanCaptionLabel": {
+      "message": "Select the DeepL API plan for which you registered."
+   },
+   "deeplPlanLabel": {
+      "message": "DeepL API plan"
+   },
+   "deeplProLabel": {
+      "message": "DeepL API Pro"
+   },
+   "disableOnThisPage": {
+      "message": "اس صفحے پر ترجمے کو غیرفعال کریں"
+   },
+   "disableTranslationLabel": {
+      "message": "Disable translation"
+   },
+   "disableUrlListCaptionLabel": {
+      "message": "If the page URL matches the list, translation on the web page is disabled. The list allows \"*\" wildcards."
+   },
+   "disableUrlListLabel": {
+      "message": "URL list to disable translation"
+   },
+   "displayDirectionLabel": {
+      "message": "Display position - Direction"
+   },
+   "donateLabel": {
+      "message": "خیرات"
+   },
+   "donateWithPaypalLabel": {
+      "message": "پے پال کے ساتھ ادا کریں"
+   },
+   "donationCaptionLabel": {
+      "message": "Thank you for using Simple Translate.\u003Cbr>Your support will be a big encouragement, as I continue to develop the add-on.\u003Cbr>If you like Simple Translate, I would be pleased if you could consider donating."
+   },
+   "donationLabel": {
+      "message": "Please make a donation"
+   },
+   "dontshowbuttonCaptionlabel": {
+      "message": "Don't display the translation button or the translation panel."
+   },
+   "dontshowbuttonlabel": {
+      "message": "Don't display button or panel"
+   },
+   "enableLabel": {
+      "message": "Enable"
+   },
+   "enableOnThisPage": {
+      "message": "اس صفحے پر ترجمے کو فعال کریں"
+   },
+   "exportButtonLabel": {
+      "message": "Export"
+   },
+   "exportSettingsCaptionLabel": {
+      "message": "Save the settings as a json file on the computer."
+   },
+   "exportSettingsLabel": {
+      "message": "Export settings"
+   },
+   "extDescription": {
+      "message": "آقا ،استاد ،مالک."
+   },
+   "extName": {
+      "message": "Simple Translate"
+   },
+   "extensionPageLabel": {
+      "message": "Extension page"
+   },
+   "fontSizeLabel": {
+      "message": "Font size"
+   },
+   "generalLabel": {
+      "message": "عمومی"
+   },
+   "googleApiCaptionLabel": {
+      "message": "Use Google Translate API. No registration is required."
+   },
+   "googleApiLabel": {
+      "message": "گوگل مترجم"
+   },
+   "heightLabel": {
+      "message": "Height"
+   },
+   "howToUseDeeplLabel": {
+      "message": "How to register DeepL API"
+   },
+   "ifAutoTranslateCaptionLabel": {
+      "message": "Directly display the translation panel without displaying the button."
+   },
+   "ifAutoTranslateLabel": {
+      "message": "Display translation panel"
+   },
+   "ifChangeSecondLangCaptionLabel": {
+      "message": "Detects the language of the input text, and if it is the same as the default target language, translate it into the second language."
+   },
+   "ifChangeSecondLangLabel": {
+      "message": "Automatically switch to the second language"
+   },
+   "ifChangeSecondLangOnPageCaptionLabel": {
+      "message": "Detects the language of the selected text, and if it is the same as the default target language, translate it into the second language."
+   },
+   "ifCheckLangCaptionLabel": {
+      "message": "Detects the language of the selected text, and if it is the same as the target language, the button is not displayed."
+   },
+   "ifCheckLangLabel": {
+      "message": "Do not display the button if translation is not required"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedCaptionLabel": {
+      "message": "Only display translation on specified modifier key pressed."
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedLabel": {
+      "message": "Translate on modifier key pressed"
+   },
+   "ifShowButtonCaptionLabel": {
+      "message": "Display the translation button to open the panel when clicked."
+   },
+   "ifShowButtonLabel": {
+      "message": "Display translation button"
+   },
+   "ifShowCandidateCaptionLabel": {
+      "message": "Show multiple translation candidates when a single word is translated."
+   },
+   "ifShowCandidateLabel": {
+      "message": "Show translation candidates"
+   },
+   "ifShowMenuCaptionLabel": {
+      "message": "Add items to the context menu displayed when right clicking on the web page or the tab."
+   },
+   "ifShowMenuLabel": {
+      "message": "Display the context menu"
+   },
+   "ignoredDocumentLangCaptionLabel": {
+      "message": "Disable translation if the lang attribute in the html element of the page matches the list. Enter comma-separated language tags."
+   },
+   "ignoredDocumentLangLabel": {
+      "message": "Disable translation by lang attribute"
+   },
+   "importButtonLabel": {
+      "message": "Import"
+   },
+   "importSettingsCaptionLabel": {
+      "message": "Load the settings file saved on the computer."
+   },
+   "importSettingsLabel": {
+      "message": "Import Settings"
+   },
+   "includeMacModifierKeysMessage": {
+      "message": "Include either Command, Ctrl or Alt"
+   },
+   "includeModifierKeysMessage": {
+      "message": "Include either Ctrl or Alt"
+   },
+   "informationLabel": {
+      "message": "Information"
+   },
+   "initialTextArea": {
+      "message": "ٹیکسٹ درج کریں"
+   },
+   "invalidLetterMessage": {
+      "message": "The letter can not be used"
+   },
+   "invalidShortcutMessage": {
+      "message": "The shortcut can not be used"
+   },
+   "isDebugModeCaptionLabel": {
+      "message": "When debug mode is enabled, the log is output to the debugger."
+   },
+   "isDebugModeLabel": {
+      "message": "Enable debug mode"
+   },
+   "isDisabledInCodeElementCaptionLabel": {
+      "message": "Don't display translation button or panel when selecting text in code tag."
+   },
+   "isDisabledInCodeElementLabel": {
+      "message": "Disable translation in code tags"
+   },
+   "isDisabledInTextFieldsCaptionLabel": {
+      "message": "Don't display translation button or panel when selecting text in a text field."
+   },
+   "isDisabledInTextFieldsLabel": {
+      "message": "Disable translation in text fields"
+   },
+   "isOverrideColorsLabel": {
+      "message": "Override default colors with colors below"
+   },
+   "isShowOptionsPageWhenUpdatedCaptionLabel": {
+      "message": "Display the options page when Simple Translate is updated. You can know the update contents quickly."
+   },
+   "isShowOptionsPageWhenUpdatedLabel": {
+      "message": "Display option page when updating"
+   },
+   "keyboardShortcutsLabel": {
+      "message": "Keyboard shortcuts"
+   },
+   "lang_af": {
+      "message": "Afrikaans"
+   },
+   "lang_am": {
+      "message": "Amharic"
+   },
+   "lang_ar": {
+      "message": "Arabic"
+   },
+   "lang_az": {
+      "message": "Azerbaijani"
+   },
+   "lang_be": {
+      "message": "Belarusian"
+   },
+   "lang_bg": {
+      "message": "Bulgarian"
+   },
+   "lang_bn": {
+      "message": "Bengali"
+   },
+   "lang_bs": {
+      "message": "Bosnian"
+   },
+   "lang_ca": {
+      "message": "Catalan"
+   },
+   "lang_ceb": {
+      "message": "Cebuano"
+   },
+   "lang_co": {
+      "message": "Corsican"
+   },
+   "lang_cs": {
+      "message": "Czech"
+   },
+   "lang_cy": {
+      "message": "Welsh"
+   },
+   "lang_da": {
+      "message": "Danish"
+   },
+   "lang_de": {
+      "message": "German"
+   },
+   "lang_el": {
+      "message": "Greek"
+   },
+   "lang_en": {
+      "message": "English"
+   },
+   "lang_en_GB": {
+      "message": "English (British)"
+   },
+   "lang_en_US": {
+      "message": "English (American)"
+   },
+   "lang_eo": {
+      "message": "Esperanto"
+   },
+   "lang_es": {
+      "message": "Spanish"
+   },
+   "lang_et": {
+      "message": "Estonian"
+   },
+   "lang_eu": {
+      "message": "Basque"
+   },
+   "lang_fa": {
+      "message": "Persian"
+   },
+   "lang_fi": {
+      "message": "Finnish"
+   },
+   "lang_fr": {
+      "message": "French"
+   },
+   "lang_fy": {
+      "message": "Frisian"
+   },
+   "lang_ga": {
+      "message": "Irish"
+   },
+   "lang_gd": {
+      "message": "Scottish Gaelic"
+   },
+   "lang_gl": {
+      "message": "Galician"
+   },
+   "lang_gu": {
+      "message": "Gujarati"
+   },
+   "lang_ha": {
+      "message": "Hausa"
+   },
+   "lang_haw": {
+      "message": "Hawaiian"
+   },
+   "lang_he": {
+      "message": "Hebrew"
+   },
+   "lang_hi": {
+      "message": "Hindi"
+   },
+   "lang_hmn": {
+      "message": "Monk"
+   },
+   "lang_hr": {
+      "message": "Croatian"
+   },
+   "lang_ht": {
+      "message": "Haitian"
+   },
+   "lang_hu": {
+      "message": "Hungarian"
+   },
+   "lang_hy": {
+      "message": "Armenian"
+   },
+   "lang_id": {
+      "message": "Indonesian"
+   },
+   "lang_ig": {
+      "message": "Igbo"
+   },
+   "lang_is": {
+      "message": "Icelandic"
+   },
+   "lang_it": {
+      "message": "Italian"
+   },
+   "lang_ja": {
+      "message": "Japanese"
+   },
+   "lang_jv": {
+      "message": "Javanese"
+   },
+   "lang_ka": {
+      "message": "Georgian"
+   },
+   "lang_kk": {
+      "message": "Kazakh"
+   },
+   "lang_km": {
+      "message": "Khmer"
+   },
+   "lang_kn": {
+      "message": "Kannada"
+   },
+   "lang_ko": {
+      "message": "Korean"
+   },
+   "lang_ku": {
+      "message": "Kurdish"
+   },
+   "lang_ky": {
+      "message": "Kirghiz"
+   },
+   "lang_la": {
+      "message": "Latin"
+   },
+   "lang_lb": {
+      "message": "Luxembourgish"
+   },
+   "lang_lo": {
+      "message": "Laotian"
+   },
+   "lang_lt": {
+      "message": "Lithuanian"
+   },
+   "lang_lv": {
+      "message": "Latvian"
+   },
+   "lang_mg": {
+      "message": "Malagasy"
+   },
+   "lang_mi": {
+      "message": "Maori"
+   },
+   "lang_mk": {
+      "message": "Macedonian"
+   },
+   "lang_ml": {
+      "message": "Malayalam"
+   },
+   "lang_mn": {
+      "message": "Mongolian"
+   },
+   "lang_mr": {
+      "message": "Marathi"
+   },
+   "lang_ms": {
+      "message": "Malay"
+   },
+   "lang_mt": {
+      "message": "Maltese"
+   },
+   "lang_my": {
+      "message": "Myanmar"
+   },
+   "lang_nb": {
+      "message": "Norwegian (bokmål)"
+   },
+   "lang_ne": {
+      "message": "Nepali"
+   },
+   "lang_nl": {
+      "message": "Dutch"
+   },
+   "lang_no": {
+      "message": "Norwegian"
+   },
+   "lang_ny": {
+      "message": "Chewa"
+   },
+   "lang_or": {
+      "message": "اوڑیا (اوڑیا)"
+   },
+   "lang_pa": {
+      "message": "Punjabi"
+   },
+   "lang_pl": {
+      "message": "Polish"
+   },
+   "lang_ps": {
+      "message": "Pushto"
+   },
+   "lang_pt": {
+      "message": "Portuguese"
+   },
+   "lang_pt_BR": {
+      "message": "Portuguese (Brazilian)"
+   },
+   "lang_pt_PT": {
+      "message": "Portuguese"
+   },
+   "lang_ro": {
+      "message": "Romanian"
+   },
+   "lang_ru": {
+      "message": "Russian"
+   },
+   "lang_rw": {
+      "message": "کینیاروانڈا"
+   },
+   "lang_sd": {
+      "message": "Sindhi"
+   },
+   "lang_si": {
+      "message": "Sinhala"
+   },
+   "lang_sk": {
+      "message": "Slovak"
+   },
+   "lang_sl": {
+      "message": "Slovenian"
+   },
+   "lang_sm": {
+      "message": "Samoan"
+   },
+   "lang_sn": {
+      "message": "Shona"
+   },
+   "lang_so": {
+      "message": "Somali"
+   },
+   "lang_sq": {
+      "message": "Albanian"
+   },
+   "lang_sr": {
+      "message": "Serbian"
+   },
+   "lang_st": {
+      "message": "سیسوتو"
+   },
+   "lang_su": {
+      "message": "Sundanese"
+   },
+   "lang_sv": {
+      "message": "Swedish"
+   },
+   "lang_sw": {
+      "message": "Swahili"
+   },
+   "lang_ta": {
+      "message": "Tamil"
+   },
+   "lang_te": {
+      "message": "Telugu"
+   },
+   "lang_tg": {
+      "message": "Tajiki"
+   },
+   "lang_th": {
+      "message": "Thai"
+   },
+   "lang_tk": {
+      "message": "ترکمان"
+   },
+   "lang_tl": {
+      "message": "Tagalog"
+   },
+   "lang_tr": {
+      "message": "Turkish"
+   },
+   "lang_tt": {
+      "message": "ٹاٹر"
+   },
+   "lang_ug": {
+      "message": "اویغور"
+   },
+   "lang_uk": {
+      "message": "Ukrainian"
+   },
+   "lang_ur": {
+      "message": "Urdu"
+   },
+   "lang_uz": {
+      "message": "Uzbek"
+   },
+   "lang_vi": {
+      "message": "Vietnamese"
+   },
+   "lang_xh": {
+      "message": "Xosa"
+   },
+   "lang_yi": {
+      "message": "Yiddish"
+   },
+   "lang_yo": {
+      "message": "Yoruba"
+   },
+   "lang_zh": {
+      "message": "Chinese"
+   },
+   "lang_zh_CN": {
+      "message": "Chinese (Simplified)"
+   },
+   "lang_zh_TW": {
+      "message": "Chinese (Traditional)"
+   },
+   "lang_zu": {
+      "message": "Zulu"
+   },
+   "leftLabel": {
+      "message": "Left"
+   },
+   "licenseLabel": {
+      "message": "License"
+   },
+   "lightLabel": {
+      "message": "Light"
+   },
+   "listenLabel": {
+      "message": "سنو"
+   },
+   "menuLabel": {
+      "message": "Context menu"
+   },
+   "modifierKeyLabel": {
+      "message": "Modifier Key"
+   },
+   "networkError": {
+      "message": "Error: Check network connection status."
+   },
+   "newTabLabel": {
+      "message": "New tab"
+   },
+   "openInDeeplLabel": {
+      "message": "مالک"
+   },
+   "openInGoogleLabel": {
+      "message": "گوگل ترجمے میں کھولیں"
+   },
+   "openPopupDescription": {
+      "message": "Open toolbar popup"
+   },
+   "otherLabel": {
+      "message": "Other"
+   },
+   "pageTranslationLabel": {
+      "message": "Page translation"
+   },
+   "pageTranslationOpenToCaptionLabel": {
+      "message": "پیج کے نتائج ملاحظہ کرنے کے لئے ٹیب منتخب کریں۔"
+   },
+   "pageTranslationOpenToLabel": {
+      "message": "Tab to display translation results"
+   },
+   "panelStyleCaptionLabel": {
+      "message": "Specify the style of the translation panel displayed on the web page."
+   },
+   "panelStyleLabel": {
+      "message": "Translation panel"
+   },
+   "positionOffsetLabel": {
+      "message": "Display position - Offset"
+   },
+   "privacyPolicyLabel": {
+      "message": "Privacy policy"
+   },
+   "recentLangLabel": {
+      "message": "حالیہ زبانیں"
+   },
+   "referencePointLabel": {
+      "message": "Display position - Reference point"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "resetSettingsButtonLabel": {
+      "message": "Reset"
+   },
+   "resetSettingsCaptionLabel": {
+      "message": "Restore all settings to default."
+   },
+   "resetSettingsLabel": {
+      "message": "Reset settings"
+   },
+   "resultFontColorLabel": {
+      "message": "Font color of translation result"
+   },
+   "rightLabel": {
+      "message": "Right"
+   },
+   "secondTargetLangCaptionLabel": {
+      "message": "Select the second target language."
+   },
+   "secondTargetLangLabel": {
+      "message": "Second language"
+   },
+   "setKeyboardShortCutsMessage": {
+      "message": "Set keyboard shortcuts."
+   },
+   "settingsLabel": {
+      "message": "ترتیبات"
+   },
+   "shiftLabel": {
+      "message": "Shift"
+   },
+   "shortcutsLabel": {
+      "message": "Shortcuts"
+   },
+   "showLink": {
+      "message": "اس صفحے کا ترجمہ کریں"
+   },
+   "sponsorsLabel": {
+      "message": "Sponsors"
+   },
+   "styleLabel": {
+      "message": "Style"
+   },
+   "systemLabel": {
+      "message": "System"
+   },
+   "targetLangCaptionLabel": {
+      "message": "Select the default target language."
+   },
+   "targetLangLabel": {
+      "message": "ٹارگٹ زبان"
+   },
+   "themeCaptionLabel": {
+      "message": "Specify the color scheme."
+   },
+   "themeLabel": {
+      "message": "Theme"
+   },
+   "toolbarLabel": {
+      "message": "Toolbar popup"
+   },
+   "topLabel": {
+      "message": "Top"
+   },
+   "topLeftLabel": {
+      "message": "Top left"
+   },
+   "topRightLabel": {
+      "message": "Top right"
+   },
+   "topSelectedTextLabel": {
+      "message": "Top of selected text"
+   },
+   "translateLinkMenu": {
+      "message": "Translate selected link"
+   },
+   "translatePageMenu": {
+      "message": "اس صفحے کا ترجمہ کریں"
+   },
+   "translateTextMenu": {
+      "message": "Translate selected text"
+   },
+   "translationApiLabel": {
+      "message": "Translation engine"
+   },
+   "typeLetterMessage": {
+      "message": "Type a letter"
+   },
+   "typeShortcutMessage": {
+      "message": "Type a shortcut"
+   },
+   "unavailableError": {
+      "message": "Error: Service usage limit reached. Please wait a while and try again."
+   },
+   "unknownError": {
+      "message": "Error: Unknown error"
+   },
+   "waitTime2CaptionLabel": {
+      "message": "If you translate it many times in a short time, it may become unusable for a while."
+   },
+   "waitTimeCaptionLabel": {
+      "message": "Specify the waiting time from the input of a character to the start of translation. (millisecond)"
+   },
+   "waitTimeLabel": {
+      "message": "Waiting time to translate"
+   },
+   "webPageLabel": {
+      "message": "Web page"
+   },
+   "whenSelectTextLabel": {
+      "message": "Behavior when selecting text"
+   },
+   "widthLabel": {
+      "message": "Width"
+   }
+}

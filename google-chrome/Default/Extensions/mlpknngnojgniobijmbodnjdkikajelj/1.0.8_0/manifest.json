@@ -1,0 +1,46 @@
+{
+   "action": {
+      "icons": {
+         "128": "img/icon128.png",
+         "48": "img/icon48.png"
+      }
+   },
+   "background": {
+      "service_worker": "js/bg.js"
+   },
+   "commands": {
+      "open-omni": {
+         "description": "Open command menu",
+         "suggested_key": {
+            "default": "Ctrl+Shift+K",
+            "mac": "Command+Shift+K"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/content.css" ],
+      "js": [ "js/inject.js", "js/lib/jquery.js", "js/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "https://www.googleapis.com/*", "https://gstatic.com/*", "*://*/*" ],
+   "icons": {
+      "128": "img/icon128.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnsOYHtxB/Uk92Ui8e5FIAWZP4b868wNcD5kQvurZC3UzBNVwVgNMDFR1Cd09Z7Ii87hdmpVK+3ACyN5HFsC1ubGT9MMU4fEqCUPU65jlZfP3Bh+UVewfJ6PD9K9bxKyyJuW/oVuDgj9qozVO7G7IFCG/UaUF/wwAKWaoHEUml9GEAITq3HVDRaNrXAfRoClNNRU53zhZ9JvIJI6sYnk1Iz4wG98ByJo6QQ+QNYOm0BoXWu5+Wxx3CpwQbXokGHvt0TfyWLPk1cytQ73gSwWCoECwA5X/MyEtCf5zt1ybwcarvSkb0MRu6ou1rO4e3hM9z8p21s6l4LyAre+NEAWinwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "activeTab", "bookmarks", "browsingData", "history", "scripting", "search", "storage", "alarms" ],
+   "short_name": "Tab Session",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.8",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "html/content.html", "html/tab.html", "assets/*" ]
+   } ]
+}

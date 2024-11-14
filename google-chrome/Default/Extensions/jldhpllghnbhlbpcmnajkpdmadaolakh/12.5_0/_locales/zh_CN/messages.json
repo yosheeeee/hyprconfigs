@@ -1,0 +1,23 @@
+{
+   "addToTodoist": {
+      "message": "添加到Todoist"
+   },
+   "appDesc": {
+      "message": "使用Chrome版Todoist管理邮件"
+   },
+   "appName": {
+      "message": "Chrome版Todoist"
+   },
+   "firefoxPrivateMode": {
+      "message": "插件无法在隐私模式下运行"
+   },
+   "optionsAddDueTitle": {
+      "message": "通过Chrome插件添加的任务："
+   },
+   "optionsAddTodayLabel": {
+      "message": "设置默认截止日期为“今天”"
+   },
+   "optionsSaved": {
+      "message": "已保存"
+   }
+}

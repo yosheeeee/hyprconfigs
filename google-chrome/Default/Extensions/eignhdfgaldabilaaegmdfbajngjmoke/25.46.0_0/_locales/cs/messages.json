@@ -1,0 +1,2090 @@
+{
+   "cj_i18n_00000": {
+      "message": "Nejsnadnější přístup do světa Googlu"
+   },
+   "cj_i18n_00002": {
+      "message": "Sdíleno se mnou"
+   },
+   "cj_i18n_00003": {
+      "message": "Naposledy otevřeno"
+   },
+   "cj_i18n_00004": {
+      "message": "Označen"
+   },
+   "cj_i18n_00005": {
+      "message": "Koš"
+   },
+   "cj_i18n_00014": {
+      "message": "Videa"
+   },
+   "cj_i18n_00015": {
+      "message": "Nákup"
+   },
+   "cj_i18n_00017": {
+      "message": "Obrázky"
+   },
+   "cj_i18n_00018": {
+      "message": "Zprávy"
+   },
+   "cj_i18n_00019": {
+      "message": "Knihy"
+   },
+   "cj_i18n_00021": {
+      "message": "Svět"
+   },
+   "cj_i18n_00022": {
+      "message": "Vaše země"
+   },
+   "cj_i18n_00025": {
+      "message": "Zábava"
+   },
+   "cj_i18n_00026": {
+      "message": "Sport"
+   },
+   "cj_i18n_00027": {
+      "message": "Zdraví"
+   },
+   "cj_i18n_00046": {
+      "message": "Zadejte co chcete vyhledat"
+   },
+   "cj_i18n_00047": {
+      "message": "Více"
+   },
+   "cj_i18n_00061": {
+      "message": "Prozkoumat"
+   },
+   "cj_i18n_00081": {
+      "message": "Připomenutí"
+   },
+   "cj_i18n_00083": {
+      "message": "Všechno"
+   },
+   "cj_i18n_00084": {
+      "message": "Otevřít službu v novém okně"
+   },
+   "cj_i18n_00085": {
+      "message": "Vyhledávání"
+   },
+   "cj_i18n_00086": {
+      "message": "Vyhledávání v novém okně"
+   },
+   "cj_i18n_00090": {
+      "message": "Nový soubor"
+   },
+   "cj_i18n_00093": {
+      "message": "Naposledy změněno"
+   },
+   "cj_i18n_00094": {
+      "message": "Naposledy změněno mnou"
+   },
+   "cj_i18n_00095": {
+      "message": "Poslední otevřený mnou"
+   },
+   "cj_i18n_00096": {
+      "message": "Seřadit podle"
+   },
+   "cj_i18n_00097": {
+      "message": "Odstranění"
+   },
+   "cj_i18n_00098": {
+      "message": "reporty"
+   },
+   "cj_i18n_00099": {
+      "message": "dokumenty"
+   },
+   "cj_i18n_00100": {
+      "message": "tabulky"
+   },
+   "cj_i18n_00101": {
+      "message": "prezentace"
+   },
+   "cj_i18n_00102": {
+      "message": "formuláře"
+   },
+   "cj_i18n_00103": {
+      "message": "kresby"
+   },
+   "cj_i18n_00104": {
+      "message": "mapy"
+   },
+   "cj_i18n_00105": {
+      "message": "weby"
+   },
+   "cj_i18n_00106": {
+      "message": "Změnit zobrazení"
+   },
+   "cj_i18n_00107": {
+      "message": "Vše"
+   },
+   "cj_i18n_00108": {
+      "message": "Vlastněné mnou"
+   },
+   "cj_i18n_00110": {
+      "message": "Filtr"
+   },
+   "cj_i18n_00112": {
+      "message": "Weby"
+   },
+   "cj_i18n_00116": {
+      "message": "Zadejte synonymum nebo více klíčových slov"
+   },
+   "cj_i18n_00121": {
+      "message": "Složky"
+   },
+   "cj_i18n_00122": {
+      "message": "Soubory"
+   },
+   "cj_i18n_00123": {
+      "message": "Otevřít složku v nové kartě"
+   },
+   "cj_i18n_00131": {
+      "message": "Knihovna"
+   },
+   "cj_i18n_00134": {
+      "message": "Obchod"
+   },
+   "cj_i18n_00137": {
+      "message": "Soubory PDF"
+   },
+   "cj_i18n_00138": {
+      "message": "Textové dokumenty"
+   },
+   "cj_i18n_00139": {
+      "message": "Tabulky"
+   },
+   "cj_i18n_00140": {
+      "message": "Prezentace"
+   },
+   "cj_i18n_00141": {
+      "message": "Fotky & obrázky"
+   },
+   "cj_i18n_00142": {
+      "message": "Videa"
+   },
+   "cj_i18n_00144": {
+      "message": "soubory"
+   },
+   "cj_i18n_00155": {
+      "message": "Historie"
+   },
+   "cj_i18n_00161": {
+      "message": "O mně"
+   },
+   "cj_i18n_00162": {
+      "message": "Zpět"
+   },
+   "cj_i18n_00165": {
+      "message": "Leden"
+   },
+   "cj_i18n_00166": {
+      "message": "Únor"
+   },
+   "cj_i18n_00167": {
+      "message": "Březen"
+   },
+   "cj_i18n_00168": {
+      "message": "Duben"
+   },
+   "cj_i18n_00169": {
+      "message": "Květen"
+   },
+   "cj_i18n_00170": {
+      "message": "Červen"
+   },
+   "cj_i18n_00171": {
+      "message": "Červenec"
+   },
+   "cj_i18n_00172": {
+      "message": "Srpen"
+   },
+   "cj_i18n_00173": {
+      "message": "Září"
+   },
+   "cj_i18n_00174": {
+      "message": "Říjen"
+   },
+   "cj_i18n_00175": {
+      "message": "Listopad"
+   },
+   "cj_i18n_00176": {
+      "message": "Prosinec"
+   },
+   "cj_i18n_00178": {
+      "message": "Hlavní"
+   },
+   "cj_i18n_00182": {
+      "message": "Diskuze"
+   },
+   "cj_i18n_00183": {
+      "message": "Upozornění"
+   },
+   "cj_i18n_00184": {
+      "message": "Důležité"
+   },
+   "cj_i18n_00185": {
+      "message": "Chaty"
+   },
+   "cj_i18n_00187": {
+      "message": "Koncepty"
+   },
+   "cj_i18n_00188": {
+      "message": "všechny zprávy"
+   },
+   "cj_i18n_00190": {
+      "message": "Záložky"
+   },
+   "cj_i18n_00198": {
+      "message": "Všechny ceny"
+   },
+   "cj_i18n_00199": {
+      "message": "Zdarma"
+   },
+   "cj_i18n_00200": {
+      "message": "Placené"
+   },
+   "cj_i18n_00205": {
+      "message": "Umělci"
+   },
+   "cj_i18n_00207": {
+      "message": "Písně"
+   },
+   "cj_i18n_00214": {
+      "message": "E-mail"
+   },
+   "cj_i18n_00216": {
+      "message": "Aplikace"
+   },
+   "cj_i18n_00217": {
+      "message": "Hry"
+   },
+   "cj_i18n_00218": {
+      "message": "Knihy"
+   },
+   "cj_i18n_00225": {
+      "message": "Zatím za dnešek"
+   },
+   "cj_i18n_00226": {
+      "message": "Včera"
+   },
+   "cj_i18n_00227": {
+      "message": "vs stejný den v minulém týdnu"
+   },
+   "cj_i18n_00228": {
+      "message": "Zatím za tento měsíc"
+   },
+   "cj_i18n_00233": {
+      "message": "Neexistuje žádný účet AdSense připojuje k tomuto účtu Google"
+   },
+   "cj_i18n_00235": {
+      "message": "Než budete moci používat tuto stránku, je třeba umožnit přístup k načtení dat služby Google AdSense"
+   },
+   "cj_i18n_00238": {
+      "message": "Chcete-li používat službu Google Admin, musíte používat účet Workspace."
+   },
+   "cj_i18n_00240": {
+      "message": "Uživatelé"
+   },
+   "cj_i18n_00243": {
+      "message": "Migrace"
+   },
+   "cj_i18n_00244": {
+      "message": "Domény"
+   },
+   "cj_i18n_00246": {
+      "message": "Nastavení přístroje"
+   },
+   "cj_i18n_00247": {
+      "message": "Podpora"
+   },
+   "cj_i18n_00248": {
+      "message": "Skupiny"
+   },
+   "cj_i18n_00250": {
+      "message": "Zabezpečení"
+   },
+   "cj_i18n_00251": {
+      "message": "Fakturace"
+   },
+   "cj_i18n_00252": {
+      "message": "Role"
+   },
+   "cj_i18n_00259": {
+      "message": "Než budete moci používat tuto stránku, je třeba umožnit přístup k načtení blogů na Bloggeru"
+   },
+   "cj_i18n_00260": {
+      "message": "Nebyly nalezeny žádné blogy"
+   },
+   "cj_i18n_00261": {
+      "message": "Chcete-li vytvořit nový blog, přejděte na blogger.com"
+   },
+   "cj_i18n_00262": {
+      "message": "Nelze načíst vaše blogy"
+   },
+   "cj_i18n_00263": {
+      "message": "Prosím, ujistěte se, že jste připojeni k internetu"
+   },
+   "cj_i18n_00265": {
+      "message": "Události nenalezeny"
+   },
+   "cj_i18n_00266": {
+      "message": "Chcete-li přidat novou událost, klikněte na červené tlačítko v pravém dolním rohu"
+   },
+   "cj_i18n_00267": {
+      "message": "Dnes se nekoná žádná událost"
+   },
+   "cj_i18n_00268": {
+      "message": "Nová událost"
+   },
+   "cj_i18n_00270": {
+      "message": "Nástroj pro testování strukturovaných dat"
+   },
+   "cj_i18n_00271": {
+      "message": "Pomocník pro práci se značkami strukturovaných dat"
+   },
+   "cj_i18n_00276": {
+      "message": "Vlastní vyhledávání"
+   },
+   "cj_i18n_00284": {
+      "message": "Než budete moci tuto stránku používat, musíte jí udělit přístup ke službě Google Search Console"
+   },
+   "cj_i18n_00287": {
+      "message": "Test vhodnosti pro mobily"
+   },
+   "cj_i18n_00288": {
+      "message": "Test AMP"
+   },
+   "cj_i18n_00291": {
+      "message": "Domů"
+   },
+   "cj_i18n_00292": {
+      "message": "Sbírky"
+   },
+   "cj_i18n_00293": {
+      "message": "Komunity"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Lidé"
+   },
+   "cj_i18n_00296": {
+      "message": "Oznámení"
+   },
+   "cj_i18n_00298": {
+      "message": "Nastavení"
+   },
+   "cj_i18n_00299": {
+      "message": "Doručená pošta"
+   },
+   "cj_i18n_00300": {
+      "message": "Odloženo"
+   },
+   "cj_i18n_00301": {
+      "message": "Hotovo"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalendář"
+   },
+   "cj_i18n_00303": {
+      "message": "odesláno"
+   },
+   "cj_i18n_00309": {
+      "message": "Uložené"
+   },
+   "cj_i18n_00310": {
+      "message": "Nákupy"
+   },
+   "cj_i18n_00312": {
+      "message": "Sociální"
+   },
+   "cj_i18n_00313": {
+      "message": "aktualizace"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontakty"
+   },
+   "cj_i18n_00316": {
+      "message": "nízká priorita"
+   },
+   "cj_i18n_00321": {
+      "message": "Před použitím této stránky je třeba povolit přístup k načtení knih Google. V případě, že chcete pouze vyhledávat knihy, přejděte na stránku vyhledávání v tomto rozšíření."
+   },
+   "cj_i18n_00322": {
+      "message": "Knihy nenalezeny"
+   },
+   "cj_i18n_00325": {
+      "message": "Načítání…"
+   },
+   "cj_i18n_00331": {
+      "message": "Vše"
+   },
+   "cj_i18n_00337": {
+      "message": "Přihlásit"
+   },
+   "cj_i18n_00343": {
+      "message": "Vývojáři"
+   },
+   "cj_i18n_00346": {
+      "message": "Vyhledávání Google zkratky"
+   },
+   "cj_i18n_00349": {
+      "message": "Zpětná vazba a podpora"
+   },
+   "cj_i18n_00350": {
+      "message": "Položit otázku"
+   },
+   "cj_i18n_00351": {
+      "message": "Nahlásit chybu"
+   },
+   "cj_i18n_00352": {
+      "message": "Požádat o funkci"
+   },
+   "cj_i18n_00354": {
+      "message": "Přispět"
+   },
+   "cj_i18n_00361": {
+      "message": "Přidat účet"
+   },
+   "cj_i18n_00363": {
+      "message": "Brandový účet"
+   },
+   "cj_i18n_00388": {
+      "message": "Moje skupiny"
+   },
+   "cj_i18n_00390": {
+      "message": "Disk"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumenty"
+   },
+   "cj_i18n_00392": {
+      "message": "Vytvořit novou skupinu"
+   },
+   "cj_i18n_00400": {
+      "message": "Alba"
+   },
+   "cj_i18n_00406": {
+      "message": "Pokročilé vyhledávání"
+   },
+   "cj_i18n_00408": {
+      "message": "Formuláře"
+   },
+   "cj_i18n_00409": {
+      "message": "Kresby"
+   },
+   "cj_i18n_00414": {
+      "message": "Lety"
+   },
+   "cj_i18n_00418": {
+      "message": "Skupiny"
+   },
+   "cj_i18n_00423": {
+      "message": "Mapy"
+   },
+   "cj_i18n_00424": {
+      "message": "Přehrávání filmů"
+   },
+   "cj_i18n_00425": {
+      "message": "Zprávy"
+   },
+   "cj_i18n_00427": {
+      "message": "Patenty"
+   },
+   "cj_i18n_00429": {
+      "message": "Fotky"
+   },
+   "cj_i18n_00434": {
+      "message": "Vyhledávání"
+   },
+   "cj_i18n_00435": {
+      "message": "Nákupy"
+   },
+   "cj_i18n_00438": {
+      "message": "Nápověda"
+   },
+   "cj_i18n_00440": {
+      "message": "Překladač"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendy"
+   },
+   "cj_i18n_00449": {
+      "message": "Peněženka"
+   },
+   "cj_i18n_00453": {
+      "message": "Moje klientské centrum"
+   },
+   "cj_i18n_00458": {
+      "message": "Umění a kultura"
+   },
+   "cj_i18n_00460": {
+      "message": "Knihy"
+   },
+   "cj_i18n_00462": {
+      "message": "Internetový obchod Chrome"
+   },
+   "cj_i18n_00463": {
+      "message": "Panel pro vývojáře"
+   },
+   "cj_i18n_00464": {
+      "message": "Rozšíření"
+   },
+   "cj_i18n_00465": {
+      "message": "Motivy"
+   },
+   "cj_i18n_00470": {
+      "message": "Nástěnka"
+   },
+   "cj_i18n_00472": {
+      "message": "Zemní motor"
+   },
+   "cj_i18n_00476": {
+      "message": "Nový Email"
+   },
+   "cj_i18n_00477": {
+      "message": "Nástroje pro zadávání dat"
+   },
+   "cj_i18n_00480": {
+      "message": "Filmy"
+   },
+   "cj_i18n_00481": {
+      "message": "Účet"
+   },
+   "cj_i18n_00484": {
+      "message": "Události"
+   },
+   "cj_i18n_00488": {
+      "message": "Obrázky"
+   },
+   "cj_i18n_00494": {
+      "message": "Měsíc"
+   },
+   "cj_i18n_00500": {
+      "message": "Prohledat nastavení"
+   },
+   "cj_i18n_00501": {
+      "message": "Nebe"
+   },
+   "cj_i18n_00509": {
+      "message": "Videa"
+   },
+   "cj_i18n_00523": {
+      "message": "Plánovač klíčových slov"
+   },
+   "cj_i18n_00538": {
+      "message": "Plánovací nástroje"
+   },
+   "cj_i18n_00555": {
+      "message": "Přidat místo"
+   },
+   "cj_i18n_00556": {
+      "message": "Mobilní aplikace"
+   },
+   "cj_i18n_00561": {
+      "message": "úložiště na Disku"
+   },
+   "cj_i18n_00566": {
+      "message": "Dvou-fázové ověření"
+   },
+   "cj_i18n_00601": {
+      "message": "Průzkum"
+   },
+   "cj_i18n_00603": {
+      "message": "Synchronizace"
+   },
+   "cj_i18n_00607": {
+      "message": "Nový dokument"
+   },
+   "cj_i18n_00608": {
+      "message": "Nová tabulka"
+   },
+   "cj_i18n_00616": {
+      "message": "Sejf"
+   },
+   "cj_i18n_00626": {
+      "message": "Vytvořit"
+   },
+   "cj_i18n_00634": {
+      "message": "Moje příspěvky"
+   },
+   "cj_i18n_00640": {
+      "message": "Historické okamžiky"
+   },
+   "cj_i18n_00641": {
+      "message": "projekty"
+   },
+   "cj_i18n_00674": {
+      "message": "Admin-Práva"
+   },
+   "cj_i18n_00675": {
+      "message": "Zprávy"
+   },
+   "cj_i18n_00686": {
+      "message": "Vývojáři - CLA"
+   },
+   "cj_i18n_00687": {
+      "message": "Vývojáři – Codelabs"
+   },
+   "cj_i18n_00688": {
+      "message": "Nový web"
+   },
+   "cj_i18n_00689": {
+      "message": "Moje aktivita"
+   },
+   "cj_i18n_00692": {
+      "message": "Oblíbené"
+   },
+   "cj_i18n_00728": {
+      "message": "Asistent"
+   },
+   "cj_i18n_00744": {
+      "message": "Brandové účty"
+   },
+   "cj_i18n_00745": {
+      "message": "Nastavení reklam"
+   },
+   "cj_i18n_00801": {
+      "message": "Recenze"
+   },
+   "cj_i18n_00802": {
+      "message": "Místa"
+   },
+   "cj_i18n_00807": {
+      "message": "Moje knihovna"
+   },
+   "cj_i18n_00808": {
+      "message": "Historie Chatu"
+   },
+   "cj_i18n_00821": {
+      "message": "Archiv"
+   },
+   "cj_i18n_00829": {
+      "message": "Převodník měn"
+   },
+   "cj_i18n_00835": {
+      "message": "Produkty"
+   },
+   "cj_i18n_00838": {
+      "message": "Informace"
+   },
+   "cj_i18n_00868": {
+      "message": "Fotoknihy"
+   },
+   "cj_i18n_00878": {
+      "message": "Usnadnění"
+   },
+   "cj_i18n_00901": {
+      "message": "Ochrana soukromí"
+   },
+   "cj_i18n_00905": {
+      "message": "Sdílená podpora"
+   },
+   "cj_i18n_00917": {
+      "message": "Zálohování a synchronizace"
+   },
+   "cj_i18n_00926": {
+      "message": "Prozkoumat"
+   },
+   "cj_i18n_00927": {
+      "message": "AR Experimenty"
+   },
+   "cj_i18n_00930": {
+      "message": "Experimenty"
+   },
+   "cj_i18n_00931": {
+      "message": "Kvalita provozu reklam"
+   },
+   "cj_i18n_00946": {
+      "message": "Edice na Play"
+   },
+   "cj_i18n_00986": {
+      "message": "Vývojáři newsletter"
+   },
+   "cj_i18n_00987": {
+      "message": "Vývojářské události"
+   },
+   "cj_i18n_00990": {
+      "message": "Příspěvky"
+   },
+   "cj_i18n_00992": {
+      "message": "Webová stránka"
+   },
+   "cj_i18n_00994": {
+      "message": "Fotky"
+   },
+   "cj_i18n_00996": {
+      "message": "Admin-Karanténa"
+   },
+   "cj_i18n_00999": {
+      "message": "Hrát hry"
+   },
+   "cj_i18n_01006": {
+      "message": "Heslo aplikace"
+   },
+   "cj_i18n_01007": {
+      "message": "Ovládací panel stavu reklam"
+   },
+   "cj_i18n_01019": {
+      "message": "Profil"
+   },
+   "cj_i18n_01025": {
+      "message": "Pokyny pro návrh designu Wear OS"
+   },
+   "cj_i18n_01028": {
+      "message": "Nákupní seznam"
+   },
+   "cj_i18n_01031": {
+      "message": "Aprílové žertíky"
+   },
+   "cj_i18n_01055": {
+      "message": "Pro tebe"
+   },
+   "cj_i18n_01071": {
+      "message": "G Pay pro Business"
+   },
+   "cj_i18n_01073": {
+      "message": "Pravidla"
+   },
+   "cj_i18n_01079": {
+      "message": "Manažer cílové skupiny"
+   },
+   "cj_i18n_01080": {
+      "message": "Seznamy negativních klíčových slov"
+   },
+   "cj_i18n_01081": {
+      "message": "Sdílené rozpočty"
+   },
+   "cj_i18n_01082": {
+      "message": "Seznamy vyloučených umístění"
+   },
+   "cj_i18n_01084": {
+      "message": "Zprávy"
+   },
+   "cj_i18n_01087": {
+      "message": "Rezervace"
+   },
+   "cj_i18n_01089": {
+      "message": "Předplatné"
+   },
+   "cj_i18n_01092": {
+      "message": "Certifikovaný vydavatelský partner"
+   },
+   "cj_i18n_01095": {
+      "message": "Reklamy"
+   },
+   "cj_i18n_01096": {
+      "message": "Google Ads-Pomoc"
+   },
+   "cj_i18n_01097": {
+      "message": "Správce reklam"
+   },
+   "cj_i18n_01107": {
+      "message": "Nedávno zobrazené"
+   },
+   "cj_i18n_01113": {
+      "message": "místní trhy"
+   },
+   "cj_i18n_01114": {
+      "message": "Světové trhy"
+   },
+   "cj_i18n_01149": {
+      "message": "Reklamy pro vyhledávání"
+   },
+   "cj_i18n_01150": {
+      "message": "Stránky"
+   },
+   "cj_i18n_01151": {
+      "message": "Nástroje pro blokování"
+   },
+   "cj_i18n_01152": {
+      "message": "Přehledy"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimalizace"
+   },
+   "cj_i18n_01154": {
+      "message": "Platby"
+   },
+   "cj_i18n_01161": {
+      "message": "Náhled"
+   },
+   "cj_i18n_01163": {
+      "message": "Přepnout produkty"
+   },
+   "cj_i18n_01164": {
+      "message": "Odstranit z menu"
+   },
+   "cj_i18n_01167": {
+      "message": "Záložky"
+   },
+   "cj_i18n_01168": {
+      "message": "Nástěnka"
+   },
+   "cj_i18n_01169": {
+      "message": "Poznámky"
+   },
+   "cj_i18n_01174": {
+      "message": "Načítání"
+   },
+   "cj_i18n_01178": {
+      "message": "Pokračovat"
+   },
+   "cj_i18n_01179": {
+      "message": "vs stejné období loňského roku"
+   },
+   "cj_i18n_01180": {
+      "message": "vs minulých 28 dní"
+   },
+   "cj_i18n_01181": {
+      "message": "Za posledních 28 dní"
+   },
+   "cj_i18n_01182": {
+      "message": "Obnovit reporty"
+   },
+   "cj_i18n_01183": {
+      "message": "Vaše blogy"
+   },
+   "cj_i18n_01184": {
+      "message": "Příspěvky"
+   },
+   "cj_i18n_01185": {
+      "message": "Statistiky"
+   },
+   "cj_i18n_01186": {
+      "message": "Komentáře"
+   },
+   "cj_i18n_01187": {
+      "message": "Výdělky"
+   },
+   "cj_i18n_01188": {
+      "message": "Stránky"
+   },
+   "cj_i18n_01189": {
+      "message": "Rozložení"
+   },
+   "cj_i18n_01190": {
+      "message": "Téma"
+   },
+   "cj_i18n_01191": {
+      "message": "Čtení seznamu"
+   },
+   "cj_i18n_01196": {
+      "message": "Playlisty"
+   },
+   "cj_i18n_01197": {
+      "message": "Nové hledání"
+   },
+   "cj_i18n_01204": {
+      "message": "Hudba"
+   },
+   "cj_i18n_01219": {
+      "message": "Rodina"
+   },
+   "cj_i18n_01229": {
+      "message": "Nástěnka"
+   },
+   "cj_i18n_01251": {
+      "message": "Exportovat záložky"
+   },
+   "cj_i18n_01253": {
+      "message": "Dnes"
+   },
+   "cj_i18n_01254": {
+      "message": "Nastavení a sdílení"
+   },
+   "cj_i18n_01255": {
+      "message": "Třídy"
+   },
+   "cj_i18n_01256": {
+      "message": "Kalendář"
+   },
+   "cj_i18n_01257": {
+      "message": "Archivované třídy"
+   },
+   "cj_i18n_01261": {
+      "message": "Časový úsek"
+   },
+   "cj_i18n_01262": {
+      "message": "Vždy"
+   },
+   "cj_i18n_01263": {
+      "message": "Včera"
+   },
+   "cj_i18n_01264": {
+      "message": "Minulý týden"
+   },
+   "cj_i18n_01265": {
+      "message": "Minulý měsíc"
+   },
+   "cj_i18n_01266": {
+      "message": "Minulý rok"
+   },
+   "cj_i18n_01267": {
+      "message": "Typ"
+   },
+   "cj_i18n_01268": {
+      "message": "Jakýkoliv typ"
+   },
+   "cj_i18n_01269": {
+      "message": "Obrázky"
+   },
+   "cj_i18n_01270": {
+      "message": "Kresby"
+   },
+   "cj_i18n_01274": {
+      "message": "Pošta"
+   },
+   "cj_i18n_01275": {
+      "message": "Kontakty nenalezeny"
+   },
+   "cj_i18n_01276": {
+      "message": "Často kontaktován"
+   },
+   "cj_i18n_01277": {
+      "message": "Duplicita"
+   },
+   "cj_i18n_01278": {
+      "message": "Ostatní kontakty"
+   },
+   "cj_i18n_01279": {
+      "message": "Umístění"
+   },
+   "cj_i18n_01280": {
+      "message": "Popis"
+   },
+   "cj_i18n_01281": {
+      "message": "Třídit"
+   },
+   "cj_i18n_01282": {
+      "message": "Třídit dle příjmení"
+   },
+   "cj_i18n_01283": {
+      "message": "Třídit dle jména"
+   },
+   "cj_i18n_01284": {
+      "message": "Žádný další kontakt nenalezen"
+   },
+   "cj_i18n_01285": {
+      "message": "Vytvořit kontakt"
+   },
+   "cj_i18n_01292": {
+      "message": "Admin-Konzole"
+   },
+   "cj_i18n_01293": {
+      "message": "projekty"
+   },
+   "cj_i18n_01294": {
+      "message": "skripty"
+   },
+   "cj_i18n_01296": {
+      "message": "Mé projekty"
+   },
+   "cj_i18n_01297": {
+      "message": "Všechny projekty"
+   },
+   "cj_i18n_01299": {
+      "message": "Reporty"
+   },
+   "cj_i18n_01300": {
+      "message": "Zdroje dat"
+   },
+   "cj_i18n_01301": {
+      "message": "Prozkoumat"
+   },
+   "cj_i18n_01302": {
+      "message": "Přehled produktů"
+   },
+   "cj_i18n_01304": {
+      "message": "Připojení k datům"
+   },
+   "cj_i18n_01305": {
+      "message": "Nové vlastnosti"
+   },
+   "cj_i18n_01306": {
+      "message": "Video tutoriály"
+   },
+   "cj_i18n_01307": {
+      "message": "Počítače"
+   },
+   "cj_i18n_01308": {
+      "message": "Zálohy"
+   },
+   "cj_i18n_01309": {
+      "message": "aplikace Google"
+   },
+   "cj_i18n_01310": {
+      "message": "Další aplikace"
+   },
+   "cj_i18n_01322": {
+      "message": "Stahování aplikací"
+   },
+   "cj_i18n_01326": {
+      "message": "Nahrát"
+   },
+   "cj_i18n_01328": {
+      "message": "Sdílení"
+   },
+   "cj_i18n_01331": {
+      "message": "Růst"
+   },
+   "cj_i18n_01334": {
+      "message": "Události"
+   },
+   "cj_i18n_01339": {
+      "message": "Témat / zdroje"
+   },
+   "cj_i18n_01341": {
+      "message": "Uložené příběhy"
+   },
+   "cj_i18n_01342": {
+      "message": "Nic nenalezeno"
+   },
+   "cj_i18n_01343": {
+      "message": "Změna edice"
+   },
+   "cj_i18n_01344": {
+      "message": "Automatická detekce"
+   },
+   "cj_i18n_01346": {
+      "message": "Věda"
+   },
+   "cj_i18n_01347": {
+      "message": "Technologie"
+   },
+   "cj_i18n_01351": {
+      "message": "Další informace"
+   },
+   "cj_i18n_01363": {
+      "message": "Uložit"
+   },
+   "cj_i18n_01365": {
+      "message": "Google vyhledávání"
+   },
+   "cj_i18n_01372": {
+      "message": "Uložená vyhledávání"
+   },
+   "cj_i18n_01378": {
+      "message": "Kreativy"
+   },
+   "cj_i18n_01386": {
+      "message": "Zabezpečení"
+   },
+   "cj_i18n_01387": {
+      "message": "Objednávky"
+   },
+   "cj_i18n_01392": {
+      "message": "Reklamní jednotky"
+   },
+   "cj_i18n_01395": {
+      "message": "předvoleb cílení"
+   },
+   "cj_i18n_01396": {
+      "message": "vyloučení"
+   },
+   "cj_i18n_01397": {
+      "message": "dopravní počasí"
+   },
+   "cj_i18n_01398": {
+      "message": "Nastavení sítě"
+   },
+   "cj_i18n_01400": {
+      "message": "dotazy"
+   },
+   "cj_i18n_01402": {
+      "message": "příležitosti"
+   },
+   "cj_i18n_01403": {
+      "message": "Experimenty"
+   },
+   "cj_i18n_01404": {
+      "message": "Globální nastavení"
+   },
+   "cj_i18n_01405": {
+      "message": "Přístup a autorizace"
+   },
+   "cj_i18n_01407": {
+      "message": "Inventář"
+   },
+   "cj_i18n_01409": {
+      "message": "Firmy"
+   },
+   "cj_i18n_01410": {
+      "message": "souhlas uživatele z EU"
+   },
+   "cj_i18n_01411": {
+      "message": "Historie změn"
+   },
+   "cj_i18n_01414": {
+      "message": "Reporty"
+   },
+   "cj_i18n_01417": {
+      "message": "Mediace"
+   },
+   "cj_i18n_01418": {
+      "message": "Kampaně"
+   },
+   "cj_i18n_01423": {
+      "message": "Sdílená knihovna"
+   },
+   "cj_i18n_01424": {
+      "message": "Hromadné akce"
+   },
+   "cj_i18n_01427": {
+      "message": "Ovládací panely"
+   },
+   "cj_i18n_01428": {
+      "message": "Náhled reklamy a diagnostické nástroje"
+   },
+   "cj_i18n_01429": {
+      "message": "Portfoliové nabídkové strategie"
+   },
+   "cj_i18n_01430": {
+      "message": "Všechny Hromadné akce"
+   },
+   "cj_i18n_01431": {
+      "message": "Pravidla"
+   },
+   "cj_i18n_01432": {
+      "message": "Skripty"
+   },
+   "cj_i18n_01433": {
+      "message": "Nahrávání"
+   },
+   "cj_i18n_01434": {
+      "message": "Konverze"
+   },
+   "cj_i18n_01435": {
+      "message": "Hledat Atributy"
+   },
+   "cj_i18n_01436": {
+      "message": "Fakturace a platby"
+   },
+   "cj_i18n_01437": {
+      "message": "Firemní údaje"
+   },
+   "cj_i18n_01438": {
+      "message": "Přístup k účtu"
+   },
+   "cj_i18n_01439": {
+      "message": "Propojené účty"
+   },
+   "cj_i18n_01440": {
+      "message": "Předvolby"
+   },
+   "cj_i18n_01453": {
+      "message": "Pokročilé vyhledávání obrázků"
+   },
+   "cj_i18n_01454": {
+      "message": "Zobrazit uložené"
+   },
+   "cj_i18n_01481": {
+      "message": "Můj profil"
+   },
+   "cj_i18n_01483": {
+      "message": "Metriky"
+   },
+   "cj_i18n_01484": {
+      "message": "Výstrahy"
+   },
+   "cj_i18n_01485": {
+      "message": "Patenty vyhledávání"
+   },
+   "cj_i18n_01487": {
+      "message": "Konverzace"
+   },
+   "cj_i18n_01491": {
+      "message": "Chcete-li do rozšíření přidat/odebrat položky, klikněte v dolní části nabídky na možnost přizpůsobit."
+   },
+   "cj_i18n_01492": {
+      "message": "Řízení"
+   },
+   "cj_i18n_01495": {
+      "message": "Pozvat člena rodiny"
+   },
+   "cj_i18n_01497": {
+      "message": "Nastavení upozornění"
+   },
+   "cj_i18n_01499": {
+      "message": "Nebyly nalezeny žádné připomínky"
+   },
+   "cj_i18n_01500": {
+      "message": "Správa umístění"
+   },
+   "cj_i18n_01501": {
+      "message": "Vytvořte reklamu"
+   },
+   "cj_i18n_01504": {
+      "message": "Nástroje"
+   },
+   "cj_i18n_01506": {
+      "message": "Účet"
+   },
+   "cj_i18n_01507": {
+      "message": "Odhlásit se"
+   },
+   "cj_i18n_01508": {
+      "message": "Odhllášeno"
+   },
+   "cj_i18n_01510": {
+      "message": "Než budete moci tuto stránku používat, musíte povolit přístup k seznamu aplikací Chrome."
+   },
+   "cj_i18n_01513": {
+      "message": "Odběry a služby"
+   },
+   "cj_i18n_01515": {
+      "message": "Aktivita"
+   },
+   "cj_i18n_01517": {
+      "message": "Platební metody"
+   },
+   "cj_i18n_01518": {
+      "message": "Adresy"
+   },
+   "cj_i18n_01519": {
+      "message": "Správa uživatelů"
+   },
+   "cj_i18n_01520": {
+      "message": "Přidejte daňové informace"
+   },
+   "cj_i18n_01521": {
+      "message": "dokumenty"
+   },
+   "cj_i18n_01522": {
+      "message": "objednávky zákazníků"
+   },
+   "cj_i18n_01523": {
+      "message": "Prodejní daň"
+   },
+   "cj_i18n_01524": {
+      "message": "Platit"
+   },
+   "cj_i18n_01530": {
+      "message": "Reklamy"
+   },
+   "cj_i18n_01532": {
+      "message": "Nápověda"
+   },
+   "cj_i18n_01533": {
+      "message": "Bezpečnost"
+   },
+   "cj_i18n_01534": {
+      "message": "Osobní informace"
+   },
+   "cj_i18n_01535": {
+      "message": "Lidé a sdílení"
+   },
+   "cj_i18n_01536": {
+      "message": "Platby a předplatné"
+   },
+   "cj_i18n_01539": {
+      "message": "Související aplikace"
+   },
+   "cj_i18n_01541": {
+      "message": "Otevří na nové kartě"
+   },
+   "cj_i18n_01543": {
+      "message": "Změnit účet"
+   },
+   "cj_i18n_01544": {
+      "message": "Přihlášení"
+   },
+   "cj_i18n_01545": {
+      "message": "Otevřít v novém okně"
+   },
+   "cj_i18n_01546": {
+      "message": "Otevřít v nové kartě"
+   },
+   "cj_i18n_01548": {
+      "message": "Mailem tento text"
+   },
+   "cj_i18n_01549": {
+      "message": "Napsat mail na adresu"
+   },
+   "cj_i18n_01557": {
+      "message": "Chcete-li používat tuto aplikaci, přihlaste se do svého účtu Google"
+   },
+   "cj_i18n_01558": {
+      "message": "Tato aplikace nepodporuje Brand účty, přepněte prosím na jiný účet"
+   },
+   "cj_i18n_01559": {
+      "message": "Nepřečtený"
+   },
+   "cj_i18n_01560": {
+      "message": "Důležité a nepřečtené"
+   },
+   "cj_i18n_01563": {
+      "message": "Smazat"
+   },
+   "cj_i18n_01564": {
+      "message": "Reklama"
+   },
+   "cj_i18n_01565": {
+      "message": "Poslat"
+   },
+   "cj_i18n_01566": {
+      "message": "Označení"
+   },
+   "cj_i18n_01567": {
+      "message": "Aplikovat"
+   },
+   "cj_i18n_01571": {
+      "message": "Označení…"
+   },
+   "cj_i18n_01572": {
+      "message": "Nahlásit spam"
+   },
+   "cj_i18n_01573": {
+      "message": "Označit jako nepřečtené"
+   },
+   "cj_i18n_01574": {
+      "message": "Koncept"
+   },
+   "cj_i18n_01575": {
+      "message": "Přesunout do e-mailové schránky"
+   },
+   "cj_i18n_01576": {
+      "message": "Není spam"
+   },
+   "cj_i18n_01577": {
+      "message": "Smazat navždy"
+   },
+   "cj_i18n_01578": {
+      "message": "Výběr"
+   },
+   "cj_i18n_01579": {
+      "message": "Archiv"
+   },
+   "cj_i18n_01580": {
+      "message": "přišpendlený"
+   },
+   "cj_i18n_01581": {
+      "message": "nastavení rozšíření"
+   },
+   "cj_i18n_01585": {
+      "message": "Přizpůsobení nabídky"
+   },
+   "cj_i18n_01586": {
+      "message": "začít přizpůsobovat"
+   },
+   "cj_i18n_01587": {
+      "message": "Motiv"
+   },
+   "cj_i18n_01588": {
+      "message": "Pokročilé"
+   },
+   "cj_i18n_01589": {
+      "message": "Chcete-li povolit nebo konfigurovat upozornění na ploše, vyberte produkt a postupujte podle pokynů."
+   },
+   "cj_i18n_01590": {
+      "message": "Obnovit výchozí nastavení"
+   },
+   "cj_i18n_01592": {
+      "message": "Odstranit všechny mezipaměti"
+   },
+   "cj_i18n_01594": {
+      "message": "uděleno oprávnění"
+   },
+   "cj_i18n_01596": {
+      "message": "Odvolat všechna oprávnění"
+   },
+   "cj_i18n_01602": {
+      "message": "Pokud máte nějaké dotazy, požadavky na nové funkce nebo zprávy o chybách, dejte nám vědět. Nemůžeme zaručit že odpovíme na všechny vzhledem k obrovskému množství zpráv, které jsme dostali."
+   },
+   "cj_i18n_01603": {
+      "message": "Překlady"
+   },
+   "cj_i18n_01605": {
+      "message": "Pomoc s překlady"
+   },
+   "cj_i18n_01606": {
+      "message": "Pokud se vám rozšíření líbí – a my upřímně doufáme, že ano – zvažte darování. Pomůže to vývojovému procesu a usnadní nám jeho vylepšování pro všechny."
+   },
+   "cj_i18n_01611": {
+      "message": "Klasický"
+   },
+   "cj_i18n_01612": {
+      "message": "Tmavý"
+   },
+   "cj_i18n_01613": {
+      "message": "Světlo"
+   },
+   "cj_i18n_01622": {
+      "message": "Stáhnout"
+   },
+   "cj_i18n_01653": {
+      "message": "Správa nastavení"
+   },
+   "cj_i18n_01654": {
+      "message": "Nastavení se automaticky uloží a jsou synchronizovány přes synchronizaci, pokud je povolena synchronizace pro rozšíření."
+   },
+   "cj_i18n_01655": {
+      "message": "Import nastavení"
+   },
+   "cj_i18n_01656": {
+      "message": "Export nastavení"
+   },
+   "cj_i18n_01659": {
+      "message": "Zrušit"
+   },
+   "cj_i18n_01677": {
+      "message": "Použít kód"
+   },
+   "cj_i18n_01678": {
+      "message": "Audioknihy"
+   },
+   "cj_i18n_01681": {
+      "message": "Vzorky"
+   },
+   "cj_i18n_01682": {
+      "message": "Půjčovny"
+   },
+   "cj_i18n_01684": {
+      "message": "Knihy pro vás"
+   },
+   "cj_i18n_01685": {
+      "message": "Moje historie"
+   },
+   "cj_i18n_01686": {
+      "message": "Zakoupeno"
+   },
+   "cj_i18n_01687": {
+      "message": "Číst nyní"
+   },
+   "cj_i18n_01688": {
+      "message": "Přečetli jste"
+   },
+   "cj_i18n_01689": {
+      "message": "Zkontrolováno"
+   },
+   "cj_i18n_01690": {
+      "message": "Ještě k přečtení"
+   },
+   "cj_i18n_01692": {
+      "message": "Historie procházení"
+   },
+   "cj_i18n_01693": {
+      "message": "E-knihy"
+   },
+   "cj_i18n_01697": {
+      "message": "Zábava"
+   },
+   "cj_i18n_01704": {
+      "message": "Přeneste svůj obsah"
+   },
+   "cj_i18n_01707": {
+      "message": "Sport"
+   },
+   "cj_i18n_01710": {
+      "message": "Moje spouštěče"
+   },
+   "cj_i18n_01711": {
+      "message": "Začínáme"
+   },
+   "cj_i18n_01713": {
+      "message": "Přizpůsobení"
+   },
+   "cj_i18n_01715": {
+      "message": "Konec"
+   },
+   "cj_i18n_01725": {
+      "message": "Filmy a televize"
+   },
+   "cj_i18n_01727": {
+      "message": "Zprávy"
+   },
+   "cj_i18n_01729": {
+      "message": "Tato služba"
+   },
+   "cj_i18n_01732": {
+      "message": "Ověřte, že jste to vy"
+   },
+   "cj_i18n_01734": {
+      "message": "Označit jako vyřízené"
+   },
+   "cj_i18n_01737": {
+      "message": "(Bez názvu)"
+   },
+   "cj_i18n_01738": {
+      "message": "Vaše data ve Vyhledávání"
+   },
+   "cj_i18n_01740": {
+      "message": "Archivováno"
+   },
+   "cj_i18n_01741": {
+      "message": "Nová konverzace"
+   },
+   "cj_i18n_01742": {
+      "message": "Nová skupina konverzace"
+   },
+   "cj_i18n_01743": {
+      "message": "Konverzace"
+   },
+   "cj_i18n_01745": {
+      "message": "Připojit telefon"
+   },
+   "cj_i18n_01748": {
+      "message": "Již není k dispozici"
+   },
+   "cj_i18n_01755": {
+      "message": "Obchody"
+   },
+   "cj_i18n_01759": {
+      "message": "objednávky"
+   },
+   "cj_i18n_01760": {
+      "message": "Košík"
+   },
+   "cj_i18n_01780": {
+      "message": "Vaše data na Mapách"
+   },
+   "cj_i18n_01781": {
+      "message": "Vaše data v Asistentovi"
+   },
+   "cj_i18n_01783": {
+      "message": "Pořiďte si novou doménu"
+   },
+   "cj_i18n_01784": {
+      "message": "Moje domény"
+   },
+   "cj_i18n_01785": {
+      "message": "Převod"
+   },
+   "cj_i18n_01794": {
+      "message": "Složka"
+   },
+   "cj_i18n_01799": {
+      "message": "Stáhnout z App Store"
+   },
+   "cj_i18n_01807": {
+      "message": "Doporučeno"
+   },
+   "cj_i18n_01823": {
+      "message": "Produkty"
+   },
+   "cj_i18n_01824": {
+      "message": "Služby"
+   },
+   "cj_i18n_01898": {
+      "message": "Vaše data na YouTube"
+   },
+   "cj_i18n_01906": {
+      "message": "Organizační jednotky"
+   },
+   "cj_i18n_01908": {
+      "message": "Zařízení"
+   },
+   "cj_i18n_01915": {
+      "message": "Přihlášení Google účtem"
+   },
+   "cj_i18n_01916": {
+      "message": "Pokračovat s Googlem"
+   },
+   "cj_i18n_01940": {
+      "message": "Přejmenovat"
+   },
+   "cj_i18n_01943": {
+      "message": "Název souboru"
+   },
+   "cj_i18n_01990": {
+      "message": "Název"
+   },
+   "cj_i18n_02121": {
+      "message": "Jak"
+   },
+   "cj_i18n_02162": {
+      "message": "Otevřít domovskou stránku"
+   },
+   "cj_i18n_02165": {
+      "message": "Kliknutím nebo přetažením služeb můžete nabídku přizpůsobit."
+   },
+   "cj_i18n_02176": {
+      "message": "Než budete moci tuto stránku používat, je třeba povolit přístup k načtení dat {PRODUCT_NAME}."
+   },
+   "cj_i18n_02543": {
+      "message": "Tisk"
+   },
+   "cj_i18n_02717": {
+      "message": "Nejste přihlášeni"
+   },
+   "cj_i18n_03523": {
+      "message": "Nástroje pro vývojáře"
+   },
+   "cj_i18n_03929": {
+      "message": "Stahování"
+   },
+   "cj_i18n_04163": {
+      "message": "Jazyk"
+   },
+   "cj_i18n_04767": {
+      "message": "Organizace"
+   },
+   "cj_i18n_04776": {
+      "message": "Autorská práva"
+   },
+   "cj_i18n_04828": {
+      "message": "Hesla"
+   },
+   "cj_i18n_05092": {
+      "message": "Výsledky vyhledávání"
+   },
+   "cj_i18n_05190": {
+      "message": "Prohlížeč"
+   },
+   "cj_i18n_05388": {
+      "message": "Obecné"
+   },
+   "cj_i18n_05629": {
+      "message": "Upravit"
+   },
+   "cj_i18n_06237": {
+      "message": "Neaktivní správce účtu"
+   },
+   "cj_i18n_06247": {
+      "message": "Zítra"
+   },
+   "cj_i18n_06248": {
+      "message": "Po"
+   },
+   "cj_i18n_06249": {
+      "message": "Út"
+   },
+   "cj_i18n_06250": {
+      "message": "St"
+   },
+   "cj_i18n_06251": {
+      "message": "Čt"
+   },
+   "cj_i18n_06252": {
+      "message": "Pá"
+   },
+   "cj_i18n_06253": {
+      "message": "So"
+   },
+   "cj_i18n_06254": {
+      "message": "Ne"
+   },
+   "cj_i18n_06255": {
+      "message": "Led"
+   },
+   "cj_i18n_06256": {
+      "message": "Úno"
+   },
+   "cj_i18n_06257": {
+      "message": "Bře"
+   },
+   "cj_i18n_06258": {
+      "message": "Dub"
+   },
+   "cj_i18n_06259": {
+      "message": "Kvě"
+   },
+   "cj_i18n_06260": {
+      "message": "Čvn"
+   },
+   "cj_i18n_06261": {
+      "message": "Čvc"
+   },
+   "cj_i18n_06262": {
+      "message": "Srp"
+   },
+   "cj_i18n_06263": {
+      "message": "Zář"
+   },
+   "cj_i18n_06264": {
+      "message": "Říj"
+   },
+   "cj_i18n_06265": {
+      "message": "Lis"
+   },
+   "cj_i18n_06266": {
+      "message": "Pro"
+   },
+   "cj_i18n_06286": {
+      "message": "Uživatel Google"
+   },
+   "cj_i18n_06287": {
+      "message": "Klikněte pro zobrazení změn"
+   },
+   "cj_i18n_06288": {
+      "message": "{APP_NAME} byla aktualizována"
+   },
+   "cj_i18n_06289": {
+      "message": "Nový příspěvek"
+   },
+   "cj_i18n_06292": {
+      "message": "Zobrazit blog"
+   },
+   "cj_i18n_06293": {
+      "message": "Duplikovat"
+   },
+   "cj_i18n_06294": {
+      "message": "Více možností"
+   },
+   "cj_i18n_06308": {
+      "message": "Nová připomínka"
+   },
+   "cj_i18n_06316": {
+      "message": "Jméno"
+   },
+   "cj_i18n_06317": {
+      "message": "Umístění (adresa URL)"
+   },
+   "cj_i18n_06318": {
+      "message": "Štítky"
+   },
+   "cj_i18n_06327": {
+      "message": "Ukládání"
+   },
+   "cj_i18n_06337": {
+      "message": "V tomto termínu se nekonají žádné události"
+   },
+   "cj_i18n_06358": {
+      "message": "Kontrola soukromí"
+   },
+   "cj_i18n_06359": {
+      "message": "Kontrola zabezpečení"
+   },
+   "cj_i18n_06405": {
+      "message": "Pixel Telefon"
+   },
+   "cj_i18n_06410": {
+      "message": "Editor reklam"
+   },
+   "cj_i18n_06418": {
+      "message": "Aplikace Telefon"
+   },
+   "cj_i18n_06581": {
+      "message": "Zahájit schůzku"
+   },
+   "cj_i18n_06599": {
+      "message": "Ztlumit oznámení"
+   },
+   "cj_i18n_06600": {
+      "message": "Zrušit ztlumení upozornění"
+   },
+   "cj_i18n_06601": {
+      "message": "Aktualizace doplňků"
+   },
+   "cj_i18n_06602": {
+      "message": "Simulovat aktualizaci rozšíření"
+   },
+   "cj_i18n_06603": {
+      "message": "Zobrazení oznámení po aktualizaci namísto zobrazení celé stránky se seznamem změn"
+   },
+   "cj_i18n_06624": {
+      "message": "Nastavení účtu"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefon"
+   },
+   "cj_i18n_06647": {
+      "message": "Rychlý přístup"
+   },
+   "cj_i18n_06649": {
+      "message": "Chyba při načítání služby Google My Buisness. Ujistěte se, že je účet Google Buisseness připojen."
+   },
+   "cj_i18n_06846": {
+      "message": "Připomínka"
+   },
+   "cj_i18n_06851": {
+      "message": "Prozkoumat akce"
+   },
+   "cj_i18n_06871": {
+      "message": "Google Asistent"
+   },
+   "cj_i18n_06875": {
+      "message": "Populární"
+   },
+   "cj_i18n_06923": {
+      "message": "Blokovaní uživatelé"
+   },
+   "cj_i18n_06929": {
+      "message": "Prohlížeč aplikací"
+   },
+   "cj_i18n_06947": {
+      "message": "Nová událost se schůzkou"
+   },
+   "cj_i18n_06960": {
+      "message": "Moje AdMob stránka"
+   },
+   "cj_i18n_06978": {
+      "message": "Cílová skupina"
+   },
+   "cj_i18n_06983": {
+      "message": "Správa prohlížeče Chrome"
+   },
+   "cj_i18n_06984": {
+      "message": "Mobilní a koncová zařízení"
+   },
+   "cj_i18n_06985": {
+      "message": "Sítě"
+   },
+   "cj_i18n_06986": {
+      "message": "Klíčové služby"
+   },
+   "cj_i18n_06987": {
+      "message": "Doplňkové služby"
+   },
+   "cj_i18n_06988": {
+      "message": "Web a mobilní zařízení"
+   },
+   "cj_i18n_06991": {
+      "message": "Centrum upozornění"
+   },
+   "cj_i18n_06992": {
+      "message": "Ovládací prvky API"
+   },
+   "cj_i18n_06993": {
+      "message": "Přístup zohledňující kontext"
+   },
+   "cj_i18n_06994": {
+      "message": "Ochrana dat"
+   },
+   "cj_i18n_06995": {
+      "message": "Nástroj pro vyšetřování"
+   },
+   "cj_i18n_06996": {
+      "message": "Stav zabezpečení"
+   },
+   "cj_i18n_06997": {
+      "message": "Správa předplatného"
+   },
+   "cj_i18n_06998": {
+      "message": "Platební účty"
+   },
+   "cj_i18n_06999": {
+      "message": "Získat další služby"
+   },
+   "cj_i18n_07000": {
+      "message": "Správa domén"
+   },
+   "cj_i18n_07001": {
+      "message": "Přidat doménu"
+   },
+   "cj_i18n_07002": {
+      "message": "Změna primární domény"
+   },
+   "cj_i18n_07003": {
+      "message": "Povolené domény"
+   },
+   "cj_i18n_07005": {
+      "message": "Centrum pravidel"
+   },
+   "cj_i18n_07006": {
+      "message": "Soukromí a zasílání zpráv"
+   },
+   "cj_i18n_07033": {
+      "message": "Vaše zařízení"
+   },
+   "cj_i18n_07034": {
+      "message": "Bezpečněji se společností Google"
+   },
+   "cj_i18n_07039": {
+      "message": "Nemáte povolený přístup na tuto stránku"
+   },
+   "cj_i18n_07045": {
+      "message": "Odběr od zákazníka"
+   },
+   "cj_i18n_07048": {
+      "message": "Průvodce systémem Android"
+   },
+   "cj_i18n_07071": {
+      "message": "Správce hesel"
+   },
+   "cj_i18n_07072": {
+      "message": "Kontrola hesla"
+   },
+   "cj_i18n_07079": {
+      "message": "Business Profil"
+   },
+   "cj_i18n_07080": {
+      "message": "Business Správce profilu"
+   },
+   "cj_i18n_07092": {
+      "message": "Upravit profil uživatele"
+   },
+   "cj_i18n_07093": {
+      "message": "Správa blogů, které sleduji"
+   },
+   "cj_i18n_07115": {
+      "message": "Zpráva"
+   },
+   "cj_i18n_07122": {
+      "message": "Business Zprávy"
+   },
+   "cj_i18n_07124": {
+      "message": "Zkopírováno do schránky"
+   },
+   "cj_i18n_07125": {
+      "message": "Zkopírovat do schránky"
+   },
+   "cj_i18n_07130": {
+      "message": "Business Komunikace"
+   },
+   "cj_i18n_07133": {
+      "message": "Další aktivity Google"
+   },
+   "cj_i18n_07140": {
+      "message": "Data a soukromí"
+   },
+   "cj_i18n_07142": {
+      "message": "Odstranit aktivitu"
+   },
+   "cj_i18n_07143": {
+      "message": "Aktivita"
+   },
+   "cj_i18n_07174": {
+      "message": "Plánovač výkonu"
+   },
+   "cj_i18n_07180": {
+      "message": "Adresář reklam kreativních partnerů"
+   },
+   "cj_i18n_07192": {
+      "message": "Vaše data"
+   },
+   "cj_i18n_07199": {
+      "message": "Získat zprávu"
+   },
+   "cj_i18n_07234": {
+      "message": "Naplánovat událost"
+   },
+   "cj_i18n_07237": {
+      "message": "Ověření"
+   },
+   "cj_i18n_07238": {
+      "message": "Moje reklamy"
+   },
+   "cj_i18n_07239": {
+      "message": "Přizpůsobení reklam"
+   },
+   "cj_i18n_07240": {
+      "message": "Správa soukromí"
+   },
+   "cj_i18n_07267": {
+      "message": "Kontrola Cache"
+   },
+   "cj_i18n_07268": {
+      "message": "Knihovna prostředků"
+   },
+   "cj_i18n_07269": {
+      "message": "Šablony"
+   },
+   "cj_i18n_07270": {
+      "message": "Přístup a zabezpečení"
+   },
+   "cj_i18n_07271": {
+      "message": "Vytvořit nový účet"
+   },
+   "cj_i18n_07339": {
+      "message": "Spravovat karantény"
+   },
+   "cj_i18n_07351": {
+      "message": "AI Testovací Kuchyňka"
+   },
+   "cj_i18n_07355": {
+      "message": "Přidat kalendář"
+   },
+   "cj_i18n_07364": {
+      "message": "Připraveno k přečtení"
+   },
+   "cj_i18n_07365": {
+      "message": "Série"
+   },
+   "cj_i18n_07367": {
+      "message": "Vyhledávač poznatků"
+   },
+   "cj_i18n_07368": {
+      "message": "Reklamy místních služeb"
+   },
+   "cj_i18n_07381": {
+      "message": "Připojení reklamy"
+   },
+   "cj_i18n_07382": {
+      "message": "Portál péče o zákazníky"
+   },
+   "cj_i18n_07399": {
+      "message": "Nezařazené"
+   },
+   "cj_i18n_07405": {
+      "message": "{PRODUCT_NAME} zatím není ve vaší zemi k dispozici."
+   },
+   "cj_i18n_07406": {
+      "message": "Potvrďte nastavení souborů cookie na nové kartě a znovu otevřete rozšíření."
+   },
+   "cj_i18n_07407": {
+      "message": "K načtení této části potřebujeme další povolení."
+   },
+   "cj_i18n_07416": {
+      "message": "Business Správce"
+   },
+   "cj_i18n_07419": {
+      "message": "AI galerie podnětů"
+   },
+   "cj_i18n_07470": {
+      "message": "Procházet kanceláře"
+   },
+   "cj_i18n_07483": {
+      "message": "Přihlásit se k odběru kalendáře"
+   },
+   "cj_i18n_07484": {
+      "message": "Vytvořit nový kalendář"
+   },
+   "cj_i18n_07485": {
+      "message": "Procházení kalendářů zájmů"
+   },
+   "cj_i18n_07486": {
+      "message": "Z URL"
+   },
+   "cj_i18n_07495": {
+      "message": "Zkratky"
+   },
+   "cj_i18n_07497": {
+      "message": "Přidání nového uživatele"
+   },
+   "cj_i18n_07498": {
+      "message": "Editor zpráv"
+   },
+   "cj_i18n_07499": {
+      "message": "Doporučení"
+   },
+   "cj_i18n_07500": {
+      "message": "Cíle"
+   },
+   "cj_i18n_07501": {
+      "message": "Plánovač dosahu"
+   },
+   "cj_i18n_07502": {
+      "message": "Reklamní centrum aplikací"
+   },
+   "cj_i18n_07503": {
+      "message": "Ostatní nástroje"
+   },
+   "cj_i18n_07504": {
+      "message": "Nová akce"
+   },
+   "cj_i18n_07505": {
+      "message": "Nová akce převodu"
+   },
+   "cj_i18n_07506": {
+      "message": "AdSense pro Youtube"
+   },
+   "cj_i18n_07507": {
+      "message": "Bezpečnost značky"
+   },
+   "cj_i18n_07520": {
+      "message": "Data centra"
+   },
+   "cj_i18n_07561": {
+      "message": "Aplikace a služby třetích stran"
+   },
+   "cj_i18n_07565": {
+      "message": "Nový chat"
+   },
+   "cj_i18n_07575": {
+      "message": "Výsledky o vás"
+   },
+   "cj_i18n_07581": {
+      "message": "AI pro Vývojáře"
+   }
+}

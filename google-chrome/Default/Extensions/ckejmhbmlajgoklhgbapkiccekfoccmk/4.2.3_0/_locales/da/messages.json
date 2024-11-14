@@ -1,0 +1,371 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Android-smartphones"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Apple-smartphones"
+   },
+   "button_feedback": {
+      "message": "Tilføj en anmeldelse"
+   },
+   "button_message": {
+      "message": "Send os en besked"
+   },
+   "close": {
+      "message": "Tæt"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "Aktiver mobilvisningen på denne side"
+   },
+   "copie": {
+      "message": "Kopi"
+   },
+   "copied": {
+      "message": "Kopieret"
+   },
+   "extDescription": {
+      "message": "Smartphone og tablet simulator på computer med flere modeller til at teste mobile responsive hjemmesider."
+   },
+   "extName": {
+      "message": "Mobil simulator - responsivt testværktøj"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "Ophæve"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "Tilføj en enhed i et nyt vindue"
+   },
+   "menu_change_device": {
+      "message": "Skift enhed"
+   },
+   "menu_close_alone": {
+      "message": "Deaktiver simulatoren"
+   },
+   "menu_close_multi": {
+      "message": "Luk dette vindue"
+   },
+   "menu_faq_all": {
+      "message": "Se alle ofte stillede spørgsmål"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Hvordan aktiverer man simulatoren i inkognitotilstand?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Mine medieforespørgsler virker ikke"
+   },
+   "menu_faq_scroll": {
+      "message": "Kan ikke rulle i simulatoren"
+   },
+   "menu_faq_shortcut": {
+      "message": "Hvordan konfigureres tastaturgenveje?"
+   },
+   "menu_faq_subscription": {
+      "message": "Hvorfor mit abonnement ikke virker"
+   },
+   "menu_faq_title": {
+      "message": "Ofte stillede spørgsmål"
+   },
+   "menu_help_center": {
+      "message": "Hjælpecenter"
+   },
+   "menu_info_device": {
+      "message": "Funktioner og mockup af denne telefon (viewport-opløsning osv.)"
+   },
+   "menu_info_device_features": {
+      "message": "Funktioner (visningsportopløsning osv.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Gratis PNG gennemsigtig mockup"
+   },
+   "menu_report": {
+      "message": "Rapporter en fejl"
+   },
+   "menu_rotate": {
+      "message": "Skift retningen"
+   },
+   "menu_screencast": {
+      "message": "Start en fanepost"
+   },
+   "menu_screenshot": {
+      "message": "Tag et skærmbillede"
+   },
+   "menu_send_improvement": {
+      "message": "Foreslå en forbedring"
+   },
+   "menu_send_message": {
+      "message": "Hjælpecenter"
+   },
+   "menu_settings": {
+      "message": "Indstillinger"
+   },
+   "menu_share": {
+      "message": "Del med en kollega, en ven,..."
+   },
+   "menu_theme_day": {
+      "message": "Aktiver dagstilstand"
+   },
+   "menu_theme_night": {
+      "message": "Aktiver nattilstand"
+   },
+   "menu_vote_feature": {
+      "message": "Stem på de funktioner, du ønsker"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_15_h1": {
+      "message": "Vær den første til (stort set) at bruge iPhone 15 PRO"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Information\u003C/strong>Touch scroll er ikke tilgængelig i denne simulator, men du kan \u003Cstrong>vise rullepanelet\u003C/strong>, hvis du ikke har musehjul eller pegefelt til scroll.\u003Cbr>\u003Cbr>Det er en mulighed i indstillingerne nederst til højre \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_0_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdatering v4.0\u003C/strong>Vigtig opdatering vedrørende videooptagelse. Nye videoformater og ubegrænset optagetid! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_0_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdatering v4.0\u003C/strong>Rettelser vedrørende skærmproblemer i simulatoren."
+   },
+   "notification_update_title_v4_1_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdater v4.1\u003C/strong>3 nye seneste enheder (i PRO-versionen). Google Pixel 8, Samsung Galaxy S24 og ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_1_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdatering v4.1.2\u003C/strong>Flere fejlrettelser vedrørende konvertering af videooptagelser"
+   },
+   "notification_update_title_v4_2_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdater v4.2\u003C/strong>Du kan nu teste dine websteder med den nyeste iPhone 16.\u003C/strong> \u003Ci class='mdi'>&#xe917;\u003C /i>"
+   },
+   "notification_update_title_v4_2_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Opdatering v4.2.2\u003C/strong>\u003Cstrong>Rettelser\u003C/strong> vedrørende generering af videooptagelser samt helsides skærmbilleder"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Tilbud"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Aktiver indstillingen"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Denne simulator kan ikke aktiveres som standard på lokale filer (file:///), men du kan aktivere indstillingen manuelt på siden med Chrome-indstillinger."
+   },
+   "popup_message": {
+      "message": "Skift enhed og find alle mulighederne ved at bruge menuen til højre for simulatoren"
+   },
+   "popup_site_incompatible": {
+      "message": "Denne simulator kan ikke aktiveres på denne oprindelige Chrome-side. Prøv på en anden fane. Eller browser et websted og genstart."
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Ubegrænsede faneposter"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Fjern annoncer"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Faktureres årligt"
+   },
+   "pro_modale_button": {
+      "message": "Abonner"
+   },
+   "pro_modale_from": {
+      "message": "Fra"
+   },
+   "pro_modale_h1": {
+      "message": "Bliv PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Fjern annoncer"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Konverter dine videooptagelser til GIF- og MP4-formater"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simuler alle enheder"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Du har nået grænsen på 5 faneposter pr. dag"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Lås alle indstillinger op"
+   },
+   "pro_modale_h2": {
+      "message": "Bliv en PRO og bidrag aktivt til udviklingen af denne udvidelse."
+   },
+   "pro_modale_link_1": {
+      "message": "Eller"
+   },
+   "pro_modale_link_2": {
+      "message": "logge ind"
+   },
+   "pro_modale_link_3": {
+      "message": "til din konto"
+   },
+   "pro_modale_recurring_month": {
+      "message": "måned"
+   },
+   "pro_modale_savings": {
+      "message": "Spar"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "Vil du anbefale denne udvidelse?"
+   },
+   "review_note_feedback": {
+      "message": "Tak for din feedback. Du er velkommen til at sende os en besked, så vi kan forbedre denne udvidelse."
+   },
+   "review_note_store": {
+      "message": "Tak for din feedback. Du er velkommen til at tilføje en anmeldelse i Google Store. Jeg ville være meget taknemmelig 😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "Der er opstået en fejl under faneregistreringen. {Klik her} for en løsning."
+   },
+   "screencast_generation": {
+      "message": "Oprettelse af GIF i gang"
+   },
+   "screencast_modale_contact": {
+      "message": "Rapporter en fejl, et forslag, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Kopi"
+   },
+   "screencast_modale_download": {
+      "message": "Download"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Kompatibel overalt, men lavere kvalitet"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Bedre kompatibilitet med PowerPoint, Keynote osv."
+   },
+   "screencast_modale_download_webm": {
+      "message": "Download i standard WEBM-format"
+   },
+   "screencast_modale_texte": {
+      "message": "Du kan downloade denne video i forskellige formater eller få et dellink."
+   },
+   "screencast_modale_title": {
+      "message": "Fanepost"
+   },
+   "screencast_modale_upload": {
+      "message": "Upload på serveren og få dellinket"
+   },
+   "screencast_onboarding_close": {
+      "message": "Tæt"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Opret en mobilvideo i GIF-format med 1 klik (maks. 20 sekunder)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Fanepost"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "Skærmbillede med enhedens ramme"
+   },
+   "screenshot_menu_2": {
+      "message": "Skærmbillede uden enhedens ramme"
+   },
+   "screenshot_menu_3": {
+      "message": "Helsides skærmbillede"
+   },
+   "screenshot_modale_copy": {
+      "message": "Kopier billede til udklipsholder"
+   },
+   "screenshot_modale_help": {
+      "message": "For at gemme billedet med en god opløsning, kan du bare højreklikke på det og derefter \"Kopier billede\" eller \"Gem billede som\""
+   },
+   "screenshot_modale_title": {
+      "message": "Skærmbillede"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_batterie_level": {
+      "message": "Batteriniveau i terminalhovedet (%)"
+   },
+   "settings_change_analytics": {
+      "message": "Jeg støtter udvikleren af denne udvidelse til at forbedre sit produkt takket være Google Analytics. Data er anonyme."
+   },
+   "settings_change_background": {
+      "message": "Skift baggrundsfarven"
+   },
+   "settings_change_cursor": {
+      "message": "Skift ikke markørstilen på enheden"
+   },
+   "settings_default_device": {
+      "message": "Standardenhed for hver ny aktivering"
+   },
+   "settings_device_hide": {
+      "message": "Skjul enheden"
+   },
+   "settings_hide_header_footer": {
+      "message": "Skjul browserens sidehoved og sidefod i enheden (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Vis ikke det falske tastatur"
+   },
+   "settings_presenter_mode": {
+      "message": "Præsentationstilstand (menuen til højre vises kun ved svævebevægelse)"
+   },
+   "settings_scrollbar_show": {
+      "message": "Vis den indbyggede rullepanel på enheden (hvis du ikke har pegefelt eller musehjul)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "Er denne udvidelse nyttig for dig?"
+   },
+   "sharing_h2": {
+      "message": "Så del det med dine kolleger eller venner"
+   },
+   "sharing_review_1": {
+      "message": "Og hvis du har et minut til det"
+   },
+   "sharing_review_2": {
+      "message": "tilføj en anmeldelse"
+   },
+   "sharing_review_3": {
+      "message": "Jeg ville være dig meget taknemmelig 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Jeg tilføjer en anmeldelse"
+   },
+   "sharing_txt": {
+      "message": "Simulator til at teste dit websted på smartphone og tablet"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "Dette er et falsk element. Brug dit eget tastatur."
+   },
+   "simulator_header_info": {
+      "message": "Dette er et falsk element. For at ændre webadressen skal du blot bruge Chrome-tekstfeltet øverst."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Tabletter"
+   }
+}

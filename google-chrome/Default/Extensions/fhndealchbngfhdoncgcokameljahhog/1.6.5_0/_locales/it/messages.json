@@ -1,0 +1,336 @@
+{
+   "auto_enrollment_notification_message": {
+      "message": "Click here to automatically enroll a pre-configured certificate."
+   },
+   "auto_enrollment_notification_title": {
+      "message": "Enroll Certificate"
+   },
+   "cea_cep_network": {
+      "message": "Communicating with the configured CEP endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_cep_template": {
+      "message": "No matching certificate template was found. Please contact your administrator."
+   },
+   "cea_ces_denied": {
+      "message": "The certificate request was denied by the Certificate Authority."
+   },
+   "cea_ces_network": {
+      "message": "Communicating with the configured CES endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_ces_pending": {
+      "message": "The certificate request was left pending by the Certificate Authority. Please contact your administrator."
+   },
+   "cea_error_other": {
+      "message": "An unknown error was encountered by the certificate enrollment agent during verified access enrollment. If this continues, contact your administrator."
+   },
+   "cea_google_network": {
+      "message": "Communicating with the configured Google verified access server failed. If this continues, contact your administrator."
+   },
+   "cea_google_reject": {
+      "message": "The verified access check was not successful for the Chrome identity of the signed in user on this device."
+   },
+   "cea_invalid_api_version": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected version. If this continues, contact your administrator."
+   },
+   "cea_ldap_network": {
+      "message": "Communicating with the configured LDAP server failed. If this continues, contact your administrator."
+   },
+   "cea_ldap_user_verification": {
+      "message": "The username provided was not found or failed verification. Please check your username and try again. If this continues, contact your administrator."
+   },
+   "cea_locked_contact_admin": {
+      "message": "The request failed due to lockout protection. Please contact your administrator."
+   },
+   "cea_locked_try_again": {
+      "message": "The request failed due to lockout protection. Please try again later."
+   },
+   "cea_malformed_request": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected format. If this continues, contact your administrator."
+   },
+   "cea_no_api_failure": {
+      "message": "Could not access the enterprise.platformKeys API. Your device may not be enrolled in the domain."
+   },
+   "cea_qps_reject": {
+      "message": "The request was rejected to due to too many requests per second. Please wait a few minutes and try again."
+   },
+   "cea_timed_out": {
+      "message": "Getting a certificate through the verified access enrollment flow timed out. If this continues, contact your administrator."
+   },
+   "cea_va_failed": {
+      "message": "The user's identity could not be confirmed with the verified access API."
+   },
+   "certificate_renewal_alert": {
+      "message": "Certificate was succesfully renewed."
+   },
+   "certificate_renewal_failure_alert": {
+      "message": "Failure: an error occurred while renewing a certificate. More details can be found on the console logs."
+   },
+   "empty_username": {
+      "message": "The username field is required."
+   },
+   "extension_description": {
+      "message": "Richiedi un certificato per il dispositivo."
+   },
+   "extension_name": {
+      "message": "Certificate Enrollment for ChromeOS"
+   },
+   "extension_name_dev": {
+      "message": "Certificate Enrollment for ChromeOS Dev"
+   },
+   "failure_title": {
+      "message": "Errore"
+   },
+   "generate_challenge_response_failed": {
+      "message": "Unable to create a challenge-response for enrolling with Verified Access. If this continues, contact your administrator."
+   },
+   "get_challenge_failed": {
+      "message": "Getting a challenge from the Verified Access endpoint failed. If this continues, contact your administrator."
+   },
+   "get_challenge_timed_out": {
+      "message": "Getting a challenge from the Verified Access endpoint timed out. If this continues, contact your administrator."
+   },
+   "invalid_credentials": {
+      "message": "Il server non ha potuto convalidare il nome utente e la password. Uno o entrambi potrebbero non essere corretti."
+   },
+   "invalid_policy_var": {
+      "message": "Specificata variabile di norma non valida.\nNome variabile norma: $1\nValore variabile norma: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "kerberos_authentication_text": {
+      "message": "Your admin has configured certificates to be issued using Kerberos authentication. Click the $1 button to request a certificate. Kerberos tickets can be obtained via Chrome Settings > People > Kerberos tickets.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "login_cep_failure": {
+      "message": "Impossibile contattare il server delle norme."
+   },
+   "login_device_help": {
+      "message": "Richiedi un certificato a livello di dispositivo consentendone l'utilizzo agli altri utenti dell'organizzazione."
+   },
+   "login_enrollment_failure": {
+      "message": "Impossibile effettuare la registrazione nell'URI specificato."
+   },
+   "login_failure_alert": {
+      "message": "Operazione non riuscita a causa di un errore. Per i dettagli, consulta i log della console."
+   },
+   "login_help_center_text": {
+      "message": "Centro assistenza"
+   },
+   "login_hide_pending": {
+      "message": "Nascondere i campi aggiuntivi per verificare le richieste in sospeso?"
+   },
+   "login_invalid_character": {
+      "message": "I caratteri \u003C e > non sono consentiti in questo campo."
+   },
+   "login_loading_text": {
+      "message": "Certificato richiesto. Attendi."
+   },
+   "login_no_uri_failure": {
+      "message": "Nessun URI disponibile per la registrazione."
+   },
+   "login_privacy_link": {
+      "message": "Norme sulla privacy"
+   },
+   "login_query_uri": {
+      "message": "È stato specificato un URI di registrazione non valido. Il campo dell'URI deve iniziare con https."
+   },
+   "login_service_account_help": {
+      "message": "Request a certificate using the acount details provided by your administrator."
+   },
+   "login_show_pending": {
+      "message": "Mostrare i campi aggiuntivi per verificare le richieste in sospeso?"
+   },
+   "login_success_alert": {
+      "message": "Operazione riuscita: certificato generato e importato correttamente."
+   },
+   "managed_cep_empty_error": {
+      "message": "cep_proxy_url non impostato o impostato su vuoto."
+   },
+   "managed_cep_http_error": {
+      "message": "cep_proxy_url non impostato su https."
+   },
+   "managed_certificate_renewal_error": {
+      "message": "Tentativo di impostare enable_certificate_renewal su un valore sconosciuto."
+   },
+   "managed_clipboard_button": {
+      "message": "Copia i log negli appunti"
+   },
+   "managed_company_url_http_error": {
+      "message": "help_url field in company_info not set to https."
+   },
+   "managed_help_text": {
+      "message": "Hai bisogno di aiuto?"
+   },
+   "managed_license_button": {
+      "message": "Informazioni"
+   },
+   "managed_log_level_error": {
+      "message": "Tentativo di impostare log_level su un valore sconosciuto."
+   },
+   "managed_login_button": {
+      "message": "Registrati"
+   },
+   "managed_login_device_wide_checkbox": {
+      "message": "Enroll Device-Wide Certificate"
+   },
+   "managed_login_header": {
+      "message": "Registrazione del certificato"
+   },
+   "managed_login_tab_label": {
+      "message": "Nuova richiesta"
+   },
+   "managed_login_use_service_account_checkbox": {
+      "message": "Use Service Account"
+   },
+   "managed_more_options": {
+      "message": "Altre opzioni"
+   },
+   "managed_password_placeholder": {
+      "message": "Password"
+   },
+   "managed_policy_handling_info": {
+      "message": "Gestione delle norme modificate."
+   },
+   "managed_policy_request_info": {
+      "message": "Richiesta norma dal backend."
+   },
+   "managed_policy_response_info": {
+      "message": "Aggiornamento norma ricevuto dal backend."
+   },
+   "managed_signature_algo_error": {
+      "message": "Tentativo di impostare signature_algo su un valore sconosciuto."
+   },
+   "managed_status_button": {
+      "message": "Verifica lo stato"
+   },
+   "managed_status_header": {
+      "message": "Verifica certificato in sospeso"
+   },
+   "managed_status_tab_label": {
+      "message": "Richiesta in sospeso"
+   },
+   "managed_username_placeholder": {
+      "message": "Nome utente"
+   },
+   "managed_va_url_http_error": {
+      "message": "va_google_url not set to https."
+   },
+   "no_certificates_to_renew": {
+      "message": "There are no existing certificates to renew."
+   },
+   "okay_button": {
+      "message": "OK"
+   },
+   "pending_title": {
+      "message": "In sospeso"
+   },
+   "policy_bad_response": {
+      "message": "Risposta non valida durante il tentativo di ricevere gli URI di registrazione. Messaggio di errore: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "policy_timeout_error": {
+      "message": "Request timed out when attempting to reach the CEP endpoint. Please try again later or contact your administrator."
+   },
+   "renewal_generate_pkcs10_failure": {
+      "message": "Generating a new certificate request to embed in a renewal request failed."
+   },
+   "renewal_notification_ignore": {
+      "message": "Ignora tutti i promemoria"
+   },
+   "renewal_notification_message": {
+      "message": "Il certificato scadrà a breve. Fai clic per rinnovarlo subito."
+   },
+   "renewal_notification_remind": {
+      "message": "Ricordamelo in seguito"
+   },
+   "renewal_notification_title": {
+      "message": "Promemoria di rinnovo certificato"
+   },
+   "renewal_request_key_pair_failure": {
+      "message": "Retrieving the key pair associated with the renewal certificate failed."
+   },
+   "renewal_sign_cms_failure": {
+      "message": "Signing a renewal request failed."
+   },
+   "saving_bad_response": {
+      "message": "Risposta non valida durante il tentativo di registrazione di un certificato. Messaggio di errore: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "saving_denied": {
+      "message": "Il server ha negato la richiesta del certificato."
+   },
+   "saving_generate_digest_failure": {
+      "message": "Digest della chiave pubblica del soggetto non riuscita."
+   },
+   "saving_generate_export_failure": {
+      "message": "Esportazione della chiave pubblica non riuscita."
+   },
+   "saving_generate_extract_failure": {
+      "message": "Key pair extraction and saving failed."
+   },
+   "saving_generate_key_failure": {
+      "message": "Generazione e salvataggio della coppia di chiavi non riuscita."
+   },
+   "saving_generate_push_failure": {
+      "message": "Pushing attributes into CSR failed."
+   },
+   "saving_generate_sign_failure": {
+      "message": "Firma della richiesta del certificato finale non riuscita."
+   },
+   "saving_no_cert_failure": {
+      "message": "Impossibile trovare un certificato da archiviare nella risposta."
+   },
+   "saving_pending": {
+      "message": "The server set the request to pending.\nRequest: $1\nReference: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "saving_store_failure": {
+      "message": "Impossibile archiviare il certificato di risposta nel computer."
+   },
+   "saving_template_error": {
+      "message": "Il server ha negato la richiesta di certificato perché è stato specificato un modello di certificato non valido."
+   },
+   "saving_timeout_error": {
+      "message": "Request timed out when attempting to reach the CES endpoint. Please try again later or contact your administrator."
+   },
+   "service_account_host_error": {
+      "message": "Could not retrieve service account credentials."
+   },
+   "success_title": {
+      "message": "Operazione riuscita"
+   },
+   "token_no_system_failure": {
+      "message": "Could not find a valid system token. Your device may not be enrolled in the domain, or you may not have rights to request a system certificate."
+   },
+   "token_no_user_failure": {
+      "message": "Could not find a valid user token. Your device may not be enrolled in the domain."
+   },
+   "token_system_unallowed_failure": {
+      "message": "La registrazione tramite certificato a livello di dispositivo non è consentita dalle norme attuali."
+   }
+}

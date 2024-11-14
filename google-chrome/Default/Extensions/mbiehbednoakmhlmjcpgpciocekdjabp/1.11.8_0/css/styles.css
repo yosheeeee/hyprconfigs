@@ -1,0 +1,517 @@
+html {
+	transition: .3s
+}
+body>div:first-child#doc {
+	opacity: 0;
+}
+
+.ruMiWIFI #logo {
+	bottom: -10px !important
+}
+
+.ruMiWIFI .phill {
+	background: none;
+	border: 1px solid transparent;
+	opacity: 0.5;
+	width: 0px;
+	height: 54px;
+	display: inline-block;
+	position: absolute;
+	z-index: 2;
+	left: 150px;
+	top: 15px;
+	font-size: 12px;
+	border-radius: 5px;
+	overflow: hidden;
+	padding: 0 0 0 46px;
+	transition: .4s
+	}
+	.ruMiWIFI .phill img {
+		position: absolute;
+		left: 5px;
+		top: 2px;
+		opacity: .8
+	}
+	.ruMiWIFI .phill .title {
+		width: 120px;
+		display: block;
+		padding: 5px 15px;
+		background: #1675c5;
+		color: #FFF;
+		border-radius: 0 0 0 5px
+	}
+	.ruMiWIFI .phill .name {
+		width: 120px;
+		padding: 3px 15px 5px 15px;
+		display: block;
+		text-align: center;
+	}
+	.ruMiWIFI .phill .name a, .phill .name a:hover {
+		text-decoration: none;
+		border-bottom: 1px dashed #333;
+	}
+	.ruMiWIFI .phill:hover {
+		width: 150px;
+		background: rgba(255, 255, 255, 0.32);
+		border: 1px solid #63a5de;
+		opacity: 1
+	}
+
+.ruMiWIFI #hd .inner {
+	position: relative;
+}
+
+.ruMiWIFI .d-bd #vasListUL {
+	display: none;
+}
+
+.ruMiWIFI  #doc {
+	-webkit-transition: .6s
+}
+
+.ruMiWIFI .form-item-empty .k {
+	pointer-events: none;
+}
+
+.ruMiWIFI .patreonPay {
+	z-index: 99999;
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: #ff6700;
+	color: #FFF;
+	padding: 10px 60px 10px 10px;
+}
+
+.ruMiWIFI .patreonPay .pClose {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 40px;
+	height: 40px;
+	color: rgb(238, 238, 238);
+	font-family: sans-serif;
+	font-size: 40px;
+	text-align: center;
+	line-height: 35px;
+	cursor: pointer;
+	border-radius: 2px;
+}
+.ruMiWIFI .freeAlert {
+	z-index: 2;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	display: flex;
+	align-items: center;
+	background: #FFF;
+	transition: .6s;
+	z-index: 2;
+	}
+	.ruMiWIFI .freeAlert .inside {
+		width: 600px;
+		margin: 0 auto;
+		text-align: center;
+		background: #ffffff;
+		padding: 60px 15px;
+		border-radius: 10px;
+	}
+	.ruMiWIFI .freeAlert .inside .link {
+		color: #5288ff;
+		border-bottom: 1px dashed #5288ff;
+	}
+.ruMiWIFI .mod-guide-phone .notice {
+	margin-bottom: 30px;
+}
+.ruMiWIFI .mod-guide-phone .pic-line .des {
+	font-size: 14px!important
+}
+.ruMiWIFI .aditional {
+	font-size: 12px;
+	color: #777
+}
+.ruMiWIFI .promoWifi {
+	font-size: 12px;
+}
+.ruMiWIFI .promoWifi a {
+	background: #ffb100;
+	display: inline-block;
+	margin: 30px 0 0 0;
+	padding: 5px 15px;
+	border-radius: 5px;
+	transition: .3s
+	}
+	.ruMiWIFI .promoWifi a:hover {
+		color: #333;
+		filter: contrast(1.2)
+	}
+	
+.ruMiWIFI .js_replaceCont {
+	position: fixed;
+}
+
+
+.ruMiWIFI .loader {
+	color: #65acf3;
+	font-size: 20px;
+	margin: 100px auto;
+	width: 1em;
+	height: 1em;
+	border-radius: 50%;
+	position: relative;
+	text-indent: -9999em;
+	-webkit-animation: load4 1.3s infinite linear;
+	animation: load4 1.3s infinite linear;
+	-webkit-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	transform: translateZ(0);
+	}
+	@-webkit-keyframes load4 {
+		0%,
+		100% {
+			box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+		}
+		12.5% {
+			box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+		}
+		25% {
+			box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+		}
+		37.5% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+		}
+		50% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+		}
+		62.5% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+		}
+		75% {
+			box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+		}
+		87.5% {
+			box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+		}
+	}
+	@keyframes load4 {
+		0%,
+		100% {
+			box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+		}
+		12.5% {
+			box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+		}
+		25% {
+			box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+		}
+		37.5% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+		}
+		50% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+		}
+		62.5% {
+			box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+		}
+		75% {
+			box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+		}
+		87.5% {
+			box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+		}
+	}
+	
+.ruMiWIFI .rumid {
+	border: 0;
+	border-radius: 4px;
+	width: 75px;
+	color: #1782dd;
+	padding: 2px;
+}
+
+.ruMiWIFI #logo img {
+	width: 136px;
+}
+
+.ruMiWIFI .rumiLink {
+	text-decoration: underline;
+	color: #268dff;
+}
+
+.ruMiWIFI #vpnlist {
+	font-size: 10px
+}
+
+.ruMiWIFI .mod-login .info {
+	display: inline-flex
+	}
+	.ruMiWIFI .mod-login .info li {
+		overflow: hidden;
+		background: rgb(255 255 255 / 7%);
+		border-radius: 10px;
+		margin: 10px;
+		padding: 15px;
+		height: auto
+	}
+	
+	.ruMiWIFI .mod-ft a {
+		background: rgb(0 91 169);
+		display: inline-block;
+		color: #FFF;
+		text-decoration: none;
+		padding: 5px 30px;
+		border-radius: 5px;
+	}
+	
+	.ruMiWIFI .newguide {
+		display: none
+	}
+	
+	.rumiAlert {
+		padding: 15px;
+		text-align: center;
+		background: #ff4e4e;
+		color: #FFF;
+	}
+	.rumiInfo {
+		padding: 15px;
+		text-align: center;
+		background: #4e9dff;
+		color: #FFF;
+	}
+	
+.ruMiWIFI .rumi_resume {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.ruMiWIFI .panel.panel-dialog.d-is-open {
+	min-width: 600px
+}
+.ruMiWIFI .form-item-select {
+	/* width: 100% */
+}
+.ruMiWIFI .form-item-select .ipt-text {
+	min-width: -webkit-fill-available;
+}
+
+.ruMiWIFI #rBd {
+	min-width: 1100px;
+	background: #2065ac;
+	position: relative;
+	overflow: hidden;
+	padding: 90px 30px;
+	}
+	.ruMiWIFI #rBd .closeOpen {
+		cursor: pointer;
+		position: absolute;
+		right: 0;
+		top: 0;
+		background: #1782dd;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		font-size: 20px;
+		display: inline-block;
+		}
+		.ruMiWIFI #rBd .closeOpen:hover {
+			background: #333;
+			color: #1782dd
+		}
+	.ruMiWIFI #rBd h2 {
+		text-transform: uppercase;
+		font-size: 20px;
+		font-weight: normal;
+		margin: 0 0 60px 0;
+		text-align: center;
+		color: #FFF
+	}
+	.ruMiWIFI #rBd h2 span {
+		cursor: help;
+		background: #1782dd;
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		border-radius: 50%;
+	}
+	#rBd.closed {
+		margin-top: -40px;
+		padding: 0;
+		height: 40px;
+		background: transparent
+	}
+	#rBd.closed h2 {
+		display: none;
+	}
+	#rBd.closed .routersList {
+		display: none;
+	}
+	#rBd .closeOpen::before {
+		content: "✖";
+	}
+	#rBd.closed .closeOpen::before {
+		content: "⯆";
+	}
+
+.ruMiWIFI .routersList {
+	position: relative
+	}
+	.ruMiWIFI .routersList * {
+		box-sizing: border-box;
+	}
+	.ruMiWIFI .routersList .routerBlock {
+		width: 100%;
+		padding: 0 5px 15px 5px
+		}
+		.ruMiWIFI .routersList .routerBlock .routerIn {
+			color: #333;
+			text-align: center;
+			display: flex;
+			overflow: hidden;
+			flex-direction: column;
+			height: 100%;
+			padding: 20px;
+			background: #FFF;
+			border: 1px solid #f4f4f4;
+			border-radius: 8px;
+			box-shadow: rgb(0 0 0 / 50%) 0px 10px 13px -7px, rgb(0 0 0 / 0%) 5px 5px 15px 5px
+			}
+			.ruMiWIFI .routersList .routerBlock .fullLink {
+				z-index: 2;
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				opacity: 0
+			}
+			.ruMiWIFI .routersList .routerBlock .routerIn .price {
+				display: block;
+				margin: 0 0 10px 0
+			}
+			.ruMiWIFI .routersList .routerBlock .routerIn .price span {
+				display: inline-block;
+				color: #4778ff
+			}
+			.ruMiWIFI .routersList .routerBlock .routerIn .price span+span:before {
+				content: "/";
+				padding: 0 7px 0 3px;
+				color: #c3c3c3;
+			}
+			.ruMiWIFI .routersList .routerBlock .img {
+				display: block;
+				width: 100%;
+				height: 160px;
+				margin: 0 0 20px 0
+			}
+			.ruMiWIFI .routersList .routerBlock .img img {
+				background: #FFF;
+				object-fit: contain;
+				width: 100%;
+				height: 100%;
+				transition: .5s;
+				transform: scale(0.99);
+				-webkit-transform: scale(0.99);
+			}
+			.ruMiWIFI .routersList .routerBlock .routerIn:hover .img img {
+				transform: scale(1.2);
+				-webkit-transform: scale(1.2);
+			}
+			.ruMiWIFI .routersList .routerBlock h3 {
+				font-weight: normal;
+				overflow: hidden;
+				margin: 0 0 10px 0;
+				font-size: 14px;
+				line-height: 24px;
+				flex-grow: 1;
+			}
+			.ruMiWIFI .routersList .routerBlock .buy {
+				display: flex;
+				flex-grow: 1;
+				margin: 0 0 10px 0
+				}
+				.ruMiWIFI .routersList .routerBlock .buy a {
+					display: inline-block;
+					text-decoration: none;
+					background: none;
+					color: #4778ff;
+					padding: 0
+					}
+					.ruMiWIFI .routersList .routerBlock .buy a:hover {
+						filter: contrast(1.4)
+					}
+			.ruMiWIFI .routersList .routerBlock .specs {
+				font-size: 12px;
+				line-height: 18px;
+				background: #f8f8f8;
+				margin: 0 -22px -22px -22px;
+				padding: 20px 20px
+				}
+				.ruMiWIFI .routersList .routerBlock .specs div>span {
+					display: inline-block
+				}
+				.ruMiWIFI .routersList .routerBlock .specs div>span:first-child {
+					margin: 0 5px 0 0;
+					color: #747474
+				}
+				.ruMiWIFI .routersList .routerBlock .youRww {
+					position: absolute;
+					z-index: 3;
+					right: 25px;
+					top: 10px;
+					width: 40px
+				}
+
+.ruMiWIFI .owl-equal .owl-stage {
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	}
+	.ruMiWIFI .owl-equal .owl-item {
+		display: -ms-flexbox;
+		display: -webkit-box;
+		display: flex;
+		height: auto !important;
+	}
+	.ruMiWIFI .owl-dots {
+		margin-top: 60px!important
+	}
+
+.ruMiWIFI #doc {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+.ruMiWIFI #bd {
+	margin-top: 0;
+	margin-bottom: 0
+}
+.ruMiWIFI .flexGrow {
+	flex-grow: 1
+}
+.ruMiWIFI #ft {
+	padding: 40px 0
+}
+.ruMiWIFI #nav li {
+	margin-right: 40px
+}
+.ruMiWIFI .form-item-select .k {
+	width: auto!important
+}
+
+.ruMiWIFI .newFooterRumi {
+	
+	}
+	
+.ruMiWIFI .alertLink {
+	background: #0000008a;
+	padding: 4px 15px;
+	border-radius: 10px
+}

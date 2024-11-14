@@ -1,0 +1,818 @@
+{
+   "additionalPermissionCaptionLabel": {
+      "message": "Additional permissions are required to use Simple Translate on web pages."
+   },
+   "additionalPermissionLabel": {
+      "message": "Enable translation on web pages"
+   },
+   "addonPageLabel": {
+      "message": "דף התוסף"
+   },
+   "addonUrl": {
+      "message": "https://addons.mozilla.org/he/firefox/addon/simple-translate/?src=optionpage\n"
+   },
+   "allLangLabel": {
+      "message": "כל השפות"
+   },
+   "altLabel": {
+      "message": "Alt"
+   },
+   "amazonTitleLabel": {
+      "message": "amazon.co.jp eGift Cards"
+   },
+   "amazonUrl": {
+      "message": "https://www.amazon.co.jp/dp/B004N3APGO?language=en_US"
+   },
+   "backersLabel": {
+      "message": "תומכים"
+   },
+   "bgColorLabel": {
+      "message": "צבע הרקע"
+   },
+   "bottomLabel": {
+      "message": "למטה"
+   },
+   "bottomLeftLabel": {
+      "message": "למטה שמאל"
+   },
+   "bottomRightLabel": {
+      "message": "למטה ימין"
+   },
+   "bottomSelectedTextLabel": {
+      "message": "מתחת לטקסט הנבחר"
+   },
+   "buttonPositionLabel": {
+      "message": "מיקום תצוגה"
+   },
+   "buttonSizeLabel": {
+      "message": "גודל"
+   },
+   "buttonStyleCaptionLabel": {
+      "message": "בחר את העיצוב של כפתור התרגום המוצג בדפי רשת."
+   },
+   "buttonStyleLabel": {
+      "message": "כפתור התרגום"
+   },
+   "candidateFontColorLabel": {
+      "message": "צבע הכתב עבור תרגומים נוספים"
+   },
+   "clear": {
+      "message": "נקה"
+   },
+   "clickedPointLabel": {
+      "message": "נקודת הלחיצה"
+   },
+   "cmdLabel": {
+      "message": "Windows/Command"
+   },
+   "copiedLabel": {
+      "message": "הועתק."
+   },
+   "copyLabel": {
+      "message": "העתק"
+   },
+   "ctrlLabel": {
+      "message": "Ctrl"
+   },
+   "currentTabLabel": {
+      "message": "הכרטיסיה הנוכחית"
+   },
+   "darkLabel": {
+      "message": "חשוך"
+   },
+   "deeplApiCaptionLabel": {
+      "message": "שימוש ב-DeepL API. ההרשמה נדרשת עם DeepL API חינמי או DeepL API Pro על מנת לקבל מפתח אימות."
+   },
+   "deeplApiLabel": {
+      "message": "DeepL API"
+   },
+   "deeplAuthError": {
+      "message": "שגיאה: אימות של DeepL API נכשל. אנא הגדר את מפתח האימות ותכנן נכון בדף ההגדרות."
+   },
+   "deeplAuthKeyCaptionLabel": {
+      "message": "הכנס את מפתח האימות עבור DeepL API."
+   },
+   "deeplAuthKeyLabel": {
+      "message": "מפתח אימות"
+   },
+   "deeplFreeLabel": {
+      "message": "DeepL API חינמי"
+   },
+   "deeplPlanCaptionLabel": {
+      "message": "בחר את תוכנית  DeepL API שנרשמת אליה."
+   },
+   "deeplPlanLabel": {
+      "message": "תוכנית DeepL API"
+   },
+   "deeplProLabel": {
+      "message": "DeepL API Pro"
+   },
+   "disableOnThisPage": {
+      "message": "בטל תרגום בדף זה"
+   },
+   "disableTranslationLabel": {
+      "message": "השבתת תרגום"
+   },
+   "disableUrlListCaptionLabel": {
+      "message": "אם הדף נמצא באחד מהדומיינים הללו, התרגום בדף יושבת, הרשימה מאפשרת שימוש ב\"*\" לתווים כלליים."
+   },
+   "disableUrlListLabel": {
+      "message": "דומיינים להשבתת התרגום"
+   },
+   "displayDirectionLabel": {
+      "message": "מיקום תצוגה - כיוון"
+   },
+   "donateLabel": {
+      "message": "תרום"
+   },
+   "donateWithPaypalLabel": {
+      "message": "תרום באמצעות PayPal"
+   },
+   "donationCaptionLabel": {
+      "message": "תודה לך על השימוש ב-Simple Translate.\u003Cbr>תמיכתך נותנת לנו הרבה עידוד, כדי שנוכל להמשיך לפתח את התוסף.\u003Cbr>אם אתה אוהב אותנו, אשמח אם תשקול לתרום לנו."
+   },
+   "donationLabel": {
+      "message": "אנא תרום"
+   },
+   "dontshowbuttonCaptionlabel": {
+      "message": "לא יוצג כפתור או פאנל התרגום."
+   },
+   "dontshowbuttonlabel": {
+      "message": "לא יוצג כפתור או פאנל"
+   },
+   "enableLabel": {
+      "message": "Enable"
+   },
+   "enableOnThisPage": {
+      "message": "תאפשר תרגום בדף זה"
+   },
+   "exportButtonLabel": {
+      "message": "ייצא"
+   },
+   "exportSettingsCaptionLabel": {
+      "message": "שמור את האפשרויות כ-JSON על המחשב שלך."
+   },
+   "exportSettingsLabel": {
+      "message": "ייצוא אפשרויות"
+   },
+   "extDescription": {
+      "message": "תרגם במהירות טקסט נבחר או מוקלד בדפי אינטרנט. תומך בגוגל תרגום ו-DeepL API."
+   },
+   "extName": {
+      "message": "Simple Translate"
+   },
+   "extensionPageLabel": {
+      "message": "עמוד התוסף"
+   },
+   "fontSizeLabel": {
+      "message": "גודל גופן"
+   },
+   "generalLabel": {
+      "message": "כללי"
+   },
+   "googleApiCaptionLabel": {
+      "message": "שימוש ב-Google Translate API. רישום אינו נדרש."
+   },
+   "googleApiLabel": {
+      "message": "API גוגל תרגום"
+   },
+   "heightLabel": {
+      "message": "גובה"
+   },
+   "howToUseDeeplLabel": {
+      "message": "כיצד להרשם ל-DeepL API"
+   },
+   "ifAutoTranslateCaptionLabel": {
+      "message": "הצגת פאנל התרגום ישירות ללא כפתור."
+   },
+   "ifAutoTranslateLabel": {
+      "message": "הצגת פאנל התרגום"
+   },
+   "ifChangeSecondLangCaptionLabel": {
+      "message": "במידה ונבחר טקסט בשפת היעד, הוא יתורגם לשפה השניה."
+   },
+   "ifChangeSecondLangLabel": {
+      "message": "מעבר אוטומטי לשפה שנייה"
+   },
+   "ifChangeSecondLangOnPageCaptionLabel": {
+      "message": "במידה והטקסט שנבחר בשפת ברירת המחדל, תרגם אותו לשפה השניה."
+   },
+   "ifCheckLangCaptionLabel": {
+      "message": "במידה וסומן טקסט בשפת היעד לתרגום, לא יוצג כפתור או פאנל התרגום."
+   },
+   "ifCheckLangLabel": {
+      "message": "אל תציג כפתור או פאנל אם אינם נדרשים"
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedCaptionLabel": {
+      "message": "הצגת התרגם תתבצע רק בזמן לחיצה על מקש הברירה."
+   },
+   "ifOnlyTranslateWhenModifierKeyPressedLabel": {
+      "message": "תרגם בלחיצה על מקש ברירה"
+   },
+   "ifShowButtonCaptionLabel": {
+      "message": "הצגת כפתור התרגום, שפותח שלחיצה עליו מציגה את פאנל התרגום."
+   },
+   "ifShowButtonLabel": {
+      "message": "הצגת כפתור התרגום"
+   },
+   "ifShowCandidateCaptionLabel": {
+      "message": "הצג תרגומים שונים רבים, כאשר מילה בודדת מתורגמת."
+   },
+   "ifShowCandidateLabel": {
+      "message": "הצג תרגומים שונים"
+   },
+   "ifShowMenuCaptionLabel": {
+      "message": "הוסף פריטים לתפריט ההקשר המוצג בעת לחיצה ימנית על דף האינטרנט או הכרטיסייה."
+   },
+   "ifShowMenuLabel": {
+      "message": "הצג את תפריט ההקשר"
+   },
+   "ignoredDocumentLangCaptionLabel": {
+      "message": "השבת את התרגום אם תכונת lang ברכיב ה-html של הדף תואמת לרשימה. הזן תגי שפה מופרדים בפסיקים."
+   },
+   "ignoredDocumentLangLabel": {
+      "message": "השבת תרגום לפי מאפיין lang"
+   },
+   "importButtonLabel": {
+      "message": "ייבא"
+   },
+   "importSettingsCaptionLabel": {
+      "message": "טען את קובץ ההגדרות מהמחשב שלך."
+   },
+   "importSettingsLabel": {
+      "message": "ייבוא הגדרות"
+   },
+   "includeMacModifierKeysMessage": {
+      "message": "כלול אחד מהפקודות, Ctrl או Alt"
+   },
+   "includeModifierKeysMessage": {
+      "message": "כלול Ctrl או Alt"
+   },
+   "informationLabel": {
+      "message": "מידע"
+   },
+   "initialTextArea": {
+      "message": "הזן טקסט"
+   },
+   "invalidLetterMessage": {
+      "message": "התו אינו יכול להיות בשימוש"
+   },
+   "invalidShortcutMessage": {
+      "message": "הקיצור לא יכול להיות בשימוש"
+   },
+   "isDebugModeCaptionLabel": {
+      "message": "כאשר מצב דיבוג מופעל, הלוגים נשלחים לדבגר."
+   },
+   "isDebugModeLabel": {
+      "message": "אפשר מצב דיבוג"
+   },
+   "isDisabledInCodeElementCaptionLabel": {
+      "message": "אל תציג כפתור או פאנל כאשר הטקסט הנבחר נמצא בתוך תגית קוד."
+   },
+   "isDisabledInCodeElementLabel": {
+      "message": "השבת תרגום בתוך תגית קוד"
+   },
+   "isDisabledInTextFieldsCaptionLabel": {
+      "message": "אל תציג כפתור או פאנל כאשר הטקסט הנבחר נמצא בתוך שדה."
+   },
+   "isDisabledInTextFieldsLabel": {
+      "message": "השבת תרגום בשדות טקסט"
+   },
+   "isOverrideColorsLabel": {
+      "message": "עקוף את צבעי ברירת מחדל עם הצבעים למטה"
+   },
+   "isShowOptionsPageWhenUpdatedCaptionLabel": {
+      "message": "הצגת דף האפשרויות כאשר Simple Translate מתעדכן. אתה יכול לדעת על תוכן העדכון במהירות."
+   },
+   "isShowOptionsPageWhenUpdatedLabel": {
+      "message": "הצגת דף האפשרויות בזמן עדכון"
+   },
+   "keyboardShortcutsLabel": {
+      "message": "קיצורי מקלדת"
+   },
+   "lang_af": {
+      "message": "אפריקאנס"
+   },
+   "lang_am": {
+      "message": "אמהרית"
+   },
+   "lang_ar": {
+      "message": "ערבית"
+   },
+   "lang_az": {
+      "message": "אזרבייג'נית"
+   },
+   "lang_be": {
+      "message": "בלרוסית"
+   },
+   "lang_bg": {
+      "message": "בולגרית"
+   },
+   "lang_bn": {
+      "message": "בנגאלית"
+   },
+   "lang_bs": {
+      "message": "בוסנית"
+   },
+   "lang_ca": {
+      "message": "קטלאנית"
+   },
+   "lang_ceb": {
+      "message": "קובנית"
+   },
+   "lang_co": {
+      "message": "קורסיקאית"
+   },
+   "lang_cs": {
+      "message": "צ'כית"
+   },
+   "lang_cy": {
+      "message": "ולשילת"
+   },
+   "lang_da": {
+      "message": "דנית"
+   },
+   "lang_de": {
+      "message": "גרמנית"
+   },
+   "lang_el": {
+      "message": "יוונית"
+   },
+   "lang_en": {
+      "message": "אנגלית"
+   },
+   "lang_en_GB": {
+      "message": "אנגלית (בריטית)"
+   },
+   "lang_en_US": {
+      "message": "אנגלית (אמריקאית)"
+   },
+   "lang_eo": {
+      "message": "אספרנטו"
+   },
+   "lang_es": {
+      "message": "ספרדית"
+   },
+   "lang_et": {
+      "message": "אסטונית"
+   },
+   "lang_eu": {
+      "message": "בסקית"
+   },
+   "lang_fa": {
+      "message": "פרסית"
+   },
+   "lang_fi": {
+      "message": "פינית"
+   },
+   "lang_fr": {
+      "message": "צרפתית"
+   },
+   "lang_fy": {
+      "message": "פריזית"
+   },
+   "lang_ga": {
+      "message": "אירית"
+   },
+   "lang_gd": {
+      "message": "גאלית סקוטית"
+   },
+   "lang_gl": {
+      "message": "גליציאנית"
+   },
+   "lang_gu": {
+      "message": "גוג'ארטי"
+   },
+   "lang_ha": {
+      "message": "האוסה"
+   },
+   "lang_haw": {
+      "message": "הוואית"
+   },
+   "lang_he": {
+      "message": "עברית"
+   },
+   "lang_hi": {
+      "message": "הינדי"
+   },
+   "lang_hmn": {
+      "message": "שפת נזירים"
+   },
+   "lang_hr": {
+      "message": "קרואטית"
+   },
+   "lang_ht": {
+      "message": "האיטית"
+   },
+   "lang_hu": {
+      "message": "הונגרית"
+   },
+   "lang_hy": {
+      "message": "ארמנית"
+   },
+   "lang_id": {
+      "message": "אינדונזית"
+   },
+   "lang_ig": {
+      "message": "איגבו"
+   },
+   "lang_is": {
+      "message": "איסלנדית"
+   },
+   "lang_it": {
+      "message": "איטלקית"
+   },
+   "lang_ja": {
+      "message": "יפנית"
+   },
+   "lang_jv": {
+      "message": "יאוואית"
+   },
+   "lang_ka": {
+      "message": "גאורגית"
+   },
+   "lang_kk": {
+      "message": "קזחית"
+   },
+   "lang_km": {
+      "message": "חמרית"
+   },
+   "lang_kn": {
+      "message": "קנאדה"
+   },
+   "lang_ko": {
+      "message": "קוריאנית"
+   },
+   "lang_ku": {
+      "message": "כורדית"
+   },
+   "lang_ky": {
+      "message": "קירגיזית"
+   },
+   "lang_la": {
+      "message": "לטינית"
+   },
+   "lang_lb": {
+      "message": "לוקסמבורגית"
+   },
+   "lang_lo": {
+      "message": "לאית"
+   },
+   "lang_lt": {
+      "message": "ליטאית"
+   },
+   "lang_lv": {
+      "message": "לטבית"
+   },
+   "lang_mg": {
+      "message": "מלגזית"
+   },
+   "lang_mi": {
+      "message": "מאורית"
+   },
+   "lang_mk": {
+      "message": "מקדונית"
+   },
+   "lang_ml": {
+      "message": "מליאלאם"
+   },
+   "lang_mn": {
+      "message": "מונגולית"
+   },
+   "lang_mr": {
+      "message": "מראטהי"
+   },
+   "lang_ms": {
+      "message": "מלאית"
+   },
+   "lang_mt": {
+      "message": "מלטית"
+   },
+   "lang_my": {
+      "message": "בורמזית"
+   },
+   "lang_nb": {
+      "message": "Norwegian (bokmål)"
+   },
+   "lang_ne": {
+      "message": "נפאלית"
+   },
+   "lang_nl": {
+      "message": "הולנדית"
+   },
+   "lang_no": {
+      "message": "נורווגית"
+   },
+   "lang_ny": {
+      "message": "צ'ווה"
+   },
+   "lang_or": {
+      "message": "אודיה (אורייה)"
+   },
+   "lang_pa": {
+      "message": "פנג'אבי"
+   },
+   "lang_pl": {
+      "message": "פולנית"
+   },
+   "lang_ps": {
+      "message": "פאשטו"
+   },
+   "lang_pt": {
+      "message": "פורטוגזית"
+   },
+   "lang_pt_BR": {
+      "message": "פורטוגזית (ברזילאית)"
+   },
+   "lang_pt_PT": {
+      "message": "פורטוגזית"
+   },
+   "lang_ro": {
+      "message": "רומנית"
+   },
+   "lang_ru": {
+      "message": "רוסית"
+   },
+   "lang_rw": {
+      "message": "קינירואנדה"
+   },
+   "lang_sd": {
+      "message": "סינדהי"
+   },
+   "lang_si": {
+      "message": "סינהלית"
+   },
+   "lang_sk": {
+      "message": "סלובקית"
+   },
+   "lang_sl": {
+      "message": "סלובנית"
+   },
+   "lang_sm": {
+      "message": "סמואית"
+   },
+   "lang_sn": {
+      "message": "שונה"
+   },
+   "lang_so": {
+      "message": "סומלית"
+   },
+   "lang_sq": {
+      "message": "אלבנית"
+   },
+   "lang_sr": {
+      "message": "סרבית"
+   },
+   "lang_st": {
+      "message": "סותו דרומית"
+   },
+   "lang_su": {
+      "message": "סונדנזית"
+   },
+   "lang_sv": {
+      "message": "שוודית"
+   },
+   "lang_sw": {
+      "message": "סווהילי"
+   },
+   "lang_ta": {
+      "message": "טמילית"
+   },
+   "lang_te": {
+      "message": "טלוגו"
+   },
+   "lang_tg": {
+      "message": "טג'יקית"
+   },
+   "lang_th": {
+      "message": "תאילנדית"
+   },
+   "lang_tk": {
+      "message": "טורקמנית"
+   },
+   "lang_tl": {
+      "message": "טאגאלוג"
+   },
+   "lang_tr": {
+      "message": "טורקית"
+   },
+   "lang_tt": {
+      "message": "טטרית"
+   },
+   "lang_ug": {
+      "message": "אויגורית"
+   },
+   "lang_uk": {
+      "message": "אוקראינית"
+   },
+   "lang_ur": {
+      "message": "אורדו"
+   },
+   "lang_uz": {
+      "message": "אוזבקית"
+   },
+   "lang_vi": {
+      "message": "ווייטנאמית"
+   },
+   "lang_xh": {
+      "message": "קוסה"
+   },
+   "lang_yi": {
+      "message": "יידיש"
+   },
+   "lang_yo": {
+      "message": "יורובה"
+   },
+   "lang_zh": {
+      "message": "סינית"
+   },
+   "lang_zh_CN": {
+      "message": "סינית (פשוטה)"
+   },
+   "lang_zh_TW": {
+      "message": "סינית (מסורתית)"
+   },
+   "lang_zu": {
+      "message": "זולו"
+   },
+   "leftLabel": {
+      "message": "שמאל"
+   },
+   "licenseLabel": {
+      "message": "רשיון"
+   },
+   "lightLabel": {
+      "message": "מואר"
+   },
+   "listenLabel": {
+      "message": "תקשיב"
+   },
+   "menuLabel": {
+      "message": "תפריט הקשר"
+   },
+   "modifierKeyLabel": {
+      "message": "מקש הברירה"
+   },
+   "networkError": {
+      "message": "שגיאה: בדוק את חיבור הרשת שלך."
+   },
+   "newTabLabel": {
+      "message": "כרטיסייה חדשה"
+   },
+   "openInDeeplLabel": {
+      "message": "פתח במתרגם DeepL"
+   },
+   "openInGoogleLabel": {
+      "message": "פתח ב- Google Translate"
+   },
+   "openPopupDescription": {
+      "message": "פתח את פופאפ סרגל הכלים"
+   },
+   "otherLabel": {
+      "message": "שונות"
+   },
+   "pageTranslationLabel": {
+      "message": "תרגום דף"
+   },
+   "pageTranslationOpenToCaptionLabel": {
+      "message": "ציין את הכרטיסייה שעליה יוצגו תוצאות תרגום הדף."
+   },
+   "pageTranslationOpenToLabel": {
+      "message": "כרטיסייה להצגת תוצאות תרגום"
+   },
+   "panelStyleCaptionLabel": {
+      "message": "בחר את עיצוב פאנל התרגום להצגה בדפי רשת."
+   },
+   "panelStyleLabel": {
+      "message": "פאנל התרגום"
+   },
+   "positionOffsetLabel": {
+      "message": "מיקום תצוגה - מרחק"
+   },
+   "privacyPolicyLabel": {
+      "message": "מדיניות הפרטיות"
+   },
+   "recentLangLabel": {
+      "message": "שפות אחרונות"
+   },
+   "referencePointLabel": {
+      "message": "מיקום תצוגה - נקודת ייחוס"
+   },
+   "reset": {
+      "message": "אתחל"
+   },
+   "resetSettingsButtonLabel": {
+      "message": "אתחל"
+   },
+   "resetSettingsCaptionLabel": {
+      "message": "אתחול כל ההגדרות לברירת המחדל."
+   },
+   "resetSettingsLabel": {
+      "message": "אתחול ההגדרות"
+   },
+   "resultFontColorLabel": {
+      "message": "צבע הכתב עבור תוצאת התרגום"
+   },
+   "rightLabel": {
+      "message": "ימין"
+   },
+   "secondTargetLangCaptionLabel": {
+      "message": "בחר שפת מטרה שנייה."
+   },
+   "secondTargetLangLabel": {
+      "message": "שפה שניה"
+   },
+   "setKeyboardShortCutsMessage": {
+      "message": "הגדר קיצורי מקלדת."
+   },
+   "settingsLabel": {
+      "message": "הגדרות"
+   },
+   "shiftLabel": {
+      "message": "Shift"
+   },
+   "shortcutsLabel": {
+      "message": "קיצורי דרך"
+   },
+   "showLink": {
+      "message": "תרגם דף זה"
+   },
+   "sponsorsLabel": {
+      "message": "ספונסרים"
+   },
+   "styleLabel": {
+      "message": "עיצוב"
+   },
+   "systemLabel": {
+      "message": "מערכת"
+   },
+   "targetLangCaptionLabel": {
+      "message": "בחר את שפת ברירת המחדל לתרגם אליה טקסטים."
+   },
+   "targetLangLabel": {
+      "message": "תרגם ל"
+   },
+   "themeCaptionLabel": {
+      "message": "בחא ערכת צבעים."
+   },
+   "themeLabel": {
+      "message": "ערכת נושא"
+   },
+   "toolbarLabel": {
+      "message": "חלון קופץ"
+   },
+   "topLabel": {
+      "message": "למעלה"
+   },
+   "topLeftLabel": {
+      "message": "למעלה שמאל"
+   },
+   "topRightLabel": {
+      "message": "למעלה ימין"
+   },
+   "topSelectedTextLabel": {
+      "message": "מעל הטקסט הנבחר"
+   },
+   "translateLinkMenu": {
+      "message": "תרגם קישור מסומן"
+   },
+   "translatePageMenu": {
+      "message": "תרגם דף זה"
+   },
+   "translateTextMenu": {
+      "message": "תרגם טקסט מסומן"
+   },
+   "translationApiLabel": {
+      "message": "מנוע תרגום"
+   },
+   "typeLetterMessage": {
+      "message": "הקלד תו"
+   },
+   "typeShortcutMessage": {
+      "message": "הקש קיצור"
+   },
+   "unavailableError": {
+      "message": "שגיאה: הגעת למגבל השימוש בשירות. אנא חכה ונסה שוב בהמשך."
+   },
+   "unknownError": {
+      "message": "שגיאה: שגיאה לא ידועה"
+   },
+   "waitTime2CaptionLabel": {
+      "message": "אם תתרגם את זה הרבה פעמים בזמן קצר, זה עלול להיות בלתי שמיש לזמן מה."
+   },
+   "waitTimeCaptionLabel": {
+      "message": "ציין את זמן ההמתנה מהזנת תו ועד תחילת התרגום. (באלפיות שנייה)"
+   },
+   "waitTimeLabel": {
+      "message": "השהיית תרגום"
+   },
+   "webPageLabel": {
+      "message": "דף אינטרנט"
+   },
+   "whenSelectTextLabel": {
+      "message": "התנהגות כאשר בוחרים טקסט"
+   },
+   "widthLabel": {
+      "message": "רוחב"
+   }
+}

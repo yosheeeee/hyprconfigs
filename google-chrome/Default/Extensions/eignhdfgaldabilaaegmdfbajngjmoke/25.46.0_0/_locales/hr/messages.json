@@ -1,0 +1,1577 @@
+{
+   "cj_i18n_00000": {
+      "message": "Najjednostavniji pristup Google svemiru"
+   },
+   "cj_i18n_00001": {
+      "message": "Moј disk"
+   },
+   "cj_i18n_00002": {
+      "message": "Dijeljeno samnom"
+   },
+   "cj_i18n_00003": {
+      "message": "Skorashњi"
+   },
+   "cj_i18n_00004": {
+      "message": "Označeno zvjezdicom"
+   },
+   "cj_i18n_00005": {
+      "message": "Smeće"
+   },
+   "cj_i18n_00017": {
+      "message": "Slike"
+   },
+   "cj_i18n_00021": {
+      "message": "Svet"
+   },
+   "cj_i18n_00022": {
+      "message": "Tvoјa zemљa"
+   },
+   "cj_i18n_00023": {
+      "message": "Posao"
+   },
+   "cj_i18n_00025": {
+      "message": "Zabava"
+   },
+   "cj_i18n_00026": {
+      "message": "Sport"
+   },
+   "cj_i18n_00027": {
+      "message": "Zdravљe"
+   },
+   "cj_i18n_00045": {
+      "message": "Otvorite video na novoј kartitsi"
+   },
+   "cj_i18n_00046": {
+      "message": "Molimo pokrenite pretragu"
+   },
+   "cj_i18n_00047": {
+      "message": "Više"
+   },
+   "cj_i18n_00061": {
+      "message": "Istraži"
+   },
+   "cj_i18n_00081": {
+      "message": "Podsjetnici"
+   },
+   "cj_i18n_00083": {
+      "message": "Sve"
+   },
+   "cj_i18n_00084": {
+      "message": "Otvori uslugu u novom tabu"
+   },
+   "cj_i18n_00085": {
+      "message": "Pretraži"
+   },
+   "cj_i18n_00086": {
+      "message": "Pretraži u novom tabu"
+   },
+   "cj_i18n_00090": {
+      "message": "Nova datoteka"
+   },
+   "cj_i18n_00096": {
+      "message": "Poreђaј po"
+   },
+   "cj_i18n_00097": {
+      "message": "Pomakni ovdje za uklanjanje"
+   },
+   "cj_i18n_00106": {
+      "message": "Promijeni način prikaza"
+   },
+   "cj_i18n_00107": {
+      "message": "Sve"
+   },
+   "cj_i18n_00108": {
+      "message": "Vlasnik sam ja"
+   },
+   "cj_i18n_00110": {
+      "message": "Filtriraj"
+   },
+   "cj_i18n_00112": {
+      "message": "Web-lokacije"
+   },
+   "cj_i18n_00116": {
+      "message": "Pokušajte sa sinonimom ili širim pojmom."
+   },
+   "cj_i18n_00121": {
+      "message": "Fastsikle"
+   },
+   "cj_i18n_00122": {
+      "message": "Datoteke"
+   },
+   "cj_i18n_00123": {
+      "message": "Otvorite fastsiklu na novoј kartitsi"
+   },
+   "cj_i18n_00131": {
+      "message": "Knjižnica"
+   },
+   "cj_i18n_00134": {
+      "message": "Dućan"
+   },
+   "cj_i18n_00155": {
+      "message": "Povijest"
+   },
+   "cj_i18n_00161": {
+      "message": "O meni"
+   },
+   "cj_i18n_00162": {
+      "message": "Povratak"
+   },
+   "cj_i18n_00165": {
+      "message": "Siječanj"
+   },
+   "cj_i18n_00166": {
+      "message": "Veljača"
+   },
+   "cj_i18n_00167": {
+      "message": "Ožujak"
+   },
+   "cj_i18n_00168": {
+      "message": "Travanj"
+   },
+   "cj_i18n_00169": {
+      "message": "Svibanj"
+   },
+   "cj_i18n_00170": {
+      "message": "Lipanj"
+   },
+   "cj_i18n_00171": {
+      "message": "Srpanj"
+   },
+   "cj_i18n_00172": {
+      "message": "Kolovoz"
+   },
+   "cj_i18n_00173": {
+      "message": "Rujan"
+   },
+   "cj_i18n_00174": {
+      "message": "Listopad"
+   },
+   "cj_i18n_00175": {
+      "message": "Studeni"
+   },
+   "cj_i18n_00176": {
+      "message": "Prosinac"
+   },
+   "cj_i18n_00177": {
+      "message": "Administrator"
+   },
+   "cj_i18n_00178": {
+      "message": "Glavni"
+   },
+   "cj_i18n_00182": {
+      "message": "Forumi"
+   },
+   "cj_i18n_00183": {
+      "message": "Upozorenja"
+   },
+   "cj_i18n_00185": {
+      "message": "Ћaskaњa"
+   },
+   "cj_i18n_00187": {
+      "message": "Nacrti"
+   },
+   "cj_i18n_00188": {
+      "message": "Sva pošta"
+   },
+   "cj_i18n_00190": {
+      "message": "Obeleživači"
+   },
+   "cj_i18n_00214": {
+      "message": "e-pošta"
+   },
+   "cj_i18n_00215": {
+      "message": "Pregled napomena"
+   },
+   "cj_i18n_00216": {
+      "message": "Aplikacije"
+   },
+   "cj_i18n_00217": {
+      "message": "Igre"
+   },
+   "cj_i18n_00225": {
+      "message": "Danas do sada"
+   },
+   "cj_i18n_00226": {
+      "message": "Jučer"
+   },
+   "cj_i18n_00227": {
+      "message": "Naspram istog dana prošli tjedan"
+   },
+   "cj_i18n_00228": {
+      "message": "Ovaj mjesec do sada"
+   },
+   "cj_i18n_00233": {
+      "message": "Nema AdSense računa povezanog s Google Računom"
+   },
+   "cj_i18n_00235": {
+      "message": "Kako biste koristili stranicu, morate dati dozvolu za učitavanje vaših AdSense podataka"
+   },
+   "cj_i18n_00238": {
+      "message": "Morate da koristite poslovni nalog G paketa da biste koristili Google administratora"
+   },
+   "cj_i18n_00240": {
+      "message": "Korisnitsi"
+   },
+   "cj_i18n_00243": {
+      "message": "Migratsiјa podataka"
+   },
+   "cj_i18n_00244": {
+      "message": "Domeni"
+   },
+   "cj_i18n_00246": {
+      "message": "Upravљaњe ureђaјem"
+   },
+   "cj_i18n_00247": {
+      "message": "Podrshka"
+   },
+   "cj_i18n_00248": {
+      "message": "Grupe"
+   },
+   "cj_i18n_00250": {
+      "message": "Sigurnost"
+   },
+   "cj_i18n_00252": {
+      "message": "Uloge"
+   },
+   "cj_i18n_00259": {
+      "message": "Da biste mogli da koristite ovu stranitsu, morate da omoguћite pristup uchitavaњu svoјikh Blogger blogova"
+   },
+   "cj_i18n_00260": {
+      "message": "Niјe pronaђen niјedan blog"
+   },
+   "cj_i18n_00261": {
+      "message": "Da biste kreirali novi blog, idite na blogger.com"
+   },
+   "cj_i18n_00262": {
+      "message": "Uchitavaњe blogova niјe uspelo"
+   },
+   "cj_i18n_00263": {
+      "message": "Molimo vas provjerite jeste li spojeni na internet."
+   },
+   "cj_i18n_00265": {
+      "message": "Nije pronađen nijedan događaj"
+   },
+   "cj_i18n_00266": {
+      "message": "Da biste dodali novi dogaђaј, kliknite tsrveno dugme u doњem desnom uglu"
+   },
+   "cj_i18n_00267": {
+      "message": "Danas nema dogaђaјa"
+   },
+   "cj_i18n_00268": {
+      "message": "Novi dogaђaј"
+   },
+   "cj_i18n_00291": {
+      "message": "Početna stranica"
+   },
+   "cj_i18n_00292": {
+      "message": "Zbirke"
+   },
+   "cj_i18n_00293": {
+      "message": "Zajednice"
+   },
+   "cj_i18n_00294": {
+      "message": "Profil"
+   },
+   "cj_i18n_00295": {
+      "message": "Osobe"
+   },
+   "cj_i18n_00296": {
+      "message": "Obavijesti"
+   },
+   "cj_i18n_00298": {
+      "message": "Postavke"
+   },
+   "cj_i18n_00299": {
+      "message": "Priјemno sanduche"
+   },
+   "cj_i18n_00300": {
+      "message": "Odloženo"
+   },
+   "cj_i18n_00301": {
+      "message": "Gotovo"
+   },
+   "cj_i18n_00302": {
+      "message": "Kalendar"
+   },
+   "cj_i18n_00303": {
+      "message": "Poslato"
+   },
+   "cj_i18n_00306": {
+      "message": "Nezheљena poshta"
+   },
+   "cj_i18n_00307": {
+      "message": "Putovanja"
+   },
+   "cj_i18n_00308": {
+      "message": "Putovanja"
+   },
+   "cj_i18n_00309": {
+      "message": "Sachuvano"
+   },
+   "cj_i18n_00311": {
+      "message": "Finansiјe"
+   },
+   "cj_i18n_00312": {
+      "message": "Drushtveni"
+   },
+   "cj_i18n_00313": {
+      "message": "Azhuriraњa"
+   },
+   "cj_i18n_00314": {
+      "message": "Kontakti"
+   },
+   "cj_i18n_00315": {
+      "message": "Promotsiјe"
+   },
+   "cj_i18n_00316": {
+      "message": "Nizak prioritet"
+   },
+   "cj_i18n_00317": {
+      "message": "Sastavi"
+   },
+   "cj_i18n_00325": {
+      "message": "Učitavanje…"
+   },
+   "cj_i18n_00331": {
+      "message": "Sve"
+   },
+   "cj_i18n_00337": {
+      "message": "Registracija"
+   },
+   "cj_i18n_00346": {
+      "message": "Pretražite Google prečice"
+   },
+   "cj_i18n_00349": {
+      "message": "Povratne informacije i podrška"
+   },
+   "cj_i18n_00350": {
+      "message": "Postavi pitanje"
+   },
+   "cj_i18n_00351": {
+      "message": "Prijavite grešku"
+   },
+   "cj_i18n_00352": {
+      "message": "Zatražite funkciju"
+   },
+   "cj_i18n_00354": {
+      "message": "Doniraj"
+   },
+   "cj_i18n_00361": {
+      "message": "Dodaj račun"
+   },
+   "cj_i18n_00363": {
+      "message": "Nalog brenda"
+   },
+   "cj_i18n_00390": {
+      "message": "Disk"
+   },
+   "cj_i18n_00391": {
+      "message": "Dokumenti"
+   },
+   "cj_i18n_00393": {
+      "message": "Tabele"
+   },
+   "cj_i18n_00405": {
+      "message": "Galeriјa shablona"
+   },
+   "cj_i18n_00406": {
+      "message": "Napredna pretraga"
+   },
+   "cj_i18n_00407": {
+      "message": "Prezentacije"
+   },
+   "cj_i18n_00408": {
+      "message": "Upitnici"
+   },
+   "cj_i18n_00409": {
+      "message": "Crteži"
+   },
+   "cj_i18n_00412": {
+      "message": "Financije"
+   },
+   "cj_i18n_00414": {
+      "message": "Letovi"
+   },
+   "cj_i18n_00415": {
+      "message": "Fontovi"
+   },
+   "cj_i18n_00418": {
+      "message": "Grupe"
+   },
+   "cj_i18n_00421": {
+      "message": "Prijemno sanduče"
+   },
+   "cj_i18n_00423": {
+      "message": "Karte"
+   },
+   "cj_i18n_00425": {
+      "message": "Vijesti"
+   },
+   "cj_i18n_00427": {
+      "message": "Patenti"
+   },
+   "cj_i18n_00429": {
+      "message": "Fotografije"
+   },
+   "cj_i18n_00434": {
+      "message": "Pretraživanje"
+   },
+   "cj_i18n_00435": {
+      "message": "Kupnja"
+   },
+   "cj_i18n_00438": {
+      "message": "Pomoć"
+   },
+   "cj_i18n_00439": {
+      "message": "Zadaci"
+   },
+   "cj_i18n_00440": {
+      "message": "Prevoditelj"
+   },
+   "cj_i18n_00441": {
+      "message": "Trendovi"
+   },
+   "cj_i18n_00449": {
+      "message": "Novčanik"
+   },
+   "cj_i18n_00460": {
+      "message": "Knjige"
+   },
+   "cj_i18n_00462": {
+      "message": "Chrome web-trgovina"
+   },
+   "cj_i18n_00464": {
+      "message": "Proširenja"
+   },
+   "cj_i18n_00465": {
+      "message": "Teme"
+   },
+   "cj_i18n_00470": {
+      "message": "Komandna tabla"
+   },
+   "cj_i18n_00471": {
+      "message": "Zemlja"
+   },
+   "cj_i18n_00476": {
+      "message": "Nova e-pošta"
+   },
+   "cj_i18n_00477": {
+      "message": "Alati za unos"
+   },
+   "cj_i18n_00481": {
+      "message": "Račun"
+   },
+   "cj_i18n_00483": {
+      "message": "Android TV"
+   },
+   "cj_i18n_00484": {
+      "message": "Događaji"
+   },
+   "cj_i18n_00488": {
+      "message": "Slike"
+   },
+   "cj_i18n_00496": {
+      "message": "Arkhiva vesti"
+   },
+   "cj_i18n_00500": {
+      "message": "Pretraživanje postavki"
+   },
+   "cj_i18n_00502": {
+      "message": "Forumi proizvoda"
+   },
+   "cj_i18n_00503": {
+      "message": "Izvoz"
+   },
+   "cj_i18n_00505": {
+      "message": "Alatke za prevodiotsa"
+   },
+   "cj_i18n_00509": {
+      "message": "Videozapisi"
+   },
+   "cj_i18n_00517": {
+      "message": "Pošalji ovo e-poštom"
+   },
+   "cj_i18n_00518": {
+      "message": "Mapirajte ovo"
+   },
+   "cj_i18n_00556": {
+      "message": "Mobilne aplikacije"
+   },
+   "cj_i18n_00561": {
+      "message": "Skladishteњe na disku"
+   },
+   "cj_i18n_00566": {
+      "message": "Verifikacija u 2 koraka"
+   },
+   "cj_i18n_00603": {
+      "message": "Sinkronizacija"
+   },
+   "cj_i18n_00607": {
+      "message": "Novi dokument"
+   },
+   "cj_i18n_00608": {
+      "message": "Nova prorachunska tabela"
+   },
+   "cj_i18n_00609": {
+      "message": "Nova prezentatsiјa"
+   },
+   "cj_i18n_00611": {
+      "message": "Android Auto"
+   },
+   "cj_i18n_00626": {
+      "message": "Stvori"
+   },
+   "cj_i18n_00631": {
+      "message": "Novi upitnik"
+   },
+   "cj_i18n_00633": {
+      "message": "Novi pravats"
+   },
+   "cj_i18n_00634": {
+      "message": "Moji doprinosi"
+   },
+   "cj_i18n_00652": {
+      "message": "Yekspeditsiјe"
+   },
+   "cj_i18n_00674": {
+      "message": "Administratorske uloge"
+   },
+   "cj_i18n_00675": {
+      "message": "Izveshtaјi"
+   },
+   "cj_i18n_00688": {
+      "message": "Novi saјt"
+   },
+   "cj_i18n_00689": {
+      "message": "Moja aktivnost"
+   },
+   "cj_i18n_00692": {
+      "message": "Favoriti"
+   },
+   "cj_i18n_00695": {
+      "message": "Chrome za Work Shop"
+   },
+   "cj_i18n_00728": {
+      "message": "Pomoćnik"
+   },
+   "cj_i18n_00736": {
+      "message": "Lokalni vodiči"
+   },
+   "cj_i18n_00744": {
+      "message": "Nalozi brenda"
+   },
+   "cj_i18n_00745": {
+      "message": "Podešavanja oglasa"
+   },
+   "cj_i18n_00807": {
+      "message": "Moja knjižnica"
+   },
+   "cj_i18n_00821": {
+      "message": "Arhiva"
+   },
+   "cj_i18n_00837": {
+      "message": "Android"
+   },
+   "cj_i18n_00838": {
+      "message": "O aplikaciji"
+   },
+   "cj_i18n_00853": {
+      "message": "Android Studio"
+   },
+   "cj_i18n_00854": {
+      "message": "Android programeri"
+   },
+   "cj_i18n_00856": {
+      "message": "OS Chromium"
+   },
+   "cj_i18n_00871": {
+      "message": "Android Beta program"
+   },
+   "cj_i18n_00878": {
+      "message": "Dostupnost"
+   },
+   "cj_i18n_00901": {
+      "message": "Privatnost"
+   },
+   "cj_i18n_00905": {
+      "message": "Podeljena preporuka"
+   },
+   "cj_i18n_00917": {
+      "message": "Izrada rezervnih kopija i sinhronizacija"
+   },
+   "cj_i18n_00918": {
+      "message": "Zashtita lozinke"
+   },
+   "cj_i18n_00930": {
+      "message": "Eksperimenti"
+   },
+   "cj_i18n_00996": {
+      "message": "Administratorski Karantin"
+   },
+   "cj_i18n_01000": {
+      "message": "Nova skripta"
+   },
+   "cj_i18n_01006": {
+      "message": "Lozinke za aplikacije"
+   },
+   "cj_i18n_01009": {
+      "message": "Podrshka"
+   },
+   "cj_i18n_01015": {
+      "message": "Portal za Android partnere"
+   },
+   "cj_i18n_01025": {
+      "message": "Wear OS smernice za dizajn"
+   },
+   "cj_i18n_01030": {
+      "message": "Hoteli"
+   },
+   "cj_i18n_01031": {
+      "message": "Aprili-li-li"
+   },
+   "cj_i18n_01055": {
+      "message": "Za tebe"
+   },
+   "cj_i18n_01057": {
+      "message": "YouTube Muzika"
+   },
+   "cj_i18n_01058": {
+      "message": "YouTube Filmovi"
+   },
+   "cj_i18n_01073": {
+      "message": "Pravila"
+   },
+   "cj_i18n_01079": {
+      "message": "Menadžer publike"
+   },
+   "cj_i18n_01087": {
+      "message": "Rezervacije"
+   },
+   "cj_i18n_01089": {
+      "message": "Pretplate"
+   },
+   "cj_i18n_01095": {
+      "message": "Reklame"
+   },
+   "cj_i18n_01096": {
+      "message": "Pomoć za oglase"
+   },
+   "cj_i18n_01107": {
+      "message": "Nedavno pregledano"
+   },
+   "cj_i18n_01149": {
+      "message": "Ads za pretragu"
+   },
+   "cj_i18n_01150": {
+      "message": "Stranice"
+   },
+   "cj_i18n_01151": {
+      "message": "Kontrole blokiranja"
+   },
+   "cj_i18n_01152": {
+      "message": "Izvještaji"
+   },
+   "cj_i18n_01153": {
+      "message": "Optimalizacija"
+   },
+   "cj_i18n_01154": {
+      "message": "Plaćanja"
+   },
+   "cj_i18n_01155": {
+      "message": "Da biste popisali svoјe yetikete i dali vam neprochitane broјeve, odobrite pristup samo za chitaњe svoјim yetiketama i neprochitani broј"
+   },
+   "cj_i18n_01161": {
+      "message": "Predpregled"
+   },
+   "cj_i18n_01163": {
+      "message": "Zamijeni proizvode"
+   },
+   "cj_i18n_01164": {
+      "message": "Ukloni s menija"
+   },
+   "cj_i18n_01167": {
+      "message": "Poveznice"
+   },
+   "cj_i18n_01168": {
+      "message": "Komandna tabla"
+   },
+   "cj_i18n_01169": {
+      "message": "Napomene"
+   },
+   "cj_i18n_01174": {
+      "message": "Učitavanje"
+   },
+   "cj_i18n_01178": {
+      "message": "Nastavi"
+   },
+   "cj_i18n_01179": {
+      "message": "Naspram istog perioda prošle godine"
+   },
+   "cj_i18n_01180": {
+      "message": "Naspram zadnjih 28 dana"
+   },
+   "cj_i18n_01181": {
+      "message": "Zadnjih 28 dana"
+   },
+   "cj_i18n_01182": {
+      "message": "Osvježi izvještaje"
+   },
+   "cj_i18n_01183": {
+      "message": "Vashi blogovi"
+   },
+   "cj_i18n_01184": {
+      "message": "Postovi"
+   },
+   "cj_i18n_01185": {
+      "message": "Statistika"
+   },
+   "cj_i18n_01186": {
+      "message": "Komentari"
+   },
+   "cj_i18n_01187": {
+      "message": "Zarada"
+   },
+   "cj_i18n_01188": {
+      "message": "Stranitse"
+   },
+   "cj_i18n_01189": {
+      "message": "Izgled"
+   },
+   "cj_i18n_01190": {
+      "message": "Tema"
+   },
+   "cj_i18n_01191": {
+      "message": "Lista za čitanje"
+   },
+   "cj_i18n_01197": {
+      "message": "Nova pretraga"
+   },
+   "cj_i18n_01205": {
+      "message": "Filmovi"
+   },
+   "cj_i18n_01236": {
+      "message": "Resursi za kreatore"
+   },
+   "cj_i18n_01251": {
+      "message": "Izvoz obelezhivacha"
+   },
+   "cj_i18n_01253": {
+      "message": "Danas"
+   },
+   "cj_i18n_01254": {
+      "message": "Podeshavaњa i deљeњe"
+   },
+   "cj_i18n_01269": {
+      "message": "Slike"
+   },
+   "cj_i18n_01275": {
+      "message": "Niјe pronaђen niјedan kontakt"
+   },
+   "cj_i18n_01276": {
+      "message": "Chesto kontaktirani"
+   },
+   "cj_i18n_01277": {
+      "message": "Duplikati"
+   },
+   "cj_i18n_01278": {
+      "message": "Ostali kontakti"
+   },
+   "cj_i18n_01279": {
+      "message": "Imenik"
+   },
+   "cj_i18n_01280": {
+      "message": "Oznake"
+   },
+   "cj_i18n_01281": {
+      "message": "Sortirati"
+   },
+   "cj_i18n_01282": {
+      "message": "Poreђaј po prezimenu"
+   },
+   "cj_i18n_01283": {
+      "message": "Poreђaј po imenu"
+   },
+   "cj_i18n_01284": {
+      "message": "Niјe pronaђeno vishe kontakt informatsiјa"
+   },
+   "cj_i18n_01285": {
+      "message": "Napravite kontakt"
+   },
+   "cj_i18n_01286": {
+      "message": "Da biste mogli da koristite ovu stranitsu, morate da omoguћite pristup za uchitavaњe Google kontakata"
+   },
+   "cj_i18n_01292": {
+      "message": "Administratorska konzola"
+   },
+   "cj_i18n_01307": {
+      "message": "Rachunari"
+   },
+   "cj_i18n_01308": {
+      "message": "Rezervne kopiјe"
+   },
+   "cj_i18n_01310": {
+      "message": "Vishe aplikatsiјa"
+   },
+   "cj_i18n_01318": {
+      "message": "Istaknuto"
+   },
+   "cj_i18n_01320": {
+      "message": "Chlantsi"
+   },
+   "cj_i18n_01326": {
+      "message": "Učitaj"
+   },
+   "cj_i18n_01339": {
+      "message": "Teme / izvori"
+   },
+   "cj_i18n_01341": {
+      "message": "Sachuvane priche"
+   },
+   "cj_i18n_01342": {
+      "message": "Ništa nije pronađeno"
+   },
+   "cj_i18n_01344": {
+      "message": "Automatsko otkrivanje"
+   },
+   "cj_i18n_01345": {
+      "message": "Naslovi"
+   },
+   "cj_i18n_01346": {
+      "message": "Nauka"
+   },
+   "cj_i18n_01347": {
+      "message": "Tekhnologiјa"
+   },
+   "cj_i18n_01351": {
+      "message": "Saznajte više"
+   },
+   "cj_i18n_01355": {
+      "message": "Sachuvano"
+   },
+   "cj_i18n_01363": {
+      "message": "Spremi"
+   },
+   "cj_i18n_01364": {
+      "message": "Google mape"
+   },
+   "cj_i18n_01365": {
+      "message": "Google pretraga"
+   },
+   "cj_i18n_01372": {
+      "message": "Spremljene pretrage"
+   },
+   "cj_i18n_01403": {
+      "message": "Eksperimenti"
+   },
+   "cj_i18n_01417": {
+      "message": "Medijacija"
+   },
+   "cj_i18n_01418": {
+      "message": "Kampanje"
+   },
+   "cj_i18n_01440": {
+      "message": "Postavke"
+   },
+   "cj_i18n_01491": {
+      "message": "Da biste dodali / uklonili stavke u dodatak, kliknite na „Prilagodi“ na dnu Black Menu-ija"
+   },
+   "cj_i18n_01499": {
+      "message": "Nisu pronaђeni podsetnitsi"
+   },
+   "cj_i18n_01506": {
+      "message": "Račun"
+   },
+   "cj_i18n_01507": {
+      "message": "Odjava"
+   },
+   "cj_i18n_01508": {
+      "message": "Odjavljen"
+   },
+   "cj_i18n_01510": {
+      "message": "Pre nego što budete mogli da koristite ovu stranicu, morate da date pristup listi vaših Chrome aplikacija"
+   },
+   "cj_i18n_01515": {
+      "message": "Aktivnost"
+   },
+   "cj_i18n_01518": {
+      "message": "Adrese"
+   },
+   "cj_i18n_01530": {
+      "message": "Oglasi"
+   },
+   "cj_i18n_01532": {
+      "message": "Pomoć"
+   },
+   "cj_i18n_01533": {
+      "message": "Sigurnost"
+   },
+   "cj_i18n_01534": {
+      "message": "Lični podaci"
+   },
+   "cj_i18n_01535": {
+      "message": "Ljudi i deljenje"
+   },
+   "cj_i18n_01536": {
+      "message": "Uplate i pretplate"
+   },
+   "cj_i18n_01537": {
+      "message": "Platno"
+   },
+   "cj_i18n_01539": {
+      "message": "Povezane aplikacije"
+   },
+   "cj_i18n_01543": {
+      "message": "Promeni nalog"
+   },
+   "cj_i18n_01544": {
+      "message": "Prijava"
+   },
+   "cj_i18n_01545": {
+      "message": "Otvori u novom tabu"
+   },
+   "cj_i18n_01546": {
+      "message": "Otvori u panelu"
+   },
+   "cj_i18n_01547": {
+      "message": "Prevedi tekst"
+   },
+   "cj_i18n_01548": {
+      "message": "Pošalji ovaj tekst e-poštom"
+   },
+   "cj_i18n_01549": {
+      "message": "Napišite e-poštu na ovu adresu"
+   },
+   "cj_i18n_01552": {
+      "message": "Pošalji ovu stranicu e-poštom"
+   },
+   "cj_i18n_01557": {
+      "message": "Kako bi koristili aplikaciju, molimo prijavite se u svoj Google račun."
+   },
+   "cj_i18n_01558": {
+      "message": "Ova aplikacija ne podržava naloge brenda, pređite na drugi nalog"
+   },
+   "cj_i18n_01559": {
+      "message": "Neprochitano"
+   },
+   "cj_i18n_01560": {
+      "message": "Vazhno i neprochitano"
+   },
+   "cj_i18n_01563": {
+      "message": "Obriši"
+   },
+   "cj_i18n_01564": {
+      "message": "Reklama"
+   },
+   "cj_i18n_01565": {
+      "message": "Pošaljite"
+   },
+   "cj_i18n_01566": {
+      "message": "Oznaka"
+   },
+   "cj_i18n_01567": {
+      "message": "Primeni"
+   },
+   "cj_i18n_01568": {
+      "message": "Premesti"
+   },
+   "cj_i18n_01569": {
+      "message": "Nit"
+   },
+   "cj_i18n_01570": {
+      "message": "Premesti…"
+   },
+   "cj_i18n_01571": {
+      "message": "Oznaka…"
+   },
+   "cj_i18n_01572": {
+      "message": "Priјavi nezheљenu poshtu"
+   },
+   "cj_i18n_01573": {
+      "message": "Oznachi kao neprochitano"
+   },
+   "cj_i18n_01574": {
+      "message": "Natsrt"
+   },
+   "cj_i18n_01575": {
+      "message": "Premesti u priјemno sanduche"
+   },
+   "cj_i18n_01576": {
+      "message": "Niјe nezheљeno"
+   },
+   "cj_i18n_01577": {
+      "message": "Izbrishi zauvek"
+   },
+   "cj_i18n_01578": {
+      "message": "Izbor"
+   },
+   "cj_i18n_01579": {
+      "message": "Arhiviraj"
+   },
+   "cj_i18n_01580": {
+      "message": "Zakacheno"
+   },
+   "cj_i18n_01581": {
+      "message": "Podešavanja dodataka"
+   },
+   "cj_i18n_01583": {
+      "message": "Podrška i doprinos"
+   },
+   "cj_i18n_01584": {
+      "message": "Da biste dodali stranice na traku Black Menu-ija, kliknite na „prilagodi“ na dnu trake menija i kliknite ili prevucite usluge koje želite da dodate. Ako želite da uklonite usluge, možete ih prevući / spustiti na levu stranu dodatka ili kliknuti na ikonu za uklanjanje."
+   },
+   "cj_i18n_01585": {
+      "message": "Prilagodi meni"
+   },
+   "cj_i18n_01586": {
+      "message": "Počnite sa prilagođavanjem"
+   },
+   "cj_i18n_01587": {
+      "message": "Tema"
+   },
+   "cj_i18n_01588": {
+      "message": "Napredno"
+   },
+   "cj_i18n_01589": {
+      "message": "Da biste omogućili ili konfigurisali obaveštenja na radnoj površini, izaberite proizvod i sledite uputstva."
+   },
+   "cj_i18n_01590": {
+      "message": "Resetiraj postavke na izvorne"
+   },
+   "cj_i18n_01592": {
+      "message": "Uklonite sve keš podatke"
+   },
+   "cj_i18n_01594": {
+      "message": "Odobrene dozvole"
+   },
+   "cj_i18n_01595": {
+      "message": "Za neke usluge u Black Menu-iju za Google tražimo dodatne dozvole za funkcionisanje određenih funkcija."
+   },
+   "cj_i18n_01596": {
+      "message": "Opozovite sve dozvole"
+   },
+   "cj_i18n_01602": {
+      "message": "Ako imate pitanja, zahteve za funkcije ili izveštaje o greškama, javite nam. Ne možemo da garantujemo da će sve poruke dobiti odgovor zbog velike količine poruka koje dobijamo."
+   },
+   "cj_i18n_01603": {
+      "message": "Prevodi"
+   },
+   "cj_i18n_01604": {
+      "message": "Očajnički su nam potrebni prevodioci iz zajednice. Bili bismo vam zahvalni ako biste nam pomogli."
+   },
+   "cj_i18n_01605": {
+      "message": "Pomoć oko prevoda"
+   },
+   "cj_i18n_01606": {
+      "message": "Ako vam se sviđa proširenje - a iskreno se nadamo da vam se sviđa - razmislite o doniranju. Pomoći će razvojnom procesu i olakšati ga poboljšanju za sve."
+   },
+   "cj_i18n_01611": {
+      "message": "Klasično"
+   },
+   "cj_i18n_01612": {
+      "message": "Tamno"
+   },
+   "cj_i18n_01613": {
+      "message": "Svetlo"
+   },
+   "cj_i18n_01622": {
+      "message": "Preuzmi"
+   },
+   "cj_i18n_01653": {
+      "message": "Upravljajte podešavanjima"
+   },
+   "cj_i18n_01654": {
+      "message": "Podešavanja se automatski čuvaju i sinhronizuju putem sinhronizacije dodataka ako je omogućena sinhronizacija dodataka za proširenja."
+   },
+   "cj_i18n_01655": {
+      "message": "Uvezi podešavanja"
+   },
+   "cj_i18n_01656": {
+      "message": "Izvoz podešavanja"
+   },
+   "cj_i18n_01659": {
+      "message": "Odustani"
+   },
+   "cj_i18n_01692": {
+      "message": "Povijest pregledavanja"
+   },
+   "cj_i18n_01704": {
+      "message": "Prenesite svoj sadržaj"
+   },
+   "cj_i18n_01711": {
+      "message": "Početak"
+   },
+   "cj_i18n_01713": {
+      "message": "Uredi"
+   },
+   "cj_i18n_01715": {
+      "message": "Završi"
+   },
+   "cj_i18n_01732": {
+      "message": "Potvrdite da ste to vi"
+   },
+   "cj_i18n_01734": {
+      "message": "Oznachi kao gotovo"
+   },
+   "cj_i18n_01737": {
+      "message": "(Nema naslova)"
+   },
+   "cj_i18n_01738": {
+      "message": "Vaši podaci u Pretrazi"
+   },
+   "cj_i18n_01739": {
+      "message": "Chrome sinkhronizatsiјa"
+   },
+   "cj_i18n_01753": {
+      "message": "Rezervatsiјe"
+   },
+   "cj_i18n_01774": {
+      "message": "Vodič za putovanja"
+   },
+   "cj_i18n_01777": {
+      "message": "Dokumenti"
+   },
+   "cj_i18n_01780": {
+      "message": "Vaši podaci u Mapama"
+   },
+   "cj_i18n_01781": {
+      "message": "Vaši podaci u Pomoćniku"
+   },
+   "cj_i18n_01782": {
+      "message": "Deљeni diskovi"
+   },
+   "cj_i18n_01785": {
+      "message": "Prenos"
+   },
+   "cj_i18n_01792": {
+      "message": "Automatski"
+   },
+   "cj_i18n_01793": {
+      "message": "Automatski se prilagodi"
+   },
+   "cj_i18n_01794": {
+      "message": "Mapa"
+   },
+   "cj_i18n_01797": {
+      "message": "Nabavite duo za telefon ili tablet"
+   },
+   "cj_i18n_01799": {
+      "message": "Preuzmite na App Store"
+   },
+   "cj_i18n_01807": {
+      "message": "Preporučeno"
+   },
+   "cj_i18n_01898": {
+      "message": "Vaši podaci na YouTube-u"
+   },
+   "cj_i18n_01901": {
+      "message": "Kopiraј vezu"
+   },
+   "cj_i18n_01902": {
+      "message": "Ukloni sa zvezditsom"
+   },
+   "cj_i18n_01903": {
+      "message": "Dodaј sa zvezditsom"
+   },
+   "cj_i18n_01904": {
+      "message": "Premesti u otpad"
+   },
+   "cj_i18n_01905": {
+      "message": "Vrati"
+   },
+   "cj_i18n_01906": {
+      "message": "Organizatsione јedinitse"
+   },
+   "cj_i18n_01908": {
+      "message": "Ureђaјi"
+   },
+   "cj_i18n_01915": {
+      "message": "Prijava s Googlom"
+   },
+   "cj_i18n_01916": {
+      "message": "Nastavi s Googlom"
+   },
+   "cj_i18n_01918": {
+      "message": "Instalirano"
+   },
+   "cj_i18n_01921": {
+      "message": "Programer"
+   },
+   "cj_i18n_01922": {
+      "message": "Chrome prodavnitsa"
+   },
+   "cj_i18n_01927": {
+      "message": "Google Ads zajednica za pomoć"
+   },
+   "cj_i18n_01930": {
+      "message": "Pregledaјte letove"
+   },
+   "cj_i18n_01933": {
+      "message": "Otpremi datoteku"
+   },
+   "cj_i18n_01934": {
+      "message": "Otpremaњe datoteke"
+   },
+   "cj_i18n_01935": {
+      "message": "Nova fastsikla"
+   },
+   "cj_i18n_01936": {
+      "message": "Napravite novu fastsiklu"
+   },
+   "cj_i18n_01938": {
+      "message": "Unesite naslov fastsikle"
+   },
+   "cj_i18n_01940": {
+      "message": "Preimenuj"
+   },
+   "cj_i18n_01941": {
+      "message": "Preimenovati datoteku"
+   },
+   "cj_i18n_01943": {
+      "message": "Naziv datoteke"
+   },
+   "cj_i18n_01944": {
+      "message": "Unesite naziv datoteke"
+   },
+   "cj_i18n_01948": {
+      "message": "Novi jam"
+   },
+   "cj_i18n_01956": {
+      "message": "Zadaci"
+   },
+   "cj_i18n_01990": {
+      "message": "Naziv"
+   },
+   "cj_i18n_02121": {
+      "message": "Kako da"
+   },
+   "cj_i18n_02162": {
+      "message": "Otvori polaznu stranicu"
+   },
+   "cj_i18n_02165": {
+      "message": "Kliknite ili povucite uslugu za uređivanje menija"
+   },
+   "cj_i18n_02175": {
+      "message": "Mozhete dodati novo {ENTITY_NAME} pomoћu dugmeta ispod"
+   },
+   "cj_i18n_02176": {
+      "message": "Kako biste koristili stranicu, morate dati dozvolu za učitavanje vaših {PRODUCT_NAME} podataka"
+   },
+   "cj_i18n_02543": {
+      "message": "Ispis"
+   },
+   "cj_i18n_02717": {
+      "message": "Nije prijavljen"
+   },
+   "cj_i18n_03523": {
+      "message": "Alati za razvojne programere"
+   },
+   "cj_i18n_03929": {
+      "message": "Preuzimanje"
+   },
+   "cj_i18n_04163": {
+      "message": "Jezik"
+   },
+   "cj_i18n_04767": {
+      "message": "Organizacija"
+   },
+   "cj_i18n_04776": {
+      "message": "Autorska prava"
+   },
+   "cj_i18n_04828": {
+      "message": "Zaporke"
+   },
+   "cj_i18n_05092": {
+      "message": "Rezultati pretraživanja"
+   },
+   "cj_i18n_05190": {
+      "message": "Preglednik"
+   },
+   "cj_i18n_05388": {
+      "message": "Općenito"
+   },
+   "cj_i18n_05629": {
+      "message": "Uredi"
+   },
+   "cj_i18n_06216": {
+      "message": "Iz shablona"
+   },
+   "cj_i18n_06235": {
+      "message": "Podkastovi"
+   },
+   "cj_i18n_06237": {
+      "message": "Неактивни менаџер налога"
+   },
+   "cj_i18n_06245": {
+      "message": "Prioritet"
+   },
+   "cj_i18n_06247": {
+      "message": "Sutra"
+   },
+   "cj_i18n_06248": {
+      "message": "Pon."
+   },
+   "cj_i18n_06249": {
+      "message": "Uto."
+   },
+   "cj_i18n_06250": {
+      "message": "Sri."
+   },
+   "cj_i18n_06251": {
+      "message": "Čet."
+   },
+   "cj_i18n_06252": {
+      "message": "Pet."
+   },
+   "cj_i18n_06253": {
+      "message": "Sub."
+   },
+   "cj_i18n_06254": {
+      "message": "Ned."
+   },
+   "cj_i18n_06255": {
+      "message": "Sij."
+   },
+   "cj_i18n_06256": {
+      "message": "Velj."
+   },
+   "cj_i18n_06257": {
+      "message": "Ožu."
+   },
+   "cj_i18n_06258": {
+      "message": "Tra."
+   },
+   "cj_i18n_06259": {
+      "message": "Svi."
+   },
+   "cj_i18n_06260": {
+      "message": "Lip."
+   },
+   "cj_i18n_06261": {
+      "message": "Srp."
+   },
+   "cj_i18n_06262": {
+      "message": "Kol."
+   },
+   "cj_i18n_06263": {
+      "message": "Ruj."
+   },
+   "cj_i18n_06264": {
+      "message": "Lis."
+   },
+   "cj_i18n_06265": {
+      "message": "Stu."
+   },
+   "cj_i18n_06266": {
+      "message": "Pro."
+   },
+   "cj_i18n_06284": {
+      "message": "Klasichne aplikatsiјe"
+   },
+   "cj_i18n_06286": {
+      "message": "Google korisnik"
+   },
+   "cj_i18n_06287": {
+      "message": "Klikni da pogledaš promjene"
+   },
+   "cj_i18n_06288": {
+      "message": "{APP_NAME} je ažuriran"
+   },
+   "cj_i18n_06289": {
+      "message": "Novi post"
+   },
+   "cj_i18n_06290": {
+      "message": "Izmenite kontakt"
+   },
+   "cj_i18n_06292": {
+      "message": "Pogledaјte blog"
+   },
+   "cj_i18n_06293": {
+      "message": "Duplikat"
+   },
+   "cj_i18n_06294": {
+      "message": "Više akcija"
+   },
+   "cj_i18n_06298": {
+      "message": "Novi tsrtezh"
+   },
+   "cj_i18n_06299": {
+      "message": "Nova mapa"
+   },
+   "cj_i18n_06300": {
+      "message": "Pogledaјte srodnu beleshku u Keep-u"
+   },
+   "cj_i18n_06306": {
+      "message": "Nova napomena"
+   },
+   "cj_i18n_06307": {
+      "message": "Nova lista"
+   },
+   "cj_i18n_06308": {
+      "message": "Novi podsetnik"
+   },
+   "cj_i18n_06316": {
+      "message": "Naziv"
+   },
+   "cj_i18n_06317": {
+      "message": "Lokatsiјa (URL)"
+   },
+   "cj_i18n_06318": {
+      "message": "Naziv yetikete"
+   },
+   "cj_i18n_06325": {
+      "message": "Napishi u novoј kartitsi"
+   },
+   "cj_i18n_06326": {
+      "message": "Preuzmi u PDF-u"
+   },
+   "cj_i18n_06327": {
+      "message": "Spremanje"
+   },
+   "cj_i18n_06337": {
+      "message": "Nema događaja na ovaj datum"
+   },
+   "cj_i18n_06358": {
+      "message": "Provera privatnosti"
+   },
+   "cj_i18n_06359": {
+      "message": "Provera bezbednosti"
+   },
+   "cj_i18n_06405": {
+      "message": "Pixel telefon"
+   },
+   "cj_i18n_06410": {
+      "message": "Editor oglasa"
+   },
+   "cj_i18n_06418": {
+      "message": "Aplikacija za telefon"
+   },
+   "cj_i18n_06431": {
+      "message": "Obaveštenja na radnoj površini"
+   },
+   "cj_i18n_06432": {
+      "message": "Koristite engleski umesto jezika pregledača"
+   },
+   "cj_i18n_06564": {
+      "message": "Datoteka"
+   },
+   "cj_i18n_06565": {
+      "message": "Pronaђi u novom"
+   },
+   "cj_i18n_06572": {
+      "message": "Skladishte"
+   },
+   "cj_i18n_06576": {
+      "message": "Uredite oznake"
+   },
+   "cj_i18n_06601": {
+      "message": "Ažuriranja dodataka"
+   },
+   "cj_i18n_06602": {
+      "message": "Simulirajte ažuriranje proširenja"
+   },
+   "cj_i18n_06603": {
+      "message": "Prikažite obaveštenje nakon ažuriranja umesto cele stranice sa dnevnikom promena"
+   },
+   "cj_i18n_06606": {
+      "message": "Sve grupe"
+   },
+   "cj_i18n_06607": {
+      "message": "Nedavne grupe"
+   },
+   "cj_i18n_06608": {
+      "message": "Napravite grupu"
+   },
+   "cj_i18n_06623": {
+      "message": "Klasichne grupe"
+   },
+   "cj_i18n_06624": {
+      "message": "Podešavanja naloga"
+   },
+   "cj_i18n_06628": {
+      "message": "Aktivnosti"
+   },
+   "cj_i18n_06629": {
+      "message": "Vozovi"
+   },
+   "cj_i18n_06630": {
+      "message": "Privatan smeshtaј"
+   },
+   "cj_i18n_06640": {
+      "message": "Telefon"
+   },
+   "cj_i18n_06644": {
+      "message": "Napravite putovaњe"
+   },
+   "cj_i18n_06647": {
+      "message": "Brzi pristup"
+   },
+   "cj_i18n_06684": {
+      "message": "Komandna tabla"
+   },
+   "cj_i18n_06694": {
+      "message": "Google Ćaskanje"
+   },
+   "cj_i18n_06746": {
+      "message": "Pomoć zajednice"
+   },
+   "cj_i18n_06754": {
+      "message": "Česta pitanja"
+   },
+   "cj_i18n_06846": {
+      "message": "Podsetnik"
+   },
+   "cj_i18n_06849": {
+      "message": "Konzola radnji"
+   },
+   "cj_i18n_06850": {
+      "message": "Radnje na Google-u"
+   },
+   "cj_i18n_06851": {
+      "message": "Istražite akcije"
+   },
+   "cj_i18n_06873": {
+      "message": "Google analitika"
+   },
+   "cj_i18n_06929": {
+      "message": "Aplikacije pregledača"
+   },
+   "cj_i18n_06948": {
+      "message": "Pregledajte kanale"
+   },
+   "cj_i18n_07018": {
+      "message": "Distribucija aplikacija"
+   },
+   "cj_i18n_07034": {
+      "message": "Bezbednije sa Google-om"
+   },
+   "cj_i18n_07048": {
+      "message": "Android vodič"
+   },
+   "cj_i18n_07071": {
+      "message": "Upravljač lozinkama"
+   },
+   "cj_i18n_07072": {
+      "message": "Provera lozinke"
+   },
+   "cj_i18n_07092": {
+      "message": "Uredite korisnički profil"
+   },
+   "cj_i18n_07093": {
+      "message": "Upravljajte blogovima koje pratim"
+   },
+   "cj_i18n_07133": {
+      "message": "Druge Google aktivnosti"
+   },
+   "cj_i18n_07140": {
+      "message": "Podaci i privatnost"
+   },
+   "cj_i18n_07143": {
+      "message": "Aktivnost"
+   },
+   "cj_i18n_07192": {
+      "message": "Vaši podaci"
+   },
+   "cj_i18n_07339": {
+      "message": "Upravljajte karantinima"
+   }
+}

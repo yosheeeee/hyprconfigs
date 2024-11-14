@@ -1,0 +1,181 @@
+
+$background: #0f1417;
+
+$blue: #9acbfa;
+
+$blue_container: #0c4a72;
+
+$blue_source: #89b4fa;
+
+$blue_value: #89b4fa;
+
+$error: #ffb4ab;
+
+$error_container: #93000a;
+
+$green: #91d5ad;
+
+$green_container: #035233;
+
+$green_source: #a6e3a1;
+
+$green_value: #a6e3a1;
+
+$inverse_on_surface: #2c3134;
+
+$inverse_primary: #1b6585;
+
+$inverse_surface: #dfe3e7;
+
+$on_background: #dfe3e7;
+
+$on_blue: #003352;
+
+$on_blue_container: #cde5ff;
+
+$on_error: #690005;
+
+$on_error_container: #ffdad6;
+
+$on_green: #003822;
+
+$on_green_container: #acf2c8;
+
+$on_orange: #55200d;
+
+$on_orange_container: #ffdbd0;
+
+$on_primary: #003549;
+
+$on_primary_container: #c3e8ff;
+
+$on_primary_fixed: #001e2c;
+
+$on_primary_fixed_variant: #004c68;
+
+$on_purple: #30285f;
+
+$on_purple_container: #e5deff;
+
+$on_red: #511d3d;
+
+$on_red_container: #ffd8ea;
+
+$on_secondary: #20333d;
+
+$on_secondary_container: #d1e5f4;
+
+$on_secondary_fixed: #091e28;
+
+$on_secondary_fixed_variant: #364955;
+
+$on_surface: #dfe3e7;
+
+$on_surface_variant: #c0c7cd;
+
+$on_tertiary: #312c4c;
+
+$on_tertiary_container: #e6deff;
+
+$on_tertiary_fixed: #1c1736;
+
+$on_tertiary_fixed_variant: #484264;
+
+$on_yellow: #373100;
+
+$on_yellow_container: #f1e48a;
+
+$orange: #ffb59d;
+
+$orange_container: #723520;
+
+$orange_source: #fab387;
+
+$orange_value: #fab387;
+
+$outline: #8a9297;
+
+$outline_variant: #41484d;
+
+$primary: #8fcef3;
+
+$primary_container: #004c68;
+
+$primary_fixed: #c3e8ff;
+
+$primary_fixed_dim: #8fcef3;
+
+$purple: #c9bfff;
+
+$purple_container: #473f77;
+
+$purple_source: #cba6f7;
+
+$purple_value: #cba6f7;
+
+$red: #fbb0d8;
+
+$red_container: #6c3455;
+
+$red_source: #f38ba8;
+
+$red_value: #f38ba8;
+
+$scrim: #000000;
+
+$secondary: #b5c9d7;
+
+$secondary_container: #364955;
+
+$secondary_fixed: #d1e5f4;
+
+$secondary_fixed_dim: #b5c9d7;
+
+$shadow: #000000;
+
+$source_color: #09222e;
+
+$surface: #0f1417;
+
+$surface_bright: #353a3d;
+
+$surface_container: #1c2023;
+
+$surface_container_high: #262b2e;
+
+$surface_container_highest: #313539;
+
+$surface_container_low: #171c1f;
+
+$surface_container_lowest: #0a0f12;
+
+$surface_dim: #0f1417;
+
+$surface_tint: #8fcef3;
+
+$surface_variant: #41484d;
+
+$tertiary: #cac1ea;
+
+$tertiary_container: #484264;
+
+$tertiary_fixed: #e6deff;
+
+$tertiary_fixed_dim: #cac1ea;
+
+$yellow: #d5c871;
+
+$yellow_container: #4f4700;
+
+$yellow_source: #f9e2af;
+
+$yellow_value: #f9e2af;
+
+
+
+$theme: 'dark';
+$surface_transparent: transparentize($surface, 0.2);
+$inverse_surface_transparent: transparentize($inverse_surface, 0.92);
+$inverse_surface_transparent_variant: transparentize($inverse_surface, 0.82);
+$inverse_surface_transparent_overlay: linear-gradient(0deg, $inverse_surface_transparent, $inverse_surface_transparent);
+$inverse_surface_transparent_variant_overlay: linear-gradient(0deg, $inverse_surface_transparent_variant, $inverse_surface_transparent_variant);

@@ -1,0 +1,336 @@
+{
+   "auto_enrollment_notification_message": {
+      "message": "Click here to automatically enroll a pre-configured certificate."
+   },
+   "auto_enrollment_notification_title": {
+      "message": "Enroll Certificate"
+   },
+   "cea_cep_network": {
+      "message": "Communicating with the configured CEP endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_cep_template": {
+      "message": "No matching certificate template was found. Please contact your administrator."
+   },
+   "cea_ces_denied": {
+      "message": "The certificate request was denied by the Certificate Authority."
+   },
+   "cea_ces_network": {
+      "message": "Communicating with the configured CES endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_ces_pending": {
+      "message": "The certificate request was left pending by the Certificate Authority. Please contact your administrator."
+   },
+   "cea_error_other": {
+      "message": "An unknown error was encountered by the certificate enrollment agent during verified access enrollment. If this continues, contact your administrator."
+   },
+   "cea_google_network": {
+      "message": "Communicating with the configured Google verified access server failed. If this continues, contact your administrator."
+   },
+   "cea_google_reject": {
+      "message": "The verified access check was not successful for the Chrome identity of the signed in user on this device."
+   },
+   "cea_invalid_api_version": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected version. If this continues, contact your administrator."
+   },
+   "cea_ldap_network": {
+      "message": "Communicating with the configured LDAP server failed. If this continues, contact your administrator."
+   },
+   "cea_ldap_user_verification": {
+      "message": "The username provided was not found or failed verification. Please check your username and try again. If this continues, contact your administrator."
+   },
+   "cea_locked_contact_admin": {
+      "message": "The request failed due to lockout protection. Please contact your administrator."
+   },
+   "cea_locked_try_again": {
+      "message": "The request failed due to lockout protection. Please try again later."
+   },
+   "cea_malformed_request": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected format. If this continues, contact your administrator."
+   },
+   "cea_no_api_failure": {
+      "message": "Could not access the enterprise.platformKeys API. Your device may not be enrolled in the domain."
+   },
+   "cea_qps_reject": {
+      "message": "The request was rejected to due to too many requests per second. Please wait a few minutes and try again."
+   },
+   "cea_timed_out": {
+      "message": "Getting a certificate through the verified access enrollment flow timed out. If this continues, contact your administrator."
+   },
+   "cea_va_failed": {
+      "message": "The user's identity could not be confirmed with the verified access API."
+   },
+   "certificate_renewal_alert": {
+      "message": "Certificate was succesfully renewed."
+   },
+   "certificate_renewal_failure_alert": {
+      "message": "Failure: an error occurred while renewing a certificate. More details can be found on the console logs."
+   },
+   "empty_username": {
+      "message": "The username field is required."
+   },
+   "extension_description": {
+      "message": "为设备申请证书。"
+   },
+   "extension_name": {
+      "message": "Certificate Enrollment for ChromeOS"
+   },
+   "extension_name_dev": {
+      "message": "Certificate Enrollment for ChromeOS Dev"
+   },
+   "failure_title": {
+      "message": "失败"
+   },
+   "generate_challenge_response_failed": {
+      "message": "Unable to create a challenge-response for enrolling with Verified Access. If this continues, contact your administrator."
+   },
+   "get_challenge_failed": {
+      "message": "Getting a challenge from the Verified Access endpoint failed. If this continues, contact your administrator."
+   },
+   "get_challenge_timed_out": {
+      "message": "Getting a challenge from the Verified Access endpoint timed out. If this continues, contact your administrator."
+   },
+   "invalid_credentials": {
+      "message": "您的用户名和/或密码可能有误，因此服务器无法验证。"
+   },
+   "invalid_policy_var": {
+      "message": "指定的政策变量无效。\n政策变量名称：$1\n政策变量值：$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "kerberos_authentication_text": {
+      "message": "Your admin has configured certificates to be issued using Kerberos authentication. Click the $1 button to request a certificate. Kerberos tickets can be obtained via Chrome Settings > People > Kerberos tickets.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "login_cep_failure": {
+      "message": "无法连接政策服务器。"
+   },
+   "login_device_help": {
+      "message": "申请整个设备的证书，让贵单位中的其他人使用该设备。"
+   },
+   "login_enrollment_failure": {
+      "message": "无法注册到指定的 URI。"
+   },
+   "login_failure_alert": {
+      "message": "失败：出现错误。详情请参阅控制台日志。"
+   },
+   "login_help_center_text": {
+      "message": "帮助中心"
+   },
+   "login_hide_pending": {
+      "message": "要隐藏用于检查待处理申请的额外字段吗？"
+   },
+   "login_invalid_character": {
+      "message": "此字段中不允许使用 \u003C 和 > 字符。"
+   },
+   "login_loading_text": {
+      "message": "证书已申请，请稍后。"
+   },
+   "login_no_uri_failure": {
+      "message": "没有可注册的注册 URI。"
+   },
+   "login_privacy_link": {
+      "message": "隐私权政策"
+   },
+   "login_query_uri": {
+      "message": "指定的注册 URI 无效。注册 URI 字段应以 https 开头。"
+   },
+   "login_service_account_help": {
+      "message": "Request a certificate using the acount details provided by your administrator."
+   },
+   "login_show_pending": {
+      "message": "要显示用于检查待处理申请的额外字段吗？"
+   },
+   "login_success_alert": {
+      "message": "成功：证书已生成并正确导入！"
+   },
+   "managed_cep_empty_error": {
+      "message": "cep_proxy_url 未设置或设置为空。"
+   },
+   "managed_cep_http_error": {
+      "message": "cep_proxy_url 未设为 https。"
+   },
+   "managed_certificate_renewal_error": {
+      "message": "尝试设置 enable_certificate_renewal 时指定了未知值。"
+   },
+   "managed_clipboard_button": {
+      "message": "将日志复制到剪贴板"
+   },
+   "managed_company_url_http_error": {
+      "message": "help_url field in company_info not set to https."
+   },
+   "managed_help_text": {
+      "message": "需要帮助？"
+   },
+   "managed_license_button": {
+      "message": "关于"
+   },
+   "managed_log_level_error": {
+      "message": "尝试设置 log_level 时指定了未知值。"
+   },
+   "managed_login_button": {
+      "message": "注册"
+   },
+   "managed_login_device_wide_checkbox": {
+      "message": "Enroll Device-Wide Certificate"
+   },
+   "managed_login_header": {
+      "message": "证书注册"
+   },
+   "managed_login_tab_label": {
+      "message": "新申请"
+   },
+   "managed_login_use_service_account_checkbox": {
+      "message": "Use Service Account"
+   },
+   "managed_more_options": {
+      "message": "更多选项"
+   },
+   "managed_password_placeholder": {
+      "message": "密码"
+   },
+   "managed_policy_handling_info": {
+      "message": "正在处理更改的政策。"
+   },
+   "managed_policy_request_info": {
+      "message": "正在从后端申请政策。"
+   },
+   "managed_policy_response_info": {
+      "message": "从后端收到了政策更新。"
+   },
+   "managed_signature_algo_error": {
+      "message": "尝试设置 signature_algo 时指定了未知值。"
+   },
+   "managed_status_button": {
+      "message": "检查状态"
+   },
+   "managed_status_header": {
+      "message": "待处理的证书检查"
+   },
+   "managed_status_tab_label": {
+      "message": "待处理的申请"
+   },
+   "managed_username_placeholder": {
+      "message": "用户名"
+   },
+   "managed_va_url_http_error": {
+      "message": "va_google_url not set to https."
+   },
+   "no_certificates_to_renew": {
+      "message": "There are no existing certificates to renew."
+   },
+   "okay_button": {
+      "message": "确定"
+   },
+   "pending_title": {
+      "message": "待处理"
+   },
+   "policy_bad_response": {
+      "message": "尝试获取注册 URI 时收到错误响应。错误消息：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "policy_timeout_error": {
+      "message": "Request timed out when attempting to reach the CEP endpoint. Please try again later or contact your administrator."
+   },
+   "renewal_generate_pkcs10_failure": {
+      "message": "Generating a new certificate request to embed in a renewal request failed."
+   },
+   "renewal_notification_ignore": {
+      "message": "忽略所有提醒"
+   },
+   "renewal_notification_message": {
+      "message": "您的证书即将到期。点击即可立即续订。"
+   },
+   "renewal_notification_remind": {
+      "message": "以后提醒我"
+   },
+   "renewal_notification_title": {
+      "message": "证书续订提醒"
+   },
+   "renewal_request_key_pair_failure": {
+      "message": "Retrieving the key pair associated with the renewal certificate failed."
+   },
+   "renewal_sign_cms_failure": {
+      "message": "Signing a renewal request failed."
+   },
+   "saving_bad_response": {
+      "message": "尝试注册证书时收到错误响应。错误消息：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "saving_denied": {
+      "message": "服务器拒绝了证书申请。"
+   },
+   "saving_generate_digest_failure": {
+      "message": "证书持有者公共密钥接收失败。"
+   },
+   "saving_generate_export_failure": {
+      "message": "公共密钥导出失败。"
+   },
+   "saving_generate_extract_failure": {
+      "message": "Key pair extraction and saving failed."
+   },
+   "saving_generate_key_failure": {
+      "message": "密钥对生成和保存失败。"
+   },
+   "saving_generate_push_failure": {
+      "message": "Pushing attributes into CSR failed."
+   },
+   "saving_generate_sign_failure": {
+      "message": "最终证书申请签署失败。"
+   },
+   "saving_no_cert_failure": {
+      "message": "在响应中找不到要存储的证书。"
+   },
+   "saving_pending": {
+      "message": "The server set the request to pending.\nRequest: $1\nReference: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "saving_store_failure": {
+      "message": "无法在计算机上存储响应证书。"
+   },
+   "saving_template_error": {
+      "message": "指定的证书模板无效，因此服务器拒绝了证书申请。"
+   },
+   "saving_timeout_error": {
+      "message": "Request timed out when attempting to reach the CES endpoint. Please try again later or contact your administrator."
+   },
+   "service_account_host_error": {
+      "message": "Could not retrieve service account credentials."
+   },
+   "success_title": {
+      "message": "成功"
+   },
+   "token_no_system_failure": {
+      "message": "Could not find a valid system token. Your device may not be enrolled in the domain, or you may not have rights to request a system certificate."
+   },
+   "token_no_user_failure": {
+      "message": "Could not find a valid user token. Your device may not be enrolled in the domain."
+   },
+   "token_system_unallowed_failure": {
+      "message": "当前政策不允许注册设备范围内的证书。"
+   }
+}

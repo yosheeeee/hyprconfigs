@@ -1,0 +1,110 @@
+{
+   "4pdaLink": {
+      "message": "\u003Ca target='_blank' href='//4pda.ru/forum/index.php?showforum=916'>4PDA\u003C/a>"
+   },
+   "Activated": {
+      "message": "Activated"
+   },
+   "Thx4sup": {
+      "message": "Thanks for support"
+   },
+   "Whait": {
+      "message": "Whait"
+   },
+   "boostyPage": {
+      "message": "\u003Ca target='_blank' href='https://boosty.to/miwifi'>Boosty\u003C/a>"
+   },
+   "contSupport": {
+      "message": "Support plugin development\u003Cbr/>Activate \u003Ca target='_blank' href='https://boosty.to/miwifi/posts/bd0c1793-7dc4-4588-8edc-83c74f0f533f' style='color: #5288ff' title='To access the site functionality from some countries, you may need a proxy (VPN)'>Pro mode\u003C/a> for only 50 rubles!\u003C/p>\u003Cp style='padding: 15px'>Already activated? \u003Ca target='_blank' style='color:#5288ff' href='https://boosty.to/miwifi#rumi_activate'>Confirm activation\u003C/a>"
+   },
+   "extDescription": {
+      "description": "Extension description in manifest",
+      "message": "Translator of Chinese firmware for Xiaomi router. Works offline. No configuration required."
+   },
+   "extName": {
+      "description": "Extension name in manifest",
+      "message": "RUMIWIFI"
+   },
+   "passEnter": {
+      "message": "Admin password"
+   },
+   "passEnterHere": {
+      "message": "Enter password"
+   },
+   "popBlueTheme": {
+      "message": "Blue Theme [Standard]"
+   },
+   "popDarkTheme": {
+      "message": "Black Theme [Pro Only]"
+   },
+   "popDomainTitle": {
+      "message": "Set address manually"
+   },
+   "popLang": {
+      "message": "Translate to"
+   },
+   "popLangEn": {
+      "message": "English (Auto)"
+   },
+   "popLangNo": {
+      "message": "Original"
+   },
+   "popLangRu": {
+      "message": "Russian"
+   },
+   "popNotWork": {
+      "message": "\u003Ca target=\"_blank\" href=\"https://boosty.to/miwifi/posts/7374614b-72bb-45b7-b3c3-8e8b5f35b953\">Translation not working?\u003C/a>"
+   },
+   "popPro": {
+      "message": "Pro version: "
+   },
+   "popProActivate": {
+      "message": "Activate"
+   },
+   "popProNot": {
+      "message": "Not active"
+   },
+   "popShDesc": {
+      "message": "The plugin translates the interface of the Chinese firmware of the Xiaomi router into Russian. Read more about the RUMIWIFI plugin at \u003Ca href=\"https://boosty.to/miwifi\" target=\"_blank\">plugin page\u003C/a>."
+   },
+   "popShName": {
+      "message": "RUMIWIFI"
+   },
+   "popThemeTitle": {
+      "message": "Theme selector"
+   },
+   "proVer": {
+      "message": "RUMIWIFI - Pro version"
+   },
+   "pubVer": {
+      "message": "RUMIWIFI - Public version"
+   },
+   "restoreNeedAuth": {
+      "message": "To activate the RUMIWIFI plugin, you need to log in to the Boosty website!"
+   },
+   "restoreNoMail": {
+      "message": "Ваш email на Boosty не подтвержден!\u003Cbr/>\u003Csmall>Подтвердите его и попробуйте снова.\u003C/small>"
+   },
+   "restoreProCreated": {
+      "message": "PRO subscription for RUMIWIFI activated successfully!"
+   },
+   "restoreProError": {
+      "message": "RUMIWIFI could not activate/restore PRO status. If you are a new user, read the information on how to activate your subscription on this page, but if you have previously received the Pro version, please contact \u003Ca style='color:#333' href='mailto:pedanto.com@gmail.com?subject=Help with activating RUMIWIFI'>support by mail\u003C/a>"
+   },
+   "restoreProRestored": {
+      "message": "RUMIWIFI subscription restored successfully!"
+   },
+   "routersList": {
+      "message": "New routers"
+   },
+   "seconds": {
+      "message": "seconds"
+   },
+   "shortName": {
+      "description": "Extension short name in manifest",
+      "message": "RUMIWIFI translator for Xiaomi router"
+   },
+   "telegramChat": {
+      "message": "\u003Ca target='_blank' href='https://t.me/rumiwifi'>Telegram\u003C/a>"
+   }
+}

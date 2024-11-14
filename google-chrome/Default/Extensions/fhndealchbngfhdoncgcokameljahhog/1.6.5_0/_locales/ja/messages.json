@@ -1,0 +1,336 @@
+{
+   "auto_enrollment_notification_message": {
+      "message": "Click here to automatically enroll a pre-configured certificate."
+   },
+   "auto_enrollment_notification_title": {
+      "message": "Enroll Certificate"
+   },
+   "cea_cep_network": {
+      "message": "Communicating with the configured CEP endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_cep_template": {
+      "message": "No matching certificate template was found. Please contact your administrator."
+   },
+   "cea_ces_denied": {
+      "message": "The certificate request was denied by the Certificate Authority."
+   },
+   "cea_ces_network": {
+      "message": "Communicating with the configured CES endpoint in the verified access enrollment flow failed. If this continues, contact your administrator."
+   },
+   "cea_ces_pending": {
+      "message": "The certificate request was left pending by the Certificate Authority. Please contact your administrator."
+   },
+   "cea_error_other": {
+      "message": "An unknown error was encountered by the certificate enrollment agent during verified access enrollment. If this continues, contact your administrator."
+   },
+   "cea_google_network": {
+      "message": "Communicating with the configured Google verified access server failed. If this continues, contact your administrator."
+   },
+   "cea_google_reject": {
+      "message": "The verified access check was not successful for the Chrome identity of the signed in user on this device."
+   },
+   "cea_invalid_api_version": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected version. If this continues, contact your administrator."
+   },
+   "cea_ldap_network": {
+      "message": "Communicating with the configured LDAP server failed. If this continues, contact your administrator."
+   },
+   "cea_ldap_user_verification": {
+      "message": "The username provided was not found or failed verification. Please check your username and try again. If this continues, contact your administrator."
+   },
+   "cea_locked_contact_admin": {
+      "message": "The request failed due to lockout protection. Please contact your administrator."
+   },
+   "cea_locked_try_again": {
+      "message": "The request failed due to lockout protection. Please try again later."
+   },
+   "cea_malformed_request": {
+      "message": "Request from ChromeOS Certificate Requester did not match the expected format. If this continues, contact your administrator."
+   },
+   "cea_no_api_failure": {
+      "message": "Could not access the enterprise.platformKeys API. Your device may not be enrolled in the domain."
+   },
+   "cea_qps_reject": {
+      "message": "The request was rejected to due to too many requests per second. Please wait a few minutes and try again."
+   },
+   "cea_timed_out": {
+      "message": "Getting a certificate through the verified access enrollment flow timed out. If this continues, contact your administrator."
+   },
+   "cea_va_failed": {
+      "message": "The user's identity could not be confirmed with the verified access API."
+   },
+   "certificate_renewal_alert": {
+      "message": "Certificate was succesfully renewed."
+   },
+   "certificate_renewal_failure_alert": {
+      "message": "Failure: an error occurred while renewing a certificate. More details can be found on the console logs."
+   },
+   "empty_username": {
+      "message": "The username field is required."
+   },
+   "extension_description": {
+      "message": "デバイスの証明書をリクエストします。"
+   },
+   "extension_name": {
+      "message": "Certificate Enrollment for ChromeOS"
+   },
+   "extension_name_dev": {
+      "message": "Certificate Enrollment for ChromeOS Dev"
+   },
+   "failure_title": {
+      "message": "エラー"
+   },
+   "generate_challenge_response_failed": {
+      "message": "Unable to create a challenge-response for enrolling with Verified Access. If this continues, contact your administrator."
+   },
+   "get_challenge_failed": {
+      "message": "Getting a challenge from the Verified Access endpoint failed. If this continues, contact your administrator."
+   },
+   "get_challenge_timed_out": {
+      "message": "Getting a challenge from the Verified Access endpoint timed out. If this continues, contact your administrator."
+   },
+   "invalid_credentials": {
+      "message": "ユーザー名とパスワードをサーバーで検証できませんでした。いずれかまたは両方が正しくない可能性があります。"
+   },
+   "invalid_policy_var": {
+      "message": "無効なポリシー変数が指定されました。\nポリシー変数名: $1\nポリシー変数値: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "kerberos_authentication_text": {
+      "message": "Your admin has configured certificates to be issued using Kerberos authentication. Click the $1 button to request a certificate. Kerberos tickets can be obtained via Chrome Settings > People > Kerberos tickets.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "login_cep_failure": {
+      "message": "ポリシー サーバーに接続できませんでした。"
+   },
+   "login_device_help": {
+      "message": "組織のユーザーがすべてのデバイスで利用できる証明書をリクエストします。"
+   },
+   "login_enrollment_failure": {
+      "message": "指定の URI に登録できませんでした。"
+   },
+   "login_failure_alert": {
+      "message": "エラーが発生しました。詳しくはコンソールのログをご覧ください。"
+   },
+   "login_help_center_text": {
+      "message": "ヘルプセンター"
+   },
+   "login_hide_pending": {
+      "message": "保留中のリクエストを確認するフィールドを非表示にしますか？"
+   },
+   "login_invalid_character": {
+      "message": "\u003C や > はこのフィールドで使用できません。"
+   },
+   "login_loading_text": {
+      "message": "証明書をリクエストしました。お待ちください。"
+   },
+   "login_no_uri_failure": {
+      "message": "登録に必要な URI を取得できません。"
+   },
+   "login_privacy_link": {
+      "message": "プライバシー ポリシー"
+   },
+   "login_query_uri": {
+      "message": "無効な登録 URI が指定されました。登録 URI フィールドは「https」で始まる必要があります。"
+   },
+   "login_service_account_help": {
+      "message": "Request a certificate using the acount details provided by your administrator."
+   },
+   "login_show_pending": {
+      "message": "保留中のリクエストを確認するフィールドを表示しますか？"
+   },
+   "login_success_alert": {
+      "message": "証明書の生成とインポートは正常に完了しました。"
+   },
+   "managed_cep_empty_error": {
+      "message": "cep_proxy_url が未設定または空です。"
+   },
+   "managed_cep_http_error": {
+      "message": "cep_proxy_url が「https」で始まっていません。"
+   },
+   "managed_certificate_renewal_error": {
+      "message": "enable_certificate_renewal に不明な値を設定しようとしています。"
+   },
+   "managed_clipboard_button": {
+      "message": "ログをクリップボードにコピー"
+   },
+   "managed_company_url_http_error": {
+      "message": "help_url field in company_info not set to https."
+   },
+   "managed_help_text": {
+      "message": "ヘルプ"
+   },
+   "managed_license_button": {
+      "message": "基本情報"
+   },
+   "managed_log_level_error": {
+      "message": "log_level に不明な値を設定しようとしています。"
+   },
+   "managed_login_button": {
+      "message": "登録"
+   },
+   "managed_login_device_wide_checkbox": {
+      "message": "Enroll Device-Wide Certificate"
+   },
+   "managed_login_header": {
+      "message": "証明書登録"
+   },
+   "managed_login_tab_label": {
+      "message": "新しいリクエスト"
+   },
+   "managed_login_use_service_account_checkbox": {
+      "message": "Use Service Account"
+   },
+   "managed_more_options": {
+      "message": "その他のオプション"
+   },
+   "managed_password_placeholder": {
+      "message": "パスワード"
+   },
+   "managed_policy_handling_info": {
+      "message": "変更されたポリシーを適用しています。"
+   },
+   "managed_policy_request_info": {
+      "message": "バックエンドからポリシーをリクエストしています。"
+   },
+   "managed_policy_response_info": {
+      "message": "更新されたポリシーをバックエンドで受信しました。"
+   },
+   "managed_signature_algo_error": {
+      "message": "signature_algo に不明な値を設定しようとしています。"
+   },
+   "managed_status_button": {
+      "message": "ステータスを確認"
+   },
+   "managed_status_header": {
+      "message": "証明書の確認の保留"
+   },
+   "managed_status_tab_label": {
+      "message": "リクエストの保留"
+   },
+   "managed_username_placeholder": {
+      "message": "ユーザー名"
+   },
+   "managed_va_url_http_error": {
+      "message": "va_google_url not set to https."
+   },
+   "no_certificates_to_renew": {
+      "message": "There are no existing certificates to renew."
+   },
+   "okay_button": {
+      "message": "続行"
+   },
+   "pending_title": {
+      "message": "保留中"
+   },
+   "policy_bad_response": {
+      "message": "登録 URI の取得中に無効な応答を受信しました。エラー メッセージ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "policy_timeout_error": {
+      "message": "Request timed out when attempting to reach the CEP endpoint. Please try again later or contact your administrator."
+   },
+   "renewal_generate_pkcs10_failure": {
+      "message": "Generating a new certificate request to embed in a renewal request failed."
+   },
+   "renewal_notification_ignore": {
+      "message": "すべての通知を今後表示しない"
+   },
+   "renewal_notification_message": {
+      "message": "証明書の有効期限がもうすぐ終了します。今すぐクリックして更新してください。"
+   },
+   "renewal_notification_remind": {
+      "message": "後で通知"
+   },
+   "renewal_notification_title": {
+      "message": "証明書の更新の通知"
+   },
+   "renewal_request_key_pair_failure": {
+      "message": "Retrieving the key pair associated with the renewal certificate failed."
+   },
+   "renewal_sign_cms_failure": {
+      "message": "Signing a renewal request failed."
+   },
+   "saving_bad_response": {
+      "message": "証明書の登録中に無効な応答を受信しました。エラー メッセージ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "saving_denied": {
+      "message": "証明書のリクエストがサーバーで拒否されました。"
+   },
+   "saving_generate_digest_failure": {
+      "message": "サブジェクト公開鍵のダイジェストを生成できませんでした。"
+   },
+   "saving_generate_export_failure": {
+      "message": "公開鍵をエクスポートできませんでした。"
+   },
+   "saving_generate_extract_failure": {
+      "message": "Key pair extraction and saving failed."
+   },
+   "saving_generate_key_failure": {
+      "message": "鍵ペアを生成、保存できませんでした。"
+   },
+   "saving_generate_push_failure": {
+      "message": "Pushing attributes into CSR failed."
+   },
+   "saving_generate_sign_failure": {
+      "message": "最終的な証明書リクエストに署名できませんでした。"
+   },
+   "saving_no_cert_failure": {
+      "message": "保存する証明書が応答の中にありませんでした。"
+   },
+   "saving_pending": {
+      "message": "The server set the request to pending.\nRequest: $1\nReference: $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "saving_store_failure": {
+      "message": "応答の証明書をデバイスに保存できませんでした。"
+   },
+   "saving_template_error": {
+      "message": "無効な証明書テンプレートが指定されたため、証明書のリクエストはサーバーで拒否されました。"
+   },
+   "saving_timeout_error": {
+      "message": "Request timed out when attempting to reach the CES endpoint. Please try again later or contact your administrator."
+   },
+   "service_account_host_error": {
+      "message": "Could not retrieve service account credentials."
+   },
+   "success_title": {
+      "message": "完了"
+   },
+   "token_no_system_failure": {
+      "message": "Could not find a valid system token. Your device may not be enrolled in the domain, or you may not have rights to request a system certificate."
+   },
+   "token_no_user_failure": {
+      "message": "Could not find a valid user token. Your device may not be enrolled in the domain."
+   },
+   "token_system_unallowed_failure": {
+      "message": "デバイス共通証明書の登録は、現在のポリシーでは許可されていません。"
+   }
+}

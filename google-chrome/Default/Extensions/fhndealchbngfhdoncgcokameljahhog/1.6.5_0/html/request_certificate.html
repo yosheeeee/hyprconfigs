@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Request Certificate</title>
+  <link rel="stylesheet" href="../css/libraries.css">
+  <link rel="stylesheet" href="../css/custom.css">
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Product+Sans">
+  <script type="text/javascript" src="../js/libraries.js"></script>
+  <script type="text/javascript" src="../js/app.js"></script>
+</head>
+
+<body id="angular-bootstrap"
+      ng-controller="ccr.controllers.LoginPageCtrl as loginCtrl"
+      ng-cloak
+      ng-csp
+      ng-click="loginCtrl.removeNegativeTabIndexes()"
+      ng-focus="loginCtrl.resetOnEscape()">
+  <md-card id="mainCard" class="smallMainCard">
+    <md-toolbar id="bigBlueBox" class="md-primary">
+      <h2 id="headerInWhite"><span>{{loginCtrl.h2Text}}</span></h2>
+    </md-toolbar>
+    <md-card-content>
+      <img id="customerLogoImg" ng-src="{{loginCtrl.companyLogo}}" alt="{{loginCtrl.companyName}}"/>
+      <div id="login-section">
+
+        <form name="loginForm">
+          <div id="authenticationContainer" ng-switch on="loginCtrl.clientAuthentication">
+            <div class="info-text" ng-switch-when="kerberos">{{loginCtrl.kerberosAuthenticationText}}</div>
+            <div ng-switch-when="basic">
+              <md-input-container>
+                <label>{{loginCtrl.usernameFormFieldPlaceholder}}</label>
+                <input name="username"
+                      ng-model="loginCtrl.usernameValue"
+                      ng-disabled="loginCtrl.useServiceAccount"
+                      class="elementToHideWhenMenuIsOpen">
+                <span ng-show="loginForm.username.$error.pattern">
+                  {{loginCtrl.invalidCharacterText}}
+                </span>
+              </md-input-container>
+
+              <md-input-container>
+                <label>{{loginCtrl.passwordFormFieldPlaceholder}}</label>
+                <input name="password" ng-model="loginCtrl.passwordValue"
+                      ng-disabled="loginCtrl.useServiceAccount"
+                      type="password"
+                      class="elementToHideWhenMenuIsOpen">
+                <span ng-show="loginForm.username.$error.pattern">
+                  {{loginCtrl.invalidCharacterText}}
+                </span>
+              </md-input-container>
+            </div>
+          </div>
+
+          <div id="extraFieldsForCheckStatus" class="hideExtraFieldsForCheckStatus">
+            <md-input-container>
+              <label>{{loginCtrl.uriFormFieldPlaceholder}}</label>
+              <input name="uri"
+                     ng-model="loginCtrl.uriValue"
+                     ng-pattern="/^(.(?!(>|<)))*$/"
+                     type="url"
+                     class="inputsRequiredForPendingRequest elementToHideWhenMenuIsOpen">
+              <span ng-show="loginForm.username.$error.pattern">
+                {{loginCtrl.invalidCharacterText}}
+              </span>
+            </md-input-container>
+
+            <md-input-container>
+              <label>{{loginCtrl.requestIdFormFieldPlaceholder}}</label>
+              <input name="requestId"
+                     ng-model="loginCtrl.requestIdValue"
+                     ng-pattern="/^(.(?!(>|<)))*$/"
+                     type="number"
+                     class="inputsRequiredForPendingRequest elementToHideWhenMenuIsOpen">
+              <span ng-show="loginForm.username.$error.pattern">
+                {{loginCtrl.invalidCharacterText}}
+              </span>
+            </md-input-container>
+          </div>
+
+          <section layout="row"
+                   layout-sm="column"
+                   layout-align="start center"
+                   layout-wrap=""
+                   ng-hide="!loginCtrl.showDeviceWideCheckbox">
+            <div>
+              <md-checkbox ng-model="loginCtrl.isUserRequestingDeviceWideCertValue"
+                           aria-label="{{loginCtrl.deviceWideHelpText}}"
+                           ng-change="loginCtrl.handleRequestingDeviceWideCertChange()"
+                           id="checkboxToHideWhenMenuIsOpen">
+                {{loginCtrl.deviceWideCheckboxText}}
+              </md-checkbox>
+
+              <md-button id="tooltipButton" class="md-icon-button elementToHideWhenMenuIsOpen">
+                <md-tooltip md-direction="right">{{loginCtrl.deviceWideHelpText}}</md-tooltip>
+                <img id="tooltipImg"
+                     src="../img/info_outline_24px.svg"
+                     alt="{{loginCtrl.deviceWideHelpText}}"/>
+              </md-button>
+            </div>
+          </section>
+
+          <section layout="row"
+                   layout-sm="column"
+                   layout-align="start center"
+                   layout-wrap=""
+                   ng-hide="!loginCtrl.showServiceAccountCheckbox">
+            <div>
+              <!--
+                Disable 'UserServiceAccountCheckbox' if 'DeviceWideCertCheckbox' is unchecked since
+                we only support using the service account for device wide certificates.
+              -->
+              <md-checkbox ng-disabled="!loginCtrl.isUserRequestingDeviceWideCertValue"
+                           ng-model="loginCtrl.useServiceAccount"
+                           ng-change="loginCtrl.handleUseServiceAccountChange()"
+                           aria-label="{{loginCtrl.useServiceAccountHelpText}}">
+                {{loginCtrl.useServiceAccountCheckboxText}}
+              </md-checkbox>
+
+              <md-button id="tooltipButton" type="button" class="elementToHideWhenMenuIsOpen">
+                <md-tooltip md-direction="right">{{loginCtrl.useServiceAccountHelpText}}</md-tooltip>
+                <img id="tooltipImg"
+                     src="../img/info_outline_24px.svg"
+                     alt="{{loginCtrl.useServiceAccountHelpText}}"/>
+              </md-button>
+            </div>
+          </section>
+
+          <section layout="row"
+                   layout-sm="column"
+                   layout-align="space-between center"
+                   layout-wrap="">
+            <section layout="row" layout-align="left center" layout-wrap="">
+              <md-menu id="moreOptionsMenu">
+                <md-button id="moreOptionsButton"
+                           class="elementToHideWhenMenuIsOpen"
+                           ng-click="$mdOpenMenu($event); loginCtrl.setNegativeTabIndexes()">
+                  {{loginCtrl.moreOptionsText}}
+                </md-button>
+                <md-menu-content ng-model="loginCtrl.moreOptionsValue"
+                                 role="menu"
+                                 tabindex="-1"
+                                 ng-click="loginCtrl.removeNegativeTabIndexes()">
+                  <md-menu-item>
+                    <md-button ng-click="loginCtrl.copyToClipboard()" autofocus>
+                      {{loginCtrl.copyToClipboardButtonText}}
+                    </md-button>
+                  </md-menu-item>
+                  <md-menu-item ng-show="loginCtrl.pendingUIEnabled">
+                    <md-button ng-click="loginCtrl.flipBetweenSubmitAndCheck()">
+                      {{loginCtrl.showOrHidePendingRequestText}}
+                    </md-button>
+                  </md-menu-item>
+                  <md-menu-item>
+                    <md-button ng-click="loginCtrl.showPasswordMaskTool()">
+                      {{loginCtrl.passwordMaskToolName}}
+                    </md-button>
+                  </md-menu-item>
+                </md-menu-content>
+              </md-menu>
+
+              <md-button type="button"
+                         class="elementToHideWhenMenuIsOpen"
+                         ng-click="loginCtrl.showHelpText()"
+                         id="helpButton">
+                {{loginCtrl.helpLabelText}}
+              </md-button>
+            </section>
+
+              <md-button class="md-raised md-primary elementToHideWhenMenuIsOpen"
+                         type="submit"
+                         ng-click="loginCtrl.decideEnrollmentRequest()"
+                         id="submitButton">
+                {{loginCtrl.enrollOrCheckStatusButtonText}}
+              </md-button>
+            </section>
+          </section>
+
+          <section layout="row"
+                   layout-sm="column"
+                   layout-align="center center"
+                   layout-wrap="">
+            <div>
+              <md-button class="bottomRowItem elementToHideWhenMenuIsOpen"
+                         ng-click="loginCtrl.showLicense()">
+                {{loginCtrl.licenseNoticeButtonText}}
+              </md-button>
+              <md-button class="bottomRowItem elementToHideWhenMenuIsOpen"
+                         ng-href="https://www.google.com/policies/privacy/"
+                         target="_blank">
+                {{loginCtrl.privacyLinkText}}
+              </md-button>
+            </div>
+          </section>
+
+        </form>
+
+      </div>
+    </md-card-content>
+  </md-card>
+
+  <div role="alert" aria-labelledby="loadingHeading" class="hiddenProgressCircular">
+    <md-progress-circular md-mode="indeterminate" class="actualProgressCircular">
+    </md-progress-circular>
+    <div id="loadingHeading">{{loginCtrl.loadingText}}</div>
+  </div>
+</body>
+
+</html>

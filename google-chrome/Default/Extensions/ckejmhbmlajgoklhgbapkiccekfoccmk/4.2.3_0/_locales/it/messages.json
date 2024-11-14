@@ -1,0 +1,371 @@
+{
+   "android_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xe922;\u003C/i> Smartphone Android"
+   },
+   "apple_smartphone": {
+      "message": "\u003Ci class='mdi'>&#xeabe;\u003C/i> Smartphone Apple"
+   },
+   "button_feedback": {
+      "message": "Aggiungi una recensione"
+   },
+   "button_message": {
+      "message": "Inviaci un messaggio"
+   },
+   "close": {
+      "message": "Vicino"
+   },
+   "context_menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "context_menu_activate": {
+      "message": "Attiva la visualizzazione mobile su questa pagina"
+   },
+   "copie": {
+      "message": "Copia"
+   },
+   "copied": {
+      "message": "Copiato"
+   },
+   "extDescription": {
+      "message": "Simulatore di smartphone e tablet su computer con diversi modelli per testare siti web responsive."
+   },
+   "extName": {
+      "message": "Simulatore mobile - strumento di test reattivo"
+   },
+   "global": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "global_cancel": {
+      "message": "Cancellare"
+   },
+   "menu": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "menu_add_window": {
+      "message": "Aggiungi un dispositivo in una nuova finestra"
+   },
+   "menu_change_device": {
+      "message": "Cambia dispositivo"
+   },
+   "menu_close_alone": {
+      "message": "Disattivare il simulatore"
+   },
+   "menu_close_multi": {
+      "message": "Chiudi questa finestra"
+   },
+   "menu_faq_all": {
+      "message": "Vedi tutte le domande frequenti"
+   },
+   "menu_faq_ignonito_mode": {
+      "message": "Come attivare il simulatore in modalità di navigazione in incognito?"
+   },
+   "menu_faq_media_queries": {
+      "message": "Le mie query multimediali non funzionano"
+   },
+   "menu_faq_scroll": {
+      "message": "Impossibile scorrere nel simulatore"
+   },
+   "menu_faq_shortcut": {
+      "message": "Come configurare le scorciatoie da tastiera?"
+   },
+   "menu_faq_subscription": {
+      "message": "Perché il mio abbonamento non funziona"
+   },
+   "menu_faq_title": {
+      "message": "Domande frequenti"
+   },
+   "menu_help_center": {
+      "message": "Centro assistenza"
+   },
+   "menu_info_device": {
+      "message": "Caratteristiche e mockup di questo telefono (risoluzione viewport, ecc.)"
+   },
+   "menu_info_device_features": {
+      "message": "Caratteristiche (risoluzione della finestra, ecc.)"
+   },
+   "menu_info_device_mockup": {
+      "message": "Mockup trasparente PNG gratuito"
+   },
+   "menu_report": {
+      "message": "Segnala un bug"
+   },
+   "menu_rotate": {
+      "message": "Cambia l'orientamento"
+   },
+   "menu_screencast": {
+      "message": "Avvia un record di tabulazione"
+   },
+   "menu_screenshot": {
+      "message": "Fai uno screenshot"
+   },
+   "menu_send_improvement": {
+      "message": "Suggerisci un miglioramento"
+   },
+   "menu_send_message": {
+      "message": "Centro assistenza"
+   },
+   "menu_settings": {
+      "message": "Impostazioni"
+   },
+   "menu_share": {
+      "message": "Condividi con un collega, un amico,..."
+   },
+   "menu_theme_day": {
+      "message": "Attiva la modalità giorno"
+   },
+   "menu_theme_night": {
+      "message": "Attiva la modalità notturna"
+   },
+   "menu_vote_feature": {
+      "message": "Vota le funzionalità che desideri"
+   },
+   "modales": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "new_iphone_15_h1": {
+      "message": "Sii il primo a utilizzare (virtualmente) l'iPhone 15 PRO"
+   },
+   "notification_update_title_v100_100_100": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Informazioni\u003C/strong>Lo scorrimento touch non è disponibile in questo simulatore, ma puoi \u003Cstrong>visualizzare la barra di scorrimento\u003C/strong> se non hai la rotellina del mouse o il trackpad per scorrere.\u003Cbr>\u003Cbr>È un'opzione nelle impostazioni in basso a destra \u003Ci class='mdi'>&#xe905;\u003C/i>"
+   },
+   "notification_update_title_v4_0_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.0\u003C/strong>Aggiornamento importante riguardante la cattura video. Nuovi formati video e tempo di registrazione illimitato! \u003Ci class='mdi'>&#xe90e;\u003C/i>"
+   },
+   "notification_update_title_v4_0_1": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.0\u003C/strong>Correzioni relative ai problemi di visualizzazione nel simulatore."
+   },
+   "notification_update_title_v4_1_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.1\u003C/strong>3 nuovi dispositivi recenti (nella versione PRO). Google Pixel 8, Samsung Galaxy S24 e ULTRA \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_1_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.1.2\u003C/strong>Diverse correzioni di bug riguardanti la conversione delle acquisizioni video"
+   },
+   "notification_update_title_v4_2_0": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.2\u003C/strong>Ora puoi testare i tuoi siti web con l'ultimo iPhone 16.\u003C/strong> \u003Ci class='mdi'>&#xe917;\u003C/i>"
+   },
+   "notification_update_title_v4_2_2": {
+      "message": "\u003Cstrong class='mb-2 is-block'>Aggiornamento v4.2.2\u003C/strong>\u003Cstrong>Correzioni\u003C/strong> relative alla generazione di acquisizioni video, nonché screenshot a pagina intera"
+   },
+   "notifications": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "others": {
+      "message": "\u003Ci class='mdi'>&#xe921;\u003C/i> Speciali"
+   },
+   "popup": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "popup_activate_local_files_button": {
+      "message": "Attiva l'opzione"
+   },
+   "popup_activate_local_files_info": {
+      "message": "Questo simulatore non può essere attivato di default sui file locali (file:///), ma puoi attivare manualmente l'opzione nella pagina delle impostazioni di Chrome."
+   },
+   "popup_message": {
+      "message": "Cambia dispositivo e trova tutte le opzioni utilizzando il menu a destra del simulatore"
+   },
+   "popup_site_incompatible": {
+      "message": "Questo simulatore non può essere attivato su questa pagina nativa di Chrome. Prova su un'altra scheda. Oppure esplora un sito web e riavvia."
+   },
+   "pro": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "pro_modale_avantage_1": {
+      "message": "Numero illimitato di record di schede"
+   },
+   "pro_modale_avantage_2": {
+      "message": "Rimuovi gli annunci"
+   },
+   "pro_modale_billed_annualy": {
+      "message": "Fatturato annualmente"
+   },
+   "pro_modale_button": {
+      "message": "Iscriviti"
+   },
+   "pro_modale_from": {
+      "message": "Da"
+   },
+   "pro_modale_h1": {
+      "message": "Diventa un PRO"
+   },
+   "pro_modale_h1_ads": {
+      "message": "Rimuovi gli annunci"
+   },
+   "pro_modale_h1_all_formats": {
+      "message": "Converti le tue acquisizioni video nei formati GIF e MP4"
+   },
+   "pro_modale_h1_devices": {
+      "message": "Simula tutti i dispositivi"
+   },
+   "pro_modale_h1_limit": {
+      "message": "Hai raggiunto il limite di 5 record di schede al giorno"
+   },
+   "pro_modale_h1_settings": {
+      "message": "Sblocca tutte le impostazioni"
+   },
+   "pro_modale_h2": {
+      "message": "Diventa un PRO e contribuisci attivamente allo sviluppo di questa estensione."
+   },
+   "pro_modale_link_1": {
+      "message": "O"
+   },
+   "pro_modale_link_2": {
+      "message": "login"
+   },
+   "pro_modale_link_3": {
+      "message": "al tuo account"
+   },
+   "pro_modale_recurring_month": {
+      "message": "mese"
+   },
+   "pro_modale_savings": {
+      "message": "Salva"
+   },
+   "review": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "review_h1": {
+      "message": "Consiglieresti questa estensione?"
+   },
+   "review_note_feedback": {
+      "message": "Grazie per il tuo feedback, sentiti libero di inviarci un messaggio in modo che possiamo migliorare questa estensione."
+   },
+   "review_note_store": {
+      "message": "Grazie per il tuo feedback, sentiti libero di aggiungere una recensione sul Google Store. Te ne sarei molto grato 😊"
+   },
+   "screencast": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screencast_error": {
+      "message": "Si è verificato un errore durante la registrazione della scheda. {Clicca qui} per una soluzione alternativa."
+   },
+   "screencast_generation": {
+      "message": "Creazione del GIF in corso"
+   },
+   "screencast_modale_contact": {
+      "message": "Segnala un bug, un suggerimento, ..."
+   },
+   "screencast_modale_copy": {
+      "message": "Copia"
+   },
+   "screencast_modale_download": {
+      "message": "Scaricamento"
+   },
+   "screencast_modale_download_gif": {
+      "message": "Compatibile ovunque, ma di qualità inferiore"
+   },
+   "screencast_modale_download_mp4": {
+      "message": "Migliore compatibilità con PowerPoint, Keynote, ecc."
+   },
+   "screencast_modale_download_webm": {
+      "message": "Scarica nel formato WEBM predefinito"
+   },
+   "screencast_modale_texte": {
+      "message": "Puoi scaricare questo video in diversi formati oppure ottenere un link per condividerlo."
+   },
+   "screencast_modale_title": {
+      "message": "Scheda record"
+   },
+   "screencast_modale_upload": {
+      "message": "Carica sul server e ottieni il link di condivisione"
+   },
+   "screencast_onboarding_close": {
+      "message": "Vicino"
+   },
+   "screencast_onboarding_texte": {
+      "message": "Crea un video mobile in formato GIF in 1 clic (max 20 secondi)"
+   },
+   "screencast_onboarding_title": {
+      "message": "Scheda record"
+   },
+   "screenshot": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "screenshot_menu_1": {
+      "message": "Screenshot con la cornice del dispositivo"
+   },
+   "screenshot_menu_2": {
+      "message": "Screenshot senza la cornice del dispositivo"
+   },
+   "screenshot_menu_3": {
+      "message": "Schermata a pagina intera"
+   },
+   "screenshot_modale_copy": {
+      "message": "Copia l'immagine negli appunti"
+   },
+   "screenshot_modale_help": {
+      "message": "Per salvare l'immagine con una buona risoluzione, puoi semplicemente fare clic destro su di essa, quindi \"Copia immagine\" o \"Salva immagine con nome\""
+   },
+   "screenshot_modale_title": {
+      "message": "Schermata"
+   },
+   "settings": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "settings_batterie_level": {
+      "message": "Livello della batteria nell'intestazione del terminale (%)"
+   },
+   "settings_change_analytics": {
+      "message": "Supporto lo sviluppatore di questa estensione per migliorare il suo prodotto grazie a Google Analytics. I dati sono anonimi."
+   },
+   "settings_change_background": {
+      "message": "Cambia il colore di sfondo"
+   },
+   "settings_change_cursor": {
+      "message": "Non modificare lo stile del cursore nel dispositivo"
+   },
+   "settings_default_device": {
+      "message": "Dispositivo predefinito di ogni nuova attivazione"
+   },
+   "settings_device_hide": {
+      "message": "Nascondi il dispositivo"
+   },
+   "settings_hide_header_footer": {
+      "message": "Nascondi l'intestazione e il piè di pagina del browser nel dispositivo (PWA)"
+   },
+   "settings_hide_keyboard": {
+      "message": "Non visualizzare la tastiera falsa"
+   },
+   "settings_presenter_mode": {
+      "message": "Modalità presentazione (menu di destra visualizzato solo al passaggio del mouse)"
+   },
+   "settings_scrollbar_show": {
+      "message": "Mostra la barra di scorrimento nativa nel dispositivo (se non hai il trackpad o la rotellina del mouse)"
+   },
+   "sharing": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "sharing_h1": {
+      "message": "Questa estensione ti è utile?"
+   },
+   "sharing_h2": {
+      "message": "Quindi condividilo con i tuoi colleghi o amici"
+   },
+   "sharing_review_1": {
+      "message": "E se hai un minuto per"
+   },
+   "sharing_review_2": {
+      "message": "aggiungi una recensione"
+   },
+   "sharing_review_3": {
+      "message": "Te ne sarei molto grato 🙂"
+   },
+   "sharing_review_button": {
+      "message": "Aggiungo una recensione"
+   },
+   "sharing_txt": {
+      "message": "Simulatore per testare il tuo sito su smartphone e tablet"
+   },
+   "simulator": {
+      "message": "-------------------------------------------------- ------"
+   },
+   "simulator_footer_info": {
+      "message": "Questo è un elemento falso. Usa la tua tastiera."
+   },
+   "simulator_header_info": {
+      "message": "Questo è un elemento falso. Per cambiare l'URL basta usare il campo di testo di Chrome in alto."
+   },
+   "tablet": {
+      "message": "\u003Ci class='mdi'>&#xe920;\u003C/i> Compresse"
+   }
+}

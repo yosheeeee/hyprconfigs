@@ -1,0 +1,3 @@
+Contact: security@apps.jeurissen.co
+Preferred-Languages: en
+Canonical: https://apps.jeurissen.co/.well-known/security.txt

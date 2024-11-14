@@ -7,6 +7,30 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
+  "ssh_connections": [
+    {
+      "host": "192.168.0.113",
+      "username": "admin",
+      "args": ["-i", "~/.ssh/known-hosts"],
+      "nickname": "local server"
+    }
+  ],
+  "features": {
+    "inline_completion_provider": "supermaven"
+  },
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    "version": "2"
+  },
+  "git": {
+    "git_gutter": "hide",
+    "inline_blame": {
+      "enabled": false
+    }
+  },
   "ui_font_size": 16,
   "buffer_font_size": 20,
   "base_keymap": "VSCode",
@@ -22,8 +46,13 @@
   },
   "theme": {
     "mode": "system",
-    "light": "Catppuccin Mocha (Blur)",
-    "dark": "Catppuccin Frappé"
+    "light": "Catppuccin Macchiato - No Italics",
+    "dark": "Github Dark"
+  },
+  "indent_guides": {
+    "enabled": true,
+    "coloring": "indent_aware",
+    "active_line_width": 2
   },
   "vim_mode": true
 }

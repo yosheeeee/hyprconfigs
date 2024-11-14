@@ -1,0 +1,51 @@
+{
+   "action": {
+      "default_icon": {
+         "32": "icons/32.png",
+         "48": "icons/48.png"
+      },
+      "default_title": "__MSG_context_menu_activate__"
+   },
+   "author": "François Duprat",
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "commands": {
+      "start-stop-video-capture": {
+         "description": "__MSG_menu_screencast__"
+      },
+      "take-screenshot-1": {
+         "description": "__MSG_screenshot_menu_1__"
+      },
+      "take-screenshot-2": {
+         "description": "__MSG_screenshot_menu_2__"
+      },
+      "take-screenshot-3": {
+         "description": "__MSG_screenshot_menu_3__"
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; connect-src ws://localhost:9090/ blob: data: https://mobile-first-admin.herokuapp.com https://jth7w9hc3m.execute-api.eu-west-3.amazonaws.com https://v2izih0lsk.execute-api.eu-west-3.amazonaws.com https://eu-central.storage.cloudconvert.com https://webmobilefirst-screencasts.s3.eu-west-3.amazonaws.com https://versionhistory.googleapis.com https://www.google-analytics.com https://pro.ip-api.com https://mobile-first-extension-temp-webm-video-captures.s3.eu-west-3.amazonaws.com"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "externally_connectable": {
+      "matches": [ "https://www.webmobilefirst.com/*" ]
+   },
+   "host_permissions": [ "\u003Call_urls>", "*://*/*" ],
+   "icons": {
+      "128": "icons/128.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArIWwnyPHzEPY+Z0SMippUVTblgcpJYs3rjKHd+njYFNHCyG3Hk/VQhML7peaAlaYL+DzCXfSdHkMwjD/JolGgYdaEAZRNhnw27NPcpj8kihb46rIwD6AyQbb2I3gGGCfqF2FP78FfqIJDo9PSP/tszVa7HheUJabNuZJyfHH/Kg/S8XOq1d4C9jq5CXu8+Dux3653QafrvVsOv/hc1KlveMglQV+SYgQ3b0ReH5miZH5QFBUo1hV0UJfu+jqztYn24EqA8Q4EabSN9TC1pDA3KVUWnoLwS2tcZ+k0o+Sxj+pjbPehXes+l46b6CyYvzuzETlfzot27lg6oSPEkC7+QIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "webRequest", "scripting", "tabs", "activeTab", "declarativeNetRequest", "webNavigation", "storage", "cookies", "contextMenus", "tabCapture", "offscreen", "commands" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.2.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "spoofer.js", "assets/**/*", "css/**/*", "icons/**/*" ]
+   } ]
+}

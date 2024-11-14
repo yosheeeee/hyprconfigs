@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": "icon_286.png",
+      "default_popup": "clear-ls.html",
+      "default_title": "Clear Local Storage"
+   },
+   "author": "Rimraf",
+   "commands": {
+      "_execute_action": {
+         "description": "Open extension",
+         "global": false,
+         "suggested_key": {
+            "chromeos": "Alt+Shift+L",
+            "default": "Alt+Shift+L",
+            "linux": "Alt+Shift+L",
+            "mac": "Command+Shift+L",
+            "windows": "Alt+Shift+L"
+         }
+      }
+   },
+   "description": "This extension lets you clear local storage and then reloads the page",
+   "icons": {
+      "128": "icon_128.png",
+      "286": "icon_286.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAknItazgtDBCDbeqir03mAB9ELakqOVEWckjmiXJRBVjBydQUW26tNnKAAYl0M1dN24XzSOaGklELWGLrV8fTepc/i1tPniuCo+pi4n96tjombUb6YY7j9wGbRRel0n5N1uINIl4szxQTsVTIHpq11cptXUcxR8Ge8pis3c4dwUJ/C0w/5gGAoLq2xJq124j88SD64NbHwZ1hJkzV1z1UIQhZwEbtbMV8uq3r2lR8xBwF6nO/6eKgyWr8vbWhcV7jz3SKNqZw9xPgEvxyX3Di2mzejQBAt1CMd0Hkrfo5BdMrCuF76fS4cZvTdfjPmHcRYPz5Ilnh5yoni3McYvEF+wIDAQAB",
+   "manifest_version": 3,
+   "name": "Clear Local Storage",
+   "permissions": [ "scripting", "activeTab" ],
+   "short_name": "Clear LocalStorage",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2.1"
+}

@@ -1,0 +1,2480 @@
+{
+   "cj_i18n_00000": {
+      "message": "Cách truy cập dễ dàng nhất với tất cả dịch vụ của Google"
+   },
+   "cj_i18n_00001": {
+      "message": "Drive của tôi"
+   },
+   "cj_i18n_00002": {
+      "message": "Chia sẻ với tôi"
+   },
+   "cj_i18n_00003": {
+      "message": "Gần đây"
+   },
+   "cj_i18n_00004": {
+      "message": "Được đánh dấu sao"
+   },
+   "cj_i18n_00005": {
+      "message": "Thư rác"
+   },
+   "cj_i18n_00006": {
+      "message": "đã chỉnh sửa"
+   },
+   "cj_i18n_00017": {
+      "message": "Hình ảnh"
+   },
+   "cj_i18n_00018": {
+      "message": "Tin tức"
+   },
+   "cj_i18n_00019": {
+      "message": "Sách"
+   },
+   "cj_i18n_00020": {
+      "message": "Câu chuyện hàng đầu"
+   },
+   "cj_i18n_00021": {
+      "message": "Thế giới"
+   },
+   "cj_i18n_00022": {
+      "message": "Trong nước"
+   },
+   "cj_i18n_00025": {
+      "message": "Giải trí"
+   },
+   "cj_i18n_00026": {
+      "message": "Thể thao"
+   },
+   "cj_i18n_00027": {
+      "message": "Sức khỏe"
+   },
+   "cj_i18n_00045": {
+      "message": "Mở video trong thẻ mới"
+   },
+   "cj_i18n_00046": {
+      "message": "Vui lòng nhập lệnh tìm kiếm"
+   },
+   "cj_i18n_00047": {
+      "message": "Nhiều hơn"
+   },
+   "cj_i18n_00061": {
+      "message": "Khám phá"
+   },
+   "cj_i18n_00076": {
+      "message": "Xem sau"
+   },
+   "cj_i18n_00077": {
+      "message": "Nâng cấp dung lượng"
+   },
+   "cj_i18n_00081": {
+      "message": "Nhắc nhở"
+   },
+   "cj_i18n_00083": {
+      "message": "Tất cả"
+   },
+   "cj_i18n_00084": {
+      "message": "Mở dịch vụ trong thẻ mới"
+   },
+   "cj_i18n_00085": {
+      "message": "Tìm kiếm"
+   },
+   "cj_i18n_00086": {
+      "message": "Tìm kiếm ở thẻ mới"
+   },
+   "cj_i18n_00089": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền cho tiện ích truy cập vào Google Drive"
+   },
+   "cj_i18n_00090": {
+      "message": "Tệp tin mới"
+   },
+   "cj_i18n_00093": {
+      "message": "Chỉnh sửa lần cuối"
+   },
+   "cj_i18n_00094": {
+      "message": "Chỉnh sửa lần cuối bởi tôi"
+   },
+   "cj_i18n_00095": {
+      "message": "Mở lần cuối bởi tôi"
+   },
+   "cj_i18n_00097": {
+      "message": "Kéo thả vào đây để xóa bỏ"
+   },
+   "cj_i18n_00099": {
+      "message": "tài liệu"
+   },
+   "cj_i18n_00100": {
+      "message": "trang tính"
+   },
+   "cj_i18n_00101": {
+      "message": "bản trình bày"
+   },
+   "cj_i18n_00102": {
+      "message": "biểu mẫu"
+   },
+   "cj_i18n_00104": {
+      "message": "bản đồ"
+   },
+   "cj_i18n_00106": {
+      "message": "Thay đổi cách xem"
+   },
+   "cj_i18n_00107": {
+      "message": "Tất cả"
+   },
+   "cj_i18n_00108": {
+      "message": "Của tôi"
+   },
+   "cj_i18n_00110": {
+      "message": "Lọc"
+   },
+   "cj_i18n_00116": {
+      "message": "Hãy thử một từ đồng nghĩa hoặc một từ khóa phổ quát hơn."
+   },
+   "cj_i18n_00121": {
+      "message": "Thư mục"
+   },
+   "cj_i18n_00122": {
+      "message": "Tệp"
+   },
+   "cj_i18n_00123": {
+      "message": "Mở thư mục trong thẻ mới"
+   },
+   "cj_i18n_00127": {
+      "message": "Địa điểm của bạn"
+   },
+   "cj_i18n_00128": {
+      "message": "Đóng góp của bạn"
+   },
+   "cj_i18n_00129": {
+      "message": "Dòng thời gian của bạn"
+   },
+   "cj_i18n_00131": {
+      "message": "Thư viện"
+   },
+   "cj_i18n_00134": {
+      "message": "Gian hàng"
+   },
+   "cj_i18n_00138": {
+      "message": "Tài liệu"
+   },
+   "cj_i18n_00139": {
+      "message": "Trang tính"
+   },
+   "cj_i18n_00140": {
+      "message": "Bản trình bày"
+   },
+   "cj_i18n_00141": {
+      "message": "Hình ảnh"
+   },
+   "cj_i18n_00144": {
+      "message": "tệp tin"
+   },
+   "cj_i18n_00153": {
+      "message": "Xu hướng"
+   },
+   "cj_i18n_00154": {
+      "message": "Các kênh đăng ký"
+   },
+   "cj_i18n_00155": {
+      "message": "Lịch sử"
+   },
+   "cj_i18n_00156": {
+      "message": "Không có kết quả"
+   },
+   "cj_i18n_00158": {
+      "message": "Tải lên video"
+   },
+   "cj_i18n_00161": {
+      "message": "Về tôi"
+   },
+   "cj_i18n_00162": {
+      "message": "Quay lại"
+   },
+   "cj_i18n_00165": {
+      "message": "Tháng Một"
+   },
+   "cj_i18n_00166": {
+      "message": "Tháng Hai"
+   },
+   "cj_i18n_00167": {
+      "message": "Tháng Ba"
+   },
+   "cj_i18n_00168": {
+      "message": "Tháng Tư"
+   },
+   "cj_i18n_00169": {
+      "message": "Tháng Năm"
+   },
+   "cj_i18n_00170": {
+      "message": "Tháng Sáu"
+   },
+   "cj_i18n_00171": {
+      "message": "Tháng Bảy"
+   },
+   "cj_i18n_00172": {
+      "message": "Tháng Tám"
+   },
+   "cj_i18n_00173": {
+      "message": "Tháng Chín"
+   },
+   "cj_i18n_00174": {
+      "message": "Tháng Mười"
+   },
+   "cj_i18n_00175": {
+      "message": "Tháng Mười Một"
+   },
+   "cj_i18n_00176": {
+      "message": "Tháng Mười Hai"
+   },
+   "cj_i18n_00177": {
+      "message": "Quản trị viên"
+   },
+   "cj_i18n_00178": {
+      "message": "Chính"
+   },
+   "cj_i18n_00182": {
+      "message": "Diễn đàn"
+   },
+   "cj_i18n_00184": {
+      "message": "Quan trọng"
+   },
+   "cj_i18n_00185": {
+      "message": "Trò chuyện"
+   },
+   "cj_i18n_00187": {
+      "message": "Thư nháp"
+   },
+   "cj_i18n_00188": {
+      "message": "Tất cả thư"
+   },
+   "cj_i18n_00190": {
+      "message": "Dấu trang"
+   },
+   "cj_i18n_00191": {
+      "message": "Thịnh hành trên YouTube"
+   },
+   "cj_i18n_00195": {
+      "message": "Tìm kiếm thịnh hành"
+   },
+   "cj_i18n_00198": {
+      "message": "Các khung giá"
+   },
+   "cj_i18n_00199": {
+      "message": "Miễn phí"
+   },
+   "cj_i18n_00200": {
+      "message": "Đã trả phí"
+   },
+   "cj_i18n_00203": {
+      "message": "Mới phát hành"
+   },
+   "cj_i18n_00205": {
+      "message": "Các nghệ sĩ"
+   },
+   "cj_i18n_00207": {
+      "message": "Các ca khúc"
+   },
+   "cj_i18n_00212": {
+      "message": "Để dùng Reminders, bạn cần cho phép truy cập để tải dữ liệu Google Reminders của bạn"
+   },
+   "cj_i18n_00214": {
+      "message": "Thư điện tử"
+   },
+   "cj_i18n_00215": {
+      "message": "Xem ghi chú"
+   },
+   "cj_i18n_00216": {
+      "message": "Ứng dụng"
+   },
+   "cj_i18n_00217": {
+      "message": "Trò chơi"
+   },
+   "cj_i18n_00225": {
+      "message": "Tính đến hôm nay"
+   },
+   "cj_i18n_00226": {
+      "message": "Hôm qua"
+   },
+   "cj_i18n_00227": {
+      "message": "so với cùng ngày này tuần trước"
+   },
+   "cj_i18n_00228": {
+      "message": "Tính đến tháng này"
+   },
+   "cj_i18n_00233": {
+      "message": "Không có tài khoản AdSense nào được kết nối với tài khoản Google này"
+   },
+   "cj_i18n_00235": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền truy cập để tải các dữ liệu Google AdSense của bạn."
+   },
+   "cj_i18n_00238": {
+      "message": "Bạn cần phải sử dụng tài khoản G Suite mới có thể sử dụng Google Admin"
+   },
+   "cj_i18n_00240": {
+      "message": "Người dùng"
+   },
+   "cj_i18n_00243": {
+      "message": "Di chuyển dữ liệu"
+   },
+   "cj_i18n_00244": {
+      "message": "Tài sản"
+   },
+   "cj_i18n_00246": {
+      "message": "Quản lý thiết bị"
+   },
+   "cj_i18n_00247": {
+      "message": "Hỗ trợ"
+   },
+   "cj_i18n_00248": {
+      "message": "Nhóm"
+   },
+   "cj_i18n_00250": {
+      "message": "An ninh"
+   },
+   "cj_i18n_00251": {
+      "message": "Phiếu"
+   },
+   "cj_i18n_00252": {
+      "message": "Vai trò"
+   },
+   "cj_i18n_00259": {
+      "message": "Trước khi có thể sử dụng, bạn cần cấp quyền truy cập để tải các trang Blogger của mình"
+   },
+   "cj_i18n_00260": {
+      "message": "Không tìm thấy blog"
+   },
+   "cj_i18n_00261": {
+      "message": "Để taọ blog mới, đi tới blogger.com"
+   },
+   "cj_i18n_00262": {
+      "message": "Không thể tải blog của bạn"
+   },
+   "cj_i18n_00263": {
+      "message": "Đảm bảo rằng bạn đã kết nối với internet."
+   },
+   "cj_i18n_00265": {
+      "message": "Không tìm thấy sự kiện nào"
+   },
+   "cj_i18n_00266": {
+      "message": "Để thêm sự kiện mới, nhấp nút màu đỏ ở phía dưới góc phải"
+   },
+   "cj_i18n_00267": {
+      "message": "Không có sự kiện nào hôm nay"
+   },
+   "cj_i18n_00268": {
+      "message": "Sự kiện mới"
+   },
+   "cj_i18n_00276": {
+      "message": "Điều chỉnh tìm kiếm"
+   },
+   "cj_i18n_00291": {
+      "message": "Trang chủ"
+   },
+   "cj_i18n_00292": {
+      "message": "Bộ sưu tập"
+   },
+   "cj_i18n_00293": {
+      "message": "Cộng đồng"
+   },
+   "cj_i18n_00294": {
+      "message": "Hồ sơ"
+   },
+   "cj_i18n_00295": {
+      "message": "Mọi người"
+   },
+   "cj_i18n_00296": {
+      "message": "Thông báo"
+   },
+   "cj_i18n_00298": {
+      "message": "Cài đặt"
+   },
+   "cj_i18n_00299": {
+      "message": "Hộp thư đến"
+   },
+   "cj_i18n_00301": {
+      "message": "Đã xong"
+   },
+   "cj_i18n_00302": {
+      "message": "Lịch"
+   },
+   "cj_i18n_00303": {
+      "message": "Đã gửi"
+   },
+   "cj_i18n_00305": {
+      "message": "Lớp học"
+   },
+   "cj_i18n_00306": {
+      "message": "Thư rác"
+   },
+   "cj_i18n_00308": {
+      "message": "Di chuyển"
+   },
+   "cj_i18n_00309": {
+      "message": "Đã lưu"
+   },
+   "cj_i18n_00311": {
+      "message": "Tài chính"
+   },
+   "cj_i18n_00312": {
+      "message": "Xã hội"
+   },
+   "cj_i18n_00313": {
+      "message": "Cập nhật"
+   },
+   "cj_i18n_00314": {
+      "message": "Danh bạ"
+   },
+   "cj_i18n_00315": {
+      "message": "Quảng cáo"
+   },
+   "cj_i18n_00316": {
+      "message": "Ưu tiên thấp"
+   },
+   "cj_i18n_00317": {
+      "message": "Soạn thư mới"
+   },
+   "cj_i18n_00321": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền truy cập để tải Google Books của bạn. Nếu bạn chỉ muốn tìm kiếm sách, điều hướng tới trang tìm kiếm trong tiện ích này."
+   },
+   "cj_i18n_00322": {
+      "message": "Không tìm thấy sách"
+   },
+   "cj_i18n_00325": {
+      "message": "Đang tải…"
+   },
+   "cj_i18n_00331": {
+      "message": "Tất cả"
+   },
+   "cj_i18n_00337": {
+      "message": "Đăng kí"
+   },
+   "cj_i18n_00346": {
+      "message": "Tìm kiếm các lối tắt của Google"
+   },
+   "cj_i18n_00349": {
+      "message": "Phản hồi & hỗ trợ"
+   },
+   "cj_i18n_00350": {
+      "message": "Đặt câu hỏi"
+   },
+   "cj_i18n_00351": {
+      "message": "Báo lỗi"
+   },
+   "cj_i18n_00352": {
+      "message": "Yêu cầu tính năng"
+   },
+   "cj_i18n_00353": {
+      "message": "Đóng góp"
+   },
+   "cj_i18n_00354": {
+      "message": "Quyên góp"
+   },
+   "cj_i18n_00361": {
+      "message": "Thêm tài khoản"
+   },
+   "cj_i18n_00363": {
+      "message": "Tài khoản thương hiệu"
+   },
+   "cj_i18n_00380": {
+      "message": "Phim"
+   },
+   "cj_i18n_00388": {
+      "message": "Nhóm cua tôi"
+   },
+   "cj_i18n_00391": {
+      "message": "Tài liệu"
+   },
+   "cj_i18n_00393": {
+      "message": "Trang tính"
+   },
+   "cj_i18n_00394": {
+      "message": "Không có cuộc gọi gần đây"
+   },
+   "cj_i18n_00405": {
+      "message": "Thư viện mẫu"
+   },
+   "cj_i18n_00406": {
+      "message": "Tìm kiếm nâng cao"
+   },
+   "cj_i18n_00407": {
+      "message": "Bản trình bày"
+   },
+   "cj_i18n_00408": {
+      "message": "Biểu mẫu"
+   },
+   "cj_i18n_00410": {
+      "message": "Bản đồ của tôi"
+   },
+   "cj_i18n_00412": {
+      "message": "Tài chính"
+   },
+   "cj_i18n_00414": {
+      "message": "Chuyến bay"
+   },
+   "cj_i18n_00418": {
+      "message": "Nhóm"
+   },
+   "cj_i18n_00423": {
+      "message": "Bản đồ"
+   },
+   "cj_i18n_00425": {
+      "message": "Tin tức"
+   },
+   "cj_i18n_00427": {
+      "message": "Bằng sáng chế"
+   },
+   "cj_i18n_00429": {
+      "message": "Ảnh"
+   },
+   "cj_i18n_00434": {
+      "message": "Tìm kiếm"
+   },
+   "cj_i18n_00435": {
+      "message": "Mua sắm"
+   },
+   "cj_i18n_00438": {
+      "message": "Trợ giúp"
+   },
+   "cj_i18n_00440": {
+      "message": "Dịch"
+   },
+   "cj_i18n_00441": {
+      "message": "Xu hướng"
+   },
+   "cj_i18n_00450": {
+      "message": "Về Google"
+   },
+   "cj_i18n_00453": {
+      "message": "Trung tâm Khách hàng của tôi"
+   },
+   "cj_i18n_00458": {
+      "message": "Văn hóa & Nghệ thuật"
+   },
+   "cj_i18n_00460": {
+      "message": "Sách"
+   },
+   "cj_i18n_00462": {
+      "message": "Cửa hàng Chrome trực tuyến"
+   },
+   "cj_i18n_00463": {
+      "message": "Bảng điều hướng cho lập trình viên"
+   },
+   "cj_i18n_00464": {
+      "message": "Tiện ích mở rộng"
+   },
+   "cj_i18n_00465": {
+      "message": "Chủ đề"
+   },
+   "cj_i18n_00476": {
+      "message": "Thư mới"
+   },
+   "cj_i18n_00480": {
+      "message": "Phim"
+   },
+   "cj_i18n_00481": {
+      "message": "Tài khoản"
+   },
+   "cj_i18n_00484": {
+      "message": "Sự kiện"
+   },
+   "cj_i18n_00488": {
+      "message": "Hình ảnh"
+   },
+   "cj_i18n_00492": {
+      "message": "Sao Hỏa"
+   },
+   "cj_i18n_00494": {
+      "message": "Mặt trăng"
+   },
+   "cj_i18n_00495": {
+      "message": "Thiets bị của tôi"
+   },
+   "cj_i18n_00496": {
+      "message": "Lưu trữ tin tức"
+   },
+   "cj_i18n_00498": {
+      "message": "Cảnh báo công cộng"
+   },
+   "cj_i18n_00500": {
+      "message": "Cài đặt tìm kiếm"
+   },
+   "cj_i18n_00501": {
+      "message": "Bầu trời"
+   },
+   "cj_i18n_00509": {
+      "message": "Video"
+   },
+   "cj_i18n_00517": {
+      "message": "Gửi thư cho"
+   },
+   "cj_i18n_00520": {
+      "message": "Tìm thiết bị của tôi"
+   },
+   "cj_i18n_00555": {
+      "message": "Thêm vị trí"
+   },
+   "cj_i18n_00556": {
+      "message": "Ứng dụng di động"
+   },
+   "cj_i18n_00566": {
+      "message": "Xác minh 2 bước"
+   },
+   "cj_i18n_00578": {
+      "message": "Trung tâm An toàn"
+   },
+   "cj_i18n_00589": {
+      "message": "Máy tính"
+   },
+   "cj_i18n_00592": {
+      "message": "Nghệ thuật đường phố"
+   },
+   "cj_i18n_00596": {
+      "message": "Liên hệ với Google"
+   },
+   "cj_i18n_00601": {
+      "message": "Nghiên cứu"
+   },
+   "cj_i18n_00603": {
+      "message": "Đồng bộ hóa"
+   },
+   "cj_i18n_00607": {
+      "message": "Tài liệu mới"
+   },
+   "cj_i18n_00608": {
+      "message": "Trang tính mới"
+   },
+   "cj_i18n_00609": {
+      "message": "Bản trình bày mới"
+   },
+   "cj_i18n_00623": {
+      "message": "Đang phát trực tiếp"
+   },
+   "cj_i18n_00624": {
+      "message": "Cộng đồng"
+   },
+   "cj_i18n_00625": {
+      "message": "Kênh"
+   },
+   "cj_i18n_00626": {
+      "message": "Tạo"
+   },
+   "cj_i18n_00631": {
+      "message": "Biểu mẫu mới"
+   },
+   "cj_i18n_00633": {
+      "message": "Hướng đi mới"
+   },
+   "cj_i18n_00634": {
+      "message": "Đóng góp của tôi"
+   },
+   "cj_i18n_00640": {
+      "message": "Những khoảnh khắc lịch sử"
+   },
+   "cj_i18n_00653": {
+      "message": "Tin tức chưa được lọc"
+   },
+   "cj_i18n_00667": {
+      "message": "Bảng chữ cái"
+   },
+   "cj_i18n_00674": {
+      "message": "Vai trò của quản trị viên"
+   },
+   "cj_i18n_00675": {
+      "message": "Các báo cáo"
+   },
+   "cj_i18n_00689": {
+      "message": "Hoạt động của tôi"
+   },
+   "cj_i18n_00692": {
+      "message": "Yêu thích"
+   },
+   "cj_i18n_00695": {
+      "message": "Chrome dành cho Work Shop"
+   },
+   "cj_i18n_00728": {
+      "message": "Trợ lý"
+   },
+   "cj_i18n_00736": {
+      "message": "Hướng dẫn địa phương"
+   },
+   "cj_i18n_00743": {
+      "message": "Thời tiết"
+   },
+   "cj_i18n_00744": {
+      "message": "Các tài khoản thương hiệu"
+   },
+   "cj_i18n_00745": {
+      "message": "Cài đặt quảng cáo"
+   },
+   "cj_i18n_00775": {
+      "message": "Lướt web an toàn"
+   },
+   "cj_i18n_00795": {
+      "message": "Wifi - Thiết bị chia sẻ"
+   },
+   "cj_i18n_00801": {
+      "message": "Đánh giá"
+   },
+   "cj_i18n_00802": {
+      "message": "Vị trí"
+   },
+   "cj_i18n_00807": {
+      "message": "Thư viện của tôi"
+   },
+   "cj_i18n_00808": {
+      "message": "Lịch sử trò chuyện"
+   },
+   "cj_i18n_00818": {
+      "message": "Các địa điểm của tôi"
+   },
+   "cj_i18n_00819": {
+      "message": "Trò chuyện"
+   },
+   "cj_i18n_00821": {
+      "message": "Lưu trữ"
+   },
+   "cj_i18n_00825": {
+      "message": "Báo cáo cảnh báo tấn công giả mạo sai"
+   },
+   "cj_i18n_00826": {
+      "message": "Báo cáo trang giả mạo"
+   },
+   "cj_i18n_00828": {
+      "message": "Báo cáo phần mềm độc hại"
+   },
+   "cj_i18n_00829": {
+      "message": "Chuyển đổi tiền tệ"
+   },
+   "cj_i18n_00838": {
+      "message": "Thông tin"
+   },
+   "cj_i18n_00845": {
+      "message": "Chuyển đổi đơn vị"
+   },
+   "cj_i18n_00851": {
+      "message": "Mã nguồn mở Android"
+   },
+   "cj_i18n_00853": {
+      "message": "Phòng thu Android"
+   },
+   "cj_i18n_00854": {
+      "message": "Lập trình viên Android"
+   },
+   "cj_i18n_00856": {
+      "message": "Hệ điều hành Chromium"
+   },
+   "cj_i18n_00859": {
+      "message": "Đồng hồ dếm ngược"
+   },
+   "cj_i18n_00860": {
+      "message": "Đồng hồ bấm giờ"
+   },
+   "cj_i18n_00871": {
+      "message": "Chương trình Android Beta"
+   },
+   "cj_i18n_00872": {
+      "message": "Android dành cho doanh nghiệp"
+   },
+   "cj_i18n_00878": {
+      "message": "Khả năng truy cập"
+   },
+   "cj_i18n_00901": {
+      "message": "Bảo mật"
+   },
+   "cj_i18n_00909": {
+      "message": "Chính sách bảo mật nội dung"
+   },
+   "cj_i18n_00917": {
+      "message": "Sao lưu và đồng bộ"
+   },
+   "cj_i18n_00918": {
+      "message": "Cảnh báo mật khẩu"
+   },
+   "cj_i18n_00924": {
+      "message": "Nghiên cứu người dùng"
+   },
+   "cj_i18n_00927": {
+      "message": "Thử nghiệm thực tế ảo"
+   },
+   "cj_i18n_00930": {
+      "message": "Thử nghiệm"
+   },
+   "cj_i18n_00946": {
+      "message": "Các phiên bản tại Play"
+   },
+   "cj_i18n_00957": {
+      "message": "Đá bóng cùng Chrome"
+   },
+   "cj_i18n_00958": {
+      "message": "Diễn đàn phát triển Android"
+   },
+   "cj_i18n_00972": {
+      "message": "Đối tác doanh nghiệp Chrome"
+   },
+   "cj_i18n_00978": {
+      "message": "Những bảo tàng của thế giới"
+   },
+   "cj_i18n_00990": {
+      "message": "Bài đăng"
+   },
+   "cj_i18n_00991": {
+      "message": "Thông tin"
+   },
+   "cj_i18n_00992": {
+      "message": "Trang web"
+   },
+   "cj_i18n_00994": {
+      "message": "Ảnh"
+   },
+   "cj_i18n_00996": {
+      "message": "Cách ly quản trị viên"
+   },
+   "cj_i18n_00998": {
+      "message": "Trải nghiệm quản lý Android"
+   },
+   "cj_i18n_01000": {
+      "message": "Bản phác thảo mới"
+   },
+   "cj_i18n_01002": {
+      "message": "Youtube dành cho Nghệ sĩ"
+   },
+   "cj_i18n_01006": {
+      "message": "Các mật khẩu của ứng dụng"
+   },
+   "cj_i18n_01009": {
+      "message": "Hỗ trợ"
+   },
+   "cj_i18n_01015": {
+      "message": "Cổng đối tác Android"
+   },
+   "cj_i18n_01019": {
+      "message": "Hồ sơ"
+   },
+   "cj_i18n_01025": {
+      "message": "Quy tắc Thiết kế Wear OS"
+   },
+   "cj_i18n_01028": {
+      "message": "Danh sách mua sắm"
+   },
+   "cj_i18n_01030": {
+      "message": "Khách sạn"
+   },
+   "cj_i18n_01031": {
+      "message": "Cá tháng Tư"
+   },
+   "cj_i18n_01039": {
+      "message": "Báo cáo chất lượng video"
+   },
+   "cj_i18n_01051": {
+      "message": "Nói với Sách"
+   },
+   "cj_i18n_01053": {
+      "message": "Vạn vật Android"
+   },
+   "cj_i18n_01055": {
+      "message": "Cho bạn"
+   },
+   "cj_i18n_01060": {
+      "message": "Phát trực tiếp"
+   },
+   "cj_i18n_01061": {
+      "message": "Bảng xếp hạng âm nhạc"
+   },
+   "cj_i18n_01068": {
+      "message": "Trò chơi"
+   },
+   "cj_i18n_01073": {
+      "message": "Luật lệ"
+   },
+   "cj_i18n_01075": {
+      "message": "Giải thưởng"
+   },
+   "cj_i18n_01079": {
+      "message": "Quản lý thính giả"
+   },
+   "cj_i18n_01089": {
+      "message": "Các mục đã đăng ký"
+   },
+   "cj_i18n_01092": {
+      "message": "Đối tác xuất bản được chứng nhận"
+   },
+   "cj_i18n_01096": {
+      "message": "Giúp đỡ về quảng cáo"
+   },
+   "cj_i18n_01097": {
+      "message": "Quản lý các quản trị viên"
+   },
+   "cj_i18n_01102": {
+      "message": "Nhà xuất bản trường Đại học"
+   },
+   "cj_i18n_01107": {
+      "message": "Đã xem gần đây"
+   },
+   "cj_i18n_01120": {
+      "message": "Buôn lậu"
+   },
+   "cj_i18n_01128": {
+      "message": "Tin nhắn"
+   },
+   "cj_i18n_01129": {
+      "message": "Tin nhắn thoại"
+   },
+   "cj_i18n_01133": {
+      "message": "Bàn phím"
+   },
+   "cj_i18n_01134": {
+      "message": "Chuyên gia sản phẩm"
+   },
+   "cj_i18n_01140": {
+      "message": "Hỗ trợ"
+   },
+   "cj_i18n_01143": {
+      "message": "Quảng cáo trên YouTube"
+   },
+   "cj_i18n_01145": {
+      "message": "Tệp"
+   },
+   "cj_i18n_01150": {
+      "message": "Trang"
+   },
+   "cj_i18n_01151": {
+      "message": "Kiểm soát các quảng cáo bị chặn"
+   },
+   "cj_i18n_01152": {
+      "message": "Báo cáo"
+   },
+   "cj_i18n_01153": {
+      "message": "Tối ưu hoá"
+   },
+   "cj_i18n_01154": {
+      "message": "Thanh toán"
+   },
+   "cj_i18n_01155": {
+      "message": "Để hiển thị các nhãn và số thư chưa đọc, hãy cấp quyền chỉ đọc cho các nhãn và số thư chưa đọc"
+   },
+   "cj_i18n_01161": {
+      "message": "Xem trước"
+   },
+   "cj_i18n_01163": {
+      "message": "Đổi sản phẩm"
+   },
+   "cj_i18n_01164": {
+      "message": "Xóa khỏi danh sách"
+   },
+   "cj_i18n_01167": {
+      "message": "Đường dẫn"
+   },
+   "cj_i18n_01168": {
+      "message": "Bản điều khiển"
+   },
+   "cj_i18n_01169": {
+      "message": "Ghi chú"
+   },
+   "cj_i18n_01174": {
+      "message": "Đang tải"
+   },
+   "cj_i18n_01175": {
+      "message": "Bạn chưa đăng kí Voice"
+   },
+   "cj_i18n_01178": {
+      "message": "Tiếp tục"
+   },
+   "cj_i18n_01179": {
+      "message": "so với cùng giai đoạn này năm trước"
+   },
+   "cj_i18n_01180": {
+      "message": "so với 28 ngày trước"
+   },
+   "cj_i18n_01181": {
+      "message": "28 ngày qua"
+   },
+   "cj_i18n_01182": {
+      "message": "Tải lại các báo cáo"
+   },
+   "cj_i18n_01183": {
+      "message": "Blog của bạn"
+   },
+   "cj_i18n_01184": {
+      "message": "Bài đăng"
+   },
+   "cj_i18n_01185": {
+      "message": "Thông số"
+   },
+   "cj_i18n_01186": {
+      "message": "Bình luận"
+   },
+   "cj_i18n_01187": {
+      "message": "Thù lao"
+   },
+   "cj_i18n_01188": {
+      "message": "Các trang"
+   },
+   "cj_i18n_01189": {
+      "message": "Cách sắp xếp"
+   },
+   "cj_i18n_01190": {
+      "message": "Chủ đề"
+   },
+   "cj_i18n_01191": {
+      "message": "Danh sách đọc"
+   },
+   "cj_i18n_01194": {
+      "message": "Video đã thích"
+   },
+   "cj_i18n_01196": {
+      "message": "Danh sách"
+   },
+   "cj_i18n_01197": {
+      "message": "Tìm kiếm mới"
+   },
+   "cj_i18n_01198": {
+      "message": "Chúng tôi cần bạn cấp quyền chỉ đọc cho tài khoản YouTube để trang hoạt động với chức năng cơ bản"
+   },
+   "cj_i18n_01201": {
+      "message": "Tất cả các kênh đăng ký"
+   },
+   "cj_i18n_01202": {
+      "message": "Quản lí"
+   },
+   "cj_i18n_01204": {
+      "message": "Âm nhạc"
+   },
+   "cj_i18n_01210": {
+      "message": "Chương trình"
+   },
+   "cj_i18n_01218": {
+      "message": "Tin tức"
+   },
+   "cj_i18n_01219": {
+      "message": "Gia đình"
+   },
+   "cj_i18n_01220": {
+      "message": "Trực tiếp"
+   },
+   "cj_i18n_01245": {
+      "message": "Trung tâm trợ giúp"
+   },
+   "cj_i18n_01246": {
+      "message": "Diễn đàn trợ giúp"
+   },
+   "cj_i18n_01249": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền cho các phim của bạn"
+   },
+   "cj_i18n_01251": {
+      "message": "Xuất dấu trang"
+   },
+   "cj_i18n_01253": {
+      "message": "Hôm nay"
+   },
+   "cj_i18n_01254": {
+      "message": "Cài đặt và chia sẻ"
+   },
+   "cj_i18n_01255": {
+      "message": "Các lớp học"
+   },
+   "cj_i18n_01256": {
+      "message": "Lịch"
+   },
+   "cj_i18n_01257": {
+      "message": "Các lớp học đã lưu trữ"
+   },
+   "cj_i18n_01262": {
+      "message": "Bất cứ lúc nào"
+   },
+   "cj_i18n_01263": {
+      "message": "Ngày hôm qua"
+   },
+   "cj_i18n_01264": {
+      "message": "Tuần trước"
+   },
+   "cj_i18n_01265": {
+      "message": "Tháng trước"
+   },
+   "cj_i18n_01266": {
+      "message": "Năm ngoái"
+   },
+   "cj_i18n_01268": {
+      "message": "Bất cứ loại nào"
+   },
+   "cj_i18n_01269": {
+      "message": "Hình ảnh"
+   },
+   "cj_i18n_01274": {
+      "message": "Thư"
+   },
+   "cj_i18n_01275": {
+      "message": "Không tìm thấy liên hệ nào"
+   },
+   "cj_i18n_01276": {
+      "message": "Liên hệ gần đây"
+   },
+   "cj_i18n_01277": {
+      "message": "Bản sao"
+   },
+   "cj_i18n_01278": {
+      "message": "Các liên hệ khác"
+   },
+   "cj_i18n_01280": {
+      "message": "Nhãn"
+   },
+   "cj_i18n_01281": {
+      "message": "Phân loại"
+   },
+   "cj_i18n_01282": {
+      "message": "Phân loại theo họ"
+   },
+   "cj_i18n_01283": {
+      "message": "Phân loại theo tên"
+   },
+   "cj_i18n_01284": {
+      "message": "Không tìm thấy thêm thông tin liên hệ nào"
+   },
+   "cj_i18n_01285": {
+      "message": "Tạo liên hệ"
+   },
+   "cj_i18n_01286": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền truy cập để tải Google Contacts của bạn"
+   },
+   "cj_i18n_01292": {
+      "message": "Theo dõi quản trị"
+   },
+   "cj_i18n_01299": {
+      "message": "Báo cáo"
+   },
+   "cj_i18n_01305": {
+      "message": "Tính năng mới"
+   },
+   "cj_i18n_01306": {
+      "message": "Video hướng dẫn"
+   },
+   "cj_i18n_01307": {
+      "message": "Máy tính"
+   },
+   "cj_i18n_01308": {
+      "message": "Sao lưu"
+   },
+   "cj_i18n_01309": {
+      "message": "Ứng dụng của Google"
+   },
+   "cj_i18n_01310": {
+      "message": "Thêm ứng dụng"
+   },
+   "cj_i18n_01311": {
+      "message": "Cấp quyền chỉ đọc cho các ứng dụng của Drive để chúng tôi hiển thị nhiều ứng dụng hơn"
+   },
+   "cj_i18n_01313": {
+      "message": "Cấp quyền truy cập vào tài khoản Google Drive của bạn để chúng tôi có thể liệt kê các tệp và thư mục tại đây"
+   },
+   "cj_i18n_01326": {
+      "message": "Tải lên"
+   },
+   "cj_i18n_01328": {
+      "message": "Chia sẻ"
+   },
+   "cj_i18n_01342": {
+      "message": "không tìm thấy đề mục"
+   },
+   "cj_i18n_01344": {
+      "message": "Tự động phát hiện"
+   },
+   "cj_i18n_01346": {
+      "message": "Khoa học"
+   },
+   "cj_i18n_01347": {
+      "message": "Công nghệ"
+   },
+   "cj_i18n_01351": {
+      "message": "Tìm hiểu thêm"
+   },
+   "cj_i18n_01355": {
+      "message": "Đã lưu"
+   },
+   "cj_i18n_01363": {
+      "message": "Lưu"
+   },
+   "cj_i18n_01372": {
+      "message": "Lệnh tìm kiếm đã lưu"
+   },
+   "cj_i18n_01378": {
+      "message": "Sáng tạo"
+   },
+   "cj_i18n_01385": {
+      "message": "Quản trị viên"
+   },
+   "cj_i18n_01386": {
+      "message": "Bảo vệ"
+   },
+   "cj_i18n_01387": {
+      "message": "Đặt hàng"
+   },
+   "cj_i18n_01388": {
+      "message": "Mục hàng"
+   },
+   "cj_i18n_01390": {
+      "message": "Địa phương"
+   },
+   "cj_i18n_01391": {
+      "message": "Công cụ chuyển đổi"
+   },
+   "cj_i18n_01392": {
+      "message": "Các thành viên quản trị"
+   },
+   "cj_i18n_01394": {
+      "message": "Khóa-giá trị"
+   },
+   "cj_i18n_01395": {
+      "message": "Mục tiêu đặt trước"
+   },
+   "cj_i18n_01396": {
+      "message": "Loại trừ"
+   },
+   "cj_i18n_01397": {
+      "message": "Dự báo giao thông"
+   },
+   "cj_i18n_01398": {
+      "message": "Tùy chỉnh đường truyền"
+   },
+   "cj_i18n_01399": {
+      "message": "Báo cáo năng xuất"
+   },
+   "cj_i18n_01400": {
+      "message": "Câu hỏi"
+   },
+   "cj_i18n_01402": {
+      "message": "Cơ hội"
+   },
+   "cj_i18n_01403": {
+      "message": "Thử nghiệm"
+   },
+   "cj_i18n_01404": {
+      "message": "Tùy chỉnh chung"
+   },
+   "cj_i18n_01405": {
+      "message": "Quản lý & ủy quyền"
+   },
+   "cj_i18n_01406": {
+      "message": "Chuyển đổi"
+   },
+   "cj_i18n_01407": {
+      "message": "Kiểm kê/Tóm tắt"
+   },
+   "cj_i18n_01409": {
+      "message": "Các công ty"
+   },
+   "cj_i18n_01410": {
+      "message": "Sự đồng ý của người dùng EU"
+   },
+   "cj_i18n_01411": {
+      "message": "Thay đổi lịch sử"
+   },
+   "cj_i18n_01414": {
+      "message": "Phản hồi"
+   },
+   "cj_i18n_01418": {
+      "message": "Chiến dịch"
+   },
+   "cj_i18n_01423": {
+      "message": "Thư viện được chia sẻ"
+   },
+   "cj_i18n_01427": {
+      "message": "Bảng điều hướng"
+   },
+   "cj_i18n_01428": {
+      "message": "Công cụ xem trước quảng cáo và chuẩn đoán"
+   },
+   "cj_i18n_01431": {
+      "message": "Luật lệ"
+   },
+   "cj_i18n_01432": {
+      "message": "Kịch bản"
+   },
+   "cj_i18n_01433": {
+      "message": "Tải lên"
+   },
+   "cj_i18n_01436": {
+      "message": "Hóa đơn & thanh toán"
+   },
+   "cj_i18n_01437": {
+      "message": "Dữ liệu doanh nghiệp"
+   },
+   "cj_i18n_01438": {
+      "message": "Quyền truy cập tài khoản"
+   },
+   "cj_i18n_01439": {
+      "message": "Tài khoản được liên kết"
+   },
+   "cj_i18n_01440": {
+      "message": "Tùy chọn"
+   },
+   "cj_i18n_01453": {
+      "message": "Tìm kiếm hình ảnh nâng cao"
+   },
+   "cj_i18n_01454": {
+      "message": "Xem các mục đã lưu"
+   },
+   "cj_i18n_01481": {
+      "message": "Hồ sơ của tôi"
+   },
+   "cj_i18n_01484": {
+      "message": "Cảnh báo"
+   },
+   "cj_i18n_01487": {
+      "message": "Các cuộc trò chuyện"
+   },
+   "cj_i18n_01491": {
+      "message": "Để thêm hoặc xóa các item vào tiện ích, nhấp chọn tùy chỉnh ở phía cuối menu màu đen"
+   },
+   "cj_i18n_01492": {
+      "message": "Quản lý"
+   },
+   "cj_i18n_01494": {
+      "message": "Quản lý gia đình"
+   },
+   "cj_i18n_01495": {
+      "message": "Mời thành viên gia đình"
+   },
+   "cj_i18n_01497": {
+      "message": "Quản lý thông báo"
+   },
+   "cj_i18n_01499": {
+      "message": "Không phát âm thanh nhắc nhở"
+   },
+   "cj_i18n_01500": {
+      "message": "Quản lý vị trí"
+   },
+   "cj_i18n_01501": {
+      "message": "Tạo một quảng cáo"
+   },
+   "cj_i18n_01504": {
+      "message": "Công cụ"
+   },
+   "cj_i18n_01506": {
+      "message": "Tài khoản"
+   },
+   "cj_i18n_01507": {
+      "message": "Đăng xuất"
+   },
+   "cj_i18n_01508": {
+      "message": "Đã đăng xuất"
+   },
+   "cj_i18n_01510": {
+      "message": "Trước khi có thể sử dụng, bạn cần cấp quyền truy cập để hiển thị danh sách các ứng dụng Chrome của mình"
+   },
+   "cj_i18n_01512": {
+      "message": "Chợ"
+   },
+   "cj_i18n_01515": {
+      "message": "Hoạt động"
+   },
+   "cj_i18n_01517": {
+      "message": "Phương thức thanh toán"
+   },
+   "cj_i18n_01518": {
+      "message": "Địa chỉ"
+   },
+   "cj_i18n_01519": {
+      "message": "Quản lý người dùng"
+   },
+   "cj_i18n_01530": {
+      "message": "Quảng cáo"
+   },
+   "cj_i18n_01532": {
+      "message": "Trợ giúp"
+   },
+   "cj_i18n_01533": {
+      "message": "Bảo mật"
+   },
+   "cj_i18n_01534": {
+      "message": "Thông tin cá nhân"
+   },
+   "cj_i18n_01535": {
+      "message": "Mọi người & Chia sẻ"
+   },
+   "cj_i18n_01536": {
+      "message": "Thanh toán & các thuê bao"
+   },
+   "cj_i18n_01539": {
+      "message": "Các ứng dụng liên quan"
+   },
+   "cj_i18n_01541": {
+      "message": "Mở trong thẻ mới"
+   },
+   "cj_i18n_01543": {
+      "message": "Chuyển tài khoản"
+   },
+   "cj_i18n_01544": {
+      "message": "Đăng nhập"
+   },
+   "cj_i18n_01545": {
+      "message": "Mở trong một thẻ mới"
+   },
+   "cj_i18n_01546": {
+      "message": "Mở trong một bảng"
+   },
+   "cj_i18n_01547": {
+      "message": "Dịch"
+   },
+   "cj_i18n_01549": {
+      "message": "Viết thư tới địa chỉ"
+   },
+   "cj_i18n_01552": {
+      "message": "Gửi thư cho trang"
+   },
+   "cj_i18n_01557": {
+      "message": "Để sử dụng ứng dụng này, vui lòng đăng nhập tài khoản Google của bạn."
+   },
+   "cj_i18n_01558": {
+      "message": "Ứng dụng không hỗ trợ các tài khoản có thương hiệu, vui lòng chọn tài khoản khác."
+   },
+   "cj_i18n_01559": {
+      "message": "Chưa đọc"
+   },
+   "cj_i18n_01560": {
+      "message": "Quan trọng & chưa đọc"
+   },
+   "cj_i18n_01563": {
+      "message": "Xoá"
+   },
+   "cj_i18n_01564": {
+      "message": "Quảng cáo"
+   },
+   "cj_i18n_01565": {
+      "message": "Gửi"
+   },
+   "cj_i18n_01566": {
+      "message": "Nhãn"
+   },
+   "cj_i18n_01568": {
+      "message": "Di chuyển"
+   },
+   "cj_i18n_01570": {
+      "message": "Di chuyển..."
+   },
+   "cj_i18n_01571": {
+      "message": "Dán nhãn"
+   },
+   "cj_i18n_01572": {
+      "message": "Báo cáo thư rác"
+   },
+   "cj_i18n_01573": {
+      "message": "Đánh dấu là chưa đọc"
+   },
+   "cj_i18n_01574": {
+      "message": "Thư nháp"
+   },
+   "cj_i18n_01575": {
+      "message": "Chuyển tới hộp thư đến"
+   },
+   "cj_i18n_01576": {
+      "message": "Không phải thư rác"
+   },
+   "cj_i18n_01577": {
+      "message": "Xóa vĩnh viễn"
+   },
+   "cj_i18n_01579": {
+      "message": "Lưu trữ"
+   },
+   "cj_i18n_01580": {
+      "message": "Đã ghim"
+   },
+   "cj_i18n_01581": {
+      "message": "Cài đặt tiện ích"
+   },
+   "cj_i18n_01583": {
+      "message": "Hỗ trợ & Đóng góp"
+   },
+   "cj_i18n_01584": {
+      "message": "Để thêm trang vào thanh menu đen, nhấp 'tùy chỉnh' ở phía dưới cùng của thanh menu và nhấp hoặc kéo thả dịch vụ mà bạn muốn chọn. Nếu bạn muốn gỡ nó, bạn có thể kéo thả vào phía bên trái của tiện ích hoặc nhấp biểu tượng gỡ bỏ."
+   },
+   "cj_i18n_01585": {
+      "message": "Tuỳ chỉnh trình đơn"
+   },
+   "cj_i18n_01586": {
+      "message": "Bắt đầu tuỳ chỉnh"
+   },
+   "cj_i18n_01587": {
+      "message": "Giao diện"
+   },
+   "cj_i18n_01588": {
+      "message": "Nâng cao"
+   },
+   "cj_i18n_01589": {
+      "message": "Để kích hoạt hoặc thiết lập thông báo đẩy của máy tính, hãy chọn sản phẩm và làm theo hướng dẫn."
+   },
+   "cj_i18n_01590": {
+      "message": "Đặt lại cài đặt về mặc định"
+   },
+   "cj_i18n_01592": {
+      "message": "Xoá tất cả bộ nhớ đệm"
+   },
+   "cj_i18n_01594": {
+      "message": "Đã cho phép"
+   },
+   "cj_i18n_01595": {
+      "message": "Đối với một vài dịch vụ của Black Menu cho Google, chúng tôi hỏi sự cho phép thêm của bạn để một số chức năng hoạt động được."
+   },
+   "cj_i18n_01602": {
+      "message": "Nếu bạn có bất kỳ câu hỏi, yêu cầu tính năng hay báo lỗi, hãy cho chúng tôi biết. Chúng tôi không thể đảm bảo tất cả tin nhắn được hồi đáp bởi số lượng tin nhận được rất lớn."
+   },
+   "cj_i18n_01603": {
+      "message": "Dịch"
+   },
+   "cj_i18n_01604": {
+      "message": "Chúng tôi đang rất cần những dịch giả từ cộng đồng. Chúng tôi chân thành cảm ơn nếu bạn có thể giúp đỡ chúng tôi."
+   },
+   "cj_i18n_01605": {
+      "message": "Trợ giúp dịch thuật"
+   },
+   "cj_i18n_01606": {
+      "message": "Nếu bạn thích tiện ích - và chúng tôi thật lòng mong vậy - hãy cân nhắc ủng hộ. Điều đó sẽ giúp vào quá trình phát triển và giúp chúng tôi dễ dàng cải tiến nó cho mọi người."
+   },
+   "cj_i18n_01611": {
+      "message": "Cổ điển"
+   },
+   "cj_i18n_01612": {
+      "message": "Tối"
+   },
+   "cj_i18n_01613": {
+      "message": "Sáng"
+   },
+   "cj_i18n_01622": {
+      "message": "Tải về"
+   },
+   "cj_i18n_01653": {
+      "message": "Quản lý cài đặt"
+   },
+   "cj_i18n_01654": {
+      "message": "Cài đặt được lưu tự động và được đồng bộ thông qua đồng bộ tiện ích nếu được bật."
+   },
+   "cj_i18n_01659": {
+      "message": "Hủy"
+   },
+   "cj_i18n_01678": {
+      "message": "Sách nói"
+   },
+   "cj_i18n_01680": {
+      "message": "Tải lên"
+   },
+   "cj_i18n_01681": {
+      "message": "Các bản mẫu"
+   },
+   "cj_i18n_01682": {
+      "message": "Đang thuê"
+   },
+   "cj_i18n_01684": {
+      "message": "Sách cho bạn"
+   },
+   "cj_i18n_01685": {
+      "message": "Lịch sử của tôi"
+   },
+   "cj_i18n_01686": {
+      "message": "Đã thanh toán"
+   },
+   "cj_i18n_01687": {
+      "message": "Đang đọc"
+   },
+   "cj_i18n_01688": {
+      "message": "Đã đọc"
+   },
+   "cj_i18n_01689": {
+      "message": "Đã đánh giá"
+   },
+   "cj_i18n_01690": {
+      "message": "Sẽ đọc"
+   },
+   "cj_i18n_01692": {
+      "message": "Lịch sử duyệt web"
+   },
+   "cj_i18n_01693": {
+      "message": "Sách điện tử"
+   },
+   "cj_i18n_01705": {
+      "message": "Tú lơ khơ"
+   },
+   "cj_i18n_01706": {
+      "message": "Chơi X O"
+   },
+   "cj_i18n_01707": {
+      "message": "Thể thao"
+   },
+   "cj_i18n_01711": {
+      "message": "Bắt đầu"
+   },
+   "cj_i18n_01713": {
+      "message": "Tuỳ chỉnh"
+   },
+   "cj_i18n_01715": {
+      "message": "Hoàn tất"
+   },
+   "cj_i18n_01716": {
+      "message": "Phim & Chương trình"
+   },
+   "cj_i18n_01727": {
+      "message": "Tin nhắn"
+   },
+   "cj_i18n_01729": {
+      "message": "Dịch vụ này"
+   },
+   "cj_i18n_01732": {
+      "message": "Xác minh đây là bạn"
+   },
+   "cj_i18n_01737": {
+      "message": "(Không có tiêu đề)"
+   },
+   "cj_i18n_01738": {
+      "message": "Dữ liệu của bạn trong Tìm kiếm"
+   },
+   "cj_i18n_01739": {
+      "message": "Đồng bộ hoá Chrome"
+   },
+   "cj_i18n_01740": {
+      "message": "Lưu trữ"
+   },
+   "cj_i18n_01741": {
+      "message": "Cuộc trò chuyện mới"
+   },
+   "cj_i18n_01742": {
+      "message": "Cuộc trò chuyện nhóm mới"
+   },
+   "cj_i18n_01743": {
+      "message": "Cuộc trò chuyện"
+   },
+   "cj_i18n_01744": {
+      "message": "Google cho Nhật Bản"
+   },
+   "cj_i18n_01745": {
+      "message": "Kết nối điện thoại"
+   },
+   "cj_i18n_01748": {
+      "message": "Không còn hiệu lực"
+   },
+   "cj_i18n_01749": {
+      "message": "{PRODUCT_NAME} không còn sẵn có tại Black Menu cho Google. Chúng tôi rất xin lỗi."
+   },
+   "cj_i18n_01750": {
+      "message": "{PRODUCT_NAME} đã bị ngừng bởi Google và không còn sẵn có tại Black Menu cho Google. Chúng tôi rất xin lỗi."
+   },
+   "cj_i18n_01755": {
+      "message": "Cửa hàng"
+   },
+   "cj_i18n_01773": {
+      "message": "{PRODUCT_NAME} chỉ sẵn có cho tài khoản G Suite"
+   },
+   "cj_i18n_01774": {
+      "message": "Hướng dẫn di chuyển"
+   },
+   "cj_i18n_01780": {
+      "message": "Dữ liệu của bạn trong Bản đồ"
+   },
+   "cj_i18n_01781": {
+      "message": "Dữ liệu của bạn trong Assistant"
+   },
+   "cj_i18n_01782": {
+      "message": "Drive được chia sẻ"
+   },
+   "cj_i18n_01785": {
+      "message": "Chuyển"
+   },
+   "cj_i18n_01792": {
+      "message": "Tự động"
+   },
+   "cj_i18n_01793": {
+      "message": "Tự động thích nghi với cài đặt của hệ thống"
+   },
+   "cj_i18n_01794": {
+      "message": "Thư mục"
+   },
+   "cj_i18n_01795": {
+      "message": "Drive được chia sẻ"
+   },
+   "cj_i18n_01796": {
+      "message": "Đi đến Duo Web"
+   },
+   "cj_i18n_01797": {
+      "message": "Tải duo về điện thoại hoặc máy tính bảng"
+   },
+   "cj_i18n_01799": {
+      "message": "Tải xuống trên App Store"
+   },
+   "cj_i18n_01803": {
+      "message": "Góc câu hỏi"
+   },
+   "cj_i18n_01805": {
+      "message": "Trung tâm sửa chữa"
+   },
+   "cj_i18n_01807": {
+      "message": "Được đề xuất"
+   },
+   "cj_i18n_01810": {
+      "message": "Tải xuống báo cáo"
+   },
+   "cj_i18n_01813": {
+      "message": "Chi tiết tài khoản"
+   },
+   "cj_i18n_01823": {
+      "message": "Sản phẩm"
+   },
+   "cj_i18n_01824": {
+      "message": "Dịch vụ"
+   },
+   "cj_i18n_01831": {
+      "message": "Danh mục đã lưu"
+   },
+   "cj_i18n_01833": {
+      "message": "Dung lượng"
+   },
+   "cj_i18n_01836": {
+      "message": "Công cụ"
+   },
+   "cj_i18n_01838": {
+      "message": "Trí thông minh nhân tạo"
+   },
+   "cj_i18n_01848": {
+      "message": "Dung lượng"
+   },
+   "cj_i18n_01888": {
+      "message": "Dịch"
+   },
+   "cj_i18n_01897": {
+      "message": "Bảo vệ trẻ em"
+   },
+   "cj_i18n_01898": {
+      "message": "Dữ liệu của bạn trong Youtube"
+   },
+   "cj_i18n_01901": {
+      "message": "Sao chép liên kết"
+   },
+   "cj_i18n_01902": {
+      "message": "Xóa dấu sao"
+   },
+   "cj_i18n_01903": {
+      "message": "Đánh dấu sao"
+   },
+   "cj_i18n_01904": {
+      "message": "Chuyển tới Thùng rác"
+   },
+   "cj_i18n_01905": {
+      "message": "Khôi phục"
+   },
+   "cj_i18n_01908": {
+      "message": "Các thiết bị"
+   },
+   "cj_i18n_01915": {
+      "message": "Đăng nhập bằng Google"
+   },
+   "cj_i18n_01916": {
+      "message": "Tiếp tục bằng Google"
+   },
+   "cj_i18n_01918": {
+      "message": "Đã cài đặt"
+   },
+   "cj_i18n_01921": {
+      "message": "Lập trình viên"
+   },
+   "cj_i18n_01922": {
+      "message": "Cửa hàng Chrome"
+   },
+   "cj_i18n_01926": {
+      "message": "Đã xong! Bạn có thể đóng thẻ này và mở lại tiện ích bây giờ!"
+   },
+   "cj_i18n_01929": {
+      "message": "Thời trang"
+   },
+   "cj_i18n_01930": {
+      "message": "Tìm kiếm chuyến bay"
+   },
+   "cj_i18n_01933": {
+      "message": "Tải lên tệp tin"
+   },
+   "cj_i18n_01934": {
+      "message": "Tệp tin tải lên"
+   },
+   "cj_i18n_01935": {
+      "message": "Thư mục mới"
+   },
+   "cj_i18n_01936": {
+      "message": "Tạo thư mục mới"
+   },
+   "cj_i18n_01937": {
+      "message": "Tiêu đề thư mục"
+   },
+   "cj_i18n_01938": {
+      "message": "Nhập tên thư mục"
+   },
+   "cj_i18n_01939": {
+      "message": "Thư mục không có tiêu đề"
+   },
+   "cj_i18n_01940": {
+      "message": "Đổi tên"
+   },
+   "cj_i18n_01941": {
+      "message": "Đổi tên tệp tin"
+   },
+   "cj_i18n_01942": {
+      "message": "Tập không có tiêu đề"
+   },
+   "cj_i18n_01943": {
+      "message": "Tên tệp"
+   },
+   "cj_i18n_01944": {
+      "message": "Nhập tên tệp"
+   },
+   "cj_i18n_01956": {
+      "message": "Bài tập"
+   },
+   "cj_i18n_01990": {
+      "message": "Tên"
+   },
+   "cj_i18n_02121": {
+      "message": "Hướng dẫn"
+   },
+   "cj_i18n_02162": {
+      "message": "Mở trang chủ"
+   },
+   "cj_i18n_02165": {
+      "message": "Nhấp chọn hoặc kéo thả các dịch vụ để chỉnh sửa menu"
+   },
+   "cj_i18n_02166": {
+      "message": "Hội người dùng trợ giúp"
+   },
+   "cj_i18n_02168": {
+      "message": "Tài khoản"
+   },
+   "cj_i18n_02171": {
+      "message": "Tạo tài khoản"
+   },
+   "cj_i18n_02175": {
+      "message": "Bạn có thể thêm {ENTITY_NAME} bằng nút bên dưới"
+   },
+   "cj_i18n_02176": {
+      "message": "Trước khi có thể sử dụng trang này, bạn cần cấp quyền truy cập để tải các dữ liệu {PRODUCT_NAME} của bạn."
+   },
+   "cj_i18n_02543": {
+      "message": "In"
+   },
+   "cj_i18n_02703": {
+      "message": "Tất cả tệp tin"
+   },
+   "cj_i18n_02717": {
+      "message": "Chưa đăng nhập"
+   },
+   "cj_i18n_03523": {
+      "message": "Công cụ dành cho Nhà phát triển"
+   },
+   "cj_i18n_03929": {
+      "message": "Tải xuống"
+   },
+   "cj_i18n_04163": {
+      "message": "Ngôn ngữ"
+   },
+   "cj_i18n_04767": {
+      "message": "Tổ chức"
+   },
+   "cj_i18n_04776": {
+      "message": "Bản quyền"
+   },
+   "cj_i18n_04828": {
+      "message": "Mật khẩu"
+   },
+   "cj_i18n_05092": {
+      "message": "Kết quả tìm kiếm"
+   },
+   "cj_i18n_05190": {
+      "message": "Trình duyệt"
+   },
+   "cj_i18n_05388": {
+      "message": "Chung"
+   },
+   "cj_i18n_05629": {
+      "message": "Chỉnh sửa"
+   },
+   "cj_i18n_06216": {
+      "message": "Từ mẫu"
+   },
+   "cj_i18n_06223": {
+      "message": "Tung xúc xắc"
+   },
+   "cj_i18n_06224": {
+      "message": "Máy đếm nhịp"
+   },
+   "cj_i18n_06225": {
+      "message": "Dò mìn"
+   },
+   "cj_i18n_06227": {
+      "message": "Rắn săn mồi"
+   },
+   "cj_i18n_06229": {
+      "message": "Tung đồng xu"
+   },
+   "cj_i18n_06230": {
+      "message": "Vòng quay ngẫu nhiên"
+   },
+   "cj_i18n_06231": {
+      "message": "Âm thanh động vật"
+   },
+   "cj_i18n_06232": {
+      "message": "Bài tập thở"
+   },
+   "cj_i18n_06233": {
+      "message": "Cần làm"
+   },
+   "cj_i18n_06237": {
+      "message": "Quản lý tài khoản vô hiệu hóa"
+   },
+   "cj_i18n_06245": {
+      "message": "Ưu tiên"
+   },
+   "cj_i18n_06247": {
+      "message": "Ngày mai"
+   },
+   "cj_i18n_06248": {
+      "message": "T2"
+   },
+   "cj_i18n_06249": {
+      "message": "T3"
+   },
+   "cj_i18n_06250": {
+      "message": "T4"
+   },
+   "cj_i18n_06251": {
+      "message": "T5"
+   },
+   "cj_i18n_06252": {
+      "message": "T6"
+   },
+   "cj_i18n_06253": {
+      "message": "T7"
+   },
+   "cj_i18n_06254": {
+      "message": "CN"
+   },
+   "cj_i18n_06255": {
+      "message": "Tháng 01"
+   },
+   "cj_i18n_06256": {
+      "message": "Tháng 02"
+   },
+   "cj_i18n_06257": {
+      "message": "Tháng 03"
+   },
+   "cj_i18n_06258": {
+      "message": "Tháng 04"
+   },
+   "cj_i18n_06259": {
+      "message": "Tháng 05"
+   },
+   "cj_i18n_06260": {
+      "message": "Tháng 06"
+   },
+   "cj_i18n_06261": {
+      "message": "Tháng 07"
+   },
+   "cj_i18n_06262": {
+      "message": "Tháng 08"
+   },
+   "cj_i18n_06263": {
+      "message": "Tháng 09"
+   },
+   "cj_i18n_06264": {
+      "message": "Tháng 10"
+   },
+   "cj_i18n_06265": {
+      "message": "Tháng 11"
+   },
+   "cj_i18n_06266": {
+      "message": "Tháng 12"
+   },
+   "cj_i18n_06286": {
+      "message": "Một người dùng Google"
+   },
+   "cj_i18n_06287": {
+      "message": "Nhấn để xem báo cáo cập nhật"
+   },
+   "cj_i18n_06288": {
+      "message": "{APP_NAME} đã được cập nhật"
+   },
+   "cj_i18n_06289": {
+      "message": "Tạo bài đăng mới"
+   },
+   "cj_i18n_06290": {
+      "message": "Chỉnh sửa liên hệ"
+   },
+   "cj_i18n_06292": {
+      "message": "Mở blog"
+   },
+   "cj_i18n_06293": {
+      "message": "Tạo bản sao"
+   },
+   "cj_i18n_06294": {
+      "message": "Hành động khác"
+   },
+   "cj_i18n_06297": {
+      "message": "Thư viện âm thanh"
+   },
+   "cj_i18n_06298": {
+      "message": "Bản vẽ mới"
+   },
+   "cj_i18n_06299": {
+      "message": "Bản đồ mới"
+   },
+   "cj_i18n_06300": {
+      "message": "Xem ghi chú liên quan trong Keep"
+   },
+   "cj_i18n_06306": {
+      "message": "Ghi chú mới"
+   },
+   "cj_i18n_06307": {
+      "message": "Danh sách mới"
+   },
+   "cj_i18n_06308": {
+      "message": "Nhắc nhở mới"
+   },
+   "cj_i18n_06316": {
+      "message": "Tên"
+   },
+   "cj_i18n_06317": {
+      "message": "Địa chỉ (URL)"
+   },
+   "cj_i18n_06318": {
+      "message": "Nhãn"
+   },
+   "cj_i18n_06320": {
+      "message": "Thêm vào bộ sưu tập"
+   },
+   "cj_i18n_06321": {
+      "message": "Bộ sưu tập mới"
+   },
+   "cj_i18n_06322": {
+      "message": "Bộ sưu tập"
+   },
+   "cj_i18n_06323": {
+      "message": "Lưu"
+   },
+   "cj_i18n_06325": {
+      "message": "Soạn thư trong thẻ mới"
+   },
+   "cj_i18n_06326": {
+      "message": "Tải xuống với định dạng PDF"
+   },
+   "cj_i18n_06327": {
+      "message": "Đang lưu"
+   },
+   "cj_i18n_06337": {
+      "message": "Không có sự kiện nào vào ngày này"
+   },
+   "cj_i18n_06348": {
+      "message": "Tìm kiếm bằng hình ảnh"
+   },
+   "cj_i18n_06356": {
+      "message": "Xem các lớp học"
+   },
+   "cj_i18n_06358": {
+      "message": "Kiểm tra riêng tư"
+   },
+   "cj_i18n_06359": {
+      "message": "Kiểm tra bảo mật"
+   },
+   "cj_i18n_06365": {
+      "message": "Kiểm soát hoạt động"
+   },
+   "cj_i18n_06381": {
+      "message": "{PRODUCT_NAME} hiện tại không được hỗ trợ trong Black Menu cho Google trong trình duyệt của bạn"
+   },
+   "cj_i18n_06382": {
+      "message": "Không được hỗ trợ"
+   },
+   "cj_i18n_06386": {
+      "message": "Vi-rút Corona (COVID-19)"
+   },
+   "cj_i18n_06405": {
+      "message": "Điện thoại Pixel"
+   },
+   "cj_i18n_06415": {
+      "message": "Chrome cho Doanh nghiệp"
+   },
+   "cj_i18n_06418": {
+      "message": "Ứng dụng Điện thoại"
+   },
+   "cj_i18n_06429": {
+      "message": "Để các chức năng cơ bản của ứng dụng này hoạt động, Black Menu cho Google cần một vài sự cho phép thêm."
+   },
+   "cj_i18n_06431": {
+      "message": "Thông báo màn hình"
+   },
+   "cj_i18n_06432": {
+      "message": "Dùng tiếng Anh thay cho ngôn ngữ của trình duyệt"
+   },
+   "cj_i18n_06492": {
+      "message": "Tổng quan"
+   },
+   "cj_i18n_06556": {
+      "message": "Gần đây"
+   },
+   "cj_i18n_06557": {
+      "message": "Chủ đề"
+   },
+   "cj_i18n_06560": {
+      "message": "Sự kiện lịch sử"
+   },
+   "cj_i18n_06561": {
+      "message": "Nhân vật lịch sử"
+   },
+   "cj_i18n_06562": {
+      "message": "Các nghệ sĩ"
+   },
+   "cj_i18n_06564": {
+      "message": "Tệp tin"
+   },
+   "cj_i18n_06576": {
+      "message": "Chỉnh sửa nhãn"
+   },
+   "cj_i18n_06577": {
+      "message": "Giảng dạy"
+   },
+   "cj_i18n_06578": {
+      "message": "Đã tham gia"
+   },
+   "cj_i18n_06579": {
+      "message": "Tạo hoặc tham gia một lớp học"
+   },
+   "cj_i18n_06580": {
+      "message": "Cài đặt lớp học"
+   },
+   "cj_i18n_06581": {
+      "message": "Bắt đầu cuộc họp"
+   },
+   "cj_i18n_06583": {
+      "message": "Cửa hàng Chromebook"
+   },
+   "cj_i18n_06585": {
+      "message": "Ảnh động"
+   },
+   "cj_i18n_06586": {
+      "message": "Vật"
+   },
+   "cj_i18n_06587": {
+      "message": "Bỏ lưu"
+   },
+   "cj_i18n_06588": {
+      "message": "Ảnh & video 360"
+   },
+   "cj_i18n_06592": {
+      "message": "Mới thêm gần đây"
+   },
+   "cj_i18n_06594": {
+      "message": "Tạo album"
+   },
+   "cj_i18n_06595": {
+      "message": "Thêm ảnh"
+   },
+   "cj_i18n_06599": {
+      "message": "Tắt thông báo"
+   },
+   "cj_i18n_06600": {
+      "message": "Mở lại thông báo"
+   },
+   "cj_i18n_06601": {
+      "message": "Cập nhật của các tiện ích"
+   },
+   "cj_i18n_06603": {
+      "message": "Hiển thị thông báo sau khi cập nhật thay vì một trang thông báo toàn diện"
+   },
+   "cj_i18n_06606": {
+      "message": "Tất cả nhóm"
+   },
+   "cj_i18n_06607": {
+      "message": "Các nhóm gần đây"
+   },
+   "cj_i18n_06608": {
+      "message": "Tạo nhóm"
+   },
+   "cj_i18n_06609": {
+      "message": "Gắn thẻ"
+   },
+   "cj_i18n_06611": {
+      "message": "Video không được hỗ trợ"
+   },
+   "cj_i18n_06622": {
+      "message": "Cần đánh giá"
+   },
+   "cj_i18n_06624": {
+      "message": "Cài đặt tài khoản"
+   },
+   "cj_i18n_06625": {
+      "message": "Bạn không thể sử dụng {PRODUCT_NAME} với tài khoản này"
+   },
+   "cj_i18n_06626": {
+      "message": "Vé tàu hỏa của bạn"
+   },
+   "cj_i18n_06628": {
+      "message": "Việc cần làm"
+   },
+   "cj_i18n_06629": {
+      "message": "Tàu hỏa"
+   },
+   "cj_i18n_06632": {
+      "message": "Khóa học"
+   },
+   "cj_i18n_06640": {
+      "message": "Điện thoại"
+   },
+   "cj_i18n_06644": {
+      "message": "Tạo chuyến đi"
+   },
+   "cj_i18n_06647": {
+      "message": "Truy cập nhanh"
+   },
+   "cj_i18n_06648": {
+      "message": "Thông tin"
+   },
+   "cj_i18n_06649": {
+      "message": "Có lỗi khi tải Google My Business. Hãy xác nhận một doanh nghiệp được kết nối với tài khoản này."
+   },
+   "cj_i18n_06653": {
+      "message": "url hiện tại"
+   },
+   "cj_i18n_06654": {
+      "message": "Thêm {LINK_URL} vào một lớp"
+   },
+   "cj_i18n_06670": {
+      "message": "Danh sách xem"
+   },
+   "cj_i18n_06671": {
+      "message": "Tất cả ứng dụng"
+   },
+   "cj_i18n_06672": {
+      "message": "Người dùng và cho phép"
+   },
+   "cj_i18n_06679": {
+      "message": "Cài đặt thanh toán"
+   },
+   "cj_i18n_06697": {
+      "message": "Công việc yêu thích"
+   },
+   "cj_i18n_06699": {
+      "message": "Video yêu thích"
+   },
+   "cj_i18n_06700": {
+      "message": "Trang yêu thích"
+   },
+   "cj_i18n_06702": {
+      "message": "Hát nhép"
+   },
+   "cj_i18n_06704": {
+      "message": "Hình ảnh ưa thích"
+   },
+   "cj_i18n_06718": {
+      "message": "Tâm trạng & thể loại"
+   },
+   "cj_i18n_06719": {
+      "message": "Cải thiện mục đề xuất của bạn"
+   },
+   "cj_i18n_06741": {
+      "message": "Báo cáo trang web rác"
+   },
+   "cj_i18n_06746": {
+      "message": "Cộng đồng trợ giúp"
+   },
+   "cj_i18n_06751": {
+      "message": "Cài đặt người dùng"
+   },
+   "cj_i18n_06754": {
+      "message": "Câu hỏi thường gặp"
+   },
+   "cj_i18n_06777": {
+      "message": "Hỏi & Đáp"
+   },
+   "cj_i18n_06827": {
+      "message": "Cuộc trò chuyện được đánh dấu sao"
+   },
+   "cj_i18n_06846": {
+      "message": "Nhắc nhở"
+   },
+   "cj_i18n_06871": {
+      "message": "Trợ lý Google"
+   },
+   "cj_i18n_06875": {
+      "message": "Nổi bật"
+   },
+   "cj_i18n_06880": {
+      "message": "Có gì mới với Chromebook?"
+   },
+   "cj_i18n_06882": {
+      "message": "Đọc theo"
+   },
+   "cj_i18n_06885": {
+      "message": "Trí thông minh nhân tạo lượng tử"
+   },
+   "cj_i18n_06898": {
+      "message": "Thành tựu"
+   },
+   "cj_i18n_06913": {
+      "message": "Lập trình viên Chrome"
+   },
+   "cj_i18n_06916": {
+      "message": "Cuộc họp mới"
+   },
+   "cj_i18n_06917": {
+      "message": "Nhiệm vụ của tôi"
+   },
+   "cj_i18n_06918": {
+      "message": "Phòng"
+   },
+   "cj_i18n_06919": {
+      "message": "Tạo danh sách mới"
+   },
+   "cj_i18n_06923": {
+      "message": "Người dùng bị chặn"
+   },
+   "cj_i18n_06925": {
+      "message": "Thông tin về COVID-19"
+   },
+   "cj_i18n_06929": {
+      "message": "Ứng dụng trình duyệt"
+   },
+   "cj_i18n_06930": {
+      "message": "Nội dung"
+   },
+   "cj_i18n_06931": {
+      "message": "Phụ đề"
+   },
+   "cj_i18n_06933": {
+      "message": "Tải lên video"
+   },
+   "cj_i18n_06943": {
+      "message": "Phim của bạn"
+   },
+   "cj_i18n_06947": {
+      "message": "Sự kiện mới với cuộc họp"
+   },
+   "cj_i18n_06949": {
+      "message": "Từ điển"
+   },
+   "cj_i18n_06960": {
+      "message": "Trang AdMob của tôi"
+   },
+   "cj_i18n_06961": {
+      "message": "Bảng xếp hạng"
+   },
+   "cj_i18n_06978": {
+      "message": "Khán giả mục tiêu"
+   },
+   "cj_i18n_06983": {
+      "message": "Quản lý Chrome"
+   },
+   "cj_i18n_06984": {
+      "message": "Di động & các điểm kết nối"
+   },
+   "cj_i18n_06987": {
+      "message": "Các dịch vụ bổ sung"
+   },
+   "cj_i18n_06988": {
+      "message": "Web và di động"
+   },
+   "cj_i18n_06991": {
+      "message": "Trung tâm cảnh báo"
+   },
+   "cj_i18n_06992": {
+      "message": "Điều khiển API"
+   },
+   "cj_i18n_06994": {
+      "message": "Bảo vệ dữ liệu"
+   },
+   "cj_i18n_06995": {
+      "message": "Công cụ điều tra"
+   },
+   "cj_i18n_06997": {
+      "message": "Quản lý danh mục đã đăng ký"
+   },
+   "cj_i18n_06998": {
+      "message": "Tài khoản thanh toán"
+   },
+   "cj_i18n_06999": {
+      "message": "Thêm dịch vụ"
+   },
+   "cj_i18n_07005": {
+      "message": "Trung tâm chính sách"
+   },
+   "cj_i18n_07006": {
+      "message": "Riêng tư & tin nhắn"
+   },
+   "cj_i18n_07013": {
+      "message": "Học cùng Google"
+   },
+   "cj_i18n_07024": {
+      "message": "Tài khoản liên kết"
+   },
+   "cj_i18n_07025": {
+      "message": "Người dùng và liên hệ"
+   },
+   "cj_i18n_07027": {
+      "message": "Dung lượng Google Cloud"
+   },
+   "cj_i18n_07033": {
+      "message": "Các thiết bị của bạn"
+   },
+   "cj_i18n_07034": {
+      "message": "An toàn hơn với Google"
+   },
+   "cj_i18n_07039": {
+      "message": "Bạn không có quyền truy cập vào trang này"
+   },
+   "cj_i18n_07046": {
+      "message": "Tính toán và báo cáo dung lượng"
+   },
+   "cj_i18n_07048": {
+      "message": "Hướng dẫn sử dụng Android"
+   },
+   "cj_i18n_07049": {
+      "message": "Hướng dẫn Google trên iPhone"
+   },
+   "cj_i18n_07057": {
+      "message": "Tìm kiếm nhóm"
+   },
+   "cj_i18n_07058": {
+      "message": "Tìm kiếm cuộc trò chuyện"
+   },
+   "cj_i18n_07060": {
+      "message": "Xem lần nữa"
+   },
+   "cj_i18n_07061": {
+      "message": "Chỉnh sửa hồ sơ của tôi"
+   },
+   "cj_i18n_07062": {
+      "message": "Cho phụ huynh"
+   },
+   "cj_i18n_07063": {
+      "message": "Hướng dẫn cho phụ huynh"
+   },
+   "cj_i18n_07064": {
+      "message": "Cài đặt hồ sơ"
+   },
+   "cj_i18n_07065": {
+      "message": "Cho trẻ em"
+   },
+   "cj_i18n_07071": {
+      "message": "Trình quản lý mật khẩu"
+   },
+   "cj_i18n_07072": {
+      "message": "Kiểm tra mật khẩu"
+   },
+   "cj_i18n_07079": {
+      "message": "Hồ sơ doanh nghiệp"
+   },
+   "cj_i18n_07080": {
+      "message": "Trình quản lý hồ sơ doanh nghiệp"
+   },
+   "cj_i18n_07092": {
+      "message": "Chỉnh sửa hồ sơ người dùng"
+   },
+   "cj_i18n_07115": {
+      "message": "Báo cáo sự cố"
+   },
+   "cj_i18n_07124": {
+      "message": "Sao chép vào bộ nhớ tạm"
+   },
+   "cj_i18n_07125": {
+      "message": "Sao chép vào bộ nhớ tạm"
+   },
+   "cj_i18n_07143": {
+      "message": "Hoạt động"
+   }
+}
