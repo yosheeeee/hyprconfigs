@@ -33,5 +33,6 @@ ags types
 ```
 ## Clone this repo
 ```
+mv ~/.config ~/config.bak
 git https://github.com/yosheeeee/hyprconfigs.git ~/.config
 ```
