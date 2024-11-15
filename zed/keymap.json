@@ -54,6 +54,13 @@
     }
   },
   {
+    "bindings": {
+      "tab": "menu::SelectNext",
+      "shift-tab": "menu::SelectPrev",
+      "alt-enter": "task::Spawn"
+    }
+  },
+  {
     "context": "OutlinePanel",
     "bindings": {
       "ctrl-l": "outline_panel::ToggleFocus"
