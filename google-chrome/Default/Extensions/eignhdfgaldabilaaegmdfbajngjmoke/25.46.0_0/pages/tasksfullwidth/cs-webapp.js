@@ -1,1 +1,0 @@
-"use strict";!function(){var o=window,t=o.location;if(o.top===o.self)if("https://tasks.google.com"===t.origin){var o=new URL(t),e=o.searchParams,i="https://calendar.google.com",r=e.getAll("origin");if(1===r.length){r=r[0];if(r===i)return;if(/^https:\/\/[\d.a-z]+\.google\.com\/?$/.test(r))return}e.set("origin",i),t.replace(o)}}();

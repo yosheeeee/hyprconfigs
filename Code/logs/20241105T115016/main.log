@@ -1,4 +1,0 @@
-2024-11-05 11:50:16.789 [info] update#setState idle
-2024-11-05 11:50:16.790 [info] update#ctor - manual checks only; automatic updates are disabled by user preference
-2024-11-05 20:20:53.977 [info] Extension host with pid 9001 exited with code: 0, signal: unknown.
-2024-11-05 20:20:54.057 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker

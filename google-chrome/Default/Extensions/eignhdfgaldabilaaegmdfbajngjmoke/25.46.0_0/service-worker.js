@@ -1,1 +1,0 @@
-"use strict";!function(){self;try{importScripts.apply(void 0,["/scripts/cj-basics.js","/scripts/cjg-apis.js","/scripts/background.js"])}catch(s){}}();
