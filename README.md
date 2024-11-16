@@ -36,3 +36,17 @@ ags types
 mv ~/.config ~/config.bak
 git https://github.com/yosheeeee/hyprconfigs.git ~/.config
 ```
+## Set Autologin
+### Install GDM
+```
+yay -S gdm
+sudo systemctl enable gdm.service
+```
+### Set autologin to user
+#### in /etc/gdm/custom.conf add 
+```
+[daemon]
+AutomaticLoginEnable=True
+AutomaticLogin=yoshee
+```
+
