@@ -7,6 +7,14 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
+    },
+    "version": "2"
+  },
+
   "ssh_connections": [
     {
       "host": "192.168.0.113",
@@ -24,12 +32,13 @@
       "enabled": false
     }
   },
+  "cursor_blink": false,
   "ui_font_size": 16,
   "buffer_font_size": 20,
   "base_keymap": "VSCode",
   "ui_font_family": "Iosevka Nerd Font",
-  "buffer_font_family": "Iosevka Nerd Font Mono",
-  "buffer_font_weight": 500,
+  "buffer_font_family": "Iosevka Nerd Font",
+  "buffer_font_weight": 600,
   "buffer_line_height": "comfortable",
   "buffer_font_features": {
     "calt": true
@@ -40,7 +49,7 @@
   "theme": {
     "mode": "system",
     "light": "Catppuccin Macchiato - No Italics",
-    "dark": "Github Dark"
+    "dark": "Tomorrow Night"
   },
   "indent_guides": {
     "enabled": true,

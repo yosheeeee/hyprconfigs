@@ -2,6 +2,7 @@
   {
     "context": "Editor",
     "bindings": {
+      "shift-tab": "assistant::InlineAssist",
       "ctrl-shift-l": "pane::ActivateNextItem",
       "ctrl-shift-h": "pane::ActivatePrevItem",
       "ctrl-alt-l": "pane::SplitRight",
@@ -29,8 +30,10 @@
       "space c": "pane::CloseActiveItem",
       "space f": "file_finder::Toggle",
       "space C": "pane::CloseAllItems",
+      "shift-space C": "pane::CloseInactiveItems",
       "space t": "workspace::NewCenterTerminal",
-      "ctrl-j": "terminal_panel::ToggleFocus"
+      "ctrl-j": "terminal_panel::ToggleFocus",
+      "ctrl-alt-enter": "workspace::ToggleZoom"
     }
   },
   {
