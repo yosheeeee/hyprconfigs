@@ -4,7 +4,7 @@
     "bindings": {
       "shift-tab": "assistant::InlineAssist",
       "ctrl-shift-l": "pane::ActivateNextItem",
-      "ctrl-shift-h": "pane::ActivatePreviousItem",
+      "ctrl-shift-h": "pane::ActivatePrevItem",
       "ctrl-alt-l": "pane::SplitRight",
       "ctrl-alt-h": "pane::SplitLeft",
       "ctrl-alt-j": "pane::SplitDown",
@@ -59,7 +59,7 @@
   {
     "bindings": {
       "tab": "menu::SelectNext",
-      "shift-tab": "menu::SelectPrevious",
+      "shift-tab": "menu::SelectPrev",
       "alt-enter": "task::Spawn"
     }
   },
@@ -75,7 +75,7 @@
       "ctrl-t": "workspace::NewTerminal",
       "ctrl-w": "pane::CloseActiveItem",
       "ctrl-shift-l": "pane::ActivateNextItem",
-      "ctrl-shift-h": "pane::ActivatePreviousItem"
+      "ctrl-shift-h": "pane::ActivatePrevItem"
     }
   }
 ]

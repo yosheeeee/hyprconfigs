@@ -24,7 +24,7 @@
     }
   ],
   "features": {
-    "inline_completion_provider": "none"
+    "edit_prediction_provider": "zed"
   },
   "git": {
     "git_gutter": "hide",
@@ -34,7 +34,7 @@
   },
   "cursor_blink": false,
   "ui_font_size": 16,
-  "buffer_font_size": 20,
+  "buffer_font_size": 24.0,
   "base_keymap": "VSCode",
   "ui_font_family": "Iosevka Nerd Font",
   "buffer_font_family": "Iosevka Nerd Font",
@@ -49,7 +49,7 @@
   "theme": {
     "mode": "system",
     "light": "Catppuccin Macchiato - No Italics",
-    "dark": "Catppuccin Mocha (Blur)"
+    "dark": "GitHub Dark Default"
   },
   "indent_guides": {
     "enabled": true,
