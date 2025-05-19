@@ -1,6 +1,7 @@
 import { exec, execAsync, monitorFile, readFileAsync, Variable } from "astal";
 
 const get = (args: string) => Number(exec(`brightnessctl ${args}`));
+
 const screen = await execAsync(
 	'bash -c "ls -w1 /sys/class/backlight | head -1"',
 );
@@ -59,6 +60,10 @@ class BrightnessService {
 	}
 }
 
-const service = new BrightnessService();
+let service: BrightnessService | null = null;
+
+if (screen) {
+	service = new BrightnessService();
+}
 
 export default service;

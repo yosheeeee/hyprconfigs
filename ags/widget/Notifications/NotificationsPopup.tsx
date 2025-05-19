@@ -1,97 +1,77 @@
 import Notification from "./Notification";
 import Notifd from "gi://AstalNotifd";
 import { App, Gtk, Gdk, Widget, Astal } from "astal/gtk3";
-import { bind, execAsync, timeout, Variable, GLib, idle } from "astal";
+import { Subscribable } from "astal/binding";
+import { bind, timeout, Variable } from "astal";
 
-const notifications = Notifd.get_default();
-const notificationTimeout = 3000;
+const TIMEOUT_DELAY = 5000;
 
-const transitionDuration = 300;
+class PopupNotificationsMap implements Subscribable {
+	private map: Map<number, Gtk.Widget> = new Map();
+	private var: Variable<Array<Gtk.Widget>> = Variable([]);
 
-function Animated(id: number) {
-	const n = notifications.get_notification(id)!;
-	const widget = Notification(n);
-
-	const inner = new Widget.Revealer({
-		transitionType: Gtk.RevealerTransitionType.SLIDE_DOWN,
-		transition_duration: transitionDuration,
-		child: widget,
-	});
-
-	const outer = new Widget.Revealer({
-		transitionType: Gtk.RevealerTransitionType.SLIDE_UP,
-		transition_duration: transitionDuration,
-		child: inner,
-	});
-
-	const box = new Widget.Box({
-		child: outer,
-	});
-
-	idle(() => {
-		outer.reveal_child = true;
-		timeout(transitionDuration, () => {
-			inner.reveal_child = true;
-		});
-	});
-
-	return Object.assign(box, {
-		closeNotification() {
-			inner.reveal_child = false;
-			timeout(transitionDuration, () => {
-				outer.reveal_child = false;
-				timeout(transitionDuration, () => {
-					box.destroy();
-				});
-			});
-		},
-	});
-}
-
-function PopupList() {
-	const map: Map<number, ReturnType<typeof Animated>> = new Map();
-
-	function remove(_: unknown, id: number, reason: Notifd.ClosedReason) {
-		map.get(id)?.closeNotification();
-		map.delete(id);
+	private notifiy() {
+		this.var.set([...this.map.values()].reverse());
 	}
 
-	return (
-		<box
-			className="notifications-popup"
-			spacing={8}
-			vertical={true}
-			setup={(self) => {
-				self.hook(notifications, "notified", (_, id: number) => {
-					if (id !== undefined) {
-						if (!map.has(id)) {
-							if (notifications.dontDisturb) return;
+	constructor() {
+		const notifd = Notifd.get_default();
 
-							const w = Animated(id);
-							map.set(id, w);
-							self.children = [w, ...self.children];
+		notifd.connect("notified", (_, id) => {
+			this.set(
+				id,
+				Notification({
+					notification: notifd.get_notification(id)!,
+					onHoverLost: () => this.map.get(id)?.close(() => this.delete(id)),
+					setup: (self) => {
+						timeout(TIMEOUT_DELAY, () => {
+							this.map.get(id)?.close(() => this.delete(id));
+						});
+					},
+				}),
+			);
+		});
+		notifd.connect("resolved", (_, id) => {
+			this.map.get(id)?.close(() => this.delete(id));
+		});
+	}
 
-							timeout(notificationTimeout, () => {
-								remove(_, id, Notifd.ClosedReason.EXPIRED);
-							});
-						}
-					}
-				});
-				self.hook(notifications, "resolved", remove);
-			}}
-		/>
-	);
+	private set(key: number, value: Gtk.Widget) {
+		this.map.get(key)?.destroy();
+		this.map.set(key, value);
+		this.notifiy();
+	}
+
+	private delete(key: number) {
+		this.map.get(key)?.destroy();
+		this.map.delete(key);
+		this.notifiy();
+	}
+
+	get() {
+		return this.var.get();
+	}
+
+	subscribe(callback: (list: Array<Gtk.Widget>) => void) {
+		return this.var.subscribe(callback);
+	}
 }
 
-export default (monitor: Gdk.Monitor) => (
-	<window
-		layer={Astal.Layer.OVERLAY}
-		marginTop={20}
-		className="NotificationsPopup"
-		namespace="notifications-popup"
-		anchor={Astal.WindowAnchor.TOP}
-		gdkmonitor={monitor}
-	>
-		<PopupList />
-	</window>
-);
+export default (monitor: Gdk.Monitor) => {
+	const notifs = new PopupNotificationsMap();
+
+	return (
+		<window
+			layer={Astal.Layer.OVERLAY}
+			marginTop={20}
+			className="NotificationsPopup"
+			namespace="notifications-popup"
+			anchor={Astal.WindowAnchor.TOP}
+			gdkmonitor={monitor}
+		>
+			<box className="notifications-popup" spacing={8} vertical={true}>
+				{bind(notifs)}
+			</box>
+		</window>
+	);
+};

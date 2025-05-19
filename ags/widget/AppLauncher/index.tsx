@@ -4,8 +4,7 @@ import AstalApps from "gi://AstalApps?version=0.1";
 import AppItem from "./AppItem";
 import PopupWindow from "../../common/PopupWindow";
 
-const apps = new AstalApps.Apps({
-});
+const apps = new AstalApps.Apps();
 
 const query = Variable<string>("");
 

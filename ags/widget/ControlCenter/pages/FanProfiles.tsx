@@ -26,13 +26,14 @@ const FanProfileItem = (profile: FanProfile) => (
 );
 
 export default () => {
-	return (
-		<Page label={"Profiles"}>
-			<box vertical spacing={8}>
-				<box vertical spacing={4}>
-					{FanProfileSerivce.profiles.map(FanProfileItem)}
+	if (FanProfileSerivce)
+		return (
+			<Page label={"Profiles"}>
+				<box vertical spacing={8}>
+					<box vertical spacing={4}>
+						{FanProfileSerivce.profiles.map(FanProfileItem)}
+					</box>
 				</box>
-			</box>
-		</Page>
-	);
+			</Page>
+		);
 };

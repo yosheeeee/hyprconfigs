@@ -1,17 +1,17 @@
 import ControlCenterButton from "../ControlCenterButton";
-import FanProfiles, { profileName } from "../../../service/FanProfiles";
+import FanProfilesService, { profileName } from "../../../service/FanProfiles";
 import { bind } from "astal";
 import icons from "../../../lib/icons";
 
 export default () => {
-	if (FanProfiles) {
-		const profile = bind(FanProfiles, "profile");
+	if (FanProfilesService) {
+		const profile = bind(FanProfilesService, "profile");
 		return (
 			<ControlCenterButton
 				icon={profile.as((p) => icons.powerprofile[p])}
 				label={profile.as((p) => profileName(p))}
 				onPrimaryClick={() => {
-					if (FanProfiles) FanProfiles.nextProfile();
+					if (FanProfilesService) FanProfilesService.nextProfile();
 				}}
 				menuName="profiles"
 			/>

@@ -1,17 +1,19 @@
 import { App, Gtk, Widget, astalify, ConstructProps } from "astal/gtk3";
 import { bind, execAsync, GObject, Variable } from "astal";
 import { spacing, uptime } from "../../../lib/variables";
-import Bluetooth from "../items/Bluetooth";
-import Network from "../items/Network";
+import NetworkButton from "../items/Network";
 import Volume from "../items/Volume";
 import DND from "../items/DND";
 import Microphone from "../items/Microphone";
 import icons from "../../../lib/icons";
 import Brightness from "../items/Brightness";
+import FanProfileButton from "../items/FanProfile";
 import ScreenRecord from "../items/ScreenRecord";
 import ColorScheme from "../items/ColorScheme";
 import ScreenRecordMenu from "../items/ScreenRecordMenu";
 import ScreenRecordService from "../../../service/ScreenRecord";
+import BluetoothButton from "../items/Bluetooth";
+import { toggleWindow } from "../../../lib/utils";
 
 class FlowBox extends astalify(Gtk.FlowBox) {
 	static {
@@ -37,9 +39,19 @@ export default () => {
 		columnSpacing: spacing,
 	});
 
+	const FanProfile = FanProfileButton();
+	const Network = NetworkButton();
+	const Bluetooth = BluetoothButton();
 
-	fb.add(Network());
-	fb.add(Bluetooth());
+	if (Network != undefined) {
+		fb.add(Network);
+	}
+	if (Bluetooth != undefined) {
+		fb.add(Bluetooth);
+	}
+	if (FanProfile != undefined) {
+		fb.add(FanProfile);
+	}
 	fb.add(Microphone());
 	fb.add(DND());
 	fb.add(
@@ -76,11 +88,11 @@ export default () => {
 				}
 			/>
 			<Volume />
-			<Brightness />
+			{Brightness()}
 			<box spacing={16} className="control-center__footer">
 				<button
 					className="control-center__powermenu-button"
-					onClick={() => App.toggle_window("powermenu")}
+					onClick={() => toggleWindow("powermenu")}
 				>
 					<icon icon={icons.powermenu.shutdown} iconSize={16} />
 				</button>

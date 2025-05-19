@@ -1,5 +1,5 @@
 import icons from "../../lib/icons";
-import { currentPage } from "./index";
+import { controlCenterPage } from "./index";
 import { App, Gtk, Gdk, Widget } from "astal/gtk3";
 import { bind, execAsync, timeout, Variable, GLib, Binding } from "astal";
 
@@ -22,7 +22,7 @@ export default ({ label, child, scanning, refresh = undefined }: PageProps) => {
 					hexpand={false}
 					halign={Gtk.Align.START}
 					className="control-center__page_header_button"
-					onClicked={() => currentPage.set("main")}
+					onClicked={() => controlCenterPage.set("main")}
 				>
 					<icon icon={icons.ui.arrow.left} />
 				</button>

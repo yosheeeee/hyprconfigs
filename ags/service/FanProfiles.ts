@@ -1,4 +1,5 @@
-import { exec, GObject, Variable } from "astal";
+import { exec, execAsync, GObject, Variable } from "astal";
+import { dependencies } from "../lib/utils";
 
 const FAN_REGISTER = 0x61;
 
@@ -14,30 +15,20 @@ const profileBinding = {
 	2: "performance",
 };
 
-const available = () => {
-	const hostName = exec("cat /sys/devices/virtual/dmi/id/product_name");
-	if (hostName == "B450M H") {
-		return false;
-	}
-	return true;
-};
+const available = dependencies(["ec_probe"]);
 
 export const profileName = (profile: FanProfile) => {
 	const profileName = profileBinding[profile];
 	return profileName.charAt(0).toUpperCase() + profileName.slice(1);
 };
 
-const getProfile = () => {
-	const result = exec(`sudo ec_probe read ${FAN_REGISTER}`);
-	return parseInt(result.split(" ")[0]) as FanProfile;
-};
-
-type FanProfileServiceType = {
-	profile: number;
-};
-
 class FanProfileService extends GObject.Object {
-	#profile: FanProfile = getProfile();
+	getProfile = () => {
+		const result = exec(`sudo ec_probe read ${FAN_REGISTER}`);
+		return parseInt(result.split(" ")[0]) as FanProfile;
+	};
+
+	#profile: FanProfile = this.getProfile();
 
 	get profile() {
 		return this.#profile;
@@ -88,7 +79,9 @@ const FanProfileServiceRegister = GObject.registerClass(
 );
 
 var service: FanProfileService | null = null;
-if (available()) {
+
+if (available) {
 	service = new FanProfileServiceRegister();
 }
+
 export default service;

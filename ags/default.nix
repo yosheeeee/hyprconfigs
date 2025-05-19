@@ -11,7 +11,7 @@
     inputs.ags.packages.${pkgs.system}.auth
     inputs.matugen.packages.${pkgs.system}.default
     material-symbols
-    (pkgs.callPackage ../../../pkgs/wl-screenrec {})
+    wl-screenrec
   ];
 
   programs.ags = {
@@ -20,6 +20,8 @@
       pkgs.libsoup_3
       pkgs.gtksourceview
       pkgs.libnotify
+      pkgs.webkitgtk_4_1
+      pkgs.gst_all_1.gstreamer
       inputs.ags.packages.${pkgs.system}.apps
       inputs.ags.packages.${pkgs.system}.battery
       inputs.ags.packages.${pkgs.system}.hyprland

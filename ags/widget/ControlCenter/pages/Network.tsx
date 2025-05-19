@@ -6,10 +6,13 @@ import icons from "../../../lib/icons";
 
 export default () => {
 	const network = AstalNetwork.get_default();
+	const nmClient = network.get_client();
 	const { wifi } = AstalNetwork.get_default();
+
 	if (wifi == null) {
 		return null;
 	}
+
 	return (
 		<Page
 			label={"Network"}
@@ -63,7 +66,9 @@ export default () => {
 						points.map((ap) => (
 							<button
 								className="control-center__page_item"
-								onClicked={() => {}}
+								onClicked={() => {
+                                    nmClient.activate_connection_async()
+                                }}
 							>
 								<box>
 									<icon icon={ap.iconName} iconSize={20} />

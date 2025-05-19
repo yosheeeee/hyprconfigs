@@ -15,10 +15,8 @@ export const substitutions: substitutions = {
 		"de.shorsh.discord-screenaudio": "discord",
 		"org.pwmt.zathura": "x-office-document",
 		"code-url-handler": "visual-studio-code",
-		"dev.zed.Zed": "dialog-xml-editor-symbolic",
+		"dev.zed.Zed": "zed",
 		"": "preferences-desktop-display",
-		"YandexMusic": "yandex-music",
-		"Google-chrome": "google-chrome-unstable", "": "preferences-desktop-display",
 	},
 	titles: {
 		"io.github.Rirusha.Cassette": "Cassette",
@@ -60,6 +58,11 @@ export default {
 	bluetooth: {
 		enabled: "bluetooth-active-symbolic",
 		disabled: "bluetooth-disabled-symbolic",
+	},
+	todo: {
+		checkedAlt: "selection-mode-symbolic",
+		checked: "radio-checked-symbolic",
+		unchecked: "radio-symbolic",
 	},
 	fallback: {
 		executable: "application-x-executable",

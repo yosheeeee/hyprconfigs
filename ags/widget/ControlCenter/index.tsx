@@ -1,18 +1,18 @@
 import { App, Gtk, Gdk, Widget, Astal } from "astal/gtk3";
 import { bind, execAsync, timeout, Variable } from "astal";
 import Main from "./pages/Main";
-// import Network from "./pages/Network";
+import Network from "./pages/Network";
 import Bluetooth from "./pages/Bluetooth";
 import Media from "./items/Media";
 import { spacing } from "../../lib/variables";
 import PopupWindow from "../../common/PopupWindow";
 import { toggleWindow } from "../../lib/utils";
-import Network from "./pages/Network";
-// import FanProfiles from "./pages/FanProfiles";
-export const currentPage = Variable("main");
+import FanProfiles from "./pages/FanProfiles";
+
+export const controlCenterPage = Variable("main");
 
 export default () => {
-	const pageHeight = bind(currentPage).as((v) => {
+	const pageHeight = bind(controlCenterPage).as((v) => {
 		if (v != "main") {
 			return `
 			min-height: 500px;
@@ -40,10 +40,10 @@ export default () => {
 			onKeyPressEvent={(self, event) => {
 				const [keyEvent, keyCode] = event.get_keycode();
 				if (keyEvent && keyCode == 9) {
-					if (currentPage.get() == "main") {
+					if (controlCenterPage.get() == "main") {
 						toggleWindow(self.name);
 					} else {
-						currentPage.set("main");
+						controlCenterPage.set("main");
 					}
 				}
 			}}
@@ -60,7 +60,7 @@ export default () => {
 					valign={Gtk.Align.START}
 				>
 					<stack
-						shown={bind(currentPage)}
+						shown={bind(controlCenterPage)}
 						transitionType={
 							Gtk.StackTransitionType.SLIDE_LEFT_RIGHT
 						}
@@ -71,7 +71,9 @@ export default () => {
 						}}
 					>
 						<Main />
-						<Bluetooth />
+						{Network()}
+						{FanProfiles()}
+						{Bluetooth()}
 					</stack>
 				</box>
 				<Media />

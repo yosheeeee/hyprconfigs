@@ -1,4 +1,4 @@
-import AstalAuth from "gi://AstalAuth?version=0.1";
+import AstalAuth from "gi://AstalAuth";
 import { App, Gdk, GLib, Gtk } from "astal";
 
 export default () => (

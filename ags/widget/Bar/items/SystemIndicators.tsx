@@ -45,19 +45,21 @@ const MicMuteIndicator = () => {
 };
 
 const NetworkIndicator = () => {
-	const { wifi, wired } = Network.get_default();
+	const network = Network.get_default();
 
-	if (wifi == null) {
-		return <icon icon={bind(wired, "iconName")} />;
-	} else if (wired == null) {
-		return <icon icon={bind(wifi, "iconName")} />;
+	if (network == null) {
+		return;
+	}
+	if (network.wifi == null) {
+		return <icon icon={bind(network.wired, "iconName")} />;
+	} else if (network.wired == null) {
+		return <icon icon={bind(network.wifi, "iconName")} />;
 	}
 
 	const primary = bind(network, "primary");
-	const wifiIcon = bind(wifi, "iconName");
-	const wiredIcon = bind(wired, "iconName");
+	const wifiIcon = bind(network.wifi, "iconName");
+	const wiredIcon = bind(network.wired, "iconName");
 
-	// TODO: This is a hack to make sure the icon is updated when the primary network changes
 	const icon = Variable.derive(
 		[primary, wifiIcon, wiredIcon],
 		(primary, iconWifi, iconWired) => {
@@ -70,7 +72,10 @@ const NetworkIndicator = () => {
 	);
 
 	return (
-		<icon tooltipText={bind(wifi, "ssid").as(String)} icon={bind(icon)} />
+		<icon
+			tooltipText={bind(network.wifi, "ssid").as(String)}
+			icon={bind(icon)}
+		/>
 	);
 };
 

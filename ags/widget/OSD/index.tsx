@@ -53,9 +53,11 @@ function OnScreenProgress(window: Astal.Window, vertical: boolean) {
 					speaker.mute,
 				);
 			});
-			progress.hook(Brightness, () =>
-				show(Brightness.screen, icons.brightness.screen, false),
-			);
+			if (Brightness) {
+				progress.hook(Brightness, () =>
+					show(Brightness!.screen, icons.brightness.screen, false),
+				);
+			}
 		},
 	});
 }

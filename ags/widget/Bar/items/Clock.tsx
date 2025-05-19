@@ -1,5 +1,6 @@
 import { GLib, Variable } from "astal";
 import BarButton from "../BarButton";
+import { toggleWindow } from "../../../lib/utils";
 
 export default () => {
 	const format = "%a %d %b, %H:%M";
@@ -8,7 +9,11 @@ export default () => {
 		() => GLib.DateTime.new_now_local().format(format)!,
 	);
 	return (
-		<BarButton>
+		<BarButton
+			onClicked={() => {
+				toggleWindow("dashboard");
+			}}
+		>
 			<label
 				className="Time"
 				onDestroy={() => time.drop()}

@@ -1,8 +1,10 @@
-import { App, Gtk, Gdk, Widget } from "astal/gtk3";
-import { bind, execAsync, timeout, Variable, GLib } from "astal";
+import { Gtk, Widget } from "astal/gtk3";
+import { type EventBox } from "astal/gtk3/widget";
+import { timeout, GLib, idle } from "astal";
 import Notifd from "gi://AstalNotifd";
 import icons from "../../lib/icons";
-import ActiveApp from "../Bar/items/ActiveApp";
+
+const transitionDuration = 300;
 
 const time = (time: number, format = "%H:%M") =>
 	GLib.DateTime.new_from_unix_local(time).format(format);
@@ -52,9 +54,6 @@ const NotificationIcon = ({ notification }: NotificationIconProps) => {
 	}
 
 	let icon = icons.fallback.notification;
-	// if (Utils.lookUpIcon(appIcon)) icon = appIcon;
-
-	// if (Utils.lookUpIcon(appName || "")) icon = appName || "";
 
 	return new Widget.Box({
 		valign: Gtk.Align.START,
@@ -70,7 +69,15 @@ const NotificationIcon = ({ notification }: NotificationIconProps) => {
 	});
 };
 
-export default function Notification(notification: Notifd.Notification) {
+type NotificationsProps = {
+	setup(self: EventBox): void;
+	onHoverLost(self: EventBox): void;
+	notification: Notifd.Notification;
+};
+
+export default function Notification(props: NotificationsProps) {
+	const { notification, onHoverLost, setup } = props;
+
 	const Content = () => (
 		<box hexpand={true} className="content">
 			<NotificationIcon notification={notification} />
@@ -158,14 +165,7 @@ export default function Notification(notification: Notifd.Notification) {
 		);
 
 	const Eventbox = () => (
-		<eventbox
-			vexpand={false}
-			// onClicked={notification.dismiss}
-			on_hover={() => {}}
-			on_hover_lost={() => {
-				// notification.dismiss();
-			}}
-		>
+		<eventbox vexpand={false} on_hover_lost={onHoverLost} setup={setup}>
 			<box vertical={true}>
 				<Content />
 				<ActionsBox />
@@ -173,12 +173,34 @@ export default function Notification(notification: Notifd.Notification) {
 		</eventbox>
 	);
 
-	return (
-		<box
-			valign={Gtk.Align.START}
-			className={`notification ${notification.urgency}`}
-		>
-			<Eventbox />
-		</box>
-	);
+	const box = new Widget.Revealer({
+		transitionType: Gtk.RevealerTransitionType.SLIDE_DOWN,
+		transitionDuration: 300,
+		setup: (self) => {
+			idle(() => {
+				self.revealChild = true;
+			});
+		},
+		child: (
+			<box
+				valign={Gtk.Align.START}
+				className={`notification ${notification.urgency}`}
+			>
+				<Eventbox />
+			</box>
+		),
+	});
+
+	let isClosing = false;
+
+	return Object.assign(box, {
+		close(remove: () => void) {
+			if (isClosing) return;
+			isClosing = true;
+            box.revealChild = false;
+            timeout(transitionDuration, () => {
+                remove();
+            });
+		},
+	});
 }

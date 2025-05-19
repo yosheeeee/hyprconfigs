@@ -1,16 +1,16 @@
-declare const SRC: string
+const SRC: string
 
 declare module "inline:*" {
     const content: string
     export default content
 }
 
-declare module "*.scss" {
+declare module "*.sass" {
     const content: string
     export default content
 }
 
-declare module "*.blp" {
+declare module "*.scss" {
     const content: string
     export default content
 }

@@ -1,13 +1,61 @@
 import { App, Gtk, Gdk, Widget, Astal } from "astal/gtk3";
 import { bind, execAsync, timeout, Variable, GLib } from "astal";
-import AstalNotifd from "gi://AstalNotifd?version=0.1";
+import Notifd from "gi://AstalNotifd?version=0.1";
 import Notification from "./Notification";
 import { spacing } from "../../lib/variables";
 import PopupWindow from "../../common/PopupWindow";
+import { Subscribable } from "astal/binding";
 
+class NotificationsMap implements Subscribable {
+	private map: Map<number, Gtk.Widget> = new Map();
+	private var: Variable<Array<Gtk.Widget>> = Variable([]);
+
+	private notifiy() {
+		this.var.set([...this.map.values()].reverse());
+	}
+
+	constructor() {
+		const notifd = Notifd.get_default();
+		notifd.set_ignore_timeout(true);
+
+		notifd.connect("notified", (_, id) => {
+			this.set(
+				id,
+				Notification({
+					notification: notifd.get_notification(id)!,
+					onHoverLost: () => {},
+					setup: (self) => {},
+				}),
+			);
+		});
+		notifd.connect("resolved", (_, id) => {
+			this.map.get(id)?.close(() => this.delete(id));
+		});
+	}
+
+	private set(key: number, value: Gtk.Widget) {
+		this.map.get(key)?.destroy();
+		this.map.set(key, value);
+		this.notifiy();
+	}
+
+	private delete(key: number) {
+		this.map.get(key)?.destroy();
+		this.map.delete(key);
+		this.notifiy();
+	}
+
+	get() {
+		return this.var.get();
+	}
+
+	subscribe(callback: (list: Array<Gtk.Widget>) => void) {
+		return this.var.subscribe(callback);
+	}
+}
 export default () => {
-	const notifications = AstalNotifd.get_default();
-	notifications.set_ignore_timeout(true);
+	const notifs = new NotificationsMap();
+	const notifications = Notifd.get_default();
 
 	return (
 		<PopupWindow
@@ -46,7 +94,7 @@ export default () => {
 					className="notifications-window__clear"
 					onClicked={() => {
 						notifications.get_notifications().forEach((n) => {
-							timeout(50, () => n.dismiss());
+							timeout(150, () => n.dismiss());
 						});
 					}}
 				>
@@ -64,10 +112,7 @@ export default () => {
 						vexpand={true}
 						hexpand={true}
 					>
-						{bind(notifications, "notifications").as(
-							(notifications) =>
-								notifications.map((n) => Notification(n)),
-						)}
+						{bind(notifs)}
 					</box>
 				</scrollable>
 			</box>

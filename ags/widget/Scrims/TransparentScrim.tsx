@@ -1,5 +1,4 @@
-import { App, Astal, Widget } from "astal/gtk3";
-import { transparentScrimWindowNames } from "../../lib/variables";
+import { App, Astal } from "astal/gtk3";
 import { activePopupWindows, toggleWindow } from "../../lib/utils";
 
 export default () => (
