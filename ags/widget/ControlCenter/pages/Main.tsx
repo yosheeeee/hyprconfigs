@@ -1,4 +1,4 @@
-import { App, Gtk, Widget, astalify, ConstructProps } from "astal/gtk3";
+import { App, astalify, ConstructProps, Gtk, Widget } from "astal/gtk3";
 import { bind, execAsync, GObject, Variable } from "astal";
 import { spacing, uptime } from "../../../lib/variables";
 import NetworkButton from "../items/Network";
@@ -16,100 +16,98 @@ import BluetoothButton from "../items/Bluetooth";
 import { toggleWindow } from "../../../lib/utils";
 
 class FlowBox extends astalify(Gtk.FlowBox) {
-	static {
-		GObject.registerClass(this);
-	}
+  static {
+    GObject.registerClass(this);
+  }
 
-	constructor(
-		props: ConstructProps<Gtk.FlowBox, Gtk.FlowBox.ConstructorProps>,
-	) {
-		super(props as any);
-	}
+  constructor(
+    props: ConstructProps<Gtk.FlowBox, Gtk.FlowBox.ConstructorProps>,
+  ) {
+    super(props as any);
+  }
 }
 
 export default () => {
-	const revealScreenRecord = Variable(false);
+  const revealScreenRecord = Variable(false);
 
-	const fb = new FlowBox({
-		homogeneous: true,
-		selectionMode: Gtk.SelectionMode.NONE,
-		maxChildrenPerLine: 2,
-		minChildrenPerLine: 2,
-		rowSpacing: spacing,
-		columnSpacing: spacing,
-	});
+  const fb = new FlowBox({
+    homogeneous: true,
+    selectionMode: Gtk.SelectionMode.NONE,
+    maxChildrenPerLine: 2,
+    minChildrenPerLine: 2,
+    rowSpacing: spacing,
+    columnSpacing: spacing,
+  });
 
-	const FanProfile = FanProfileButton();
-	const Network = NetworkButton();
-	const Bluetooth = BluetoothButton();
+  const FanProfile = FanProfileButton();
+  const Network = NetworkButton();
+  const Bluetooth = BluetoothButton();
 
-	if (Network != undefined) {
-		fb.add(Network);
-	}
-	if (Bluetooth != undefined) {
-		fb.add(Bluetooth);
-	}
-	if (FanProfile != undefined) {
-		fb.add(FanProfile);
-	}
-	fb.add(Microphone());
-	fb.add(DND());
-	fb.add(
-		new Widget.Box({
-			spacing,
-			homogeneous: true,
-			children: [
-				ColorScheme(),
-				ScreenRecord({
-					onClicked: () => {
-						if (ScreenRecordService.recording) {
-							ScreenRecordService.stop();
-						} else {
-							revealScreenRecord.set(!revealScreenRecord.get());
-						}
-					},
-				}),
-			],
-		}),
-	);
+  if (Network != undefined) {
+    fb.add(Network);
+  }
+  if (Bluetooth != undefined) {
+    fb.add(Bluetooth);
+  }
+  if (FanProfile != undefined) {
+    fb.add(FanProfile);
+  }
+  fb.add(Microphone());
+  fb.add(DND());
+  fb.add(
+    new Widget.Box({
+      spacing,
+      homogeneous: true,
+      children: [
+        ColorScheme(),
+        ScreenRecord({
+          onClicked: () => {
+            if (ScreenRecordService.recording) {
+              ScreenRecordService.stop();
+            } else {
+              revealScreenRecord.set(!revealScreenRecord.get());
+            }
+          },
+        }),
+      ],
+    }),
+  );
 
-	return (
-		<box
-			name="main"
-			className="control-center__page main"
-			vertical
-			spacing={spacing}
-		>
-			{fb}
-			<ScreenRecordMenu
-				revealMenu={bind(revealScreenRecord)}
-				closeMenu={() =>
-					revealScreenRecord.set(!revealScreenRecord.get())
-				}
-			/>
-			<Volume />
-			{Brightness()}
-			<box spacing={16} className="control-center__footer">
-				<button
-					className="control-center__powermenu-button"
-					onClick={() => toggleWindow("powermenu")}
-				>
-					<icon icon={icons.powermenu.shutdown} iconSize={16} />
-				</button>
-				<box hexpand />
-				<label
-					className="control-center__time-to-empty"
-					label={bind(uptime)}
-				/>
-				<button
-					className="control-center__settings-button"
-					onClick={() => {
-						execAsync("bash -c hyprsettings");
-					}}
-				>
-					<icon icon={icons.ui.settings} iconSize={16} />
-				</button>
-			</box>
-		</box>
-	);
+  return (
+    <box
+      name="main"
+      className="control-center__page main"
+      vertical
+      spacing={spacing}
+    >
+      {fb}
+      <ScreenRecordMenu
+        revealMenu={bind(revealScreenRecord)}
+        closeMenu={() => revealScreenRecord.set(!revealScreenRecord.get())}
+      />
+      <Volume />
+      {Brightness()}
+      <box spacing={16} className="control-center__footer">
+        <button
+          className="control-center__powermenu-button"
+          onClick={() => toggleWindow("powermenu")}
+        >
+          <icon icon={icons.powermenu.shutdown} iconSize={16} />
+        </button>
+        <box hexpand />
+        <label
+          className="control-center__time-to-empty"
+          label={bind(uptime)}
+        />
+        <button
+          className="control-center__settings-button"
+          onClick={() => {
+            execAsync("bash -c waypaper");
+          }}
+        >
+          <icon icon={icons.ui.settings} iconSize={16} />
+        </button>
+      </box>
+    </box>
+  );
 };
