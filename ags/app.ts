@@ -17,7 +17,7 @@ import MixerMenu from "./widget/Popups/menus/Mixer";
 import Verification from "./widget/Powermenu/Verification";
 import Powermenu from "./widget/Powermenu";
 import ScreenRecordService from "./service/ScreenRecord";
-import GoogleOAuth2Service from "./service/GoogleOAuth2";
+// import GoogleOAuth2Service from "./service/GoogleOAuth2";
 import Dashboard from "./widget/Dashboard";
 
 function main() {
