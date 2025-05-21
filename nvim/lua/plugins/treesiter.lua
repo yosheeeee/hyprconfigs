@@ -1,0 +1,33 @@
+return {
+  {
+    "nvim-treesitter/nvim-treesitter",
+    opts = {
+      ensure_installed = {
+        "bash",
+        "html",
+        "css",
+        "scss",
+        "dockerfile",
+        "go",
+        "prisma",
+        "javascript",
+        "styled",
+        "json",
+        "lua",
+        "markdown",
+        "markdown_inline",
+        "python",
+        "query",
+        "regex",
+        "tsx",
+        "typescript",
+        "vim",
+        "yaml",
+        "c_sharp",
+      },
+    },
+  },
+  { import = "lazyvim.plugins.extras.lang.typescript" },
+  { import = "lazyvim.plugins.extras.lang.tailwind" },
+  { import = "lazyvim.plugins.extras.lang.omnisharp" },
+}
