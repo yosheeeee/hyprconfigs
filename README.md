@@ -22,18 +22,18 @@ chsh -s /usr/local/bin/fish
 ```
 ## Install requirements
 ```
-yay -s git go google-chrome nodejs firefox code zed hyprlock hyprpicker nveom grim slurp swww light swaylock-effects-git swayidle theme.sh dunst nwg-look gtk playerctl brightnessctl qt5-base qt6-base cava neofetch zsh file-roller thunar thunar-archive-plugin nerd-fonts matugen materia-gtk-theme
+yay -s git go google-chrome zen-browser-bin nodejs firefox code zed hyprlock hyprpicker neovim grim slurp swww light swaylock-effects-git swayidle nwg-look playerctl pamixer cava neofetch file-roller thunar thunar-archive-plugin nerd-fonts matugen morewaita-icon-theme networkmanager bluez bluez-utils blueman waypaper orchis-theme
 ```
 ## Create ags bar
 ```
-yay -S libastal-git aylurs-gtk-shell-git
+yay -S libastal-meta aylurs-gtk-shell-git
 ```
 ```
 ags types
 ```
 ## Clone this repo
 ```
-mv ~/.config ~/config.bak
+rm -rf ~/.config
 git https://github.com/yosheeeee/hyprconfigs.git ~/.config
 ```
 ## Set Autologin
