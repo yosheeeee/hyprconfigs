@@ -3,8 +3,6 @@
     "context": "Editor",
     "bindings": {
       "shift-tab": "assistant::InlineAssist",
-      "ctrl-shift-l": "pane::ActivateNextItem",
-      "ctrl-shift-h": "pane::ActivatePreviousItem",
       "ctrl-alt-l": "pane::SplitRight",
       "ctrl-alt-h": "pane::SplitLeft",
       "ctrl-alt-j": "pane::SplitDown",
@@ -15,8 +13,15 @@
       "ctrl-w": "pane::CloseActiveItem",
       "ctrl-l": "workspace::ActivateNextPane",
       "ctrl-h": "workspace::ActivatePreviousPane",
-      "ctrl-shift-p": "outline_panel::Open",
+      "ctrl-shift-p": "outline_panel::OpenSelectedEntry",
       "ctrl-j": "workspace::OpenTerminal"
+    }
+  },
+  {
+    "context": "vim_mode == normal || vim_mode == visual",
+    "bindings": {
+      "shift-l": "pane::ActivateNextItem",
+      "shift-h": "pane::ActivatePreviousItem"
     }
   },
   {

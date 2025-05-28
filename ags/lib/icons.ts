@@ -16,7 +16,8 @@ export const substitutions: substitutions = {
     "org.pwmt.zathura": "x-office-document",
     "code-url-handler": "visual-studio-code",
     "dev.zed.Zed": "zed",
-    "zen": "zen-browser",
+    zen: "zen-browser",
+    kitty: "kitty",
     "": "preferences-desktop-display",
   },
   titles: {
@@ -39,7 +40,7 @@ export const substitutions: substitutions = {
     "org.telegram.desktop": "Telegram",
     "de.shorsh.discord-screenaudio": "Discord",
     "org.pwmt.zathura": "Zathura",
-    kitty: "Kitty",
+    kitty: "kitty",
     "code-url-handler": "VSCode",
     "": "Desktop",
   },
