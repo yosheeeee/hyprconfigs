@@ -24,17 +24,14 @@ chsh -s /usr/local/bin/fish
 ```
 yay -s git go google-chrome zen-browser-bin nodejs firefox code zed hyprlock hyprpicker neovim grim slurp swww light swaylock-effects-git swayidle nwg-look playerctl pamixer cava neofetch file-roller thunar thunar-archive-plugin nerd-fonts matugen morewaita-icon-theme networkmanager bluez bluez-utils blueman waypaper orchis-theme
 ```
-## Create ags bar
+## Install bar
 ```
-yay -S libastal-meta aylurs-gtk-shell-git
-```
-```
-ags types
+bash -c "$(curl -s https://end-4.github.io/dots-hyprland-wiki/setup.sh)"
 ```
 ## Clone this repo
 ```
 rm -rf ~/.config
-git https://github.com/yosheeeee/hyprconfigs.git ~/.config
+git clone https://github.com/yosheeeee/hyprconfigs.git ~/.config
 ```
 ## Set Autologin
 ### Install GDM
