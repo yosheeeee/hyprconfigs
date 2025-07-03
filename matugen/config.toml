@@ -1,49 +1,34 @@
-[templates.ags]
-input_path = '~/.config/matugen/templates/ags.scss'
-output_path = '~/.config/ags/style/colors.scss'
+[config]
+version_check = false
 
-[templates.kitty]
-input_path = '~/.config/matugen/templates/kitty.conf'
-output_path = '~/.config/kitty/colors.conf'
+[templates.m3colors]
+input_path = '~/.config/matugen/templates/colors.json'
+output_path = '~/.local/state/quickshell/user/generated/colors.json'
 
-[templates.zed]
-input_path = '~/.config/matugen/templates/zed.json'
-output_path = '~/.config/zed/themes/material-you.json'
-
-[templates.hypr]
-input_path = '~/.config/matugen/templates/hypr.conf'
-output_path = '~/.config/hypr/colors.conf'
+[templates.hyprland]
+input_path = '~/.config/matugen/templates/hyprland/colors.conf'
+output_path = '~/.config/hypr/hyprland/colors.conf'
 
 [templates.hyprlock]
-input_path = '~/.config/matugen/templates/hyprlock.conf'
+input_path = '~/.config/matugen/templates/hyprland/hyprlock.conf'
 output_path = '~/.config/hypr/hyprlock.conf'
 
-[config]
-reload_apps = true
-set_wallpaper = true
-wallpaper_tool = 'Swww'
-prefix = '@'
-swww_options = [
-    "--transition-type",
-    "fade",
-    "--transition-step",
-    "90",
-    "--transition-duration",
-    "2",
-    "--transition-fps",
-    "90",
-]
+[templates.fuzzel]
+input_path = '~/.config/matugen/templates/fuzzel/fuzzel_theme.ini'
+output_path = '~/.config/fuzzel/fuzzel_theme.ini'
 
-[config.reload_apps_list]
-waybar = false
-kitty = true
-gtk_theme = false
-dunst = false
+[templates.gtk3]
+input_path = '~/.config/matugen/templates/gtk/gtk-colors.css'
+output_path = '~/.config/gtk-3.0/gtk.css'
 
-[config.custom_colors]
-red = "#f38ba8"
-green = "#a6e3a1"
-yellow = "#f9e2af"
-blue = "#89b4fa"
-orange = "#fab387"
-purple = "#cba6f7"
+[templates.gtk4]
+input_path = '~/.config/matugen/templates/gtk/gtk-colors.css'
+output_path = '~/.config/gtk-4.0/gtk.css'
+
+[templates.kde_colors]
+input_path = '~/.config/matugen/templates/kde/color.txt'
+output_path = '~/.local/state/quickshell/user/generated/color.txt'
+
+[templates.wallpaper]
+input_path = '~/.config/matugen/templates/wallpaper.txt'
+output_path = '~/.local/state/quickshell/user/generated/wallpaper/path.txt'
