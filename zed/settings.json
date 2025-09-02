@@ -7,12 +7,21 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
-  "assistant": {
+  "show_edit_predictions": false,
+  "icon_theme": "Catppuccin Macchiato",
+  "agent": {
+    "always_allow_tool_actions": true,
     "default_model": {
       "provider": "zed.dev",
-      "model": "claude-3-5-sonnet-latest"
-    },
-    "version": "2"
+      "model": "claude-sonnet-4"
+    }
+  },
+  "agent_servers": {
+    "qwen": {
+      "command": "qwen",
+      "args": ["--experimental-acp"],
+      "env": {}
+    }
   },
 
   "ssh_connections": [
@@ -32,6 +41,10 @@
       "enabled": false
     }
   },
+  "scrollbar": {
+    "show": "never"
+  },
+  "relative_line_numbers": true,
   "cursor_blink": false,
   "ui_font_size": 16,
   "buffer_font_size": 24.0,
@@ -49,7 +62,7 @@
   "theme": {
     "mode": "system",
     "light": "Catppuccin Macchiato - No Italics",
-    "dark": "GitHub Dark Default"
+    "dark": "Cisco Dark"
   },
   "indent_guides": {
     "enabled": true,

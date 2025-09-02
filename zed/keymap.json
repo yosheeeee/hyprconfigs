@@ -82,5 +82,16 @@
       "alt-l": "pane::ActivateNextItem",
       "alt-h": "pane::ActivatePreviousItem"
     }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-enter": "assistant::ToggleFocus"
+    }
+  },
+  {
+    "bindings": {
+      "alt-\\": "assistant::ToggleFocus"
+    }
   }
 ]
