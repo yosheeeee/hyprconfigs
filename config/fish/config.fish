@@ -12,7 +12,7 @@ set -l green 9ece6a
 set -l purple c4a7e7
 set -l cyan 9ccfd8
 set -l pink ecaff2
-    
+
 # Syntax Highlighting Colors
 set -g fish_color_normal $foreground
 set -g fish_color_command $cyan
@@ -28,7 +28,7 @@ set -g fish_color_search_match --background=$selection
 set -g fish_color_operator $green
 set -g fish_color_escape $pink
 set -g fish_color_autosuggestion $comment
-    
+
 # Completion Pager Colors
 set -g fish_pager_color_progress $comment
 set -g fish_pager_color_prefix $cyan
@@ -70,8 +70,9 @@ export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
 
 # Exports
-export VISUAL="vim"
+export VISUAL="nvim"
 export EDITOR="$VISUAL"
+set -gx EDITOR nvim
 
 # Term
 switch "$TERM_EMULATOR"
@@ -126,7 +127,7 @@ end
 # case '*kitty*'
 #       neofetch --backend 'kitty'
 # case '*tmux*' '*login*' '*sshd*' '*konsole*'
-#	neofetch --backend 'ascii' --ascii_distro 'arch_small' 
+#	neofetch --backend 'ascii' --ascii_distro 'arch_small'
 # case '*'
 # 	neofetch --backend 'w3m' --xoffset 34 --yoffset 34 --gap 0
 # end

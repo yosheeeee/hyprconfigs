@@ -48,6 +48,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/detach-tab" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/cancel-search" "Escape")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-in-alt2" "<Primary>equal")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/4ac5e15af47e35727f94e094378e12ec" "")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-hidden-count" "")
 ; (gtk_accel_path "<Actions>/ThunarShortcutsPane/sendto-shortcuts" "<Primary>d")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/undo" "<Primary>z")

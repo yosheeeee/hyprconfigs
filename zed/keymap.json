@@ -84,14 +84,38 @@
     }
   },
   {
-    "context": "Editor",
     "bindings": {
-      "ctrl-enter": "assistant::ToggleFocus"
+      "alt-\\": "assistant::ToggleFocus"
     }
   },
   {
+    "context": "(MessageEditor && !Picker) > (Editor && use_modifier_to_send)",
     "bindings": {
-      "alt-\\": "assistant::ToggleFocus"
+      "ctrl-alt-shift-enter": "agent::Chat"
+    }
+  },
+  {
+    "context": "AcpThread > (Editor && use_modifier_to_send)",
+    "bindings": {
+      "ctrl-alt-shift-enter": "agent::Chat"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-alt-shift-enter": "agent::ToggleFocus"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-alt-shift-enter": "agent::ToggleFocus"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-alt-shift-|": "agent::ToggleFocus"
     }
   }
 ]
