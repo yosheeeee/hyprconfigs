@@ -64,19 +64,14 @@
   "show_edit_predictions": false,
   "icon_theme": "Catppuccin Frappé",
   "agent": {
-    "inline_assistant_model": {
-      "provider": "deepseek",
-      "model": "deepseek-chat"
-    },
     "default_model": {
-      "provider": "deepseek",
-      "model": "deepseek-reasoner"
+      "provider": "google",
+      "model": "gemini-3-pro-preview"
     },
     "model_parameters": []
   },
   "agent_servers": {
     "qwen": {
-      "type": "custom",
       "command": "qwen",
       "args": ["--experimental-acp"],
       "env": {}
@@ -110,8 +105,8 @@
   "buffer_font_size": 24.0,
   "base_keymap": "VSCode",
   "ui_font_family": "Iosevka Nerd Font",
-  "buffer_font_family": "Iosevka Nerd Font Mono",
-  "buffer_font_weight": 600.0,
+  "buffer_font_family": "Iosevka Nerd Font",
+  "buffer_font_weight": 600,
   "buffer_line_height": "comfortable",
   "buffer_font_features": {
     "calt": true

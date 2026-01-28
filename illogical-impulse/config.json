@@ -27,7 +27,7 @@
             "automatic": true,
             "backgroundTransparency": 0.11,
             "contentTransparency": 0.57,
-            "enable": false
+            "enable": true
         },
         "wallpaperTheming": {
             "enableAppsAndShell": true,
@@ -87,7 +87,7 @@
         "quote": "",
         "showQuote": false,
         "thumbnailPath": "",
-        "wallpaperPath": "/home/yoshee/.config/wallpapers/mountains.jpg"
+        "wallpaperPath": "/home/yoshee/Изображения/Wallpapers/wallhaven-3qq8jd.jpg"
     },
     "bar": {
         "autoHide": {
@@ -219,7 +219,7 @@
             "radius": 100
         },
         "centerClock": true,
-        "launchOnStartup": true,
+        "launchOnStartup": false,
         "security": {
             "requirePasswordToPower": false,
             "unlockKeyring": true
@@ -239,7 +239,7 @@
         "timeout": 1000
     },
     "osk": {
-        "layout": "Russian",
+        "layout": "English (US)",
         "pinnedOnStartup": false
     },
     "overview": {

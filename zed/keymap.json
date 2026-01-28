@@ -13,15 +13,17 @@
       "ctrl-w": "pane::CloseActiveItem",
       "ctrl-l": "workspace::ActivateNextPane",
       "ctrl-h": "workspace::ActivatePreviousPane",
-      "ctrl-shift-p": "outline_panel::OpenSelectedEntry"
-    }
+      "ctrl-shift-p": "outline_panel::OpenSelectedEntry",
+    },
   },
   {
     "context": "vim_mode == normal || vim_mode == visual",
     "bindings": {
       "alt-l": "pane::ActivateNextItem",
-      "alt-h": "pane::ActivatePreviousItem"
-    }
+      "alt-h": "pane::ActivatePreviousItem",
+      "s": "vim::PushSneak",
+      "shift-s": "vim::PushSneakBackward",
+    },
   },
   {
     "context": "vim_mode == normal || EmptyPane || ProjectPanel ",
@@ -37,14 +39,14 @@
       "shift-space C": "pane::CloseInactiveItems",
       "space t": "workspace::NewCenterTerminal",
       "ctrl-j": "terminal_panel::ToggleFocus",
-      "ctrl-alt-enter": "workspace::ToggleZoom"
-    }
+      "ctrl-alt-enter": "workspace::ToggleZoom",
+    },
   },
   {
     "context": "vim_mode == normal",
     "bindings": {
-      "space r": "editor::Rename"
-    }
+      "space r": "editor::Rename",
+    },
   },
   {
     "context": "ProjectPanel && not_editing",
@@ -57,21 +59,21 @@
       "d": "project_panel::Delete",
       "y": "project_panel::Copy",
       "p": "project_panel::Paste",
-      "l": "project_panel::OpenPermanent"
-    }
+      "l": "project_panel::OpenPermanent",
+    },
   },
   {
     "bindings": {
       "tab": "menu::SelectNext",
       "shift-tab": "menu::SelectPrevious",
-      "alt-enter": "task::Spawn"
-    }
+      "alt-enter": "task::Spawn",
+    },
   },
   {
     "context": "OutlinePanel",
     "bindings": {
-      "ctrl-l": "outline_panel::ToggleFocus"
-    }
+      "ctrl-l": "outline_panel::ToggleFocus",
+    },
   },
   {
     "context": "Terminal",
@@ -80,42 +82,42 @@
       "ctrl-t": "workspace::NewTerminal",
       "ctrl-w": "pane::CloseActiveItem",
       "alt-l": "pane::ActivateNextItem",
-      "alt-h": "pane::ActivatePreviousItem"
-    }
+      "alt-h": "pane::ActivatePreviousItem",
+    },
   },
   {
     "bindings": {
-      "alt-\\": "assistant::ToggleFocus"
-    }
+      "alt-\\": "assistant::ToggleFocus",
+    },
   },
   {
     "context": "(MessageEditor && !Picker) > (Editor && use_modifier_to_send)",
     "bindings": {
-      "ctrl-alt-shift-enter": "agent::Chat"
-    }
+      "ctrl-alt-shift-enter": "agent::Chat",
+    },
   },
   {
     "context": "AcpThread > (Editor && use_modifier_to_send)",
     "bindings": {
-      "ctrl-alt-shift-enter": "agent::Chat"
-    }
+      "ctrl-alt-shift-enter": "agent::Chat",
+    },
   },
   {
     "context": "Editor",
     "bindings": {
-      "ctrl-alt-shift-enter": "agent::ToggleFocus"
-    }
+      "ctrl-alt-shift-enter": "agent::ToggleFocus",
+    },
   },
   {
     "context": "Editor",
     "bindings": {
-      "ctrl-alt-shift-enter": "agent::ToggleFocus"
-    }
+      "ctrl-alt-shift-enter": "agent::ToggleFocus",
+    },
   },
   {
     "context": "Editor",
     "bindings": {
-      "ctrl-alt-shift-|": "agent::ToggleFocus"
-    }
-  }
+      "ctrl-alt-shift-|": "agent::ToggleFocus",
+    },
+  },
 ]
