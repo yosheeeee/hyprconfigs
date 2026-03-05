@@ -1,7 +1,5 @@
-import qs
 import qs.modules.common
 import qs.modules.common.widgets
-import qs.services
 import QtQuick
 import QtQuick.Controls
 
@@ -56,6 +54,7 @@ ListView {
     Behavior on contentY {
         NumberAnimation {
             id: scrollAnim
+            alwaysRunToEnd: true
             duration: Appearance.animation.scroll.duration
             easing.type: Appearance.animation.scroll.type
             easing.bezierCurve: Appearance.animation.scroll.bezierCurve
@@ -101,7 +100,7 @@ ListView {
                 to: 1,
             }),
         ] : []
-    } 
+    }
 
     move: Transition {
         animations: root.animateMovement ? [

@@ -1,0 +1,5 @@
+2026-03-03T08:05:05.439Z | INFO | Starting MCP MySQL server from: /home/yoshee/.npm/_npx/080bc9f59514dad9/node_modules/@liangshanli/mcp-server-mysql/src/server-final.js
+2026-03-03T08:05:05.441Z | INFO | Starting MCP MySQL server with environment: | {"MYSQL_HOST":"dev.boostra.ru","MYSQL_PORT":"3306","MYSQL_USER":"boostra-dev-13-user","MYSQL_DATABASE":"boostra-dev-13","READONLY":"false","ALLOW_DDL":"false","ALLOW_DROP":"false","ALLOW_DELETE":"false","TOOL_PREFIX":"projA","PROJECT_NAME":"MyProject","MCP_LOG_DIR":"./.setting.projA","MCP_DDL_LOG_FILE":"ddl.sql"}
+2026-03-03T08:05:05.443Z | INFO | MCP MySQL server process started with PID: 89262
+2026-03-03T08:05:05.443Z | INFO | Signal handlers registered for SIGINT and SIGTERM
+2026-03-03T08:05:05.443Z | INFO | Press Ctrl+C to gracefully shutdown the server

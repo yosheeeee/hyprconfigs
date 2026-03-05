@@ -10,7 +10,7 @@ import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
 import QtQuick.Window
-import qs
+import Quickshell
 import qs.services
 import qs.modules.common
 import qs.modules.common.widgets
@@ -31,7 +31,6 @@ ApplicationWindow {
         {
             name: Translation.tr("General"),
             icon: "browse",
-            iconRotation: 180,
             component: "modules/settings/GeneralConfig.qml"
         },
         {
@@ -39,6 +38,11 @@ ApplicationWindow {
             icon: "toast",
             iconRotation: 180,
             component: "modules/settings/BarConfig.qml"
+        },
+        {
+            name: Translation.tr("Background"),
+            icon: "texture",
+            component: "modules/settings/BackgroundConfig.qml"
         },
         {
             name: Translation.tr("Interface"),
@@ -69,6 +73,7 @@ ApplicationWindow {
 
     Component.onCompleted: {
         MaterialThemeLoader.reapplyTheme()
+        Config.readWriteDelay = 0 // Settings app always only sets one var at a time so delay isn't needed
     }
 
     minimumWidth: 750
@@ -119,8 +124,11 @@ ApplicationWindow {
                 }
                 color: Appearance.colors.colOnLayer0
                 text: Translation.tr("Settings")
-                font.pixelSize: Appearance.font.pixelSize.title
-                font.family: Appearance.font.family.title
+                font {
+                    family: Appearance.font.family.title
+                    pixelSize: Appearance.font.pixelSize.title
+                    variableAxes: Appearance.font.variableAxes.title
+                }
             }
             RowLayout { // Window controls row
                 id: windowControlsRow
@@ -169,15 +177,29 @@ ApplicationWindow {
 
                     FloatingActionButton {
                         id: fab
-                        iconText: "edit"
-                        buttonText: Translation.tr("Config file")
+                        property bool justCopied: false
+                        iconText: justCopied ? "check" : "edit"
+                        buttonText: justCopied ? Translation.tr("Path copied") : Translation.tr("Config file")
                         expanded: navRail.expanded
                         downAction: () => {
                             Qt.openUrlExternally(`${Directories.config}/illogical-impulse/config.json`);
                         }
+                        altAction: () => {
+                            Quickshell.clipboardText = CF.FileUtils.trimFileProtocol(`${Directories.config}/illogical-impulse/config.json`);
+                            fab.justCopied = true;
+                            revertTextTimer.restart()
+                        }
+
+                        Timer {
+                            id: revertTextTimer
+                            interval: 1500
+                            onTriggered: {
+                                fab.justCopied = false;
+                            }
+                        }
 
                         StyledToolTip {
-                            text: Translation.tr("Open the shell config file.\nIf the button doesn't work or doesn't open in your favorite editor,\nyou can manually open ~/.config/illogical-impulse/config.json")
+                            text: Translation.tr("Open the shell config file\nAlternatively right-click to copy path")
                         }
                     }
 

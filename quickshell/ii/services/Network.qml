@@ -6,7 +6,7 @@ pragma ComponentBehavior: Bound
 import Quickshell
 import Quickshell.Io
 import QtQuick
-import "./network"
+import qs.services.network
 
 /**
  * Network service with nmcli.
@@ -16,24 +16,42 @@ Singleton {
 
     property bool wifi: true
     property bool ethernet: false
-    
+
     property bool wifiEnabled: false
     property bool wifiScanning: false
     property bool wifiConnecting: connectProc.running
     property WifiAccessPoint wifiConnectTarget
     readonly property list<WifiAccessPoint> wifiNetworks: []
     readonly property WifiAccessPoint active: wifiNetworks.find(n => n.active) ?? null
+    readonly property list<var> friendlyWifiNetworks: [...wifiNetworks].sort((a, b) => {
+        if (a.active && !b.active)
+            return -1;
+        if (!a.active && b.active)
+            return 1;
+        return b.strength - a.strength;
+    })
+    property string wifiStatus: "disconnected"
 
     property string networkName: ""
     property int networkStrength
-    property string materialSymbol: ethernet ? "lan" :
-        wifiEnabled ? (
-        Network.networkStrength > 80 ? "signal_wifi_4_bar" :
-        Network.networkStrength > 60 ? "network_wifi_3_bar" :
-        Network.networkStrength > 40 ? "network_wifi_2_bar" :
-        Network.networkStrength > 20 ? "network_wifi_1_bar" :
-        "signal_wifi_0_bar"
-    ) : "signal_wifi_off"
+    property string materialSymbol: root.ethernet
+        ? "lan"
+        : root.wifiEnabled
+            ? (
+                Network.networkStrength > 83 ? "signal_wifi_4_bar" :
+                Network.networkStrength > 67 ? "network_wifi" :
+                Network.networkStrength > 50 ? "network_wifi_3_bar" :
+                Network.networkStrength > 33 ? "network_wifi_2_bar" :
+                Network.networkStrength > 17 ? "network_wifi_1_bar" :
+                "signal_wifi_0_bar"
+            )
+            : (root.wifiStatus === "connecting")
+                ? "signal_wifi_statusbar_not_connected"
+                : (root.wifiStatus === "disconnected")
+                    ? "wifi_find"
+                    : (root.wifiStatus === "disabled")
+                        ? "signal_wifi_off"
+                        : "signal_wifi_bad"
 
     // Control
     function enableWifi(enabled = true): void {
@@ -71,9 +89,10 @@ Singleton {
         network.askingPassword = false;
         changePasswordProc.exec({
             "environment": {
-                "PASSWORD": password
+                "PASSWORD": password,
+                "SSID": network.ssid
             },
-            "command": ["bash", "-c", `nmcli connection modify ${network.ssid} wifi-sec.psk "$PASSWORD"`]
+            "command": ["bash", "-c", 'nmcli connection modify "$SSID" wifi-sec.psk "$PASSWORD"']
         })
     }
 
@@ -153,7 +172,7 @@ Singleton {
     Process {
         id: updateConnectionType
         property string buffer
-        command: ["sh", "-c", "nmcli -t -f NAME,TYPE,DEVICE c show --active"]
+        command: ["sh", "-c", "nmcli -t -f TYPE,STATE d status && nmcli -t -f CONNECTIVITY g"]
         running: true
         function startCheck() {
             buffer = "";
@@ -166,14 +185,35 @@ Singleton {
         }
         onExited: (exitCode, exitStatus) => {
             const lines = updateConnectionType.buffer.trim().split('\n');
+            const connectivity = lines.pop() // none, limited, full
             let hasEthernet = false;
             let hasWifi = false;
+            let wifiStatus = "disconnected";
             lines.forEach(line => {
-                if (line.includes("ethernet"))
+                if (line.includes("ethernet") && line.includes("connected"))
                     hasEthernet = true;
-                else if (line.includes("wireless"))
-                    hasWifi = true;
+                else if (line.includes("wifi:")) {
+                    if (line.includes("disconnected")) {
+                        wifiStatus = "disconnected"
+                    }
+                    else if (line.includes("connected")) {
+                        hasWifi = true;
+                        wifiStatus = "connected"
+
+                        if (connectivity === "limited") {
+                            hasWifi = false;
+                            wifiStatus = "limited"
+                        }
+                    }
+                    else if (line.includes("connecting")) {
+                        wifiStatus = "connecting"
+                    }
+                    else if (line.includes("unavailable")) {
+                        wifiStatus = "disabled"
+                    }
+                }
             });
+            root.wifiStatus = wifiStatus;
             root.ethernet = hasEthernet;
             root.wifi = hasWifi;
         }
@@ -193,7 +233,7 @@ Singleton {
     Process {
         id: updateNetworkStrength
         running: true
-        command: ["sh", "-c", "nmcli -f IN-USE,SIGNAL,SSID device wifi | awk '/^\*/{if (NR!=1) {print $2}}'"]
+        command: ["sh", "-c", "nmcli -f IN-USE,SIGNAL,SSID device wifi | awk '/^\\*/{if (NR!=1) {print $2}}'"]
         stdout: SplitParser {
             onRead: data => {
                 root.networkStrength = parseInt(data);
