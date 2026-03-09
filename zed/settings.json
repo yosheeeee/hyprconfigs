@@ -7,6 +7,23 @@
 // custom settings, run `zed: open default settings` from the
 // command palette
 {
+  "lsp": {
+    "vtsls": {
+      "settings": {
+        "typescript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always"
+          }
+        },
+        "javascript": {
+          "updateImportsOnFileMove": {
+            "enabled": "always"
+          }
+        }
+      },
+      "enable_lsp_tasks": true
+    }
+  },
   "cursor_shape": "bar",
   "notification_panel": {
     "button": false
